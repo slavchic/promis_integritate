@@ -1,0 +1,843 @@
+<!--#set var="title" value="Valeriu Ghileţchi" -->
+<!--#set var="personuri" value="valeriu-ghiletchi" -->
+<!--#include virtual="/_/includes/1.shtml" -->
+<!--#include virtual="/_/includes/person1.shtml" -->
+<!--#include virtual="/_/includes/js1.shtml" -->
+
+{label: "Venituri", bars: {order: 1},
+data: [
+[2009, 84119.37],
+[2010, 182119.26],
+[2011, 189953.21],
+[2012, 242168.73],
+[2013, 332980.86],
+[2014, 299237.32]
+]},
+{label: "Cladiri", bars: {order: 2},
+data: [
+[2008, 1871155],
+[2009, 1871155],
+[2010, 1871155],
+[2011, 1871155],
+[2012, 2880505.64],
+[2013, 2880505.64],
+[2014, 2880505.64]
+]},
+{label: "Terenuri", bars: {order: 3},
+data: [
+[2014, 0]
+]},
+{label: "Bunuri mobile", bars: {order: 4},
+data: [
+[2008, 95000],
+[2009, 95000],
+[2010, 95000],
+[2011, 95000],
+[2012, 5000],
+[2013, 5000],
+[2013, 5000]
+]},
+{label: "Active financiare", bars: {order: 5},
+data: [
+[2012, 74934.93],
+[2013, 92092.47],
+[2014, 127992.75]
+]},
+{label: "Datorii", bars: {order: 6},
+data: [
+[2011, 100000],
+[2012, 288000]
+]}
+];
+
+<!--#include virtual="/_/includes/js2.shtml" -->
+
+
+<div class="declarations_list">
+
+<div class="declaration" id="d2014">
+
+<div class="top">
+<div class="year"><h2>2014</h2>&nbsp;<a href="/pdf/ghiletchi-valeriu-2014-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+299,237.32</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t17" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t19" --></span></span>
+</td>
+<td class="value">
+<span class="pos">156.7<b></b></span>
+<span class="pos">17.6<b></b></span>
+<span class="pos">75.7<b></b></span>
+</td>
+<td class="value">
+<span class="pos">49.3<b></b></span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+</td></tr>
+<tr class="result"><td colspan="3">299,237.32 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2005</span><i>½</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2003</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t24" --> / 2012</span><i>≈¼</i></span>
+</td>
+<td class="quantity">
+<span>169.3</span>
+<span>180.7</span>
+<span>183.5</span>
+</td>
+<td class="value">
+<span>1,796.3<b class="warning grey"><i>1</i></b></span>
+<span>973.0<b></b></span>
+<span>3,616.5<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">2,880,505.64 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-livestyle_map"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="quantity">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Nissan Terrano (2001) / 2012</span></span>
+</td>
+<td class="value">
+<span>5.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">5,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t51" --></span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t53" --></span><i>x2</i></span>
+</td>
+<td class="value">
+<span>4.4&nbsp;$<b></b></span>
+<span>59.9<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">127,992.75 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t63" --> / 2012</span></span>
+</td>
+<td class="value">
+<span>288.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">288,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<ol>
+<li>În tabel este indicată valoarea integrală a casei de locuit (2005) şi spaţiului comercial. Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
+</ol>
+</div>
+
+</div>
+
+<!--#include virtual="interese.shtml" -->
+
+<!--2013-->
+
+<div class="declaration" id="d2013">
+
+<div class="top">
+<div class="year"><h2>2013</h2>&nbsp;<a href="/pdf/ghiletchi-valeriu-2013-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+332,980.86</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t17" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t19" --></span></span>
+</td>
+<td class="value">
+<span class="pos">195.7<b></b></span>
+<span class="pos">74.5<b></b></span>
+<span class="pos">9.3<b></b></span>
+</td>
+<td class="value">
+<span class="pos">53.5<b></b></span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+</td></tr>
+<tr class="result"><td colspan="3">332,980.86 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2005</span><i>½</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2003</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t24" --> / 2012</span><i>≈¼</i></span>
+</td>
+<td class="quantity">
+<span>169.3</span>
+<span>180.7</span>
+<span>183.5</span>
+</td>
+<td class="value">
+<span>1,796.3<b></b></span>
+<span>973.0<b></b></span>
+<span>3,616.5<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">2,880,505.64 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-livestyle_map"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="quantity">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Nissan Terrano (2001) / 2012</span></span>
+</td>
+<td class="value">
+<span>5.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">5,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t51" --></span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t53" --></span><i>x2</i></span>
+</td>
+<td class="value">
+<span>4.7&nbsp;$<b></b></span>
+<span>30.5<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">92,092.47 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t63" --> / 2012</span></span>
+</td>
+<td class="value">
+<span>288.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">288,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+</div>
+
+<!--2012-->
+
+<div class="declaration" id="d2012">
+
+<div class="top">
+<div class="year"><h2>2012</h2>&nbsp;<a href="/pdf/ghiletchi-valeriu-2012-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned"><b class="warning"></b> +530,168.73</span><span class="spent">-1,014,350.64</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t17" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t19" --></span></span>
+</td>
+<td class="value">
+<span class="pos">153.8<b></b></span>
+<span class="pos">19.4<b></b></span>
+<span class="pos">11.3<b></b></span>
+</td>
+<td class="value">
+<span class="pos">57.7<b></b></span>
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+</td></tr>
+<tr class="result"><td colspan="3">242,168.73 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2005</span><i>½</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2003</span></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t24" --> / 2012</span><i>≈¼</i></span>
+</td>
+<td class="quantity">
+<span>169.3</span>
+<span>180.7</span>
+<span class="pos">183.5</span>
+</td>
+<td class="value">
+<span>1,796.3<b></b></span>
+<span>973.0<b></b></span>
+<span class="neg">3,616.5<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">2,880,505.64 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-livestyle_map"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="quantity">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span>Nissan Terrano (2001) / 2012</span></span>
+</td>
+<td class="value">
+<span class="neg">5.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">5,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t51" --></span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t53" --></span><i>x2</i></span>
+</td>
+<td class="value">
+<span>4.7&nbsp;$<b></b></span>
+<span>18.1<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">74,934.93 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t63" --> / 2012</span></span>
+<span class="neg"><b></b><span><s><!--#echo encoding="none" var="t63" --> / 2011</s></span></span>
+</td>
+<td class="value">
+<span class="pos">288.0<b></b></span>
+<span class="neg">100.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">288,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+</div>
+
+<!--2011-->
+
+<div class="declaration" id="d2011">
+
+<div class="top">
+<div class="year"><h2>2011</h2>&nbsp;<a href="/pdf/ghiletchi-valeriu-2011-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+289,953.21</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t4" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t17" --></span></span>
+</td>
+<td class="value">
+<span class="pos">181.1<b></b></span>
+<span class="pos">8.8<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">189,953.21 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2005</span><i>½</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2003</span></span>
+</td>
+<td class="quantity">
+<span>169.3</span>
+<span>180.7</span>
+</td>
+<td class="value">
+<span>1,796.3<b class="warning grey"><i>1</i></b></span>
+<span>973.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">1,871,155.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-livestyle_map"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="quantity">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Audi A6 (1996) / 2004</span></span>
+<span><b></b><span>Nissan Micra (1995) / ?</span></span>
+</td>
+<td class="value">
+<span>≈50.0<b class="warning"><i>2</i></b></span>
+<span>≈45.0<b class="warning"><i>3</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">95,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t63" --> / 2011</span></span>
+</td>
+<td class="value">
+<span class="pos">100.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">100,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments">
+<ol>
+<li>Suprafaţa şi valoarea casei de locuit (2005) este indicată în baza declaraţiilor făcute începînd cu anul <a class="local" href="#d2012">2012</a>. În 2011, titularul a declarat suprafaţa de 56.65&nbsp;m2.
+<li>În declaraţiile din următorii ani automobilul Audi A6 <b>nu este menţionat</b>, iar informaţii ca venituri din vînzarea acestuia lipsesc. În tabel este indicată valoarea de piaţă a automobilului.
+<li>În declaraţiile din următorii ani automobilul Nissan Micra <b>nu este menţionat</b>, iar informaţii ca venituri din vînzarea acestuia lipsesc. În tabel este indicată valoarea de piaţă a automobilului.
+</ol>
+</div>
+
+</div>
+
+<!--2010-->
+
+<div class="declaration" id="d2010">
+
+<div class="top">
+<div class="year"><h2>2010</h2>&nbsp;<a href="/pdf/ghiletchi-valeriu-2010-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+182,119.26</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t4" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+</td>
+<td class="value">
+<span class="pos">182.1<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">182,119.26 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2005</span><i>½</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2003</span></span>
+</td>
+<td class="quantity">
+<span>169.3</span>
+<span>180.7</span>
+</td>
+<td class="value">
+<span>1,796.3<b class="warning grey"><i>1</i></b></span>
+<span>973.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">1,871,155.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-livestyle_map"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="quantity">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Audi A6 (1996) / 2004</span></span>
+<span><b></b><span>Nissan Micra (1995) / ?</span></span>
+</td>
+<td class="value">
+<span>≈50.0<b class="warning grey"><i>2</i></b></span>
+<span>≈45.0<b class="warning grey"><i>3</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">95,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<ol>
+<li>Suprafaţa şi valoarea casei de locuit (2005) este indicată în baza declaraţiilor făcute începînd cu anul <a class="local" href="#d2012">2012</a>. În 2010, titularul a declarat suprafaţa de 56.65&nbsp;m2.
+<li>În tabel este indicată valoarea de piaţă a automobilului Audi A6.
+<li>În tabel este indicată valoarea de piaţă a automobilului Nissan Micra.
+</ol>
+</div>
+
+</div>
+
+<!--2009-->
+
+<div class="declaration" id="d2009">
+
+<div class="top">
+<div class="year"><h2>2009</h2>&nbsp;<a href="/pdf/ghiletchi-valeriu-2009-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+84,119.37</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t4" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+</td>
+<td class="value">
+<span class="pos">84.1<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">84,119.37 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2005</span><i>½</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2003</span></span>
+</td>
+<td class="quantity">
+<span>169.3</span>
+<span>180.7</span>
+</td>
+<td class="value">
+<span>1,796.3<b></b></span>
+<span>973.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">1,871,155.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-livestyle_map"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2005</span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2003</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.02</span>
+<span>0.05</span>
+</td>
+<td class="value">
+<span>—<b class="warning"><i>1</i></b></span>
+<span>—<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Audi A6 (1996) / 2004</span></span>
+<span><b></b><span>Nissan Micra (1995) / ?</span></span>
+</td>
+<td class="value">
+<span>≈50.0<b class="warning grey"><i>2</i></b></span>
+<span>≈45.0<b class="warning grey"><i>3</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">95,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments">
+<ol>
+<li>Valoarea terenurilor intravilane probabil este inclusă în valoarea caselor de locuit. În declaraţiile din următorii ani terenurile <b>nu sunt menţionate</b>.
+<li>În tabel este indicată valoarea de piaţă a automobilului Audi A6.
+<li>În tabel este indicată valoarea de piaţă a automobilului Nissan Micra.
+</ol>
+</div>
+
+</div>
+
+<!--2008-->
+
+<div class="declaration">
+
+<div class="top">
+<div class="year"><h2>2008</h2></div>
+<div class="result" style="color:#b74343"><!--#echo encoding="none" var="lastyear1" --><!--#echo var="lastyear" --><!--#echo encoding="none" var="lastyear2" --></div>
+</div>
+
+<div class="cont">
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t22" --> / 2005</span><i>½</i></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t22" --> / 2003</span></span>
+</td>
+<td class="quantity">
+<span class="pos">169.3</span>
+<span class="pos">180.7</span>
+</td>
+<td class="value">
+<span class="neg">1,796.3<b class="warning grey"><i>1</i></b></span>
+<span class="neg">973.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">1,871,155.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-livestyle_map"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t33" --> / 2005</span><i>x1</i></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t33" --> / 2003</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span class="pos">0.02</span>
+<span class="pos">0.05</span>
+</td>
+<td class="value">
+<span class="neg">—<b class="warning grey"><i>2</i></b></span>
+<span class="neg">—<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span>Audi A6 (1996) / 2004</span></span>
+<span class="pos"><b></b><span>Nissan Micra (1995) / ?</span></span>
+</td>
+<td class="value">
+<span class="neg">≈50.0<b class="warning grey"><i>3</i></b></span>
+<span class="neg">≈45.0<b class="warning grey"><i>4</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">95,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<ol>
+<li>În tabel este indicată valoarea integrală a casei de locuit (2005). Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
+<li>Valoarea terenurilor intravilane probabil este inclusă în valoarea caselor de locuit. În declaraţiile după 2009 terenurile <b>nu sunt menţionate</b>.
+<li>În declaraţiile după 2011 automobilul Audi A6 <b>nu este menţionat</b>, iar informaţii ca venituri din vînzarea acestuia lipsesc. În tabel este indicată valoarea de piaţă a automobilului.
+<li>În declaraţiile după 2011 automobilul Nissan Micra <b>nu este menţionat</b>, iar informaţii ca venituri din vînzarea acestuia lipsesc. În tabel este indicată valoarea de piaţă a automobilului.
+</ol>
+</div>
+
+</div>
+
+</div>
+</article>
+
+<!--#include virtual="/_/includes/2.shtml" -->

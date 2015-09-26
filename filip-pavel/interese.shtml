@@ -1,0 +1,54 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/filip-pavel-interese-2014-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Legislativ</td>
+<td>Parlamentul Republicii Moldova</td>
+<td>Deputat</td>
+<td class="acenter">9,855.00 MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Executiv</td>
+<td>Ministerul Tehnologiei Informaţiei şi Comunicaţiilor</td>
+<td>Ministru</td>
+<td class="acenter">147,749.35&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Politic</td>
+<td>Partidul Democrat din Moldova</td>
+<td>Vicepreşedinte</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Bucuria S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">-</td>
+<td class="acenter">724 acţiuni</td>
+</tr>
+<tr>
+<td>Producere</td>
+<td>Aluprofmet S.R.L.</td>
+<td>Co-fondator (soţia)</td>
+<td class="acenter">9,900.00&nbsp;MDL</td>
+<td class="acenter">33%</td>
+</tr>
+<tr>
+<td><s>Public</s></td>
+<td><s>Asociaţia Procesatorilor de Tutun “AP-Tutun”</s></td>
+<td><s>Conducător</s></td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

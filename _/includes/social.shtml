@@ -1,0 +1,20 @@
+<!--#if expr="$SERVER_NAME != /integritate/" -->
+<div class="social">
+<!--#if expr="$root" -->
+<span class='st_facebook'></span>
+<span class='st_twitter'></span>
+<span class='st_googleplus'></span>
+<span class='st_vkontakte'></span>
+<!--#elif expr="$ddd" -->
+<span class='st_facebook_large' displayText='Facebook'></span>
+<span class='st_twitter_large' displayText='Tweet'></span>
+<span class='st_googleplus_large' displayText='Google +'></span>
+<span class='st_vkontakte_large' displayText='Vkontakte'></span>
+<!--#else -->
+<span class='st_facebook_large'></span>
+<span class='st_twitter_large'></span>
+<span class='st_googleplus_large'></span>
+<span class='st_vkontakte_large'></span>
+<!--#endif -->
+</div>
+<!--#endif -->

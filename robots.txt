@@ -1,0 +1,4 @@
+# robots.txt for http://avere.promis.md/
+
+User-agent: *
+Disallow: /pdf/

@@ -1,0 +1,342 @@
+<!--#set var="title" value="Elena Hrenova" -->
+<!--#set var="personuri" value="elena-hrenova" -->
+<!--#include virtual="/_/includes/1.shtml" -->
+<!--#include virtual="/_/includes/person1.shtml" -->
+<!--#include virtual="/_/includes/js1.shtml" -->
+
+{label: "Venituri", bars: {order: 1},
+data: [
+[2013, 0],
+[2014, 17000]
+]},
+{label: "Cladiri", bars: {order: 2},
+data: [
+[2012, 445000],
+[2013, 445000],
+[2014, 445000]
+]},
+{label: "Terenuri", bars: {order: 3},
+data: [
+[2012, 0],
+[2013, 0],
+[2014, 0]
+]},
+{label: "Bunuri mobile", bars: {order: 4},
+data: [
+[2012, 0],
+[2013, 0],
+[2014, 0]
+]},
+{label: "Active financiare", bars: {order: 5},
+data: [
+[2013, 0]
+]},
+{label: "Datorii", bars: {order: 6},
+data: [
+[2013, 0]
+]}
+];
+
+<!--#include virtual="/_/includes/js2.shtml" -->
+
+
+<div class="declarations_list">
+
+<div class="declaration" id="d2014">
+
+<div class="comments">
+<ol>
+Elena Hrenova a prezentat informaţii eronate privind suprafaţa şi anul dobîndirii imobilelor deţinute şi nu a declarat valoarea acestora.<br><br>
+</ol>
+</div>
+
+<div class="top">
+<div class="year"><h2>2014</h2>&nbsp;<a href="/pdf/hrenova-elena-2014-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+17,000.00</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t19" --></span></span>
+</td>
+<td class="value">
+<span class="pos">17.0<b></b></span>
+</td>
+<td class="value">
+<span>&nbsp;</span>
+</td></tr>
+<tr class="result"><td colspan="3">17,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 2002</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1999</span></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t26" --> / 2014</span></span>
+</td>
+<td class="quantity">
+<span>43.0</span>
+<span>46.0</span>
+<span>17.0</span>
+</td>
+<td class="value">
+<span>≈215.0<b class="warning"><i>1</i></b></span>
+<span>≈230.0<b class="warning"><i>2</i></b></span>
+<span>?<b class="warning grey"><i>3</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">445,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-livestyle_map"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="quantity">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments">
+<ol>
+<li>În declaraţie nu este indicată valoarea apartamentelor. În tabel este arătată valoarea aproximativă (5,000 lei pentru un m2) în baza declaraţiilor făcute de alţi demnitari la apartamente de acelaşi tip.
+<li>În declaraţie sunt prezentate informaţii diferite privind suprafaţa apartamentului decît cele raportate în 2013. În tabel este indicată suprafaţa imobilului în baza <a class="local" href="#d2013">Declaraţiei 2013</a>. În 2014, titulara a declarat suprafaţa de 24&nbsp;m2 (vezi <a href="/pdf/hrenova-elena-2014-parlament.pdf" class="icon-data_doc_pdf">Declaraţia 2014</a>) şi 32&nbsp;m2 (vezi <a href="/pdf/hrenova-elena-2012-2013-cec.pdf" class="icon-data_doc_pdf">declaraţia depusă la CEC</a> pentru alegerile din 2014).
+<li>Informaţia despre categoria imobilului procurat nu este vizibilă.
+</ol>
+</div>
+
+</div>
+
+<!--#include virtual="interese.shtml" -->
+
+<!--2013-->
+
+<div class="declaration" id="d2013">
+
+<div class="top">
+<div class="year"><h2>2013</h2>&nbsp;<a href="/pdf/hrenova-elena-2013-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+0.00</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+</td>
+<td class="value">
+<span class="pos">?<b class="warning"><i>1</i></b></span>
+</td>
+<td class="value">
+<span>&nbsp;</span>
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 2002</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1999</span></span>
+</td>
+<td class="quantity">
+<span>43.0</span>
+<span>46.0</span>
+</td>
+<td class="value">
+<span>≈215.0<b class="warning"><i>2</i></b></span>
+<span>≈230.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">445,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-livestyle_map"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="quantity">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments">
+<ol>
+<li>Titulara nu a declarat vreun venit pentru anul 2013, deşi a activat în calitate de consilier municipal în Consiliul Municipal Chişinău.
+<li>În declaraţie nu este indicată valoarea apartamentelor. În tabel este arătată valoarea aproximativă (5,000 lei pentru un m2) în baza declaraţiilor făcute de alţi demnitari la apartamente de acelaşi tip.
+</ol>
+</div>
+
+</div>
+
+<!--2012-->
+
+<div class="declaration">
+
+<div class="top">
+<div class="year"><h2>2012</h2></div>
+<div class="result" style="color:#b74343"><!--#echo encoding="none" var="lastyear1" --><!--#echo var="lastyear" --><!--#echo encoding="none" var="lastyear2" --></div>
+</div>
+
+<div class="cont">
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t21" --> / 2002</span></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t21" --> / 1999</span></span>
+</td>
+<td class="quantity">
+<span class="pos">43.0</span>
+<span class="pos">46.0</span>
+</td>
+<td class="value">
+<span class="neg">≈215.0<b class="warning"><i>1</i></b></span>
+<span class="neg">≈230.0<b class="warning"><i>2</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">445,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-livestyle_map"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="quantity">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments">
+<ol>
+<li>În declaraţii nu este indicată valoarea apartamentelor. În tabel este arătată valoarea aproximativă (5,000 lei pentru un m2) în baza declaraţiilor făcute de alţi demnitari la apartamente de acelaşi tip.
+<li>În declaraţii sunt prezentate informaţii diferite privind suprafaţa apartamentului. În tabel este indicată suprafaţa imobilului în baza <a class="local" href="#d2013">Declaraţiei 2013</a>. În 2014, titulara a declarat suprafaţa de 24&nbsp;m2 (vezi <a href="/pdf/hrenova-elena-2014-parlament.pdf" class="icon-data_doc_pdf">Declaraţia 2014</a>) şi 32&nbsp;m2 (vezi <a href="/pdf/hrenova-elena-2012-2013-cec.pdf" class="icon-data_doc_pdf">declaraţia depusă la CEC</a> pentru alegerile din 2014).
+</ol>
+</div>
+
+</div>
+
+</div>
+</article>
+
+<!--#include virtual="/_/includes/2.shtml" -->

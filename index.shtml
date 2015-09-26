@@ -1,0 +1,1959 @@
+<!--#set var="title" value="Venituri, proprietăţi şi interese declarate de persoane publice" -->
+<!--#set var="root" value="1" -->
+<!--#include virtual="/_/includes/1.shtml" -->
+
+<div class="filters" id="person_list_filters">
+<div><b>Instituţii:</b><a href="#?" data-filter-institute="parlament">Parlament</a><a href="#?" data-filter-institute="guvern">Guvern</a><a href="#?" data-filter-institute="presedintie">Preşedinţie</a><a href="#?" data-filter-institute="apl">APL</a><a href="#?" data-filter-institute="drept">Organe de drept</a><a href="#?" data-filter-institute="alte">Alte autorităţi</a><a href="#?" data-filter-institute="diverse">Diverse</a></div>
+<div><b>Partide politice:</b><a href="#?" data-filter-party="psrm" title="Partidul Socialiştilor din Republica Moldova">PSRM</a><a href="#?" data-filter-party="pcrm" title="Partidul Comuniştilor din Republica Moldova">PCRM</a><a href="#?" data-filter-party="pldm" title="Partidul Liberal Democrat din Moldova">PLDM</a><a href="#?" data-filter-party="pdm" title="Partidul Democrat din Moldova">PDM</a><a href="#?" data-filter-party="pl" title="Partidul Liberal">PL</a><a href="#?" data-filter-party="ap">Alte partide</a><a href="#?" data-filter-party="fp">Fără de partid</a></div>
+</div>
+
+<div class="persons_list">
+<table class="table tablesorter">
+<col class="name"><col><col><col><col><col><col>
+<thead><tr>
+<th class="name" style="width:280px"><div id="name_search_cont"><input type="text" id="search_inp" placeholder="Căutare"/><i class="icon icon-search" title="Căutare (Ctrl+Enter)"></i></div>Numele, Prenumele <span class="icon-angle-down"></span><span class="icon-angle-up"></span></th>
+<th class="income"><span class="icon-business_money"></span>Venituri <span class="icon-angle-down"></span><span class="icon-angle-up"></span></th>
+<th class="buildings"><span class="icon-business_office"></span>Clădiri <span class="icon-angle-down"></span><span class="icon-angle-up"></span></th>
+<th class="lands"><span class="icon-livestyle_map"></span>Terenuri <span class="icon-angle-down"></span><span class="icon-angle-up"></span></th>
+<th class="goods"><span class="icon-livestyle_car"></span>Mobile <span class="icon-angle-down"></span><span class="icon-angle-up"></span></th>
+<th class="finance"><span class="icon-business_piggy"></span>Active <span class="icon-angle-down"></span><span class="icon-angle-up"></span></th>
+<th class="debts"><span class="icon-business_vallet"></span>Datorii <span class="icon-angle-down"></span><span class="icon-angle-up"></span></th>
+</tr></thead>
+
+<tbody>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="agache-angel/"><b class="pldm angel-agache"></b></a><div><a href="agache-angel/">Agache Angel</a><span>Parlamentul RM</span></div></td>
+<td class="income">905,591.09</td>
+<td class="buildings">730,757.67</td>
+<td class="lands">151,010.67</td>
+<td class="goods">1,245,565.00</td>
+<td class="finance">92,141.16</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person" href="alergus-constantin/"><b class="fp constantin-alergus"></b></a><div><a href="alergus-constantin/">Alerguş Constantin</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">732,861.64</td>
+<td class="buildings">1,466,117.00</td>
+<td class="lands">95,452.00</td>
+<td class="goods">474,255.50</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="andronachi-vladimir/"><b class="pdm vladimir-andronachi"></b></a><div><a href="andronachi-vladimir/">Andronachi Vladimir</a><span>Parlamentul RM</span></div></td>
+<td class="income">2,017,160.43</td>
+<td class="buildings">6,917,478.00</td>
+<td class="lands">0.00</td>
+<td class="goods">2,097,710.90</td>
+<td class="finance">0.00</td>
+<td class="debts">6,738,637.50</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="apolschii-raisa/"><b class="pdm raisa-apolschii"></b></a><div><a href="apolschii-raisa/">Apolschii Raisa</a><span>Parlamentul RM</span></div></td>
+<td class="income">183,383.55</td>
+<td class="buildings">152,402.00</td>
+<td class="lands">0.00</td>
+<td class="goods">256,454.10</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="apostol-ion/"><b class="pl ion-apostol"></b></a><div><a href="apostol-ion/">Apostol Ion</a><span>Parlamentul RM</span></div></td>
+<td class="income">0.00</td>
+<td class="buildings">13,384.50</td>
+<td class="lands">608.00</td>
+<td class="goods">51,000.00</td>
+<td class="finance">592.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pldm iurie-apostolachi"></b></a><div><a style="color:#ccc; text-decoration:none">Apostolachi Iurie</a><span>Ex-director al Agenţiei Moldsilva</span></div></td>
+<td class="income">249,395.30</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pldm anatol-arapu"></b></a><div><a style="color:#ccc; text-decoration:none">Arapu Anatol</a><span>Ministerul Finanţelor</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pdm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pdm oleg-babenco"></b></a><div><a style="color:#ccc; text-decoration:none">Babenco Oleg</a><span>Ex-deputat</span></div></td>
+<td class="income">1,355,619.30</td>
+<td class="buildings">397,312.00</td>
+<td class="lands">0.00</td>
+<td class="goods">400,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="guvern">
+<td class="name"><a class="icon_32_person" href="babuc-monica/"><b class="pdm monica-babuc"></b></a><div><a href="babuc-monica/">Babuc Monica</a><span>Ministerul Culturii</span></div></td>
+<td class="income">347,750.29</td>
+<td class="buildings">234,292.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">2,000.00</td>
+<td class="debts">50,000.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm woman"></b></a><div><a style="color:#ccc; text-decoration:none">Bacalu Elena</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pldm ion-balan"></b></a><div><a style="color:#ccc; text-decoration:none">Balan Ion</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person"><b class="fp mihai-balan"></b></a><div><a style="color:#ccc; text-decoration:none">Balan Mihai</a><span>SIS</span></div></td>
+<td class="income">203,448.73</td>
+<td class="buildings">2,581,129.00</td>
+<td class="lands">0.00</td>
+<td class="goods">931,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pldm oleg-balan"></b></a><div><a style="color:#ccc; text-decoration:none">Balan Oleg</a><span>Ministerul Afacerilor Interne</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="balmos-galina/"><b class="pcrm galina-balmos"></b></a><div><a href="balmos-galina/">Balmoş Galina</a><span>Parlamentul RM</span></div></td>
+<td class="income">289,727.38</td>
+<td class="buildings">20,666.67</td>
+<td class="lands">0.00</td>
+<td class="goods">103,978.55</td>
+<td class="finance">3,000.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="bannicov-alexandr/"><b class="pcrm alexandr-bannicov"></b></a><div><a href="bannicov-alexandr/">Bannicov Alexandr</a><span>Parlamentul RM</span></div></td>
+<td class="income">1,587,647.74</td>
+<td class="buildings">2,130,952.00</td>
+<td class="lands">466,379.00</td>
+<td class="goods">321,622.00</td>
+<td class="finance">31,417.80</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pcrm mihail-barbulat"></b></a><div><a style="color:#ccc; text-decoration:none">Barbulat Mihail</a><span>Ex-deputat</span>
+</div></td>
+<td class="income">226,865.81</td>
+<td class="buildings">158,898.00</td>
+<td class="lands">0.00</td>
+<td class="goods">45,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="batrincea-vlad/"><b class="psrm vlad-batrincea"></b></a><div><a href="batrincea-vlad/">Batrîncea Vlad</a><span>Parlamentul RM</span></div></td>
+<td class="income">40,000.00</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person" href="bejenaru-iurie/"><b class="fp iurie-bejenaru"></b></a><div><a href="bejenaru-iurie/">Bejenaru Iurie</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">709,534.72</td>
+<td class="buildings">400,923.00</td>
+<td class="lands">164,129.56</td>
+<td class="goods">372,000.00</td>
+<td class="finance">130,409.64</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="guvern">
+<td class="name"><a class="icon_32_person" href="beleacova-elena/"><b class="pdm elena-beleacova"></b></a><div><a href="beleacova-elena/">Beleacova Elena</a><span>Biroul Relaţii Interetnice</span></div></td>
+<td class="income">132,024.14</td>
+<td class="buildings">100,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pdm vasile-bitca"></b></a><div><a style="color:#ccc; text-decoration:none">Bîtca Vasile</a><span>MDRC</span></div></td>
+<td class="income">166,607.80</td>
+<td class="buildings">616,540.00</td>
+<td class="lands">94,681.89</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">720,000.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="bodnarenco-elena/"><b class="pcrm elena-bodnarenco"></b></a><div><a href="bodnarenco-elena/">Bodnarenco Elena</a><span>Parlamentul RM</span></div></td>
+<td class="income">117,538.24</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pdm iurie-bolboceanu"></b></a><div><a style="color:#ccc; text-decoration:none">Bolboceanu Iurie</a><span>Ex-deputat</span>
+</div></td>
+<td class="income">357,395.67</td>
+<td class="buildings">971,272.00</td>
+<td class="lands">0.00</td>
+<td class="goods">230,000.00</td>
+<td class="finance">64,455.00</td>
+<td class="debts">100,000.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm vasile-bolea"></b></a><div><a style="color:#ccc; text-decoration:none">Bolea Vasile</a><span>Parlamentul RM</span></div></td>
+<td class="income">150,222.77</td>
+<td class="buildings">498,128.00</td>
+<td class="lands">81,704.50</td>
+<td class="goods">100,000.00</td>
+<td class="finance">15,005.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm constantin-botnari"></b></a><div><a style="color:#ccc; text-decoration:none">Botnari Constantin</a><span>Parlamentul RM</span></div></td>
+<td class="income">101,330.81</td>
+<td class="buildings">855,583.00</td>
+<td class="lands">238,539.00</td>
+<td class="goods">1,437,441.00</td>
+<td class="finance">438,762.23</td>
+<td class="debts">2,803,273.20</td>
+</tr>
+
+<tr data-party="pdm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pdm vasile-botnari"></b></a><div><a style="color:#ccc; text-decoration:none">Botnari Vasile</a><span>Ex-ministrul Transporturilor</span></div></td>
+<td class="income">176,303.69</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">347,530.00</td>
+<td class="finance">380,274.06</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="ap" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="ap tatiana-botnariuc"></b></a><div><a style="color:#ccc; text-decoration:none">Botnariuc Tatiana</a><span>Ex-deputat</span>
+</div></td>
+<td class="income">328,784.56</td>
+<td class="buildings">14,816.00</td>
+<td class="lands">0.00</td>
+<td class="goods">189,125.00</td>
+<td class="finance">135,482.70</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pl man"></b></a><div><a style="color:#ccc; text-decoration:none">Boţan Roman</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pl" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pl gheorghe-brega"></b></a><div><a style="color:#ccc; text-decoration:none">Brega Gheorghe</a><span>Guvernul RM</span></div></td>
+<td class="income">277,408.93</td>
+<td class="buildings">707,000.00</td>
+<td class="lands">75,000.00</td>
+<td class="goods">40,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pdm stephane-bride"></b></a><div><a style="color:#ccc; text-decoration:none">Bride Stephane</a><span>Ministerul Economiei</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pldm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pldm mircea-buga"></b></a><div><a style="color:#ccc; text-decoration:none">Buga Mircea</a><span>Ministerul Muncii</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="buliga-valentina/"><b class="pdm valentina-buliga"></b></a><div><a href="buliga-valentina/">Buliga Valentina</a><span>Parlamentul RM</span></div></td>
+<td class="income">474,122.42</td>
+<td class="buildings">1,118,658.00</td>
+<td class="lands">0.00</td>
+<td class="goods">783,686.10</td>
+<td class="finance">11,203.93</td>
+<td class="debts">1,104,781.00</td>
+</tr>
+<!--
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person"><b class="fp ecaterina-burlacu"></b></a><div><a style="color:#ccc; text-decoration:none">Burlacu Ecaterina</a><span>Avocatul copilului, CpDOM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+-->
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm andrian-candu"></b></a><div><a style="color:#ccc; text-decoration:none">Candu Andrian</a><span>Parlamentul RM</span></div></td>
+<td class="income">1,009,757.14</td>
+<td class="buildings">561,018.00</td>
+<td class="lands">0.00</td>
+<td class="goods">347,600.00</td>
+<td class="finance">563,354.89</td>
+<td class="debts">500,000.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person"><b class="fp viorica-carare"></b></a><div><a style="color:#ccc; text-decoration:none">Cărare Viorica</a><span>Consiliul Concurenţei</span></div></td>
+<td class="income">128,924.35</td>
+<td class="buildings">771,856.00</td>
+<td class="lands">111,704.00</td>
+<td class="goods">422,000.00</td>
+<td class="finance">70,000.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm demian-caraseni"></b></a><div><a style="color:#ccc; text-decoration:none">Caraseni Demian</a><span>Parlamentul RM</span></div></td>
+<td class="income">205,825.25</td>
+<td class="buildings">51,736.00</td>
+<td class="lands">310,296.00</td>
+<td class="goods">10,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">359,394.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pl lilian-carp"></b></a><div><a style="color:#ccc; text-decoration:none">Carp Lilian</a><span>Parlamentul RM</span></div></td>
+<td class="income">283,083.25</td>
+<td class="buildings">360,544.06</td>
+<td class="lands">0.00</td>
+<td class="goods">11,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">251,575.80</td>
+</tr>
+
+<tr data-party="fp" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="fp eugen-carpov"></b></a><div><a style="color:#ccc; text-decoration:none">Carpov Eugen</a><span>Parlamentul RM</span></div></td>
+<td class="income">416,520.26</td>
+<td class="buildings">1,260,297.50</td>
+<td class="lands">114,523.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="casian-ion/"><b class="pl ion-casian"></b></a><div><a href="casian-ion/">Casian Ion</a><span>Parlamentul RM</span></div></td>
+<td class="income">272,252.00</td>
+<td class="buildings">515,803.00</td>
+<td class="lands">12,200.00</td>
+<td class="goods">332,533.40</td>
+<td class="finance">0.00</td>
+<td class="debts">46,835.29</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp liliana-catan"></b></a><div><a style="color:#ccc; text-decoration:none">Catan Liliana</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">394,599.88</td>
+<td class="buildings">576,200.00</td>
+<td class="lands">49,106.00</td>
+<td class="goods">310,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="ceban-ion/"><b class="psrm ion-ceban"></b></a><div><a href="ceban-ion/">Ceban Ion</a><span>Parlamentul RM</span></div></td>
+<td class="income">292,509.84</td>
+<td class="buildings">0.00</td>
+<td class="lands">160,470.00</td>
+<td class="goods">68,000.00</td>
+<td class="finance">187,500.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pdm vladimir-cebotari"></b></a><div><a style="color:#ccc; text-decoration:none">Cebotari Vladimir</a><span>Ministerul Justiţiei</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pl vladimir-cernat"></b></a><div><a style="color:#ccc; text-decoration:none">Cernat Vladimir</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="fp" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="fp viorel-chetraru"></b></a><div><a style="color:#ccc; text-decoration:none">Chetraru Viorel</a><span>Centrul Naţional Anticorupţie</span></div></td>
+<td class="income">354,147.96</td>
+<td class="buildings">613,430.00</td>
+<td class="lands">253,329.00</td>
+<td class="goods">111,855.80</td>
+<td class="finance">37,977.92</td>
+<td class="debts">250,000.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pldm iurie-chiorescu"></b></a><div><a style="color:#ccc; text-decoration:none">Chiorescu Iurie</a><span>Ex-deputat</span>
+</div></td>
+<td class="income">258,029.66</td>
+<td class="buildings">544,799.00</td>
+<td class="lands">0.00</td>
+<td class="goods">102,000.00</td>
+<td class="finance">45.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pl iurie-chirinciuc"></b></a><div><a style="color:#ccc; text-decoration:none">Chirinciuc Iurie</a><span>Ministerul Transporturilor</span></div></td>
+<td class="income">258,939.04</td>
+<td class="buildings">3,559,423.04</td>
+<td class="lands">2,069,303.04</td>
+<td class="goods">831,600.00</td>
+<td class="finance">3,810.97</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="apl">
+<td class="name"><a class="icon_32_person"><b class="pl dorin-chirtoaca"></b></a><div><a style="color:#ccc; text-decoration:none">Chirtoacă Dorin</a><span>Primarul mun. Chişinău</span></div></td>
+<td class="income">139,172.70</td>
+<td class="buildings">1,160,000.00</td>
+<td class="lands">300,000.00</td>
+<td class="goods">124,400.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp tamara-chisca-doneva"></b></a><div><a style="color:#ccc; text-decoration:none">Chişca-Doneva Tamara</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">315,537.62</td>
+<td class="buildings">1,169,326.00</td>
+<td class="lands">452,201.00</td>
+<td class="goods">600,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pldm alexandru-cimbriciuc"></b></a><div><a style="color:#ccc; text-decoration:none">Cimbriciuc Alexandru</a><span>Ex-deputat</span>
+</div></td>
+<td class="income">274,468.26</td>
+<td class="buildings">1,936,594.00</td>
+<td class="lands">93,262.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pldm ghenadie-ciobanu"></b></a><div><a style="color:#ccc; text-decoration:none">Ciobanu Ghenadie</a><span>Ex-deputat</span>
+</div></td>
+<td class="income">407,413.82</td>
+<td class="buildings">1,994,789.00</td>
+<td class="lands">525,435.00</td>
+<td class="goods">0.00</td>
+<td class="finance">252,465.90</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="ciobanu-maria/"><b class="pldm maria-ciobanu"></b></a><div><a href="ciobanu-maria/">Ciobanu Maria</a><span>Parlamentul RM</span></div></td>
+<td class="income">212,603.66</td>
+<td class="buildings">200,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person"><b class="fp sergiu-ciobanu"></b></a><div><a style="color:#ccc; text-decoration:none">Ciobanu Sergiu</a><span>ANRE</span></div></td>
+<td class="income">316,379.76</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">40,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person"><b class="fp dinu-ciocan"></b></a><div><a style="color:#ccc; text-decoration:none">Ciocan Dinu</a><span>CCA</span></div></td>
+<td class="income">189,683.16</td>
+<td class="buildings">31,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">60,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person"><b class="fp iurie-ciocan"></b></a><div><a style="color:#ccc; text-decoration:none">Ciocan Iurie</a><span>Comisia Electorală Centrală</span></div></td>
+<td class="income">481,415.44</td>
+<td class="buildings">1,164,869.28</td>
+<td class="lands">0.00</td>
+<td class="goods">359,394.00</td>
+<td class="finance">0.00</td>
+<td class="debts">321,998.17</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person" href="clevadi-valentina/"><b class="fp woman"></b></a><div><a href="clevadi-valentina/">Clevadî Valentina</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">398,160.88</td>
+<td class="buildings">769,634.00</td>
+<td class="lands">248,318.00</td>
+<td class="goods">0.00</td>
+<td class="finance">231,752.08</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="fp nicolae-clima"></b></a><div><a style="color:#ccc; text-decoration:none">Clima Nicolae</a><span>Ex-judecător, CSJ</span>
+</div></td>
+<td class="income">259,495.61</td>
+<td class="buildings">444,785.00</td>
+<td class="lands">12,000.00</td>
+<td class="goods">336,000.00</td>
+<td class="finance">29,484.85</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person" href="cobaneanu-ala/"><b class="fp ala-cobaneanu"></b></a><div><a href="cobaneanu-ala/">Cobăneanu Ala</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">400,604.82</td>
+<td class="buildings">869,009.00</td>
+<td class="lands">171,569.00</td>
+<td class="goods">395,000.00</td>
+<td class="finance">25,086.00</td>
+<td class="debts">1,650,000.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pldm grigore-cobzac"></b></a><div><a style="color:#ccc; text-decoration:none">Cobzac Grigore</a><span>Parlamentul RM</span></div></td>
+<td class="income">138,950.00</td>
+<td class="buildings">926,293.00</td>
+<td class="lands">9,936.00</td>
+<td class="goods">0.00</td>
+<td class="finance">47,147.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="corman-igor/"><b class="pdm igor-corman"></b></a><div><a href="corman-igor/">Corman Igor</a><span>Parlamentul RM</span></div></td>
+<td class="income">211,882.67</td>
+<td class="buildings">2,247,367.00</td>
+<td class="lands">418,389.00</td>
+<td class="goods">191,620.00</td>
+<td class="finance">23,495.92</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp ion-corolevschi"></b></a><div><a style="color:#ccc; text-decoration:none">Corolevschi Ion</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">230,177.00</td>
+<td class="buildings">1,090,936.00</td>
+<td class="lands">221,496.00</td>
+<td class="goods">35,000.00</td>
+<td class="finance">2,000.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pl man"></b></a><div><a style="color:#ccc; text-decoration:none">Cosoi Petru</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person"><b class="fp mihail-cotorobai"></b></a><div><a style="color:#ccc; text-decoration:none">Cotorobai Mihail</a><span>Avocatul Poporului, CpDOM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp woman"></b></a><div><a style="color:#ccc; text-decoration:none">Covalenco Elena</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">417,562.79</td>
+<td class="buildings">402,015.00</td>
+<td class="lands">21,459.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pldm stefan-creanga"></b></a><div><a style="color:#ccc; text-decoration:none">Creangă Ştefan</a><span>Parlamentul RM</span></div></td>
+<td class="income">488,373.00</td>
+<td class="buildings">2,283,000.00</td>
+<td class="lands">36,000.00</td>
+<td class="goods">168,000.00</td>
+<td class="finance">800.00</td>
+<td class="debts">961,140.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="deliu-tudor/"><b class="pldm tudor-deliu"></b></a><div><a href="deliu-tudor/">Deliu Tudor</a><span>Parlamentul RM</span></div></td>
+<td class="income">259,154.50</td>
+<td class="buildings">100,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">70,100.00</td>
+<td class="finance">800.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp man"></b></a><div><a style="color:#ccc; text-decoration:none">Diaconu Iurie</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">208,916.00</td>
+<td class="buildings">656,012.00</td>
+<td class="lands">466,643.00</td>
+<td class="goods">66,553.00</td>
+<td class="finance">1,046.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="diacov-dumitru/"><b class="pdm dumitru-diacov"></b></a><div><a href="diacov-dumitru/">Diacov Dumitru</a><span>Parlamentul RM</span></div></td>
+<td class="income">452,748.78</td>
+<td class="buildings">3,628,827.00</td>
+<td class="lands">382,082.00</td>
+<td class="goods">1,906,000.00</td>
+<td class="finance">252,882.93</td>
+<td class="debts">150,000.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="apl">
+<td class="name"><a class="icon_32_person" href="dimitriu-anatolie/"><b class="pldm anatolie-dimitriu"></b></a><div><a href="dimitriu-anatolie/">Dimitriu Anatolie</a><span>Consiliul Raional Ialoveni</span></div></td>
+<td class="income">422,238.11</td>
+<td class="buildings">401,102.00</td>
+<td class="lands">11,652.00</td>
+<td class="goods">212,842.77</td>
+<td class="finance">20,474.40</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pl iurie-dirda"></b></a><div><a style="color:#ccc; text-decoration:none">Dîrda Iurie</a><span>Parlamentul RM</span></div></td>
+<td class="income">5,690,031.72</td>
+<td class="buildings">4,477,605.00</td>
+<td class="lands">558,299.00</td>
+<td class="goods">2,853,415.00</td>
+<td class="finance">4,098,968.92</td>
+<td class="debts">903,588.39</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp valeriu-doaga"></b></a><div><a style="color:#ccc; text-decoration:none">Doagă Valeriu</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">296,862.14</td>
+<td class="buildings">320,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">75,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="dodon-igor/"><b class="psrm igor-dodon"></b></a><div><a href="dodon-igor/">Dodon Igor</a><span>Parlamentul RM</span></div></td>
+<td class="income">384,505.86</td>
+<td class="buildings">2,160,675.00</td>
+<td class="lands">451,987.00</td>
+<td class="goods">0.00</td>
+<td class="finance">165,528.57</td>
+<td class="debts">1,477,000.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm alla-dolinta"></b></a><div><a style="color:#ccc; text-decoration:none">Dolinţă Alla</a><span>Parlamentul RM</span></div></td>
+<td class="income">219,985.00</td>
+<td class="buildings">0.00</td>
+<td class="lands">100,112.00</td>
+<td class="goods">450,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm oxana-domenti"></b></a><div><a style="color:#ccc; text-decoration:none">Domenti Oxana</a><span>Parlamentul RM</span></div></td>
+<td class="income">867,724.67</td>
+<td class="buildings">1,803,998.00</td>
+<td class="lands">14,873.00</td>
+<td class="goods">100,000.00</td>
+<td class="finance">2,907.67</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person"><b class="fp dorin-dragutanu"></b></a><div><a style="color:#ccc; text-decoration:none">Drăguţanu Dorin</a><span>Banca Naţională a Moldovei</span></div></td>
+<td class="income">1,209,153.63</td>
+<td class="buildings">1,037,814.00</td>
+<td class="lands">350,290.00</td>
+<td class="goods">442,138.00</td>
+<td class="finance">86,315.91</td>
+<td class="debts">1,171,603.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp ion-druta"></b></a><div><a style="color:#ccc; text-decoration:none">Druţă Ion</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">368,250.60</td>
+<td class="buildings">2,247,835.00</td>
+<td class="lands">71,627.00</td>
+<td class="goods">305,484.90</td>
+<td class="finance">112,910.43</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="fp gheorghe-duca"></b></a><div><a style="color:#ccc; text-decoration:none">Duca Gheorghe</a><span>Academia de Ştiinţe a Moldovei</span></div></td>
+<td class="income">978,740.60</td>
+<td class="buildings">1,779,833.00</td>
+<td class="lands">164,000.00</td>
+<td class="goods">159,811.00</td>
+<td class="finance">1,566,299.21</td>
+<td class="debts">1,105,000.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm man"></b></a><div><a style="color:#ccc; text-decoration:none">Dudnic Corneliu</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm nicolai-dudoglo"></b></a><div><a style="color:#ccc; text-decoration:none">Dudoglo Nicolai</a><span>Parlamentul RM</span></div></td>
+<td class="income">202,651.18</td>
+<td class="buildings">379,286.00</td>
+<td class="lands">197,367.00</td>
+<td class="goods">155,000.00</td>
+<td class="finance">209.87</td>
+<td class="debts">170,000.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="filat-vlad/"><b class="pldm vlad-filat"></b></a><div><a href="filat-vlad/">Filat Vlad</a><span>Parlamentul RM</span></div></td>
+<td class="income">8,187,723.60</td>
+<td class="buildings">4,064,725.00</td>
+<td class="lands">1,064,841.00</td>
+<td class="goods">1,152,501.68</td>
+<td class="finance">1,754,760.72</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="fp svetlana-filincova"></b></a><div><a style="color:#ccc; text-decoration:none">Filincova Svetlana</a><span>Ex-judecător, CSJ</span></div></td>
+<td class="income">296,012.83</td>
+<td class="buildings">1,259,171.00</td>
+<td class="lands">528,279.68</td>
+<td class="goods">286,712.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="guvern">
+<td class="name"><a class="icon_32_person" href="filip-pavel/"><b class="pdm pavel-filip"></b></a><div><a href="filip-pavel/">Filip Pavel</a><span>MTIC</span></div></td>
+<td class="income">3,401,658.63</td>
+<td class="buildings">66,400.00</td>
+<td class="lands">12,116.00</td>
+<td class="goods">400,000.00</td>
+<td class="finance">428,677.08</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pldm gheorghe-focsa"></b></a><div><a style="color:#ccc; text-decoration:none">Focşa Gheorghe</a><span>Ex-deputat</span>
+</div></td>
+<td class="income">578,264.00</td>
+<td class="buildings">116,782.00</td>
+<td class="lands">30,311.00</td>
+<td class="goods">85,800.00</td>
+<td class="finance">30,000.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pldm elena-frumosu"></b></a><div><a style="color:#ccc; text-decoration:none">Frumosu Elena</a><span>Ex-deputat</span>
+</div></td>
+<td class="income">346,127.94</td>
+<td class="buildings">300,000.00</td>
+<td class="lands">94,000.00</td>
+<td class="goods">75,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">87,573.06</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm corneliu-furculita"></b></a><div><a style="color:#ccc; text-decoration:none">Furculiţă Corneliu</a><span>Parlamentul RM</span></div></td>
+<td class="income">82,791.66</td>
+<td class="buildings">684,978.00</td>
+<td class="lands">192,500.00</td>
+<td class="goods">389,223.95</td>
+<td class="finance">1,033,282.23</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="guvern">
+<td class="name"><a class="icon_32_person" href="fusu-corina/"><b class="pl corina-fusu"></b></a><div><a href="fusu-corina/">Fusu Corina</a><span>Ministerul Educaţiei</span></div></td>
+<td class="income">173,834.53</td>
+<td class="buildings">235,783.00</td>
+<td class="lands">7,539.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="fp fiodor-gagauz"></b></a><div><a style="color:#ccc; text-decoration:none">Gagauz Fiodor</a><span>Parlamentul RM</span></div></td>
+<td class="income">250,000.00</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">170,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="fp artur-gherman"></b></a><div><a style="color:#ccc; text-decoration:none">Gherman Artur</a><span>Ex-preşedinte CNPF</span></div></td>
+<td class="income">796,059.85</td>
+<td class="buildings">560,363.00</td>
+<td class="lands">0.00</td>
+<td class="goods">960,000.00</td>
+<td class="finance">1,078,182.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="guvern">
+<td class="name"><a class="icon_32_person" href="gherman-natalia/"><b class="pldm natalia-gherman"></b></a><div><a href="gherman-natalia/">Gherman Natalia</a><span>MAEIE</span></div></td>
+<td class="income">819,690.17</td>
+<td class="buildings">560,363.00</td>
+<td class="lands">0.00</td>
+<td class="goods">960,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp maria-ghervas"></b></a><div><a style="color:#ccc; text-decoration:none">Ghervas Maria</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">311,019.00</td>
+<td class="buildings">817,728.00</td>
+<td class="lands">104,134.00</td>
+<td class="goods">220,000.00</td>
+<td class="finance">39,171.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pdm anatolie-ghilas"></b></a><div><a style="color:#ccc; text-decoration:none">Ghilaş Anatolie</a><span>ARFC</span></div></td>
+<td class="income">2,198,441.78</td>
+<td class="buildings">3,168,535.00</td>
+<td class="lands">439,964.00</td>
+<td class="goods">39,000.00</td>
+<td class="finance">1,206,817.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="ghiletchi-valeriu/"><b class="fp valeriu-ghiletchi"></b></a><div><a href="ghiletchi-valeriu/">Ghileţchi Valeriu</a><span>Parlamentul RM</span></div></td>
+<td class="income">299,237.32</td>
+<td class="buildings">2,880,505.64</td>
+<td class="lands">0.00</td>
+<td class="goods">5,000.00</td>
+<td class="finance">127,992.75</td>
+<td class="debts">288,000.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="ghimpu-mihai/"><b class="pl mihai-ghimpu"></b></a><div><a href="ghimpu-mihai/">Ghimpu Mihai</a><span>Parlamentul RM</span></div></td>
+<td class="income">846,984.68</td>
+<td class="buildings">2,000,619.00</td>
+<td class="lands">0.00</td>
+<td class="goods">105,000.00</td>
+<td class="finance">2,013.64</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pdm ruxanda-glavan"></b></a><div><a style="color:#ccc; text-decoration:none">Glavan Ruxanda</a><span>Ministerul Sănătăţii</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="fp vladimir-golovatiuc"></b></a><div><a style="color:#ccc; text-decoration:none">Golovatiuc Vladimir</a><span>Parlamentul RM</span></div></td>
+<td class="income">105,862.01</td>
+<td class="buildings">402,836.00</td>
+<td class="lands">0.00</td>
+<td class="goods">237,906.00</td>
+<td class="finance">274,327.60</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm boris-golovin"></b></a><div><a style="color:#ccc; text-decoration:none">Golovin Boris</a><span>Parlamentul RM</span></div></td>
+<td class="income">185,178.91</td>
+<td class="buildings">270,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">565,000.00</td>
+<td class="finance">233,834.17</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp nicolae-gordila"></b></a><div><a style="color:#ccc; text-decoration:none">Gordilă Nicolae</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">265,329.23</td>
+<td class="buildings">4,053,515.00</td>
+<td class="lands">460,980.00</td>
+<td class="goods">96,000.00</td>
+<td class="finance">342,634.86</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm anatolie-gorila"></b></a><div><a style="color:#ccc; text-decoration:none">Gorilă Anatolie</a><span>Parlamentul RM</span></div></td>
+<td class="income">450,338.42</td>
+<td class="buildings">638,599.04</td>
+<td class="lands">35,286.00</td>
+<td class="goods">105,000.00</td>
+<td class="finance">250,000.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pldm aliona-gota"></b></a><div><a style="color:#ccc; text-decoration:none">Goţa Aliona</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pldm man"></b></a><div><a style="color:#ccc; text-decoration:none">Grama Octavian</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="greceanii-zinaida/"><b class="fp zinaida-greceanii"></b></a><div><a href="greceanii-zinaida/">Greceanîi Zinaida</a><span>Parlamentul RM</span></div></td>
+<td class="income">332,698.66</td>
+<td class="buildings">1,232,000.00</td>
+<td class="lands">9,600.00</td>
+<td class="goods">37,684.00</td>
+<td class="finance">0.00</td>
+<td class="debts">567,500.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="gudumac-elena/"><b class="pcrm elena-gudumac"></b></a><div><a href="gudumac-elena/">Gudumac Elena</a><span>Parlamentul RM</span></div></td>
+<td class="income">113,584.62</td>
+<td class="buildings">70,746.00</td>
+<td class="lands">36,233.00</td>
+<td class="goods">135,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person" href="gurin-corneliu/"><b class="fp corneliu-gurin"></b></a><div><a href="gurin-corneliu/">Gurin Corneliu</a><span>Procuratura Generală</span></div></td>
+<td class="income">413,650.33</td>
+<td class="buildings">1,209,918.00</td>
+<td class="lands">3,000.00</td>
+<td class="goods">195,000.00</td>
+<td class="finance">398,311.45</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pl man"></b></a><div><a style="color:#ccc; text-decoration:none">Gutium Artur</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="fp" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="fp ana-gutu"></b></a><div><a style="color:#ccc; text-decoration:none">Guţu Ana</a><span>Ex-deputat</span></div></td>
+<td class="income">466,616.29</td>
+<td class="buildings">600,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">555,118.40</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp man"></b></a><div><a style="color:#ccc; text-decoration:none">Guzun Ion</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="ap" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="ap ion-hadarca"></b></a><div><a style="color:#ccc; text-decoration:none">Hadârcă Ion</a><span>Ex-deputat</span></div></td>
+<td class="income">353,039.13</td>
+<td class="buildings">1,292,379.00</td>
+<td class="lands">0.00</td>
+<td class="goods">123,376.40</td>
+<td class="finance">55,246.07</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pldm loretta-handrabura"></b></a><div><a style="color:#ccc; text-decoration:none">Handrabura Loretta</a><span>Ministerul Tineretului şi Sportului</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pl" data-institute="apl">
+<td class="name"><a class="icon_32_person"><b class="pl veronica-herta"></b></a><div><a style="color:#ccc; text-decoration:none">Herţa Veronica</a><span>Primăria mun. Chişinău</span></div></td>
+<td class="income">143,419.89</td>
+<td class="buildings">245,631.00</td>
+<td class="lands">45,374.00</td>
+<td class="goods">85,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">282,000.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="hotineanu-vladimir/"><b class="pldm vladimir-hotineanu"></b></a><div><a href="hotineanu-vladimir/">Hotineanu Vladimir</a><span>Parlamentul RM</span></div></td>
+<td class="income">515,612.19</td>
+<td class="buildings">1,187,441.00</td>
+<td class="lands">529,820.00</td>
+<td class="goods">240,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="hrenova-elena/"><b class="psrm elena-hrenova"></b></a><div><a href="hrenova-elena/">Hrenova Elena</a><span>Parlamentul RM</span></div></td>
+<td class="income">17,000.00</td>
+<td class="buildings">445,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="iacob-mihaela/"><b class="pl mihaela-iacob"></b></a><div><a href="iacob-mihaela/">Iacob Mihaela</a><span>Parlamentul RM</span></div></td>
+<td class="income">93,571.43</td>
+<td class="buildings">211,273.00</td>
+<td class="lands">0.00</td>
+<td class="goods">176,000.00</td>
+<td class="finance">43,494.90</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="ivanov-violeta/"><b class="pcrm violeta-ivanov"></b></a><div><a href="ivanov-violeta/">Ivanov Violeta</a><span>Parlamentul RM</span></div></td>
+<td class="income">224,882.81</td>
+<td class="buildings">514,449.00</td>
+<td class="lands">300,000.00</td>
+<td class="goods">475,800.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pdm stella-jantuan"></b></a><div><a style="color:#ccc; text-decoration:none">Jantuan Stella</a><span>Ex-deputat</span></div></td>
+<td class="income">492,042.26</td>
+<td class="buildings">436,842.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">234,133.03</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="fp nicolae-juravschi"></b></a><div><a style="color:#ccc; text-decoration:none">Juravschi Nicolae</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm anatolie-labunet"></b></a><div><a style="color:#ccc; text-decoration:none">Labuneţ Anatolie</a><span>Parlamentul RM</span></div></td>
+<td class="income">806,060.54</td>
+<td class="buildings">100,000.00</td>
+<td class="lands">155,000.00</td>
+<td class="goods">200,000.00</td>
+<td class="finance">741,017.40</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="leanca-iurie/"><b class="fp iurie-leanca"></b></a><div><a href="leanca-iurie/">Leancă Iurie</a><span>Parlamentul RM</span></div></td>
+<td class="income">279,225.21</td>
+<td class="buildings">761,691.00</td>
+<td class="lands">164,128.00</td>
+<td class="goods">5,000.00</td>
+<td class="finance">1,591,317.45</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm oleg-lipskii"></b></a><div><a style="color:#ccc; text-decoration:none">Lipskii Oleg</a><span>Parlamentul RM</span></div></td>
+<td class="income">61,777.63</td>
+<td class="buildings">397,700.00</td>
+<td class="lands">0.00</td>
+<td class="goods">30,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pldm chiril-lucinschi"></b></a><div><a style="color:#ccc; text-decoration:none">Lucinschi Chiril</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="fp" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="fp lidia-lupu"></b></a><div><a style="color:#ccc; text-decoration:none">Lupu Lidia</a><span>Parlamentul RM</span></div></td>
+<td class="income">140,205.00</td>
+<td class="buildings">590,606.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="lupu-marian/"><b class="pdm marian-lupu"></b></a><div><a href="lupu-marian/">Lupu Marian</a><span>Parlamentul RM</span></div></td>
+<td class="income">204,546.82</td>
+<td class="buildings">1,294,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">178,165.36</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp vera-macinskaia"></b></a><div><a style="color:#ccc; text-decoration:none">Macinskaia Vera</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">447,929.00</td>
+<td class="buildings">504,181.00</td>
+<td class="lands">0.00</td>
+<td class="goods">91,171.00</td>
+<td class="finance">20,000.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp dumitru-mardari"></b></a><div><a style="color:#ccc; text-decoration:none">Mardari Dumitru</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">66,955.29</td>
+<td class="buildings">400,882.00</td>
+<td class="lands">144,370.00</td>
+<td class="goods">0.00</td>
+<td class="finance">39,358.85</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pdm anatolie-melenciuc"></b></a><div><a style="color:#ccc; text-decoration:none">Melenciuc Anatolie</a><span>Agenţia Rezerve Materiale</span></div></td>
+<td class="income">193,557.42</td>
+<td class="buildings">452,813.00</td>
+<td class="lands">0.00</td>
+<td class="goods">120,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">30,000.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm corneliu-mihalache"></b></a><div><a style="color:#ccc; text-decoration:none">Mihalache Corneliu</a><span>Parlamentul RM</span></div></td>
+<td class="income">31,582.18</td>
+<td class="buildings">1,958.24</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">196.57</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="ap" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="ap vadim-misin"></b></a><div><a style="color:#ccc; text-decoration:none">Mişin Vadim</a><span>Ex-deputat</span></div></td>
+<td class="income">505,008.02</td>
+<td class="buildings">1,613,161.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">180,120.71</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm ghenadi-mitriuc"></b></a><div><a style="color:#ccc; text-decoration:none">Mitriuc Ghenadi</a><span>Parlamentul RM</span></div></td>
+<td class="income">349,715.32</td>
+<td class="buildings">589,401.00</td>
+<td class="lands">76,180.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">550,000.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm victor-mindru"></b></a><div><a style="color:#ccc; text-decoration:none">Mîndru Victor</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pcrm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pcrm mihail-mocan"></b></a><div><a style="color:#ccc; text-decoration:none">Mocan Mihail</a><span>Ex-deputat</span></div></td>
+<td class="income">194,468.93</td>
+<td class="buildings">268,126.00</td>
+<td class="lands">0.00</td>
+<td class="goods">200,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pldm george-mocanu"></b></a><div><a style="color:#ccc; text-decoration:none">Mocanu George</a><span>Parlamentul RM</span></div></td>
+<td class="income">194,560.02</td>
+<td class="buildings">16,469.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">137,581.16</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp sveatoslav-moldovan"></b></a><div><a style="color:#ccc; text-decoration:none">Moldovan Sveatoslav</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">275,594.17</td>
+<td class="buildings">4,760,906.36</td>
+<td class="lands">0.00</td>
+<td class="goods">10,000.00</td>
+<td class="finance">190,000.00</td>
+<td class="debts">336,870.60</td>
+</tr>
+
+<tr data-party="pdm" data-institute="apl">
+<td class="name"><a class="icon_32_person" href="molozea-nicolae/"><b class="pdm nicolae-molozea"></b></a><div><a href="molozea-nicolae/">Molozea Nicolae</a><span>Consiliul Raional Ştefan Vodă</span></div></td>
+<td class="income">194,772.36</td>
+<td class="buildings">429,160.00</td>
+<td class="lands">55,890.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp petru-moraru"></b></a><div><a style="color:#ccc; text-decoration:none">Moraru Petru</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pcrm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pcrm ghenadie-morcov"></b></a><div><a style="color:#ccc; text-decoration:none">Morcov Ghenadie</a><span>Ex-deputat</span></div></td>
+<td class="income">324,679.12</td>
+<td class="buildings">248,574.00</td>
+<td class="lands">15,581.00</td>
+<td class="goods">80,522.50</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm radu-mudreac"></b></a><div><a style="color:#ccc; text-decoration:none">Mudreac Radu</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="fp" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="fp iurie-muntean"></b></a><div><a style="color:#ccc; text-decoration:none">Muntean Iurie</a><span>Ex-deputat</span></div></td>
+<td class="income">251,128.71</td>
+<td class="buildings">0.00</td>
+<td class="lands">5,905.68</td>
+<td class="goods">98,000.00</td>
+<td class="finance">127.68</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="fp anatolie-munteanu"></b></a><div><a style="color:#ccc; text-decoration:none">Munteanu Anatolie</a><span>Ex-avocat parlamentar</span></div></td>
+<td class="income">600,222.95</td>
+<td class="buildings">1,161,766.28</td>
+<td class="lands">19,885.00</td>
+<td class="goods">100,000.00</td>
+<td class="finance">5,887.29</td>
+<td class="debts">804,125.23</td>
+</tr>
+
+<tr data-party="pl" data-institute="guvern">
+<td class="name"><a class="icon_32_person" href="munteanu-valeriu/"><b class="pl valeriu-munteanu"></b></a><div><a href="munteanu-valeriu/">Munteanu Valeriu</a><span>Ministerul Mediului</span></div></td>
+<td class="income">377,298.74</td>
+<td class="buildings">146,603.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">2,932.66</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pcrm eduard-musuc"></b></a><div><a style="color:#ccc; text-decoration:none">Muşuc Eduard</a><span>Ex-deputat</span></div></td>
+<td class="income">186,469.99</td>
+<td class="buildings">417,499.00</td>
+<td class="lands">12,250.00</td>
+<td class="goods">154,778.40</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="fp andrei-neguta"></b></a><div><a style="color:#ccc; text-decoration:none">Neguţa Andrei</a><span>Parlamentul RM</span></div></td>
+<td class="income">307,650.32</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm alexandr-nesterovschi"></b></a><div><a style="color:#ccc; text-decoration:none">Nesterovschi Alexandr</a><span>Parlamentul RM</span></div></td>
+<td class="income">49,640.00</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm eugeniu-nichiforciuc"></b></a><div><a style="color:#ccc; text-decoration:none">Nichiforciuc Eugeniu</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp ghenadie-nicolaev"></b></a><div><a style="color:#ccc; text-decoration:none">Nicolaev Ghenadie</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm grigore-novac"></b></a><div><a style="color:#ccc; text-decoration:none">Novac Grigore</a><span>Parlamentul RM</span></div></td>
+<td class="income">148,041.00</td>
+<td class="buildings">0.00</td>
+<td class="lands">80,000.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp svetlana-novac"></b></a><div><a style="color:#ccc; text-decoration:none">Novac Svetlana</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">217,193.00</td>
+<td class="buildings">495,078.00</td>
+<td class="lands">370,476.00</td>
+<td class="goods">1,000.00</td>
+<td class="finance">416,893.01</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm vladimir-odnostalco"></b></a><div><a style="color:#ccc; text-decoration:none">Odnostalco Vladimir</a><span>Parlamentul RM</span></div></td>
+<td class="income">16,712.00</td>
+<td class="buildings">0.00</td>
+<td class="lands">40,000.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp iuliana-oprea"></b></a><div><a style="color:#ccc; text-decoration:none">Oprea Iuliana</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">249,741.30</td>
+<td class="buildings">78,123.00</td>
+<td class="lands">44,016.00</td>
+<td class="goods">2,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pdm victor-osipov"></b></a><div><a style="color:#ccc; text-decoration:none">Osipov Victor</a><span>Guvernul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm corneliu-padnevici"></b></a><div><a style="color:#ccc; text-decoration:none">Padnevici Corneliu</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="palihovici-liliana/"><b class="pldm liliana-palihovici"></b></a><div><a href="palihovici-liliana/">Palihovici Liliana</a><span>Parlamentul RM</span></div></td>
+<td class="income">316,591.84</td>
+<td class="buildings">958,540.00</td>
+<td class="lands">128,350.00</td>
+<td class="goods">144,000.00</td>
+<td class="finance">46,580.52</td>
+<td class="debts">800,000.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm vasili-panciuc"></b></a><div><a style="color:#ccc; text-decoration:none">Panciuc Vasili</a><span>Parlamentul RM</span></div></td>
+<td class="income">227,020.64</td>
+<td class="buildings">232,990.00</td>
+<td class="lands">8,033.00</td>
+<td class="goods">0.00</td>
+<td class="finance">13,028.30</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person"><b class="fp vitalie-panis"></b></a><div><a style="color:#ccc; text-decoration:none">Paniş Vitalie</a><span>CNPDCP</span></div></td>
+<td class="income">384,933.40</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="fp alexandr-petcov"></b></a><div><a style="color:#ccc; text-decoration:none">Petkov Alexandr</a><span>Ex-deputat</span></div></td>
+<td class="income">335,248.54</td>
+<td class="buildings">372,708.00</td>
+<td class="lands">8,356.00</td>
+<td class="goods">71,000.00</td>
+<td class="finance">40,000.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="fp grigore-petrenco"></b></a><div><a style="color:#ccc; text-decoration:none">Petrenco Grigore</a><span>Ex-deputat</span></div></td>
+<td class="income">194,416.57</td>
+<td class="buildings">1,369,254.00</td>
+<td class="lands">0.00</td>
+<td class="goods">153,000.00</td>
+<td class="finance">5,387.04</td>
+<td class="debts">2,240,000.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="pistrinciuc-vadim/"><b class="pldm vadim-pistrinciuc"></b></a><div><a href="pistrinciuc-vadim/">Pistrinciuc Vadim</a><span>Parlamentul RM</span></div></td>
+<td class="income">347,984.00</td>
+<td class="buildings">219,273.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="diverse">
+<td class="name"><a class="icon_32_person" href="plahotniuc-vladimir/"><b class="pdm vlad-plahotniuc"></b></a><div><a href="plahotniuc-vladimir/">Plahotniuc Vlad</a><span>Ex-deputat</span></div></td>
+<td class="income">34,358,840.21</td>
+<td class="buildings">1,638,735.00</td>
+<td class="lands">0.00</td>
+<td class="goods">3,022,000.00</td>
+<td class="finance">9,426,397.38</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pldm nicolae-platon"></b></a><div><a style="color:#ccc; text-decoration:none">Platon Nicolae</a><span>Agenţia Turismului a RM</span></div></td>
+<td class="income">665,043.44</td>
+<td class="buildings">2,140,706.00</td>
+<td class="lands">6,480.00</td>
+<td class="goods">100,000.00</td>
+<td class="finance">938,849.98</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pldm man"></b></a><div><a style="color:#ccc; text-decoration:none">Pleşca Nae-Simion</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person" href="poalelungi-mihail/"><b class="fp mihai-poalelungi"></b></a><div><a href="poalelungi-mihail/">Poalelungi Mihail</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">561,937.99</td>
+<td class="buildings">2,297,436.10</td>
+<td class="lands">0.00</td>
+<td class="goods">1,680,000.00</td>
+<td class="finance">6,670,549.52</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm petru-porcescu"></b></a><div><a style="color:#ccc; text-decoration:none">Porcescu Petru</a><span>Parlamentul RM</span></div></td>
+<td class="income">384,359.00</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">111,572.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="postoico-maria/"><b class="pcrm maria-postoico"></b></a><div><a href="postoico-maria/">Postoico Maria</a><span>Parlamentul RM</span></div></td>
+<td class="income">396,972.26</td>
+<td class="buildings">1,032,253.00</td>
+<td class="lands">6,124.00</td>
+<td class="goods">5,000.00</td>
+<td class="finance">13,839.77</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="radvan-marina/"><b class="psrm marina-radvan"></b></a><div><a href="radvan-marina/">Radvan Marina</a><span>Parlamentul RM</span></div></td>
+<td class="income">0.00</td>
+<td class="buildings">243,984.00</td>
+<td class="lands">40,000.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="raducan-marcel/"><b class="pdm marcel-raducan"></b></a><div><a href="raducan-marcel/">Răducan Marcel</a><span>Parlamentul RM</span></div></td>
+<td class="income">1,430,877.85</td>
+<td class="buildings">0.00</td>
+<td class="lands">39,151.00</td>
+<td class="goods">0.00</td>
+<td class="finance">19,871.19</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp tatiana-raducanu"></b></a><div><a style="color:#ccc; text-decoration:none">Răducanu Tatiana</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">551,584.80</td>
+<td class="buildings">1,582,008.00</td>
+<td class="lands">0.00</td>
+<td class="goods">150,000.00</td>
+<td class="finance">552,148.00</td>
+<td class="debts">420,000.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm oleg-reidman"></b></a><div><a style="color:#ccc; text-decoration:none">Reidman Oleg</a><span>Parlamentul RM</span></div></td>
+<td class="income">439,872.21</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">1,405,595.00</td>
+<td class="finance">533,957.39</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="resetnicov-artur/"><b class="pcrm artur-resetnicov"></b></a><div><a href="resetnicov-artur/">Reşetnicov Artur</a><span>Parlamentul RM</span></div></td>
+<td class="income">1,385,514.71</td>
+<td class="buildings">3,546,982.00</td>
+<td class="lands">64,084.00</td>
+<td class="goods">553,548.72</td>
+<td class="finance">7,764.41</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pldm victor-rosca"></b></a><div><a style="color:#ccc; text-decoration:none">Roşca Victor</a><span>Parlamentul RM</span></div></td>
+<td class="income">12,237.00</td>
+<td class="buildings">815,299.00</td>
+<td class="lands">86,491.00</td>
+<td class="goods">273,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="diverse">
+<td class="name"><a class="icon_32_person" href="sandu-maia/"><b class="pldm maia-sandu"></b></a><div><a href="sandu-maia/">Sandu Maia</a><span>Ex-ministrul Educaţiei</span></div></td>
+<td class="income">146,573.46</td>
+<td class="buildings">440,114.00</td>
+<td class="lands">0.00</td>
+<td class="goods">170,000.00</td>
+<td class="finance">1,514,904.78</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm oleg-savva"></b></a><div><a style="color:#ccc; text-decoration:none">Savva Oleg</a><span>Parlamentul RM</span></div></td>
+<td class="income">29,177.58</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">19,200.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm oleg-sirbu"></b></a><div><a style="color:#ccc; text-decoration:none">Sîrbu Oleg</a><span>Parlamentul RM</span></div></td>
+<td class="income">887,749.38</td>
+<td class="buildings">257,260.00</td>
+<td class="lands">1,194,810.00</td>
+<td class="goods">227,000.00</td>
+<td class="finance">1,800.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm serghei-sirbu"></b></a><div><a style="color:#ccc; text-decoration:none">Sîrbu Serghei</a><span>Parlamentul RM</span></div></td>
+<td class="income">1,173,826.19</td>
+<td class="buildings">588,921.00</td>
+<td class="lands">171,916.00</td>
+<td class="goods">92,000.00</td>
+<td class="finance">30,000.00</td>
+<td class="debts">30,000.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp iulia-sircu"></b></a><div><a style="color:#ccc; text-decoration:none">Sîrcu Iulia</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">726,025.89</td>
+<td class="buildings">1,135,099.00</td>
+<td class="lands">374,039.00</td>
+<td class="goods">74,400.00</td>
+<td class="finance">320,000.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm eduard-smirnov"></b></a><div><a style="color:#ccc; text-decoration:none">Smirnov Eduard</a><span>Parlamentul RM</span></div></td>
+<td class="income">95,030.00</td>
+<td class="buildings">418,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">140,000.00</td>
+<td class="finance">367,400.15</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="psrm victor-sorocean"></b></a><div><a style="color:#ccc; text-decoration:none">Sorocean Victor</a><span>Parlamentul RM</span></div></td>
+<td class="income">123,909.02</td>
+<td class="buildings">53,000.00</td>
+<td class="lands">2,094.00</td>
+<td class="goods">102,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">250,000.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="spatari-mihaela/"><b class="pldm mihaela-spatari"></b></a><div><a href="spatari-mihaela/">Spatari Mihaela</a><span>Parlamentul RM</span></div></td>
+<td class="income">0.00</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pldm lucia-spoiala"></b></a><div><a style="color:#ccc; text-decoration:none">Spoială Lucia</a><span>Biroul Naţional de Statistică</span></div></td>
+<td class="income">170,846.20</td>
+<td class="buildings">427,206.00</td>
+<td class="lands">1,400.00</td>
+<td class="goods">38,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pcrm constantin-staris"></b></a><div><a style="color:#ccc; text-decoration:none">Starîş Constantin</a><span>Ex-deputat</span></div></td>
+<td class="income">204,690.51</td>
+<td class="buildings">825,207.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">1,594.76</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm sergiu-stati"></b></a><div><a style="color:#ccc; text-decoration:none">Stati Sergiu</a><span>Parlamentul RM</span></div></td>
+<td class="income">201,949.87</td>
+<td class="buildings">276,736.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp oleg-sternioala"></b></a><div><a style="color:#ccc; text-decoration:none">Sternioală Oleg</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">92,322.90</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">100,000.00</td>
+<td class="finance">4,991.52</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp galina-stratulat"></b></a><div><a style="color:#ccc; text-decoration:none">Stratulat Galina</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">199,894.10</td>
+<td class="buildings">567,387.00</td>
+<td class="lands">0.00</td>
+<td class="goods">300,000.00</td>
+<td class="finance">61,935.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="guvern">
+<td class="name"><a class="icon_32_person" href="strelet-valeriu/"><b class="pldm valeriu-strelet"></b></a><div><a href="strelet-valeriu/">Streleţ Valeriu</a><span>Prim-ministrul RM</span></div></td>
+<td class="income">4,512,427.59</td>
+<td class="buildings">2,857,021.00</td>
+<td class="lands">348,627.00</td>
+<td class="goods">2,422,707.00</td>
+<td class="finance">201,029.14</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="guvern">
+<td class="name"><a class="icon_32_person"><b class="pldm ion-sula"></b></a><div><a style="color:#ccc; text-decoration:none">Sula Ion</a><span>Ministerul Agriculturii</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pdm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pdm alexandr-stoianoglo"></b></a><div><a style="color:#ccc; text-decoration:none">Stoianoglo Alexandr</a><span>Ex-deputat</span></div></td>
+<td class="income">242,769.00</td>
+<td class="buildings">942,047.00</td>
+<td class="lands">0.00</td>
+<td class="goods">100,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm valentina-stratan"></b></a><div><a style="color:#ccc; text-decoration:none">Stratan Valentina</a><span>Parlamentul RM</span></div></td>
+<td class="income">266,309.94</td>
+<td class="buildings">659,609.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pdm ion-stratulat"></b></a><div><a style="color:#ccc; text-decoration:none">Stratulat Ion</a><span>Ex-deputat</span></div></td>
+<td class="income">348,660.08</td>
+<td class="buildings">674,017.00</td>
+<td class="lands">299.75</td>
+<td class="goods">35,000.00</td>
+<td class="finance">80,000.00</td>
+<td class="debts">30,000.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="guvern">
+<td class="name"><a class="icon_32_person" href="salaru-anatol/"><b class="pl anatol-salaru"></b></a><div><a href="salaru-anatol/">Şalaru Anatolie</a><span>Ministerul Apărării</span></div></td>
+<td class="income">217,591.78</td>
+<td class="buildings">2,084,139.07</td>
+<td class="lands">29,400.00</td>
+<td class="goods">249,678.00</td>
+<td class="finance">569,898.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pldm petru-stirbate"></b></a><div><a style="color:#ccc; text-decoration:none">Ştirbate Petru</a><span>Parlamentul RM</span></div></td>
+<td class="income">344,164.77</td>
+<td class="buildings">268,000.00</td>
+<td class="lands">18,830.00</td>
+<td class="goods">273,816.55</td>
+<td class="finance">151,835.75</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm inna-supac"></b></a><div><a style="color:#ccc; text-decoration:none">Şupac Inna</a><span>Parlamentul RM</span></div></td>
+<td class="income">156,815.93</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">366.70</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="presedintie">
+<td class="name"><a class="icon_32_person" href="timofti-nicolae/"><b class="fp nicolae-timofti"></b></a><div><a href="timofti-nicolae/">Timofti Nicolae</a><span>Preşedintele RM</span></div></td>
+<td class="income">530,763.00</td>
+<td class="buildings">502,975.00</td>
+<td class="lands">44,419.00</td>
+<td class="goods">0.00</td>
+<td class="finance">355,832.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp vladimir-timofti"></b></a><div><a style="color:#ccc; text-decoration:none">Timofti Vladimir</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp nadejda-toma"></b></a><div><a style="color:#ccc; text-decoration:none">Toma Nadejda</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pldm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pldm iurie-tap"></b></a><div><a style="color:#ccc; text-decoration:none">Ţap Iurie</a><span>Parlamentul RM</span></div></td>
+<td class="income">279,403.83</td>
+<td class="buildings">355,405.00</td>
+<td class="lands">0.00</td>
+<td class="goods">170,034.99</td>
+<td class="finance">0.00</td>
+<td class="debts">136,547.83</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="fp bogdan-tirdea"></b></a><div><a style="color:#ccc; text-decoration:none">Ţîrdea Bogdan</a><span>Parlamentul RM</span></div></td>
+<td class="income">17,500.00</td>
+<td class="buildings">398,533.00</td>
+<td class="lands">0.00</td>
+<td class="goods">422,287.95</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="fp marc-tkaciuk"></b></a><div><a style="color:#ccc; text-decoration:none">Tkaciuk Marc</a><span>Ex-deputat</span></div></td>
+<td class="income">174,908.20</td>
+<td class="buildings">487,097.00</td>
+<td class="lands">23,107.00</td>
+<td class="goods">120,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="psrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="fp vladimir-turcan"></b></a><div><a style="color:#ccc; text-decoration:none">Ţurcan Vladimir</a><span>Parlamentul RM</span></div></td>
+<td class="income">82,735.00</td>
+<td class="buildings">1,383,890.00</td>
+<td class="lands">368,000.00</td>
+<td class="goods">235,000.00</td>
+<td class="finance">157,524.55</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pdm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pdm constantin-tutu"></b></a><div><a style="color:#ccc; text-decoration:none">Ţuţu Constantin</a><span>Parlamentul RM</span></div></td>
+<td class="income">2,605,606.50</td>
+<td class="buildings">0.00</td>
+<td class="lands">909.00</td>
+<td class="goods">0.00</td>
+<td class="finance">8,000.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pl veaceslav-untila"></b></a><div><a style="color:#ccc; text-decoration:none">Untilă Veaceslav</a><span>Parlamentul RM</span></div></td>
+<td class="income">268,161.70</td>
+<td class="buildings">1,422,916.00</td>
+<td class="lands">0.00</td>
+<td class="goods">622,130.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person"><b class="fp serafim-urechean"></b></a><div><a style="color:#ccc; text-decoration:none">Urechean Serafim</a><span>Curtea de Conturi</span></div></td>
+<td class="income">311,972.16</td>
+<td class="buildings">857,289.00</td>
+<td class="lands">14,663.39</td>
+<td class="goods">20,000.00</td>
+<td class="finance">126,176.40</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp petru-ursache"></b></a><div><a style="color:#ccc; text-decoration:none">Ursache Petru</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">202,453.82</td>
+<td class="buildings">1,329,742.30</td>
+<td class="lands">773,922.00</td>
+<td class="goods">15,781.20</td>
+<td class="finance">368,000.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="alte">
+<td class="name"><a class="icon_32_person"><b class="fp grigore-varanita"></b></a><div><a style="color:#ccc; text-decoration:none">Varaniţa Grigore</a><span>ANRCETI</span></div></td>
+<td class="income">1,114,013.58</td>
+<td class="buildings">2,765,543.81</td>
+<td class="lands">97,253.00</td>
+<td class="goods">128,619.60</td>
+<td class="finance">7,446.16</td>
+<td class="debts">800,000.00</td>
+</tr>
+
+<tr data-party="ap" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="ap boris-vieru"></b></a><div><a style="color:#ccc; text-decoration:none">Vieru Boris</a><span>Ex-deputat</span></div></td>
+<td class="income">147,553.19</td>
+<td class="buildings">600,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">4,799.01</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp tatiana-vieru"></b></a><div><a style="color:#ccc; text-decoration:none">Vieru Tatiana</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">229,157.08</td>
+<td class="buildings">999,498.00</td>
+<td class="lands">75,124.00</td>
+<td class="goods">0.00</td>
+<td class="finance">732,045.20</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="drept">
+<td class="name"><a class="icon_32_person"><b class="fp dumitru-visternicean"></b></a><div><a style="color:#ccc; text-decoration:none">Visternicean Dumitru</a><span>Curtea Supremă de Justiţie</span></div></td>
+<td class="income">298,736.98</td>
+<td class="buildings">2,500,193.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm vladimir-vitiuc"></b></a><div><a style="color:#ccc; text-decoration:none">Vitiuc Vladimir</a><span>Parlamentul RM</span></div></td>
+<td class="income">239,623.11</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">25,000.00</td>
+<td class="finance">17,759.18</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="fp" data-institute="guvern">
+<td class="name"><a class="icon_32_person" href="vlah-irina/"><b class="fp irina-vlah"></b></a><div><a href="vlah-irina/">Vlah Irina</a><span>Guvernatorul UTA Găgăuzia</span></div></td>
+<td class="income">228,418.56</td>
+<td class="buildings">0.00</td>
+<td class="lands">0.00</td>
+<td class="goods">180,951.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pldm" data-institute="diverse">
+<td class="name"><a class="icon_32_person"><b class="pldm petru-vlah"></b></a><div><a style="color:#ccc; text-decoration:none">Vlah Petru</a><span>Ex-deputat</span></div></td>
+<td class="income">242,613.32</td>
+<td class="buildings">800,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">700,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pl man"></b></a><div><a style="color:#ccc; text-decoration:none">Vlas Ştefan</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person" href="voronin-vladimir/"><b class="pcrm vladimir-voronin"></b></a><div><a href="voronin-vladimir/">Voronin Vladimir</a><span>Parlamentul RM</span></div></td>
+<td class="income">374,950.48</td>
+<td class="buildings">2,180,288.00</td>
+<td class="lands">324,819.00</td>
+<td class="goods">0.00</td>
+<td class="finance">1,491,473.29</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm igor-vremea"></b></a><div><a style="color:#ccc; text-decoration:none">Vremea Igor</a><span>Parlamentul RM</span></div></td>
+<td class="income">289,071.07</td>
+<td class="buildings">0.00</td>
+<td class="lands">29,904.00</td>
+<td class="goods">208,046.25</td>
+<td class="finance">76.99</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pcrm" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pcrm anatolie-zagorodnii"></b></a><div><a style="color:#ccc; text-decoration:none">Zagorodnîi Anatolie</a><span>Parlamentul RM</span></div></td>
+<td class="income">296,311.26</td>
+<td class="buildings">101,523.46</td>
+<td class="lands">0.00</td>
+<td class="goods">10,000.00</td>
+<td class="finance">106.00</td>
+<td class="debts">0.00</td>
+</tr>
+
+<tr data-party="pl" data-institute="parlament">
+<td class="name"><a class="icon_32_person"><b class="pl woman"></b></a><div><a style="color:#ccc; text-decoration:none">Zotea Alina</a><span>Parlamentul RM</span></div></td>
+<td class="lands" colspan=6></td>
+</tr>
+
+</tbody>
+</table>
+</div>
+
+
+<!--#include virtual="/_/includes/2.shtml" -->
