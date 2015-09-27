@@ -348,126 +348,179 @@ section {
           text-align: center;
         }
       }
-      .user_info {
-        .dt;
-        margin: 0 0 @basic_offset;
-        > * {
-          .dtc;
-        }
-        .photo {
-          width: 1px;
-          @media (max-width: 700px) {
-            .db;
-            width: auto;
-            text-align: center;
-          }
-          @media (max-width: 400px) {
-            width: 100%;
-
-            img {
-              width: 100%;
-              height: auto;
-            }
-          }
-          figure {
-            position: relative;
-            .dib;
-            max-width: 100%;
-            margin: 0 0 @basic_offset;
-            border-radius: 5px;
-            font-size: 0px;
-            border: 1px solid #e0e0e0;
-            img {
-              .db;
-              max-width: 100%;
-              height: auto;
-
-              border-radius: 4px;
-            }
-            .icon_32_party {
-              position: absolute;
-              left: 10px;
-              bottom: 10px;
-            }
-          }
-        }
-
-        > .info {
-          padding-left: @basic_offset * 1.5;
-          font-size: @font_size_md;
-          @media (max-width: 700px) {
-            .db;
-            padding-left: 0;
-          }
-          > p {
-            margin: 0 0 @basic_offset;
-          }
-          > h1 {
-            margin: 0 0 @basic_offset/2;
-          }
-          .overall {
-            font-size: @font_size_lg;
-          }
-          .estate {
-            b {
-              position: relative;
-              margin: @basic_offset/2 5px @basic_offset/2 0;
-              font-size: 30px;
-              cursor: default;
-              &:hover {
-                opacity: .7;
-              }
-              .dib;
-              i {
-                float: right;
-                margin: -4px 0 0 0;
-                font-size: 12pt;
-                font-style: normal;
-              }
-              &.buildings {
-                color: @grey;
-              }
-              &.lands {
-                color: @brown;
-              }
-              &.goods {
-                color: @violet;
-              }
-            }
-          }
-          .verdict {
-            position: relative;
-            padding: 0 0 0 50px;
-            color: @text_color;
-            &:before {
-              .icon;
-              position: absolute;
-              left: 0;
-              font-size: 22pt;
-
-            }
-            &.positive {
-              color: desaturate(darken(@green, 10%), 10%);
-              &:before {
-                color:@green;
-                content: '';
-              }
-            }
-            &.negative {
-              color: desaturate(darken(@red, 10%), 10%);
-              &:before {
-                color:@red;
-                content: '\e82f';
-              }
-            }
-          }
-        }
-      }
-
-
     }
   }
 }
+.user_visual {
+  .dt;
+  margin: 0 0 @basic_offset;
+  > * {
+    .dtc;
+  }
+  .left {
+    width: 1px;
+    @media (max-width: 700px) {
+      .db;
+      width: auto;
+      margin-bottom: @basic_offset/2;
+      text-align: center;
+    }
+    @media (max-width: 400px) {
+      width: 100%;
+
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+    figure {
+      position: relative;
+      .dib;
+      max-width: 100%;
+      margin: 0;
+      border-radius: 5px;
+      font-size: 0px;
+      border: 1px solid #e0e0e0;
+      img {
+        .db;
+        max-width: 100%;
+        height: auto;
+
+        border-radius: 4px;
+      }
+      .icon_32_party {
+        position: absolute;
+        left: 10px;
+        bottom: 10px;
+      }
+    }
+  }
+  .right {
+    padding-left: @basic_offset * 1.5;
+    font-size: @font_size_md;
+    @media (max-width: 700px) {
+      .db;
+      padding-left: 0;
+    }
+  }
+  .graph {
+    margin-top: -6px;
+    height: 270px
+  }
+  .estate {
+    text-align: center;
+    b {
+      position: relative;
+      display: inline-block;
+      width: 27%;
+      margin: @basic_offset/2 5px @basic_offset/2 0;
+      font-size: 30px;
+      text-align: center;
+      cursor: default;
+      &:hover {
+        opacity: .7;
+      }
+      .dib;
+      i {
+        font-size: 10pt;
+        font-weight: normal;
+        font-style: normal;
+        vertical-align: top;
+      }
+      &.buildings {
+        color: @grey;
+      }
+      &.lands {
+        color: @brown;
+      }
+      &.goods {
+        color: @violet;
+      }
+    }
+  }
+}
+.user_description {
+  .dt;
+  > * {
+    .dtc;
+    &.left {
+      width: 66%;
+      @media (max-width: 700px) {
+        .db;
+        width: auto;
+        margin-bottom: @basic_offset/2;
+      }
+      @media (max-width: 400px) {
+        width: 100%;
+
+      }
+    }
+    &.right {
+      padding-left: @basic_offset;
+      @media (max-width: 700px) {
+        .db;
+        margin-bottom: @basic_offset/2;
+        padding-left: 0;
+      }
+    }
+  }
+  p {
+    margin: 0 0 @basic_offset;
+  }
+  .overall {
+    font-size: @font_size_md;
+  }
+
+  .verdict {
+    position: relative;
+    padding: 0 0 0 50px;
+    font-size: @font_size_md;
+    color: @text_color;
+    &:before {
+      .icon;
+      position: absolute;
+      top: 6px;
+      left: 0;
+      font-size: 22pt;
+
+    }
+    &.positive {
+      color: desaturate(darken(@green, 10%), 10%);
+      &:before {
+        color: @green;
+        content: '';
+      }
+    }
+    &.negative {
+      color: desaturate(darken(@red, 10%), 10%);
+      &:before {
+        color: @red;
+        content: '\e82f';
+      }
+    }
+  }
+  .links {
+
+    font-size: @font_size_md;
+    color: @dgrey;
+    > * {
+      position: relative;
+      display: block;
+      margin-bottom: @basic_offset/2;
+      padding-left: 70px;
+      > a {
+        position: absolute;
+        left: 0;
+        top: 0;
+        > i {
+          margin-right: 2px;
+          font-size: 16px;
+        }
+      }
+    }
+  }
+}
+
 .declarations_list {
   margin: 25px 0 0;
   color:@dgrey;

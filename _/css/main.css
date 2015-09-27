@@ -289,104 +289,145 @@ section.person article .social {
     text-align: center;
   }
 }
-section.person article .user_info {
+.user_visual {
   display: table;
   width: 100%;
   margin: 0 0 20px;
 }
-section.person article .user_info > * {
+.user_visual > * {
   display: table-cell;
   vertical-align: top;
 }
-section.person article .user_info .photo {
+.user_visual .left {
   width: 1px;
 }
 @media (max-width: 700px) {
-  section.person article .user_info .photo {
+  .user_visual .left {
     display: block;
     width: auto;
+    margin-bottom: 10px;
     text-align: center;
   }
 }
 @media (max-width: 400px) {
-  section.person article .user_info .photo {
+  .user_visual .left {
     width: 100%;
   }
-  section.person article .user_info .photo img {
+  .user_visual .left img {
     width: 100%;
     height: auto;
   }
 }
-section.person article .user_info .photo figure {
+.user_visual .left figure {
   position: relative;
   display: inline-block;
   max-width: 100%;
-  margin: 0 0 20px;
+  margin: 0;
   border-radius: 5px;
   font-size: 0px;
   border: 1px solid #e0e0e0;
 }
-section.person article .user_info .photo figure img {
+.user_visual .left figure img {
   display: block;
   max-width: 100%;
   height: auto;
   border-radius: 4px;
 }
-section.person article .user_info .photo figure .icon_32_party {
+.user_visual .left figure .icon_32_party {
   position: absolute;
   left: 10px;
   bottom: 10px;
 }
-section.person article .user_info > .info {
+.user_visual .right {
   padding-left: 30px;
   font-size: 11pt;
 }
 @media (max-width: 700px) {
-  section.person article .user_info > .info {
+  .user_visual .right {
     display: block;
     padding-left: 0;
   }
 }
-section.person article .user_info > .info > p {
-  margin: 0 0 20px;
+.user_visual .graph {
+  margin-top: -6px;
+  height: 270px;
 }
-section.person article .user_info > .info > h1 {
-  margin: 0 0 10px;
+.user_visual .estate {
+  text-align: center;
 }
-section.person article .user_info > .info .overall {
-  font-size: 13pt;
-}
-section.person article .user_info > .info .estate b {
+.user_visual .estate b {
   position: relative;
+  width: 27%;
   margin: 10px 5px 10px 0;
   font-size: 30px;
+  text-align: center;
   cursor: default;
   display: inline-block;
 }
-section.person article .user_info > .info .estate b:hover {
+.user_visual .estate b:hover {
   opacity: .7;
 }
-section.person article .user_info > .info .estate b i {
-  float: right;
-  margin: -4px 0 0 0;
-  font-size: 12pt;
+.user_visual .estate b i {
+  font-size: 10pt;
+  font-weight: normal;
   font-style: normal;
+  vertical-align: top;
 }
-section.person article .user_info > .info .estate b.buildings {
+.user_visual .estate b.buildings {
   color: #888888;
 }
-section.person article .user_info > .info .estate b.lands {
+.user_visual .estate b.lands {
   color: #805e4e;
 }
-section.person article .user_info > .info .estate b.goods {
+.user_visual .estate b.goods {
   color: #676596;
 }
-section.person article .user_info > .info .verdict {
+.user_description {
+  display: table;
+  width: 100%;
+}
+.user_description > * {
+  display: table-cell;
+  vertical-align: top;
+}
+.user_description > *.left {
+  width: 66%;
+}
+@media (max-width: 700px) {
+  .user_description > *.left {
+    display: block;
+    width: auto;
+    margin-bottom: 10px;
+  }
+}
+@media (max-width: 400px) {
+  .user_description > *.left {
+    width: 100%;
+  }
+}
+.user_description > *.right {
+  padding-left: 20px;
+}
+@media (max-width: 700px) {
+  .user_description > *.right {
+    display: block;
+    margin-bottom: 10px;
+    padding-left: 0;
+  }
+}
+.user_description p {
+  margin: 0 0 20px;
+}
+.user_description .overall {
+  font-size: 11pt;
+}
+.user_description .verdict {
   position: relative;
   padding: 0 0 0 50px;
+  font-size: 11pt;
   color: #444444;
 }
-section.person article .user_info > .info .verdict:before {
+.user_description .verdict:before {
   font-family: "promis_integritate";
   font-style: normal;
   font-weight: normal;
@@ -401,22 +442,42 @@ section.person article .user_info > .info .verdict:before {
   line-height: 1em;
   margin-left: .2em;
   position: absolute;
+  top: 6px;
   left: 0;
   font-size: 22pt;
 }
-section.person article .user_info > .info .verdict.positive {
+.user_description .verdict.positive {
   color: #477944;
 }
-section.person article .user_info > .info .verdict.positive:before {
+.user_description .verdict.positive:before {
   color: #4fa64a;
   content: '';
 }
-section.person article .user_info > .info .verdict.negative {
+.user_description .verdict.negative {
   color: #883f3f;
 }
-section.person article .user_info > .info .verdict.negative:before {
+.user_description .verdict.negative:before {
   color: #b74343;
   content: '\e82f';
+}
+.user_description .links {
+  font-size: 11pt;
+  color: #555555;
+}
+.user_description .links > * {
+  position: relative;
+  display: block;
+  margin-bottom: 10px;
+  padding-left: 70px;
+}
+.user_description .links > * > a {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.user_description .links > * > a > i {
+  margin-right: 2px;
+  font-size: 16px;
 }
 .declarations_list {
   margin: 25px 0 0;

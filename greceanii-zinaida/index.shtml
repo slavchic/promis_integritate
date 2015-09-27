@@ -6,40 +6,45 @@
 
 <!-----start----------include virtual="/_/includes/person1.shtml" -->
 
-		<div class="user_info">
-			<!--#if expr="$nophoto" --><!--#else -->
-			<div class="photo">
-				<figure><!--#if expr="$party" --><a class="icon_32_party" title="<!--#echo encoding="none" var="party" -->"><b class="<!--#echo var="partyuri" -->"></b></a><!--#endif -->
-					<img src="http://www.promis.md/_images/p/<!--#echo var="personuri" -->.jpg" alt="<!--#if expr="$name2" --><!--#echo encoding="none" var="name2" --><!--#else --><!--#echo encoding="none" var="title" --><!--#endif --><!--#if expr="$partyabbr" --> (<!--#echo encoding="none" var="partyabbr" -->)<!--#endif -->" title="<!--#if expr="$name2" --><!--#echo encoding="none" var="name2" --><!--#else --><!--#echo encoding="none" var="title" --><!--#endif --><!--#if expr="$partyabbr" --> (<!--#echo encoding="none" var="partyabbr" -->)<!--#endif -->" width="280" height="210"></figure>
-			</div>
-			<!--#endif -->
-			<div class="info">
-				<!--#include virtual="/_/includes/social.shtml" -->
-				<h1><!--#echo encoding="none" var="title" --><small><!--#echo encoding="none" var="prof" --></small></h1>
-				<p class="overall">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, accusantium alias autem consectetur culpa cumque dignissimos dolores doloribus enim hic illum in ipsam ipsum iusto magni nostrum omnis, optio pariatur praesentium quae quasi quia quibusdam rem sint suscipit tempore temporibus. Adipisci aliquam assumenda consequatur distinctio dolorum eaque expedita fugit inventore, ipsam iure, minus nihil odit optio pariatur placeat, praesentium sit sunt. Dolore ipsum neque nihil officiis quisquam, tempora velit! Libero!</p>
-				<p class="estate">
-					<b class="buildings icon-home" title="Un dom"></b>
-					<b class="buildings icon-home" title="Un dom"></b>
-					<b class="buildings icon-home" title="Cinci domuri"><i>5</i></b>
-					<b class="buildings icon-business_office" title="Apartament"></b>
-					<b class="buildings icon-business_office" title="Apartament"></b>
-					<b class="buildings icon-business_office" title="12 Apartamente"><i>12</i></b>
-					<b class="lands icon-livestyle_map" title="Un teren agricol"></b>
-					<b class="lands icon-livestyle_map" title="4 terenuri agricol"><i>4</i></b>
-					<b class="goods icon-livestyle_car" title="O maşina"></b>
-					<b class="goods icon-livestyle_car" title="O maşina"></b>
-					<b class="goods icon-livestyle_car" title="O maşina"></b>
-					<b class="goods icon-livestyle_car" title="O maşina"></b>
-					<b class="goods icon-livestyle_car" title="44 maşine"><i>44</i></b>
-				</p>
-				<p class="verdict negative">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet aut blanditiis culpa deleniti deserunt dicta dolorem ea facilis, inventore ipsam iusto laboriosam nostrum, obcaecati officiis possimus rerum sint tempore vitae voluptatum! Debitis deleniti illo laudantium magni maiores nostrum quas suscipit. At ea, expedita in incidunt minus porro quae ullam.</p>
-			</div>
+<!--#include virtual="/_/includes/social.shtml" -->
+<h1><!--#echo encoding="none" var="title" -->
+	<small><!--#echo encoding="none" var="prof" --></small>
+</h1>
+<div class="user_visual">
+	<!--#if expr="$nophoto" --><!--#else -->
+	<div class="left">
+		<figure><!--#if expr="$party" --><a class="icon_32_party" title="<!--#echo encoding="none" var="party" -->"><b class="<!--#echo var="partyuri" -->"></b></a><!--#endif -->
+			<img src="http://www.promis.md/_images/p/<!--#echo var="personuri" -->.jpg" alt="<!--#if expr="$name2" --><!--#echo encoding="none" var="name2" --><!--#else --><!--#echo encoding="none" var="title" --><!--#endif --><!--#if expr="$partyabbr" --> (<!--#echo encoding="none" var="partyabbr" -->)<!--#endif -->" title="<!--#if expr="$name2" --><!--#echo encoding="none" var="name2" --><!--#else --><!--#echo encoding="none" var="title" --><!--#endif --><!--#if expr="$partyabbr" --> (<!--#echo encoding="none" var="partyabbr" -->)<!--#endif -->" width="280" height="210"></figure>
+		<div class="estate">
+			<b class="buildings icon-business_office" title="12 Apartamente"><i>x12</i></b>
+			<b class="lands icon-livestyle_map" title="4 terenuri agricol"><i>x4</i></b>
+			<b class="goods icon-livestyle_car" title="44 maşine"><i>x44</i></b>
 		</div>
+	</div>
+	<!--#endif -->
+	<div class="right">
+		<div class="graph" id="flot_container"></div>
+	</div>
+</div>
 
 <!-----end-----------include virtual="/_/includes/person1.shtml" -->
 
+<div class="user_description">
+	<div class="left">
+		<p class="overall">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, accusantium alias autem consectetur culpa cumque dignissimos dolores doloribus enim hic illum in ipsam ipsum iusto magni nostrum omnis, optio pariatur praesentium quae quasi quia quibusdam rem sint suscipit tempore temporibus. Adipisci aliquam assumenda consequatur distinctio dolorum eaque expedita fugit inventore, ipsam iure, minus nihil odit optio pariatur placeat, praesentium sit sunt. Dolore ipsum neque nihil officiis quisquam, tempora velit! Libero!</p>
+		<p class="verdict negative">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet aut blanditiis culpa deleniti deserunt dicta dolorem ea facilis, inventore ipsam iusto laboriosam nostrum, obcaecati officiis possimus rerum sint tempore vitae voluptatum! Debitis deleniti illo laudantium magni maiores nostrum quas suscipit. At ea, expedita in incidunt minus porro quae ullam.</p>
+	</div>
+	<div class="right">
+		<div class="links">
+			<span><a href="#"><i class="icon-data_doc_pdf"></i>2009</a>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, sed</span>
+			<span><a href="#"><i class="icon-data_doc_pdf"></i>2010</a>Parlamentul Republicii Moldova</span>
+			<span><a href="#"><i class="icon-data_doc_pdf"></i>2011</a>Parlamentul Republicii Moldova</span>
+			<span><a href="#"><i class="icon-data_doc_pdf"></i>2012</a>Parlamentul Republicii Moldova</span>
+			<span><a href="#"><i class="icon-data_doc_pdf"></i>2013</a>Parlamentul Republicii Moldova</span>
+		</div>
+	</div>
 
-<div class="graphic" id="flot_container" style="height:210px"></div>
+</div>
 
 
 <script type="text/javascript">
