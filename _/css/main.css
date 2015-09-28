@@ -358,9 +358,9 @@ section.person article .social {
 .user_visual .estate b {
   position: relative;
   width: 27%;
-  margin: 10px 5px 10px 0;
+  margin: 10px 0 10px 5px;
   font-size: 30px;
-  text-align: center;
+  text-align: left;
   cursor: default;
   display: inline-block;
 }
@@ -368,10 +368,12 @@ section.person article .social {
   opacity: .7;
 }
 .user_visual .estate b i {
-  font-size: 10pt;
+  display: inline-block;
+  margin-top: -4px;
+  font-size: 12pt;
   font-weight: normal;
   font-style: normal;
-  vertical-align: top;
+  vertical-align: middle;
 }
 .user_visual .estate b.buildings {
   color: #888888;
@@ -386,18 +388,20 @@ section.person article .social {
   display: table;
   width: 100%;
 }
+.user_description h4 {
+  margin: 0 0 20px;
+  font-weight: 500;
+  font-size: 13pt;
+}
 .user_description > * {
   display: table-cell;
   vertical-align: top;
-}
-.user_description > *.left {
-  width: 66%;
 }
 @media (max-width: 700px) {
   .user_description > *.left {
     display: block;
     width: auto;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
 }
 @media (max-width: 400px) {
@@ -405,13 +409,23 @@ section.person article .social {
     width: 100%;
   }
 }
+.user_description > *.left .wrapper {
+  width: 280px;
+}
+@media (max-width: 700px) {
+  .user_description > *.left .wrapper {
+    width: auto;
+  }
+}
 .user_description > *.right {
-  padding-left: 20px;
+  width: 70%;
+  padding-left: 4%;
+  border-left: 1px solid #cccccc;
 }
 @media (max-width: 700px) {
   .user_description > *.right {
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     padding-left: 0;
   }
 }
@@ -461,23 +475,16 @@ section.person article .social {
   content: '\e82f';
 }
 .user_description .links {
-  font-size: 11pt;
+  font-size: 10pt;
   color: #555555;
 }
 .user_description .links > * {
-  position: relative;
   display: block;
-  margin-bottom: 10px;
-  padding-left: 70px;
 }
-.user_description .links > * > a {
-  position: absolute;
-  left: 0;
-  top: 0;
-}
-.user_description .links > * > a > i {
-  margin-right: 2px;
-  font-size: 16px;
+.user_description .links > * + * {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #cccccc;
 }
 .declarations_list {
   margin: 25px 0 0;
@@ -613,6 +620,7 @@ section.person article .social {
   min-width: 180px;
   border-collapse: collapse;
   table-layout: fixed;
+  border: 1px solid rgba(204, 204, 204, 0.6);
   color: rgba(0, 0, 0, 0.5);
 }
 @media (max-width: 420px) {
@@ -1191,6 +1199,11 @@ a.local:hover {
 }
 .alpha100 {
   opacity: 1;
+}
+@media (max-width: 700px) {
+  .hide_mobile {
+    display: none !important;
+  }
 }
 .icon {
   font-family: "promis_integritate";

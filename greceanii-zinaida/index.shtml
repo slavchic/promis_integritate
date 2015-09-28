@@ -31,18 +31,21 @@
 
 <div class="user_description">
 	<div class="left">
+		<div class="wrapper">
+			<h4><i class="icon-data_doc_pdf"></i> Surse al declaratii</h4>
+			<div class="links">
+				<span><a href="#">2009, Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, sed</a></span>
+				<span><a href="#">2010-2011, Parlamentul Republicii Moldova</a></span>
+				<span><a href="#">2011, Parlamentul Republicii Moldova</a></span>
+				<span><a href="#">2012, Parlamentul Republicii Moldova</a></span>
+			</div>
+		</div>
+	</div>
+	<div class="right">
 		<p class="overall">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, accusantium alias autem consectetur culpa cumque dignissimos dolores doloribus enim hic illum in ipsam ipsum iusto magni nostrum omnis, optio pariatur praesentium quae quasi quia quibusdam rem sint suscipit tempore temporibus. Adipisci aliquam assumenda consequatur distinctio dolorum eaque expedita fugit inventore, ipsam iure, minus nihil odit optio pariatur placeat, praesentium sit sunt. Dolore ipsum neque nihil officiis quisquam, tempora velit! Libero!</p>
 		<p class="verdict negative">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet aut blanditiis culpa deleniti deserunt dicta dolorem ea facilis, inventore ipsam iusto laboriosam nostrum, obcaecati officiis possimus rerum sint tempore vitae voluptatum! Debitis deleniti illo laudantium magni maiores nostrum quas suscipit. At ea, expedita in incidunt minus porro quae ullam.</p>
 	</div>
-	<div class="right">
-		<div class="links">
-			<span><a href="#"><i class="icon-data_doc_pdf"></i>2009</a>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, sed</span>
-			<span><a href="#"><i class="icon-data_doc_pdf"></i>2010</a>Parlamentul Republicii Moldova</span>
-			<span><a href="#"><i class="icon-data_doc_pdf"></i>2011</a>Parlamentul Republicii Moldova</span>
-			<span><a href="#"><i class="icon-data_doc_pdf"></i>2012</a>Parlamentul Republicii Moldova</span>
-			<span><a href="#"><i class="icon-data_doc_pdf"></i>2013</a>Parlamentul Republicii Moldova</span>
-		</div>
-	</div>
+
 
 </div>
 
@@ -1224,7 +1227,7 @@
 	<div class="declaration">
 		<div class="top">
 			<div class="year"><h2>2008</h2></div>
-			<div class="result" style="color:#b74343"><!--#echo encoding="none" var="lastyear1" --><!--#echo var="lastyear" --><!--#echo encoding="none" var="lastyear2" --></div>
+			<div class="result" style="color:#b74343"><!--#echo encoding="none" var="lastyear1" --><!--#echo var="lastyear" --><span class="hide_mobile"><!--#echo encoding="none" var="lastyear2" --></span></div>
 		</div>
 		<div class="cont">
 			<div class="buildings">
