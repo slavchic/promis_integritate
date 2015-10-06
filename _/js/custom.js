@@ -104,6 +104,10 @@ $(function () {
   })
 
   function simple_name_format(s) {
+	return s.toLowerCase().replace(/ş/g, 's').replace(/ţ/g, 't').replace(/î/g, 'i').replace(/ă/g, 'a').replace(/ă/g, 'a'); // format your data for normalization
+  }
+
+  function simple_name_format_z(s) {
 	return s.toLowerCase().replace(/ş/g, 'sz').replace(/ţ/g, 'tz').replace(/î/g, 'iz').replace(/ă/g, 'az').replace(/ă/g, 'az'); // format your data for normalization
   }
 
@@ -113,7 +117,7 @@ $(function () {
 	is: function (s) {
 	  return false;// return false so this parser is not auto detected
 	},
-	format: simple_name_format,
+	format: simple_name_format_z,
 	type: 'text' // set type, either numeric or text
   });
 
@@ -185,7 +189,7 @@ $(function () {
 
 
   // plot init
-  if (user_data) {
+  if (typeof user_data != 'undefined') {
 	var min_year = 99999, max_year = 0, max_money = 0;
 	for (var i = 0; i < user_data.length; i++) {
 	  var d = user_data[i].data,
@@ -238,11 +242,13 @@ $(function () {
 	  },
 	  legend: {
 		labelFormatter: function (label, series) {
-		  return "<div style='padding-left:6px;'> " + label + "</div>"
+		  return "<span style='padding:0 10px 0 3px;'> " + label + "</span>"
 		},
 		//sorted: "accending",
-		show: false,
-		position: "nw",
+		noColumns:15,
+		show: true,
+		//position: "ne",
+		container: "#flot_legend",
 		backgroundOpacity: .3
 	  }
 	};

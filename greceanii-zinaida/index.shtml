@@ -16,35 +16,47 @@
 		<figure><!--#if expr="$party" --><a class="icon_32_party" title="<!--#echo encoding="none" var="party" -->"><b class="<!--#echo var="partyuri" -->"></b></a><!--#endif -->
 			<img src="http://www.promis.md/_images/p/<!--#echo var="personuri" -->.jpg" alt="<!--#if expr="$name2" --><!--#echo encoding="none" var="name2" --><!--#else --><!--#echo encoding="none" var="title" --><!--#endif --><!--#if expr="$partyabbr" --> (<!--#echo encoding="none" var="partyabbr" -->)<!--#endif -->" title="<!--#if expr="$name2" --><!--#echo encoding="none" var="name2" --><!--#else --><!--#echo encoding="none" var="title" --><!--#endif --><!--#if expr="$partyabbr" --> (<!--#echo encoding="none" var="partyabbr" -->)<!--#endif -->" width="280" height="210"></figure>
 		<div class="estate">
-			<b class="buildings icon-business_office" title="12 Apartamente"><i>x12</i></b>
-			<b class="lands icon-livestyle_map" title="4 terenuri agricol"><i>x4</i></b>
-			<b class="goods icon-livestyle_car" title="44 maşine"><i>x44</i></b>
+			<!--<b class="buildings small icon-business_office" title="12 Apartamente"><i>x333</i></b>-->
+			<b class="buildings icon-business_office" title="12 Apartamente"><i>x1</i></b>
+			<b class="lands icon-livestyle_map" title="4 terenuri agricol"><i>x1</i></b>
+			<!--<b class="lands disabled icon-livestyle_map" title="4 terenuri agricol"><i>x0</i></b>-->
+			<b class="goods icon-livestyle_car" title="3 maşine"><i>x1</i></b>
 		</div>
 	</div>
 	<!--#endif -->
 	<div class="right">
 		<div class="graph" id="flot_container"></div>
+		<div class="graph_legend" id="flot_legend"></div>
 	</div>
 </div>
 
 <!-----end-----------include virtual="/_/includes/person1.shtml" -->
 
 <div class="user_description">
-	<div class="left">
-		<div class="wrapper">
-			<h4><i class="icon-data_doc_pdf"></i> Surse al declaratii</h4>
-			<div class="links">
-				<span><a href="#">2009, Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, sed</a></span>
-				<span><a href="#">2010-2011, Parlamentul Republicii Moldova</a></span>
-				<span><a href="#">2011, Parlamentul Republicii Moldova</a></span>
-				<span><a href="#">2012, Parlamentul Republicii Moldova</a></span>
-			</div>
-		</div>
-	</div>
-	<div class="right">
-		<p class="overall">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, accusantium alias autem consectetur culpa cumque dignissimos dolores doloribus enim hic illum in ipsam ipsum iusto magni nostrum omnis, optio pariatur praesentium quae quasi quia quibusdam rem sint suscipit tempore temporibus. Adipisci aliquam assumenda consequatur distinctio dolorum eaque expedita fugit inventore, ipsam iure, minus nihil odit optio pariatur placeat, praesentium sit sunt. Dolore ipsum neque nihil officiis quisquam, tempora velit! Libero!</p>
-		<p class="verdict negative">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet aut blanditiis culpa deleniti deserunt dicta dolorem ea facilis, inventore ipsam iusto laboriosam nostrum, obcaecati officiis possimus rerum sint tempore vitae voluptatum! Debitis deleniti illo laudantium magni maiores nostrum quas suscipit. At ea, expedita in incidunt minus porro quae ullam.</p>
-	</div>
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> Declaraţii în original</th></tr>
+<tr><td><a href="/pdf/greceanii-zinaida-2014-parlament.pdf">2014</a>, <a href="/pdf/greceanii-zinaida-2013-parlament.pdf">2013</a>, <a href="/pdf/greceanii-zinaida-2012-parlament.pdf">2012</a>, <a href="/pdf/greceanii-zinaida-2011-parlament.pdf">2011</a>, <a href="/pdf/greceanii-zinaida-2010-parlament.pdf">2010</a>, <a href="/pdf/greceanii-zinaida-2009-parlament.pdf">2009</a><br>Sursa: Parlamentul Republicii Moldova</td></tr>
+<tr><td><a href="/pdf/greceanii-zinaida-2013-2014-psrm-cecc.pdf">2013-2014</a><br>Consiliul Electoral de Circumscripţie</td></tr>
+<tr><td><a href="/pdf/greceanii-zinaida-2012-2013-psrm-cec.pdf">2012-2013</a>, <a href="/pdf/greceanii-zinaida-2008-2009-pcrm-cec.pdf">2008-2009</a>, <a href="/pdf/greceanii-zinaida-2007-2008-pcrm-cec.pdf">2007-2008</a><br>Comisia Electorală Centrală</td></tr>
+<tr><td>Interese: <a href="/pdf/greceanii-zinaida-interese-2014-parlament.pdf">2014</a>, <a href="/pdf/greceanii-zinaida-interese-2013-cni.pdf">2013</a>, <a href="/pdf/greceanii-zinaida-interese-2012-cni.pdf">2012</a><br>Parlamentul, Comisia Naţională de Integritate</td></tr>
+</table>
+</div></div>
+
+<div class="right">
+<p class="overall">
+<b>Veniturile, proprietăţile şi interesele Zinaidei Grecianîi, deputat în Parlamentul Republicii Moldova</b><br>
+Informaţia prezentată reflectă declaraţiile de venit şi interese ale demnitarului pentru anii 2009–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare. În perioada respectivă, Zinaida Greceanîi a deţinut mai multe funcţii publice, printre care cea de viceprim-ministru (2005–2008) şi prim-ministru (2008–2009). Începând cu anul 2009 a ocupat funcţia de deputat în Parlamentul Republicii Moldova, în anii 2009–2011 fiind membru al fracţiunii PCRM, iar din 2011 şi până în prezent este membru al fracţiunii PSRM. În tot acest răstimp, Zinaida Greceanîi nu a fost membrul vreunui partid.<br><br>
+În prezent, familia Zinaidei Greceanîi este posesoarea următoarelor bunuri imobile şi mobile: o casă de locuit în mun. Chişinău, un teren agricol în s. Cotiujeni, r-nul Briceni şi un automobil Volkswagen LT 28. Demnitarul mai are un credit în lei, contractat în 2004 cu rata dobânzii de 12–17% şi scadent în 2017. În proprietatea familiei Greceanîi se află şi ÎI “Greceanîi Alexei” (fondată în 2001).
+</p>
+
+<p class="verdict negative">
+<b>Nereguli depistate la declararea veniturilor şi proprietăţilor în baza informaţiilor prezentate</b><br>
+Zinaida Greceanîi nu a indicat în declaraţia din 2011 că a dobândit un automobil (Volkswagen LT 28) în acelaşi an. Începând cu anul 2012, când a inclus pentru prima dată în lista bunurilor deţinute un teren agricol, nu a declarat vreodată valoarea cadastrală a acestuia. Până în 2014, nu a indicat în vreo declaraţie anterioară că familia Greceanîi deţine în proprietate integrală ÎI “Greceanîi Alexei”, fondată în 2001.
+</p>
+
+</div>
 
 
 </div>
@@ -64,7 +76,7 @@
 			]
 		},
 		{
-			label: "Cladiri", bars: {order: 2},
+			label: "Clădiri", bars: {order: 2},
 			data: [
 				[2008, 1232000],
 				[2009, 1232000],

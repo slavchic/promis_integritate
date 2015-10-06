@@ -29,9 +29,16 @@ pageTracker._trackPageview();
 </script>
 <!--#endif -->
 
-<!--#if expr="$SERVER_NAME != /integritate/" -->
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "f025b0c5-af44-42f6-ae6b-441f6ccf7890", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<!--#if expr="$SERVER_NAME != /integritate3/" -->
+	<!--#if expr="$root" -->
+		<!-- root page share buttons -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-560a7dcafcb5e90d" async="async"></script>
+	<!--#else -->
+		<!-- user page share buttons -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-546eac641c41ca72" async="async"></script>
+	<!--#endif -->
+<!--<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>-->
+<!--<script type="text/javascript">stLight.options({publisher: "f025b0c5-af44-42f6-ae6b-441f6ccf7890", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>-->
 <!--#endif -->
 
 </body>

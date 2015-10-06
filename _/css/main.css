@@ -104,15 +104,21 @@ body footer {
 }
 .social {
   float: right;
-  padding: 0 !important;
+  padding: 0 0 0 5px !important;
 }
 .social .stButton .chicklets,
-.social .stButton .stLarge {
+.social .stButton .stLarge,
+.social .addthis_sharing_toolbox {
   opacity: .65 !important;
 }
 .social .stButton .chicklets:hover,
-.social .stButton .stLarge:hover {
+.social .stButton .stLarge:hover,
+.social .addthis_sharing_toolbox:hover {
   opacity: 1 !important;
+}
+.social .at-share-tbx-element .at-share-btn {
+  border-radius: 3px;
+  margin-left: 3px;
 }
 .social * {
   box-sizing: content-box;
@@ -128,7 +134,7 @@ section h1 small {
   line-height: 18pt;
   font-size: 11pt;
   font-weight: normal;
-  color: #777777;
+  color: #888888;
 }
 section h2 {
   font-size: 22pt;
@@ -183,7 +189,7 @@ section header > div p {
 }
 section article {
   padding: 20px;
-  font-size: 12px;
+  font-size: 9pt;
   background: #fff;
 }
 section article:after,
@@ -349,16 +355,26 @@ section.person article .social {
   }
 }
 .user_visual .graph {
-  margin-top: -6px;
-  height: 270px;
+  margin: -6px 0 7px;
+  height: 230px;
+}
+.user_visual .graph_legend {
+  text-align: center;
+}
+.user_visual .graph_legend .legendLabel {
+  font-size: 9pt;
+  color: #888888;
+}
+.user_visual .graph_legend table {
+  display: inline-table;
 }
 .user_visual .estate {
   text-align: center;
 }
 .user_visual .estate b {
   position: relative;
-  width: 27%;
-  margin: 10px 0 10px 5px;
+  width: 26%;
+  margin: 10px 0 10px 10px;
   font-size: 30px;
   text-align: left;
   cursor: default;
@@ -375,6 +391,9 @@ section.person article .social {
   font-style: normal;
   vertical-align: middle;
 }
+.user_visual .estate b.small i {
+  font-size: 9pt;
+}
 .user_visual .estate b.buildings {
   color: #888888;
 }
@@ -383,6 +402,10 @@ section.person article .social {
 }
 .user_visual .estate b.goods {
   color: #676596;
+}
+.user_visual .estate b.disabled {
+  opacity: .5;
+  color: #cccccc;
 }
 .user_description {
   display: table;
@@ -397,6 +420,9 @@ section.person article .social {
   display: table-cell;
   vertical-align: top;
 }
+.user_description > *.left {
+  width: 1px;
+}
 @media (max-width: 700px) {
   .user_description > *.left {
     display: block;
@@ -410,17 +436,22 @@ section.person article .social {
   }
 }
 .user_description > *.left .wrapper {
-  width: 280px;
+  width: 282px;
 }
 @media (max-width: 700px) {
   .user_description > *.left .wrapper {
     width: auto;
   }
 }
+.user_description > *.left .table {
+  color: #888888;
+}
+.user_description > *.left .table [class^=icon] {
+  font-size: 13pt;
+  color: #cccccc;
+}
 .user_description > *.right {
-  width: 70%;
-  padding-left: 4%;
-  border-left: 1px solid #cccccc;
+  padding-left: 40px;
 }
 @media (max-width: 700px) {
   .user_description > *.right {
@@ -473,18 +504,6 @@ section.person article .social {
 .user_description .verdict.negative:before {
   color: #b74343;
   content: '\e82f';
-}
-.user_description .links {
-  font-size: 10pt;
-  color: #555555;
-}
-.user_description .links > * {
-  display: block;
-}
-.user_description .links > * + * {
-  margin-top: 10px;
-  padding-top: 10px;
-  border-top: 1px solid #cccccc;
 }
 .declarations_list {
   margin: 25px 0 0;

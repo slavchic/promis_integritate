@@ -38,7 +38,7 @@ Veniturile, proprietăţile şi interesele <!--#if expr="$sex" -->lui <!--#echo 
 <!--#endif --></p></div>
 </header>
 
-<!--#if expr="$SERVER_NAME != /integritate/" -->
+<!--#if expr="$SERVER_NAME != /integritate3/" -->
 <!--<script src="//sharebutton.net/plugin/sharebutton.vertical.js"></script>-->
 <!--#endif -->
 	<article>
