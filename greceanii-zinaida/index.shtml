@@ -18,7 +18,7 @@
 		<div class="estate">
 			<!--<b class="buildings small icon-business_office" title="12 Apartamente"><i>x333</i></b>-->
 			<b class="buildings icon-business_office" title="12 Apartamente"><i>x1</i></b>
-			<b class="lands icon-livestyle_map" title="4 terenuri agricol"><i>x1</i></b>
+			<b class="lands icon-puzzle" title="4 terenuri agricol"><i>x1</i></b>
 			<!--<b class="lands disabled icon-livestyle_map" title="4 terenuri agricol"><i>x0</i></b>-->
 			<b class="goods icon-livestyle_car" title="3 maşine"><i>x1</i></b>
 		</div>
@@ -211,7 +211,7 @@ Zinaida Greceanîi nu a indicat în declaraţia din 2011 că a dobândit un auto
 					<col style="width: 23%">
 					<thead>
 						<tr>
-							<th colspan="3"><span class="icon-livestyle_map"></span> <!--#echo encoding="none" var="t3" --></th>
+							<th colspan="3"><span class="icon-puzzle"></span> <!--#echo encoding="none" var="t3" --></th>
 						</tr>
 						<tr>
 							<td><!--#echo encoding="none" var="t3t1ad" --></td>
