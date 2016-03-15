@@ -1,0 +1,40 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/ghimpu-mihai-interese-2014-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unităţii</th>
+<th>Calitatea deţinută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Legislativ</td>
+<td>Parlamentul Republicii Moldova</td>
+<td>Deputat</td>
+<td class="acenter">159,356.81&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Politic</td>
+<td>Partidul Liberal</td>
+<td>Preşedinte</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Eurosim S.R.L.&nbsp;<span class="grey">(2000)</span></td>
+<td>Asociat</td>
+<td class="acenter">176,208.00&nbsp;MDL</td>
+<td class="acenter">1/3</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Tirex Petrol S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">210.00&nbsp;MDL</td>
+<td class="acenter">35 acţiuni</td>
+</tr>
+</table></div>
+</div>

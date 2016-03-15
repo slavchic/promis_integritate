@@ -1,0 +1,23 @@
+<!--#include virtual="/_/includes/social.shtml" --><h1><!--#echo encoding="none" var="title" -->
+<small><!--#if expr="$prof2" --><!--#echo encoding="none" var="prof2" --><!--#else --><!--#echo encoding="none" var="prof" --><!--#endif -->
+<!--#if expr="$prof2" --><!--#else --><!--#if expr="$party" --> (<abbr title="<!--#echo encoding="none" var="party" -->"><!--#echo encoding="none" var="partyabbr" --></abbr>)<!--#endif --><!--#endif -->
+</small></h1>
+<div class="user_visual">
+<!--#if expr="$nophoto" --><!--#else -->
+<div class="left">
+<figure>
+<!--#if expr="$party" --><a class="icon_32_party" title="<!--#echo encoding="none" var="party" -->"><b class="<!--#echo var="partyuri" -->"></b></a><!--#endif -->
+<img src="http://www.promis.md/_images/p/<!--#echo var="personuri" -->.jpg" alt="<!--#if expr="$name2" --><!--#echo encoding="none" var="name2" --><!--#else --><!--#echo encoding="none" var="title" --><!--#endif --><!--#if expr="$partyabbr" --> (<!--#echo encoding="none" var="partyabbr" -->)<!--#endif -->" title="<!--#if expr="$name2" --><!--#echo encoding="none" var="name2" --><!--#else --><!--#echo encoding="none" var="title" --><!--#endif --><!--#if expr="$partyabbr" --> (<!--#echo encoding="none" var="partyabbr" -->)<!--#endif -->" width="280" height="210">
+</figure>
+<div class="estate">
+<b class="buildings <!--#if expr="$nbuild<1" -->disabled <!--#endif --><!--#if expr="$sbuild>0" -->small <!--#endif -->icon-business_office"><i>x<!--#echo var="nbuild" --></i></b>
+<b class="lands <!--#if expr="$nlands<1" -->disabled <!--#endif --><!--#if expr="$slands>0" -->small <!--#endif -->icon-th-large"><i>x<!--#echo var="nlands" --></i></b>
+<b class="goods <!--#if expr="$ngoods<1" -->disabled <!--#endif --><!--#if expr="$sgoods>0" -->small <!--#endif -->icon-livestyle_car"><i>x<!--#echo var="ngoods" --></i></b>
+</div>
+</div>
+<!--#endif -->
+<div class="right">
+<div class="graph" id="flot_container"></div>
+<div class="graph_legend" id="flot_legend"></div>
+</div>
+</div>

@@ -1,0 +1,28 @@
+<div class="user_description">
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
+<tr><td><a href="/pdf/bride-stephane-2014-cni.pdf">2014</a><br>Sursa: Comisia Naţională de Integritate</td></tr>
+<tr><td>Interese: <a href="/pdf/bride-stephane-interese-2014-cni.pdf">2014</a><br>Comisia Naţională de Integritate</td></tr>
+</table>
+
+<br><table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tactecni" --></th></tr>
+<tr><td><a href="/pdf/cni/bride-stephane-act-cni-2015-08-06.pdf">Nr. 04/266 din 06.08.2015</a></td></tr>
+</table>
+
+</div></div>
+
+<div class="right">
+
+<p class="overall">
+Declaraţiile de venit şi interese ale lui Stephane Bride pentru anul 2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+</p>
+<!--#if expr="$ddd" -->
+<p class="verdict negative">
+<b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+</p>
+<!--#endif -->
+</div>
+</div>

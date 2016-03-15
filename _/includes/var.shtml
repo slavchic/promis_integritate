@@ -1,0 +1,85 @@
+<!--#set var="mdl" value="lei" -->
+
+<!--#set var="t1" value="Venituri" -->
+<!--#set var="t1t1" value="Sursa venitului" -->
+
+<!--#if expr="$sex" -->
+<!--#set var="t1t2" value="Titular<br><small>mii lei</small>" -->
+<!--#else -->
+<!--#set var="t1t2" value="Titulara<br><small>mii lei</small>" -->
+<!--#endif -->
+
+<!--#set var="t1t3" value="Soţie<br><small>mii lei</small>" -->
+<!--#set var="t1t3a" value="Soţ<br><small>mii lei</small>" -->
+<!--#set var="t1t3c" value="Copii<br><small>mii lei</small>" -->
+<!--#set var="t1t4" value="Suma<br><small>mii lei</small>" -->
+<!--#set var="t11" value="Salariu" -->
+<!--#set var="t12" value="Activitatea didactică" -->
+<!--#set var="t13" value="Activitatea ştiinţifică / de creaţie" -->
+<!--#set var="t14" value="Depuneri inst. financiare" -->
+<!--#set var="t15" value="Reprezentant al statului în SC" -->
+<!--#set var="t16" value="Donaţii / moşteniri" -->
+<!--#set var="t17" value="Valori mob. / cote părţi SC" -->
+<!--#set var="t18" value="Înstrăinarea bunurilor" -->
+<!--#set var="t19" value="Alte surse" -->
+
+<!--#set var="t2" value="Clădiri" -->
+<!--#set var="t2t1" value="Categoria<br><small>/ anul dobândirii</small>" -->
+<!--#set var="t2t2" value="Suprafaţa<br><small>m2</small>" -->
+<!--#set var="t2t3" value="Valoarea<br><small>mii lei</small>" -->
+<!--#set var="t21" value="Apartament" -->
+<!--#set var="t22" value="Casă de locuit" -->
+<!--#set var="t23" value="Vilă" -->
+<!--#set var="t24" value="Spaţiu comercial" -->
+<!--#set var="t25" value="Garaj" -->
+<!--#set var="t26" value="Altele" -->
+
+<!--#set var="t3" value="Terenuri" -->
+<!--#set var="t3t1ad" value="Categoria<br><small>/ anul dobândirii, cantitatea</small>" -->
+<!--#set var="t3t1" value="Categoria<br><small>cantitatea</small>" -->
+<!--#set var="t3t2" value="Suprafaţa<br><small>ha</small>" -->
+<!--#set var="t3t3" value="Valoarea<br><small>mii lei</small>" -->
+<!--#set var="t31" value="Agricol" -->
+<!--#set var="t32" value="Forestier" -->
+<!--#set var="t33" value="Intravilan" -->
+<!--#set var="t34" value="Extravilan" -->
+<!--#set var="t35" value="Altele" -->
+
+<!--#set var="t4" value="Bunuri mobile" -->
+<!--#set var="t4t1ad" value="Marca<br><small>(anul producerii) / anul dobândirii</small>" -->
+<!--#set var="t4t1" value="Marca<br><small>(anul producerii)</small>" -->
+<!--#set var="t4t2" value="Valoarea<br><small>mii lei</small>" -->
+
+<!--#set var="t5" value="Active financiare" -->
+<!--#set var="t5t1" value="Conturi bancare<br><small>valuta, numărul de conturi</small>" -->
+<!--#set var="t5t2" value="Suma<br><small>mii</small>" -->
+<!--#set var="t51" value="USD" -->
+<!--#set var="t52" value="Euro" -->
+<!--#set var="t53" value="MDL" -->
+<!--#set var="t54" value="Altele" -->
+
+<!--#set var="t6" value="Datorii" -->
+<!--#set var="t6t1ad" value="Împrumuturi, credite<br><small>valuta / anul contractării</small>" -->
+<!--#set var="t6t1" value="Împrumuturi, credite<br><small>valuta</small>" -->
+<!--#set var="t6t2" value="Suma<br><small>mii</small>" -->
+<!--#set var="t61" value="USD" -->
+<!--#set var="t62" value="Euro" -->
+<!--#set var="t63" value="MDL" -->
+
+<!--#set var="lastyear1" value="Informaţii privind proprietăţile deţinute la finele anului " -->
+
+<!--#if expr="$sex" -->
+<!--#set var="lastyear2" value="Tabel completat în baza declaraţiilor depuse de către titular în anii următori." -->
+<!--#else -->
+<!--#set var="lastyear2" value="Tabel completat în baza declaraţiilor depuse de către titulara în anii următori." -->
+<!--#endif -->
+
+<!--#set var="tarenda" value="arenda" -->
+<!--#set var="tmandat" value="mandat" -->
+
+<!--#set var="tdocoriginal" value="vezi Declaraţia în original" -->
+<!--#set var="tinteresoriginal" value="vezi Declaraţia de interese în original" -->
+
+<!--#set var="tdocsoriginal" value="Declaraţii în original" -->
+<!--#set var="tnereguli" value="Nereguli depistate la declararea veniturilor şi proprietăţilor în baza informaţiilor prezentate" -->
+<!--#set var="tactecni" value="Acte de constatare CNI" -->

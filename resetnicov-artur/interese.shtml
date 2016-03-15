@@ -1,0 +1,33 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/resetnicov-artur-interese-2014-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unităţii</th>
+<th>Calitatea deţinută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Legislativ</td>
+<td>Parlamentul Republicii Moldova</td>
+<td>Deputat</td>
+<td class="acenter">221,130.21&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Politic</td>
+<td>Partidul Comuniştilor din Republica Moldova</td>
+<td>Secretar executiv al CC, membru al Comitetului Central, membru al Comitetului Executiv Politic</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Servicii (turism)</td>
+<td>Cansur-Com S.R.L.&nbsp;<span class="grey">(2003)</span></td>
+<td>Asociat (soţia)</td>
+<td class="acenter">2,700.00&nbsp;MDL</td>
+<td class="acenter">50%</td>
+</tr>
+</table></div>
+</div>

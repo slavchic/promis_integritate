@@ -1,0 +1,28 @@
+<div class="user_description">
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
+<tr><td><a href="/pdf/dragutanu-dorin-2014-bnm.pdf">2014</a>, <a href="/pdf/dragutanu-dorin-2013-bnm.pdf">2013</a>, <a href="/pdf/dragutanu-dorin-2012-bnm.pdf">2012</a>, <a href="/pdf/dragutanu-dorin-2011-bnm.pdf">2011</a>, <a href="/pdf/dragutanu-dorin-2010-bnm.pdf">2010</a>, <a href="/pdf/dragutanu-dorin-2009-bnm.pdf">2009</a><br>Sursa: Banca Naţională a Moldovei</td></tr>
+<tr><td>Interese: <a href="/pdf/dragutanu-dorin-interese-2014-bnm.pdf">2014</a>, <a href="/pdf/dragutanu-dorin-interese-2013-bnm.pdf">2013</a>, <a href="/pdf/dragutanu-dorin-interese-2012-bnm.pdf">2012</a>, <a href="/pdf/dragutanu-dorin-interese-2011-bnm.pdf">2011</a><br>Banca Naţională a Moldovei</td></tr>
+</table>
+
+<br><table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tactecni" --></th></tr>
+<tr><td><a href="/pdf/cni/dragutanu-dorin-act-cni-2015-04-16.pdf">Nr. 03/146 din 16.04.2015</a></td></tr>
+</table>
+
+</div></div>
+
+<div class="right">
+
+<p class="overall">
+Declaraţiile de venit şi interese ale lui Dorin Drăguţanu pentru anii 2011–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+</p>
+<!--#if expr="$ddd" -->
+<p class="verdict negative">
+<b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+</p>
+<!--#endif -->
+</div>
+</div>

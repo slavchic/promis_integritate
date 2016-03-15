@@ -1,0 +1,32 @@
+<div class="user_description">
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
+<tr><td><a href="/pdf/chirtoaca-dorin-2014-chisinau.pdf">2014</a>, <a href="/pdf/chirtoaca-dorin-2011-chisinau.pdf">2011</a>, <a href="/pdf/chirtoaca-dorin-2010-chisinau.pdf">2010</a>, <a href="/pdf/chirtoaca-dorin-2009-chisinau.pdf">2009</a><br>Sursa: Primăria mun. Chişinău</td></tr>
+<tr><td><a href="/pdf/chirtoaca-dorin-2013-cni.pdf">2013</a><br>Comisia Naţională de Integritate</td></tr>
+<tr><td><a href="/pdf/chirtoaca-dorin-2007-interese-vedere.pdf">2007</a><br>Interese la vedere</td></tr>
+<tr><td><a href="/pdf/chirtoaca-dorin-2013-2014-pl-cecc.pdf">2013-2014</a>, <a href="/pdf/chirtoaca-dorin-2009-2010-pl-cecc.pdf">2019-2010</a><br>Consiliul Electoral de Circumscripţie</td></tr>
+<tr><td><a href="/pdf/chirtoaca-dorin-2012-2013-pl-cec.pdf">2012-2013</a>, <a href="/pdf/chirtoaca-dorin-2007-2008-pl-cec.pdf">2007-2008</a><br>Comisia Electorală Centrală</td></tr>
+<tr><td>Interese: <a href="/pdf/chirtoaca-dorin-interese-2014-chisinau.pdf">2014</a>, <a href="/pdf/chirtoaca-dorin-interese-2013-cni.pdf">2013</a>, <a href="/pdf/chirtoaca-dorin-interese-2012-cni.pdf">2012</a><br>Primăria, Comisia Naţională de Integritate</td></tr>
+</table>
+
+<br><table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tactecni" --></th></tr>
+<tr><td><a href="/pdf/cni/chirtoaca-dorin-act-cni-2015-07-30.pdf">Nr. 04/258 din 30.07.2015</a></td></tr>
+</table>
+
+</div></div>
+
+<div class="right">
+
+<p class="overall">
+Declaraţiile de venit şi interese ale lui Dorin Chirtoacă pentru anii 2009–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+</p>
+<!--#if expr="$ddd" -->
+<p class="verdict negative">
+<b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+</p>
+<!--#endif -->
+</div>
+</div>

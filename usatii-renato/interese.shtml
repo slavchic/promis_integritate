@@ -1,0 +1,33 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/usatii-renato-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Public</td>
+<td>Primăria municipiului Bălţi</td>
+<td>Primar</td>
+<td class="acenter">8,600.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Politic</td>
+<td>Partidul Nostru</td>
+<td>Preşedinte</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Caritate</td>
+<td>Fundaţia “Renato Usatîi”</td>
+<td>Membru fondator</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

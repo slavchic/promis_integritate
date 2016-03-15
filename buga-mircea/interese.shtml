@@ -1,0 +1,61 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/buga-mircea-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Executiv</td>
+<td>Ministerul Muncii, Protecţiei Sociale şi Familiei</td>
+<td>Ministru</td>
+<td class="acenter">9,585.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Didactic</td>
+<td>USMF “Nicolae Testemiţanu”</td>
+<td>Conferenţiar universitar</td>
+<td class="acenter">1,604.70&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Rareş Medfarm S.R.L.&nbsp;<span class="grey">(2001)</span></td>
+<td>Asociat unic (soţia)</td>
+<td class="acenter">5,400.00&nbsp;MDL</td>
+<td class="acenter">100%</td>
+</tr>
+<tr>
+<td>Producere</td>
+<td>Mezon S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">100.00&nbsp;MDL</td>
+<td class="acenter">10 acţiuni</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Botanica S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">3.00&nbsp;MDL</td>
+<td class="acenter">3 acţiuni</td>
+</tr>
+<tr>
+<td>Producere</td>
+<td>Combinatul Poligrafic “Tipar Color” S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">10.00&nbsp;MDL</td>
+<td class="acenter">1 acţiune</td>
+</tr>
+<tr>
+<td><s>Public</s></td>
+<td><s>Compania Naţională de Asigurări în Medicină</s></td>
+<td><s>Director general</s></td>
+<td class="acenter"><s>242,214.26&nbsp;MDL</s></td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

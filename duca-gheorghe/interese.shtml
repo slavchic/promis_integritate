@@ -1,0 +1,47 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/duca-gheorghe-interese-2013-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Public</td>
+<td>Academia de Ştiinţe a Moldovei</td>
+<td>Preşedinte</td>
+<td class="acenter">148,749.87&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Didactic</td>
+<td>Universitatea de Stat din Moldova</td>
+<td>Profesor universitar</td>
+<td class="acenter">74,138.35&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Didactic</td>
+<td>Universitatea Academiei de Ştiinţe a Moldovei</td>
+<td>Conducător de doctorat</td>
+<td class="acenter">45,276.03&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Ştiinţific</td>
+<td>Institutul de Chimie al Academiei de Ştiinţe a Moldovei</td>
+<td>Cercetător ştiinţific</td>
+<td class="acenter">55,641.50&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td><s>Producere</s></td>
+<td><s>Avantchim S.R.L.&nbsp;<span class="grey">(2008)</span></s></td>
+<td><s>Asociat</s></td>
+<td class="acenter">-</td>
+<td class="acenter"><s>10%</s></td>
+</tr>
+</table></div>
+</div>

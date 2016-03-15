@@ -1,0 +1,73 @@
+<section class="person">
+<div class="wrap">
+<article>
+<div class="fright rating"><span class="fleft mt5"><!--#echo encoding="none" var="textcurrentratingperson" --></span><b><i class="icon-chart-bar"></i><!--#echo encoding="none" var="rating" --></b></div><h1><!--#echo encoding="none" var="title" --></h1>
+<figure>
+<!--#if expr="$party" --><a href="/partide/<!--#echo var="partyuri" -->/" class="icon_32_party" title="<!--#echo encoding="none" var="party" -->"><i class="<!--#echo var="partyuri" -->"></i></a><!--#endif --><img src="/_images/p/<!--#echo var="personuri" -->.jpg" alt="<!--#echo encoding="none" var="title" --><!--#if expr="$partyabbr" --> (<!--#echo encoding="none" var="partyabbr" -->)<!--#endif -->" title="<!--#echo encoding="none" var="title" --><!--#if expr="$partyabbr" --> (<!--#echo encoding="none" var="partyabbr" -->)<!--#endif -->" width="280" height="210">
+</figure>
+<div class="info"><img src="/_images/g/<!--#echo var="personuri" -->.png" width=650 height=100 class="graphic" alt="<!--#echo encoding="none" var="textcurrentrating" -->: <!--#echo var="rating" -->" title="<!--#echo encoding="none" var="textcurrentrating" -->: <!--#echo var="rating" -->">
+<ul class="left">
+<li><i class="icon-suitcase" title="<!--#echo encoding="none" var="function" -->"></i><!--#echo encoding="none" var="functiont" --></li>
+<!--#if expr="$party" --><li><i class="icon-flag" title="<!--#echo encoding="none" var="pa" -->"></i><!--#if expr="$pa1" --><!--#echo encoding="none" var="pa1" --><!--#endif --><a href="/partide/<!--#echo var="partyuri" -->/"><!--#if expr="$pa1" --><!--#echo encoding="none" var="pa2" --><!--#else --><!--#echo encoding="none" var="party" --><!--#endif --></a> (<!--#echo encoding="none" var="partyabbr" -->)</li><!--#endif -->
+<!--#if expr="$edut" --><li><i class="icon-graduation-cap" title="<!--#echo encoding="none" var="edu" -->"></i><!--#echo encoding="none" var="edut" --></li><!--#endif -->
+<li><i class="icon-home" title="<!--#echo encoding="none" var="dateofbirth" -->"></i><!--#echo encoding="none" var="dateofbirtht" --></li>
+
+<!--#if expr="$marriedt" --><li><i class="icon-family" title="<!--#echo encoding="none" var="married" -->"></i><!--#echo encoding="none" var="marriedt" --></li><!--#endif -->
+<!--#if expr="$bio" --><li class="full_biography"><i class="icon-clock-2"></i><a href="#" onClick="show_hide('biography'); toggle_class(this, 'active'); return false"><!--#echo encoding="none" var="fullbio" --></a></li><!--#endif -->
+
+</ul>
+<div class="right">
+<!--#if expr="$importantar" -->
+<!--<h3><!--#echo encoding="none" var="notamedie" --></h3>-->
+<table cellspacing="2" class="stats">
+<tr>
+<th title="<!--#echo encoding="none" var="importantaf" -->"><!--#echo encoding="none" var="importanta" --></th>
+<td><div class="stats_bar"><div style="width:<!--#echo var="importantar" -->%" title="<!--#echo var="importantar" -->%"></div></div></td>
+</tr>
+<tr>
+<th title="<!--#echo encoding="none" var="coerentaf" -->"><!--#echo encoding="none" var="coerenta" --></th>
+<td><div class="stats_bar"><div style="width:<!--#echo var="coerentar" -->%" title="<!--#echo var="coerentar" -->%"></div></div></td>
+</tr>
+<tr>
+<th title="<!--#echo encoding="none" var="originalitateaf" -->"><!--#echo encoding="none" var="originalitatea" --></th>
+<td><div class="stats_bar"><div style="width:<!--#echo var="originalitatear" -->%" title="<!--#echo var="originalitatear" -->%"></div></div></td>
+</tr>
+<tr>
+<th title="<!--#echo encoding="none" var="credibilitateaf" -->"><!--#echo encoding="none" var="credibilitatea" --></th>
+<td><div class="stats_bar"><div style="width:<!--#echo var="credibilitatear" -->%" title="<!--#echo var="credibilitatear" -->%"></div></div></td>
+</tr>
+</table>
+<!--#endif -->
+
+<!--#if expr="$links" -->
+<!--#include virtual="/_/links.shtml" -->
+<!--#endif -->
+
+</div>
+</div>
+
+<!--#if expr="$bio" -->
+<!--#include virtual="/persoane/${personuri}/bio.shtml" -->
+<!--#endif -->
+
+</article>
+</div>
+</section>
+<section class="element_list" id="element_list">
+<div class="wrap">
+<!--#if expr="$numdocs" -->
+<aside class="filters"><!--#if expr="$nodocs" --><!--#else --><h3><!--#echo encoding="none" var="texteventsfilter" --></h3>
+
+<!--#include virtual="/_/person-events.shtml" -->
+
+<!--#endif --></aside>
+<!--#endif -->
+
+<!--#if expr="$numdocs" -->
+<h2><!--#if expr="$promises" --><!--#echo encoding="none" var="textdocs" --><!--#else --><!--#echo encoding="none" var="textdocspromises" --><!--#endif --> <!--#echo encoding="none" var="title" --> (<span id="total_declarations_txt"><!--#echo var="numdocs" --></span>)</h2>
+<!--#endif -->
+
+<!--#include virtual="/_/docs.shtml" -->
+
+</div>
+</section>

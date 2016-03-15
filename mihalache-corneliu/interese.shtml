@@ -1,0 +1,33 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/mihalache-corneliu-interese-2014-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Legislativ</td>
+<td>Parlamentul Republicii Moldova</td>
+<td>Deputat</td>
+<td class="acenter">9,720.00&nbsp;MDL&nbsp;/&nbsp;lună</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Public</td>
+<td>Asociaţia Obştească “Transform Moldova”</td>
+<td>Preşedinte</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td><s>Editorial</s></td>
+<td><s>Moldova Independentă S.R.L.</s></td>
+<td><s>Redactor-şef</s></td>
+<td class="acenter"><s>14,000.00</s></td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

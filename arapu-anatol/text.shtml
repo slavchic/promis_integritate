@@ -1,0 +1,31 @@
+<div class="user_description">
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
+<tr><td><a href="/pdf/arapu-anatol-2014-cni.pdf">2014</a>, <a href="/pdf/arapu-anatol-2013-cni.pdf">2013</a><br>Sursa: Comisia Naţională de Integritate</td></tr>
+<tr><td>Interese: <a href="/pdf/arapu-anatol-interese-2014-cni.pdf">2014</a>, <a href="/pdf/arapu-anatol-interese-2013-cni.pdf">2013</a><br>Comisia Naţională de Integritate</td></tr>
+</table>
+
+<br><table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tactecni" --></th></tr>
+<tr><td><a href="/pdf/cni/arapu-anatol-act-cni-2014-01-30.pdf">Nr. 03/11 din 30.01.2014</a></td></tr>
+</table>
+
+</div></div>
+
+<div class="right">
+
+<p class="overall">
+Declaraţiile de venit şi interese ale lui Anatol Arapu pentru anii 2013–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare. În perioada 2013–2015, Anatol Arapu a fost ministru al finanţelor în trei guverne succesive (Leancă, Gaburici şi Streleţ), fiind propus în această funcţie de Partidul Liberal Democrat din Moldova.<br>
+Anterior a mai ocupat funcţii publice, printre care cea de ambasador al Republicii Moldova pe lângă Uniunea Europeană, NATO, Belgia, Olanda şi Luxemburg şi ministru al finanţelor în Guvernul Ciubuc 2 şi Guvernul Sturza (anii 1998–1999).<br><br>
+Conform declaraţiilor depuse de Anatol Arapu, familia acestuia este posesoarea următoarelor bunuri imobile şi mobile: 2 apartamente, o casă de locuit, 2 terenuri intravilane, un garaj şi 3 automobile: un Mercedes ML 350, un Mitsubishi Outlander şi un Volkswagen Passat. Demnitarul mai are un credit în dolari, contractat în 2006 la rata Libor şi scadent în 2016.
+</p>
+
+<p class="verdict negative">
+<b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+În declaraţiile din 2013 şi 2014, Anatol Arapu nu a raportat la capitolul venituri dobânzile încasate în anii respectivi la depozitele bancare deţinute în valută străină. În 2013, demnitarul a introdus valoarea dobânzilor exclusiv la rubrica active financiare, pe când în 2014 nu a specificat în mod expres valoarea acestora, indicând doar rata dobânzilor.
+</p>
+
+</div>
+</div>

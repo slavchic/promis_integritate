@@ -1,0 +1,47 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/beleacova-elena-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unităţii</th>
+<th>Calitatea deţinută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Public</td>
+<td>Biroul Relaţii Interetnice</td>
+<td>Director general</td>
+<td class="acenter">136,085.63&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Maorix-Com S.R.L.&nbsp;<span class="grey">(2001)</span></td>
+<td>Asosiat</td>
+<td class="acenter">-</td>
+<td class="acenter">0.003%</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Liga-2 S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">-</td>
+<td class="acenter">30 acţiuni</td>
+</tr>
+<tr>
+<td><s>Comerţ</s></td>
+<td><s>Belforo S.R.L.&nbsp;<span class="grey">(2007)</span></s></td>
+<td><s>Asosiat</s></td>
+<td class="acenter"><s>2,646.00&nbsp;MDL</s></td>
+<td class="acenter"><s>49%</s></td>
+</tr>
+<tr>
+<td><s>Comerţ</s></td>
+<td><s>Panel-Sistem S.R.L.&nbsp;<span class="grey">(2004)</span></s></td>
+<td><s>Asosiat</s></td>
+<td class="acenter">-</td>
+<td class="acenter"><s>50%</s></td>
+</tr>
+</table></div>
+</div>

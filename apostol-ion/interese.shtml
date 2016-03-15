@@ -1,0 +1,54 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/apostol-ion-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unităţii</th>
+<th>Calitatea deţinută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Legislativ</td>
+<td>Parlamentul Republicii Moldova</td>
+<td>Deputat</td>
+<td class="acenter">9,585.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Politic</td>
+<td>Partidul Liberal</td>
+<td>Secretar General</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Optimal-Impex S.R.L.&nbsp;<span class="grey">(2008)</span></td>
+<td>Asociat unic</td>
+<td class="acenter">5,400.00&nbsp;MDL</td>
+<td class="acenter">100%</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Grinap S.R.L. (Federaţia Rusă)&nbsp;<span class="grey">(2008)</span></td>
+<td>Asociat</td>
+<td class="acenter">6,000.00&nbsp;RUB</td>
+<td class="acenter">50%</td>
+</tr>
+<tr>
+<td>Investiţii</td>
+<td>DAAC Hermes S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">304.00&nbsp;MDL</td>
+<td class="acenter">304 acţiuni</td>
+</tr>
+<tr>
+<td>Investiţii</td>
+<td>York-Invest S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">288.00&nbsp;MDL</td>
+<td class="acenter">288 acţiuni</td>
+</tr>
+</table></div>
+</div>

@@ -1,0 +1,31 @@
+<div class="user_description">
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
+<tr><td><a href="/pdf/postoico-maria-2014-parlament.pdf">2014</a>, <a href="/pdf/postoico-maria-2012-parlament.pdf">2012</a>, <a href="/pdf/postoico-maria-2011-parlament.pdf">2011</a>, <a href="/pdf/postoico-maria-2010-parlament.pdf">2010</a>, <a href="/pdf/postoico-maria-2009-parlament.pdf">2009</a><br>Sursa: Parlamentul Republicii Moldova</td></tr>
+<tr><td><a href="/pdf/postoico-maria-2013-cni.pdf">2013</a><br>Comisia Naţională de Integritate</td></tr>
+<tr><td><a href="/pdf/postoico-maria-2007-avere-la-vedere.pdf">2007</a><br>Interese la vedere</td></tr>
+<tr><td><a href="/pdf/postoico-maria-2012-2013-pcrm-cec.pdf">2012-2013</a>, <a href="/pdf/postoico-maria-2008-2009-cec.pdf">2008-2009</a>, <a href="/pdf/postoico-maria-2007-2008-pcrm-cec.pdf">2007-2008</a><br>Comisia Electorală Centrală</td></tr>
+<tr><td>Interese: <a href="/pdf/postoico-maria-interese-2014-parlament.pdf">2014</a>, <a href="/pdf/postoico-maria-interese-2013-cni.pdf">2013</a>, <a href="/pdf/postoico-maria-interese-2012-cni.pdf">2012</a><br>Parlamentul, Comisia Naţională de Integritate</td></tr>
+</table>
+
+<br><table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tactecni" --></th></tr>
+<tr><td><a href="/pdf/cni/postoico-maria-act-cni-2014-10-02.pdf">Nr. 03/192 din 02.10.2014</a></td></tr>
+</table>
+
+</div></div>
+
+<div class="right">
+
+<p class="overall">
+Declaraţiile de venit şi interese ale Mariei Postoico pentru anii 2007–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+</p>
+<!--#if expr="$ddd" -->
+<p class="verdict negative">
+<b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+</p>
+<!--#endif -->
+</div>
+</div>

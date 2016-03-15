@@ -1,0 +1,26 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/lupu-lidia-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Legislativ</td>
+<td>Parlamentul Republicii Moldova</td>
+<td>Deputat</td>
+<td class="acenter">9,585.00&nbsp;MDL&nbsp;/&nbsp;lună</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Politic</td>
+<td>Partidul Socialiştilor din Republica Moldova</td>
+<td>Preşedintele OT Hînceşti, membru al Consiliului Republican</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

@@ -1,0 +1,61 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/cebanu-ion-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Producere</td>
+<td>Mina din Chişinău S.A.</td>
+<td>Director</td>
+<td class="acenter">129,794.19&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Politic</td>
+<td>Partidul Liberal</td>
+<td>Preşedintele Tineretului Liberal</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Servicii</td>
+<td>Alexiostud S.R.L.&nbsp;<span class="grey">(2008)</span></td>
+<td>Asociat</td>
+<td class="acenter">-</td>
+<td class="acenter">50%</td>
+</tr>
+<tr>
+<td><s>Public</s></td>
+<td><s>Agenţia Moldsilva</s></td>
+<td><s>Director general</s></td>
+<td class="acenter"><s>7,150.00&nbsp;MDL</s></td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td><s>Executiv</s></td>
+<td><s>Ministerul Tineretului şi Sportului</s></td>
+<td><s>Ministru</s></td>
+<td class="acenter"><s>116,295.68&nbsp;MDL</s></td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td><s>Didactic</s></td>
+<td><s>USPEE “Constantin Stere”</s></td>
+<td><s>Lector universitar</s></td>
+<td class="acenter"><s>2,280.00&nbsp;MDL</s></td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td><s>Public</s></td>
+<td><s>Asociaţia Obştească “Optimus”</s></td>
+<td><s>Membru fondator</s></td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

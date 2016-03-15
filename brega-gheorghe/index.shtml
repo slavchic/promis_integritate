@@ -1,0 +1,855 @@
+<!--#set var="title" value="Gheorghe Brega" -->
+<!--#set var="personuri" value="gheorghe-brega" -->
+<!--#include virtual="/_/includes/1.shtml" -->
+<!--#include virtual="/_/includes/person1.shtml" -->
+<!--#include virtual="text.shtml" -->
+
+<script type="text/javascript">
+var user_data = [
+{
+label: "Venituri", bars: {order: 1},
+data: [
+[2009, 112609.50],
+[2010, 132910.48],
+[2011, 182478.62],
+[2012, 201983.40],
+[2013, 277408.93],
+[2014, 328393.70]
+]},
+{label: "Cladiri", bars: {order: 2},
+data: [
+[2008, 807000],
+[2009, 807000],
+[2010, 807000],
+[2011, 707000],
+[2012, 707000],
+[2013, 353500],
+[2014, 353500]
+]},
+{label: "Terenuri", bars: {order: 3},
+data: [
+[2008, 75000],
+[2009, 75000],
+[2010, 75000],
+[2011, 75000],
+[2012, 75000],
+[2013, 37500],
+[2014, 37500]
+]},
+{label: "Bunuri mobile", bars: {order: 4},
+data: [
+[2008, 92953.12],
+[2009, 92953.12],
+[2010, 62953.12],
+[2011, 62953.12],
+[2012, 62953.12],
+[2013, 62953.12],
+[2014, 62953.12]
+]},
+{label: "Active financiare", bars: {order: 5},
+data: [
+[2014, 0]
+]},
+{label: "Datorii", bars: {order: 6},
+data: [
+[2013, 0]
+]}
+];
+</script>
+
+<div class="declarations_list">
+
+<div class="declaration" id="d2014">
+
+<div class="top">
+<div class="year"><h2>2014</h2>&nbsp;<a href="/pdf/brega-gheorghe-2014-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+328,393.70</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t13" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t19" --></span></span>
+</td>
+<td class="value">
+<span class="pos">155.5<b></b></span>
+<span class="pos">9.0<b></b></span>
+<span class="pos">118.9<b></b></span>
+</td>
+<td class="value">
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+<span class="pos">45.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">328,393.70 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1978</span><i>½</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t25" --> / 1994</span><i>½</i></span>
+</td>
+<td class="quantity">
+<span>78.0</span>
+<span>24.0</span>
+</td>
+<td class="value">
+<span>640.0<b class="warning grey"><i>1</i></b></span>
+<span>67.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">353,500.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t34" --> / 1989</span><i>½</i></span>
+</td>
+<td class="quantity">
+<span>0.06</span>
+</td>
+<td class="value">
+<span>75.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">37,500.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Opel Astra (1998) / 1998</span></span>
+</td>
+<td class="value">
+<span>63.0<b class="warning grey"><i>2</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">62,953.12 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<ol>
+<li>În tabel este indicată valoarea cadastrală integrală a apartamentului, garajului şi a terenului. Datele privind valoarea proprietăţilor deţinute de titular (din grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
+<li>Valoarea automobilului Opel Astra (24,000 mărci germane) este calculată în lei la cursul BNM din 30.06.1998, pe baza <a class="local" href="#d2011">Declaraţiei 2011</a>.
+</ol>
+</div>
+
+</div>
+
+<!--#include virtual="interese.shtml" -->
+
+<!--2013-->
+
+<div class="declaration" id="d2013">
+
+<div class="top">
+<div class="year"><h2>2013</h2>&nbsp;<a href="/pdf/brega-gheorghe-2013-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+277,408.93</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t13" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t19" --></span></span>
+</td>
+<td class="value">
+<span class="pos">144.2<b></b></span>
+<span class="pos">17.3<b></b></span>
+<span class="pos">72.8<b></b></span>
+</td>
+<td class="value">
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+<span class="pos">43.2<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">277,408.93 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1978</span><i>½</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t25" --> / 1994</span><i>½</i></span>
+</td>
+<td class="quantity">
+<span>78.0</span>
+<span>24.0</span>
+</td>
+<td class="value">
+<span>640.0<b></b></span>
+<span>67.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">353,500.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t34" --> / 1989</span><i>½</i></span>
+</td>
+<td class="quantity">
+<span>0.06</span>
+</td>
+<td class="value">
+<span>75.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">37,500.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Opel Astra (1998) / 1998</span></span>
+</td>
+<td class="value">
+<span>63.0<b class="warning grey"><i>1</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">62,953.12 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<ol>
+<li>Valoarea automobilului Opel Astra (24,000 mărci germane) este calculată în lei la cursul BNM din 30.06.1998, pe baza <a class="local" href="#d2011">Declaraţiei 2011</a>.
+</ol>
+</div>
+
+</div>
+
+<!--2012-->
+
+<div class="declaration" id="d2012">
+
+<div class="top">
+<div class="year"><h2>2012</h2>&nbsp;<a href="/pdf/brega-gheorghe-2012-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+201,983.40</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t13" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t19" --></span></span>
+</td>
+<td class="value">
+<span class="pos">131.7<b></b></span>
+<span class="pos">12.2<b></b></span>
+<span class="pos">19.7<b></b></span>
+</td>
+<td class="value">
+<span>&nbsp;</span>
+<span>&nbsp;</span>
+<span class="pos">38.4<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">201,983.40 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1978</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t25" --> / 1994</span></span>
+</td>
+<td class="quantity">
+<span>78.0</span>
+<span>24.0</span>
+</td>
+<td class="value">
+<span>640.0<b></b></span>
+<span>67.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">707,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t34" --> / 1989</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.06</span>
+</td>
+<td class="value">
+<span>75.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">75,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Opel Astra (1998) / 1998</span></span>
+</td>
+<td class="value">
+<span>63.0<b class="warning grey"><i>1</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">62,953.12 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<ol>
+<li>Valoarea automobilului Opel Astra (24,000 mărci germane) este calculată în lei la cursul BNM din 30.06.1998, pe baza <a class="local" href="#d2011">Declaraţiei 2011</a>.
+</ol>
+</div>
+
+</div>
+
+<!--2011-->
+
+<div class="declaration" id="d2011">
+
+<div class="top">
+<div class="year"><h2>2011</h2>&nbsp;<a href="/pdf/brega-gheorghe-2011-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+182,478.62</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t4" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><!--#echo encoding="none" var="t11" --></span>
+<span><b></b><!--#echo encoding="none" var="t13" --></span>
+<span><b></b><!--#echo encoding="none" var="t15" --></span>
+<span><b></b><!--#echo encoding="none" var="t19" --></span>
+</td>
+<td class="value">
+<span class="pos">133.4<b></b></span>
+<span class="pos">8.4<b></b></span>
+<span class="pos">3.0<b></b></span>
+<span class="pos">37.7<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">182,478.62 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1978</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t25" --> / 1994</span></span>
+</td>
+<td class="quantity">
+<span>78.0</span>
+<span>24.0</span>
+</td>
+<td class="value">
+<span>640.0<b></b></span>
+<span>67.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">707,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t34" --> / 1989</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.06</span>
+</td>
+<td class="value">
+<span>75.0<b class="warning grey"><i>1</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">75,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Opel Astra (1998) / 1998</span></span>
+</td>
+<td class="value">
+<span>63.0<b class="warning grey"><i>2</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">62,953.12 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
+<ol>
+<li>Valoarea terenului extravilan este preluată din <a class="local" href="#d2012">Declaraţia 2012</a>.
+<li>Valoarea automobilului Opel Astra (24,000 mărci germane) este calculată în lei la cursul BNM din 30.06.1998.
+</ol>
+</div>
+
+</div>
+
+<!--2010-->
+
+<div class="declaration" id="d2010">
+
+<div class="top">
+<div class="year"><h2>2010</h2>&nbsp;<a href="/pdf/brega-gheorghe-2010-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+132,910.48</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t4" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><!--#echo encoding="none" var="t11" --></span>
+<span><b></b><!--#echo encoding="none" var="t13" --></span>
+</td>
+<td class="value">
+<span class="pos">127.2<b></b></span>
+<span class="pos">5.7<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">132,910.48 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1978</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t23" --> / 1989</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t25" --> / 1994</span></span>
+</td>
+<td class="quantity">
+<span>78.0</span>
+<span>63.0</span>
+<span>24.0</span>
+</td>
+<td class="value">
+<span>640.0<b></b></span>
+<span>≈100.0<b class="warning"><i>1</i></b></span>
+<span>67.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">807,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t34" --> / 1989</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.06</span>
+</td>
+<td class="value">
+<span>75.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">75,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Opel Astra (1998) / 1998</span></span>
+</td>
+<td class="value">
+<span>63.0<b class="warning grey"><i>2</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">62,953.12 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
+<ol>
+<li>Vila din s. Dubăsarii Vechi, r-nul Criuleni <b>nu se regăseşte</b> în declaraţiile ulterioare anului 2010, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acesteia. În tabel este indicată valoarea de piaţă a vilei.
+<li>Valoarea automobilului Opel Astra (24,000 mărci germane) este calculată în lei la cursul BNM din 30.06.1998, pe baza <a class="local" href="#d2011">Declaraţiei 2011</a>.
+</ol>
+</div>
+
+</div>
+
+<!--2009-->
+
+<div class="declaration" id="d2009">
+
+<div class="top">
+<div class="year"><h2>2009</h2>&nbsp;<a href="/pdf/brega-gheorghe-2009-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+112,609.50</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t4" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><!--#echo encoding="none" var="t11" --></span>
+<span><b></b><!--#echo encoding="none" var="t13" --></span>
+<span><b></b><!--#echo encoding="none" var="t19" --></span>
+</td>
+<td class="value">
+<span class="pos">67.7<b></b></span>
+<span class="pos">3.4<b></b></span>
+<span class="pos">41.5<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">112,609.50 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1978</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t23" --> / 1989</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t25" --> / 1994</span></span>
+</td>
+<td class="quantity">
+<span>78.0</span>
+<span>63.0</span>
+<span>24.0</span>
+</td>
+<td class="value">
+<span>640.0<b class="warning grey"><i>1</i></b></span>
+<span>≈100.0<b></b></span>
+<span>67.0<b class="warning grey"><i>2</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">807,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t34" --> / 1989</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.06</span>
+</td>
+<td class="value">
+<span>75.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">75,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Opel Astra (1998) / 1998</span></span>
+<span><b></b><span>Volkswagen Jetta (1989) / ?</span></span>
+</td>
+<td class="value">
+<span>63.0<b></b></span>
+<span>≈30.0<b class="warning"><i>3</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">92,953.12 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
+<ol>
+<li>Suprafaţa şi valoarea apartamentului sunt preluate din <a class="local" href="#d2012">Declaraţia 2012</a>.
+<li>Suprafaţa şi valoarea garajului sunt preluate din Declaraţia 2012.
+<li>Automobilul Volkswagen Jetta <b>nu se regăseşte</b> în declaraţiile ulterioare anului 2009, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea de piaţă a automobilului.
+</ol>
+</div>
+
+</div>
+
+<!--2008-->
+
+<div class="declaration">
+
+<div class="top">
+<div class="year"><h2>2008</h2></div>
+<div class="result" style="color:#b74343"><!--#echo encoding="none" var="lastyear1" --><!--#echo var="lastyear" -->.<span class="hide_mobile"><!--#echo encoding="none" var="lastyear2" --></span></div>
+</div>
+
+<div class="cont">
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t21" --> / 1978</span></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t23" --> / 1989</span></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t25" --> / 1994</span></span>
+</td>
+<td class="quantity">
+<span class="pos">78.0</span>
+<span class="pos">63.0</span>
+<span class="pos">24.0</span>
+</td>
+<td class="value">
+<span class="neg">640.0<b class="warning grey"><i>1</i></b></span>
+<span class="neg">≈100.0<b class="warning grey"><i>2</i></b></span>
+<span class="neg">67.0<b class="warning grey"><i>3</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">807,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t34" --> / 1989</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span class="pos">0.06</span>
+</td>
+<td class="value">
+<span class="neg">75.0<b class="warning grey"><i>4</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">75,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span>Opel Astra (1998) / 1998</span></span>
+<span class="pos"><b></b><span>Volkswagen Jetta (1989) / ?</span></span>
+</td>
+<td class="value">
+<span class="neg">63.0<b class="warning grey"><i>5</i></b></span>
+<span class="neg">≈30.0<b class="warning grey"><i>6</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">92,953.12 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<ol>
+<li>Suprafaţa şi valoarea apartamentului sunt indicate în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2012">2012</a>.
+<li>Vila din s. Dubăsarii Vechi, r-nul Criuleni nu se regăseşte în declaraţiile ulterioare anului <a class="local" href="#d2010">2010</a>, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acesteia. În tabel este indicată valoarea de piaţă a vilei.
+<li>Suprafaţa şi valoarea garajului sunt indicate în baza declaraţiilor făcute începând cu anul 2012.
+<li>Valoarea terenului extravilan este indicată în baza declaraţiilor făcute începând cu anul 2012.
+<li>Valoarea automobilului Opel Astra (24,000 mărci germane) este calculată în lei la cursul BNM din 30.06.1998, pe baza <a class="local" href="#d2011">Declaraţiei 2011</a>.
+<li>Automobilul Volkswagen Jetta nu se regăseşte în declaraţiile ulterioare anului <a class="local" href="#d2009">2009</a>. În tabel este indicată valoarea de piaţă a acestuia.
+</ol>
+</div>
+
+</div>
+
+</div>
+
+<!--#include virtual="/_/includes/2.shtml" -->

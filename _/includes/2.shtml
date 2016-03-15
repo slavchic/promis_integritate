@@ -1,0 +1,45 @@
+</article>
+<footer>
+	<span>
+		Copyright © 2014–2016 <a target=_blank href="http://www.adept.md">Asociaţia pentru Democraţie Participativă "ADEPT"</a><br>
+		Suport financiar <a target=_blank href="http://www.soros.md">Fundaţia Soros-Moldova</a>
+	</span>
+	<!--#if expr="$root" -->
+		<!--#include virtual="/_/includes/social.shtml" -->
+	<!--#endif -->
+</footer>
+</div>
+</section>
+
+<!--#if expr="$SERVER_NAME != /integritate/" -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8120767-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47634729-1', 'promis.md');
+  ga('send', 'pageview');
+
+</script>
+<!--#endif -->
+
+<!--#if expr="$root" -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-560a7dcafcb5e90d" async="async"></script>
+<!--#else -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-546eac641c41ca72" async="async"></script>
+<!--#endif -->
+
+</body>
+</html>

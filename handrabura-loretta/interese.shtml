@@ -1,0 +1,47 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/handrabura-loretta-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Executiv</td>
+<td>Ministerul Educaţiei</td>
+<td>Viceministru</td>
+<td class="acenter">149,256.32&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Didactic</td>
+<td>Universitatea Pedagogică de Stat “Ion Creangă”</td>
+<td>Cadru didactic</td>
+<td class="acenter">13,768.34&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Politic</td>
+<td>Partidul Liberal Democrat din Moldova</td>
+<td>Membră</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Public</td>
+<td>Asociaţia Obştească “Protecţia consumatorilor”</td>
+<td>Membră a Comisiei de revizie şi control</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td><s>Producere</s></td>
+<td><s>Mina din Chişinău S.A.</s></td>
+<td><s>Membră a Consiliului de Administraţie</s></td>
+<td class="acenter"><s>1,794.08&nbsp;MDL</s></td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

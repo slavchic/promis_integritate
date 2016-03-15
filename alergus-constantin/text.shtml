@@ -1,0 +1,24 @@
+<div class="user_description">
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
+<tr><td><a href="/pdf/alergus-constantin-2014-csm.pdf">2014</a>, <a href="/pdf/alergus-constantin-2011-csm.pdf">2011</a>, <a href="/pdf/alergus-constantin-2010-csm.pdf">2010</a>, <a href="/pdf/alergus-constantin-2009-csm.pdf">2009</a>, <a href="/pdf/alergus-constantin-2008-csm.pdf">2008</a><br>Sursa: Consiliul Superior al Magistraturii</td></tr>
+<tr><td><a href="/pdf/alergus-constantin-2013-cni.pdf">2013</a>, <a href="/pdf/alergus-constantin-2012-cni.pdf">2012</a><br>Comisia Naţională de Integritate</td></tr>
+<tr><td>Interese: <a href="/pdf/alergus-constantin-interese-2014-cni.pdf">2014</a>, <a href="/pdf/alergus-constantin-interese-2013-cni.pdf">2013</a>, <a href="/pdf/alergus-constantin-interese-2012-cni.pdf">2012</a><br>Comisia Naţională de Integritate</td></tr>
+</table>
+</div></div>
+
+<div class="right">
+
+<p class="overall">
+Declaraţiile de venit şi interese ale lui Constantin Alerguş pentru anii 2008–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+</p>
+
+<p class="verdict negative">
+<b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+Constantin Alerguş nu a declarat în 2011 dobîndirea unui automobil (Nissan Qashqai), iar în declaraţiile din 2012 şi 2013 nu a arătat că deţine acest automobil, toate în contradicţie cu legislaţia în vigoare.
+</p>
+
+</div>
+</div>

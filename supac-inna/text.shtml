@@ -1,0 +1,25 @@
+<div class="user_description">
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
+<tr><td><a href="/pdf/supac-inna-2014-cni.pdf">2014</a><br>Sursa: Comisia Naţională de Integritate</td></tr>
+<tr><td><a href="/pdf/supac-inna-2013-parlament.pdf">2013</a>, <a href="/pdf/supac-inna-2012-parlament.pdf">2012</a>, <a href="/pdf/supac-inna-2011-parlament.pdf">2011</a>, <a href="/pdf/supac-inna-2010-parlament.pdf">2010</a>, <a href="/pdf/supac-inna-2009-parlament.pdf">2009</a><br>Parlamentul Republicii Moldova</td></tr>
+<tr><td><a href="/pdf/supac-inna-2012-2013-pcrm-cec.pdf">2012-2013</a>, <a href="/pdf/supac-inna-2008-2009-pcrm-cec.pdf">2008-2009</a>, <a href="/pdf/supac-inna-2007-2008-pcrm-cec.pdf">2007-2008</a><br>Comisia Electorală Centrală</td></tr>
+<tr><td>Interese: <a href="/pdf/supac-inna-interese-2014-cni.pdf">2014</a>, <a href="/pdf/supac-inna-interese-2013-cni.pdf">2013</a>, <a href="/pdf/supac-inna-interese-2012-cni.pdf">2012</a><br>Comisia Naţională de Integritate</td></tr>
+</table>
+</div></div>
+
+<div class="right">
+
+<p class="overall">
+Declaraţiile de venit şi interese ale Innei Şupac pentru anii 2009–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare. În perioada 2009–2014, Inna Şupac a ocupat funcţia de deputat în Parlamentul Republicii Moldova, fiind membru al fracţiunii Partidului Comuniştilor din Republica Moldova. În mai 2015 Inna Şupac a preluat mandatul de deputat aparţinând PCRM, rămas vacant după ce deputata Irina Vlah a demisionat în favoarea funcţiei de Guvernator al Găgăuziei. Anterior a exercitat funcţia de prim-secretar al Uniunii Tineretului Comunist din Moldova (2007–2011) şi asistent secund în aparatul preşedintelui Republicii Moldova (2006–2007).<br><br>
+În conformitate cu declaraţiile depuse, Inna Şupac nu deţine bunuri imobile şi mobile şi nici cote-părţi în capitalul social al unor societăţi comerciale.
+</p>
+<!--#if expr="$ddd" -->
+<p class="verdict negative">
+<b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+</p>
+<!--#endif -->
+</div>
+</div>

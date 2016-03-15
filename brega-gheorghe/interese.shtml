@@ -1,0 +1,33 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/brega-gheorghe-interese-2014-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unităţii</th>
+<th>Calitatea deţinută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Legislativ</td>
+<td>Parlamentul Republicii Moldova</td>
+<td>Deputat</td>
+<td class="acenter">155,456.70&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Ştiinţific</td>
+<td>Balcombe S.R.L.</td>
+<td>Medic</td>
+<td class="acenter">9,000.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Î.I. Brega Zinaida&nbsp;<span class="grey">(2002)</span></td>
+<td>Asociat unic (soţia)</td>
+<td class="acenter">-</td>
+<td class="acenter">100%</td>
+</tr>
+</table></div>
+</div>

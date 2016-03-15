@@ -1,0 +1,47 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/bacalu-elena-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Public</td>
+<td>Consiliul Raional Cahul</td>
+<td>Vicepreşedinte</td>
+<td class="acenter">91,817.67&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Public</td>
+<td>DASPF, Centrul de Zi</td>
+<td>Psiholog</td>
+<td class="acenter">10,514.79&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Public</td>
+<td>Asociaţia Obştească “Parteneriate pentru fiecare copil”</td>
+<td>Consultant</td>
+<td class="acenter">36,000.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Public</td>
+<td>CRAION CONTACT-Cahul</td>
+<td>Consultant</td>
+<td class="acenter">1,259.85&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Public</td>
+<td>Asociaţia Obştească “Parteneriat Social”</td>
+<td>Consultant</td>
+<td class="acenter">2,519.68&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

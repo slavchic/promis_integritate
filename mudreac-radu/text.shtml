@@ -1,0 +1,24 @@
+<div class="user_description">
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
+<tr><td><a href="/pdf/mudreac-radu-2014-parlament.pdf">2014</a>, <a href="/pdf/mudreac-radu-2013-parlament.pdf">2013</a><br>Sursa: Parlamentul Republicii Moldova</td></tr>
+<tr><td><a href="/pdf/mudreac-radu-2012-2013-psrm-cec.pdf">2012-2013</a><br>Comisia Electorală Centrală</td></tr>
+<tr><td>Interese: <a href="/pdf/mudreac-radu-interese-2014-parlament.pdf">2014</a>, <a href="/pdf/mudreac-radu-interese-2013-cni.pdf">2013</a><br>Parlamentul, Comisia Naţională de Integritate</td></tr>
+</table>
+</div></div>
+
+<div class="right">
+
+<p class="overall">
+Declaraţiile de venit şi interese ale lui Radu Mudreac pentru anii 2013–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare. Începând cu anul 2014 este deputat în Parlamentul Republicii Moldova, fiind membru al fracţiunii Partidului Socialiştilor din Republica Moldova. Anterior, a deţinut funcţia de şef al Serviciului Sanitar Veterinar de Stat al mun. Chişinău (2005–2008) şi director general al Agenţiei Sanitar-Veterinare şi pentru Siguranţa Produselor de Origine Animală (2008–2010).<br><br>
+Conform declaraţiilor depuse de Radu Mudreac, familia acestuia este posesoarea următoarelor bunuri imobile şi mobile: 3 apartamente şi un garaj în mun. Chişinău şi un automobil Toyota Land Cruiser. Demnitarul mai are un credit în euro, contractat în 2014 şi scadent în 2015. În proprietatea familiei Mudreac se află şi “Gradioni” S.R.L. (50%).
+</p>
+<!--#if expr="$ddd" -->
+<p class="verdict negative">
+<b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+</p>
+<!--#endif -->
+</div>
+</div>

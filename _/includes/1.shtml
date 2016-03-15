@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<!--#include virtual="/_/includes/personsvar.shtml" -->
+<!--#include virtual="/_/includes/var.shtml" -->
+	<meta charset="utf-8">
+	<!--#if expr="$root" --><meta name="description" content="Acest proiect urmăreşte scopul de a oferi cetăţenilor acces liber la informaţii despre veniturile, proprietăţile şi interesele persoanelor cu funcţii de demnitate publică. Informaţiile sînt prezentate în baza declaraţiilor demnitarilor către organele abilitate, în conformitate cu legislaţia în vigoare."><!--#else --><meta name="description" content="Veniturile, proprietăţile şi interesele <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --><!--#if expr="$prof" -->, <!--#echo encoding="none" var="prof" --><!--#endif -->."><!--#endif -->
+	<meta name="keywords" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title><!--#if expr="$name2" --><!--#echo encoding="none" var="name2" --><!--#else --><!--#echo encoding="none" var="title" --><!--#endif --><!--#if expr="$root" --><!--#else --> &mdash; venituri, proprietăţi şi interese<!--#endif --> / promis.md</title>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<link rel="shortcut icon" type="image/png" href="/_/images/favicon.png"/>
+	<link href="/_/css/main.css" rel="stylesheet">
+  	<link href="http://www.promis.md/_css/photo.css" rel="stylesheet">
+	<script src="/_/js/main.js"></script>
+	<script src="/_/js/flot.js"></script>
+	<script src="/_/js/custom.js"></script>
+</head>
+
+<body>
+
+
+<section class="<!--#if expr="$root" -->index<!--#else -->person<!--#endif -->">
+<div class="wrap">
+<header>
+	<a href="/" class="logo"><img src="/_/images/promis_logo_big.png" alt="Promis"></a>
+	<strong>Venituri, proprietăţi şi interese<br>declarate de persoane publice</strong>
+	<!--#if expr="$root" -->
+		<div class="about"><p>Acest proiect urmăreşte scopul de a oferi cetăţenilor acces liber la informaţii despre veniturile, proprietăţile şi interesele persoanelor cu funcţii de demnitate publică.<br>Informaţiile sînt prezentate în baza declaraţiilor demnitarilor către organele abilitate, în conformitate cu legislaţia în vigoare.</p></div>
+	<!--#endif -->
+	<!--#if expr="$ddd" -->
+	Veniturile, proprietăţile şi interesele <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --><!--#if expr="$prof" -->, <!--#echo encoding="none" var="prof" --><!--#endif -->. Informaţii prezentate în baza declaraţiilor demnitarului pentru anii <!--#echo var="lastyear1d" -->–<!--#if expr="$lastyear2d" --><!--#echo var="lastyear2d" --><!--#else --><!--#echo var="lastyearall" --><!--#endif --> către organele abilitate, în conformitate cu legislaţia în vigoare.
+	<!--#endif -->
+</header>
+
+<article>
