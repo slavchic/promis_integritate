@@ -178,15 +178,15 @@ section > h2 {
   margin-left: 15px;
 }
 section header {
-  background-color: #fff;
+  background: radial-gradient(circle at center 70%, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0) 100%);
+  background-color: #229cc9;
   border-radius: 5px 5px 0 0;
-  padding: 20px;
+  overflow: hidden;
 }
 section header > .logo {
   display: inline-block;
   width: 170px;
   height: auto;
-  background: #fff;
   padding: 0px 20px 0px 0px;
 }
 section header > .logo img {
@@ -200,12 +200,12 @@ section header > .logo img {
 }
 section header > strong {
   display: inline-block;
-  margin: 1px 0 0;
-  font-size: 18pt;
+  margin: 10px 0 0;
+  font-size: 22pt;
   font-weight: normal;
   line-height: 18pt;
   vertical-align: top;
-  color: rgba(15, 104, 139, 0.5);
+  color: rgba(255, 255, 255, 0.9);
 }
 @media (max-width: 700px) {
   section header > strong {
@@ -219,11 +219,19 @@ section header > strong {
   }
 }
 section header > .about {
-  padding: 15px 0 0;
+  display: table;
+  width: 100%;
+  margin: 30px 0 0;
+  padding: 15px 20px 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
   font-size: 10pt;
-  color: #444;
+  color: rgba(255, 255, 255, 0.9);
 }
 section header > .about p {
+  display: table-cell;
+  vertical-align: top;
   margin: 0;
 }
 section header .social {
@@ -245,11 +253,21 @@ section article:before {
     padding: 10px;
   }
 }
+section.index header > .logo {
+  display: block;
+  width: 250px;
+  margin: 30px auto 0;
+  padding: 0;
+}
+section.index header > strong {
+  display: block;
+  text-align: center;
+}
 section.index article {
   padding: 0;
 }
 section.index article #filters_title {
-  padding: 0 20px 10px;
+  padding: 20px 20px 15px;
   background-color: #f4f4f4;
   font-size: 19pt;
   color: #444;
@@ -262,70 +280,39 @@ section.index article #filters_title > span {
 section.index article .filters {
   display: table;
   width: 100%;
-  border-top: 1px solid #fff;
   color: #888;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.03) 0%, rgba(0, 0, 0, 0) 100%), #f4f4f4;
+  background: radial-gradient(circle at center 70%, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0) 100%);
+  background-color: #229cc9;
+  font-size: 14pt;
 }
 section.index article .filters > div {
   display: table-cell;
   vertical-align: top;
-  padding: 10px 20px;
+  width: 33.33%;
+  padding: 15px 10px;
   vertical-align: middle;
+}
+@media (min-width: 700px) {
+  section.index article .filters > div:first-child {
+    padding-left: 20px;
+  }
+  section.index article .filters > div:last-child {
+    padding-right: 20px;
+  }
 }
 @media (max-width: 700px) {
   section.index article .filters > div {
     display: block;
-    padding-bottom: 10px;
+    width: auto;
+    padding: 10px 15px;
   }
   section.index article .filters > div + div {
     padding-top: 0;
   }
 }
-section.index article .filters > .filter_block {
-  display: inline-block;
-  padding: 0 20px 0 0;
-}
-@media (max-width: 400px) {
-  section.index article .filters > .filter_block {
-    padding: 0;
-  }
-}
-section.index article .filters a,
-section.index article .filters b {
-  margin-bottom: 5px;
-}
-section.index article .filters b {
-  padding: 4px 0;
-  margin-right: 7px;
-  vertical-align: middle;
-  display: inline-block;
-  font-weight: normal;
-}
-@media (max-width: 700px) {
-  section.index article .filters b {
-    display: block;
-  }
-}
-section.index article .filters a {
-  padding: 4px 8px;
-  vertical-align: middle;
-  display: inline-block;
-  border: 1px solid #ececec;
-  border-radius: 3px;
-  background-color: #fff;
-  text-decoration: none;
-  outline: 0;
-}
-section.index article .filters a + a {
-  margin-left: 3px;
-}
-section.index article .filters a:hover {
-  border-color: rgba(22, 161, 213, 0.4);
-}
-section.index article .filters a.active {
-  background-color: #16a1d5;
-  color: #fff;
-  border: 1px solid #16a1d5;
+section.index article .filters > div > input,
+section.index article .filters > div select {
+  width: 100%;
 }
 section.person {
   margin-bottom: 20px;
@@ -1362,12 +1349,6 @@ a.local:hover {
   color: #16a1d5;
   cursor: pointer;
 }
-@media (max-width: 700px) {
-  #name_search_cont i {
-    top: 8px;
-    right: 8px;
-  }
-}
 #name_search_cont input {
   width: 100%;
   padding: 10px 15px 11px;
@@ -1378,11 +1359,67 @@ a.local:hover {
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.14) inset;
   transition: all 0.4s ease-in-out;
 }
-@media (max-width: 700px) {
-  #name_search_cont input {
-    padding: 5px 10px 6px;
-    font-size: 11pt;
-  }
+#name_search_cont input::-webkit-input-placeholder {
+  opacity: 1;
+  font-family: 'Arimo', sans-serif;
+  color: rgba(0, 0, 0, 0.4);
+}
+#name_search_cont input::-moz-placeholder {
+  color: rgba(0, 0, 0, 0.4);
+  opacity: 1;
+  font-family: 'Arimo', sans-serif;
+}
+#name_search_cont input:-moz-placeholder {
+  opacity: 1;
+  font-family: 'Arimo', sans-serif;
+  color: rgba(0, 0, 0, 0.4);
+  /* Firefox 19+ */
+}
+#name_search_cont input:-ms-input-placeholder {
+  opacity: 1;
+  font-family: 'Arimo', sans-serif;
+  color: rgba(0, 0, 0, 0.4);
+  /* Firefox 18- */
+}
+.select2-drop-active {
+  border-color: #16a1d5;
+}
+.select2-drop .select2-result-label {
+  padding: 8px 12px;
+}
+.select2-drop .select2-results .select2-highlighted {
+  background-color: #16a1d5;
+}
+.select2-container.select2-container-active .select2-choice {
+  border-color: #16a1d5;
+}
+.select2-container.select2-dropdown-open .select2-choice {
+  background-color: #fff;
+}
+.select2-container .select2-choice {
+  height: auto;
+  padding: 10px 15px;
+  border: 1px solid #dadada;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.14) inset;
+  background-image: none;
+}
+.select2-container .select2-choice.select2-default .select2-chosen {
+  color: rgba(0, 0, 0, 0.4);
+}
+.select2-container .select2-choice .select2-chosen {
+  font-weight: normal;
+}
+.select2-container .select2-choice .select2-search-choice-close {
+  top: 16px;
+  right: 40px;
+}
+.select2-container .select2-choice .select2-arrow {
+  width: 31px;
+  border-left: 1px solid #dadada;
+  background: none;
+}
+.select2-container .select2-choice .select2-arrow b {
+  background-position: 7px 10px;
 }
 table.tablesorter thead tr .tablesorter-header {
   cursor: pointer;

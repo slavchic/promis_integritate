@@ -69,6 +69,13 @@ currency_to_number = function (node) {
 
 
 $(function () {
+	$('select.select2').each(function () {
+		$(this).prop("selectedIndex", 0);
+	})
+	$('.select2').select2({
+		width: '100%',
+		allowClear:true
+	})
 
 	var is_touch_device = 'ontouchstart' in document.documentElement,
 			active_filter_party,
@@ -118,12 +125,14 @@ $(function () {
 	function get_filter_title() {
 		if (active_filter_party || active_filter_institute){
 			if (active_filter_institute) {
-				var $filter_institute_el = $('[data-filter-institute=' + active_filter_institute + ']'),
-						$filter_institute_el_txt = $filter_institute_el.text()
+				var select_obj = $('#filter_institutes')[0],
+						$select_obj_selected_el = $(select_obj.options[select_obj.selectedIndex]),
+						$filter_institute_el_txt = $select_obj_selected_el.data('title')
 			}
 			if (active_filter_party) {
-				var $filter_party_el = $('[data-filter-party='  + active_filter_party +  ']'),
-						$filter_party_el_txt = $filter_party_el.text()
+				var select_obj = $('#filter_parties')[0],
+						$select_obj_selected_el = $(select_obj.options[select_obj.selectedIndex]),
+						$filter_party_el_txt = $select_obj_selected_el.data('title')
 			}
 
 			var result_txt = 'Politicienii din ';
@@ -206,36 +215,25 @@ $(function () {
 	}
 
 
-	$('#person_list_filters a').on('click', function (e) {
-		e.preventDefault()
+	$('select.select2').on('change', function (e) {
 
-		var btn = $(this),
-				btn_filter_party = btn.data('filter-party'),
-				btn_filter_institute = btn.data('filter-institute')
+		var selected_val = $(this).select2('val')
 
-		if (btn_filter_party) {
-			$('#person_list_filters a[data-filter-party]').removeClass('active')
-			if (active_filter_party == btn_filter_party) {
-				active_filter_party = null
-			} else {
-				btn.addClass('active')
-				active_filter_party = btn_filter_party
-			}
-
-		} else {
-			$('#person_list_filters a[data-filter-institute]').removeClass('active')
-			if (active_filter_institute == btn_filter_institute) {
-				active_filter_institute = null
-			} else {
-				btn.addClass('active')
-				active_filter_institute = btn_filter_institute
-			}
+		if (this.id == 'filter_institutes') {
+			active_filter_institute = selected_val
 		}
+		if (this.id == 'filter_parties') {
+			active_filter_party = selected_val
+		}
+
 		filter_table()
 
 	})
 
 	set_declarations_table_height()
+
+
+
 	filter_table()
 	$(".persons_list .table").trigger("sorton", [[[1, 1]]]);
 	//$('.persons_list .tablesorter thead .income').click().click()

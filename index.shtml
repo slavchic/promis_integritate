@@ -12,19 +12,55 @@
 				</div>
 			</div>
 			<div>
-				<div class="filter_block">
-					<b>Instituţii:</b><a href="#?" data-filter-institute="parlament">Parlament</a><a href="#?" data-filter-institute="guvern">Guvern</a><a href="#?" data-filter-institute="presedintie">Preşedinţie</a><a href="#?" data-filter-institute="apl">APL</a><a href="#?" data-filter-institute="drept">Organe de drept</a><a href="#?" data-filter-institute="alte">Alte autorităţi</a><a href="#?" data-filter-institute="diverse">Diverse</a>
-				</div>
-				<div class="filter_block">
-					<b>Partide politice:</b><a href="#?" data-filter-party="psrm" title="Partidul Socialiştilor din Republica Moldova">PSRM</a><a href="#?" data-filter-party="pdm" title="Partidul Democrat din Moldova">PDM</a><a href="#?" data-filter-party="pldm" title="Partidul Liberal Democrat din Moldova">PLDM</a><a href="#?" data-filter-party="pl" title="Partidul Liberal">PL</a><a href="#?" data-filter-party="pcrm" title="Partidul Comuniştilor din Republica Moldova">PCRM</a><a href="#?" data-filter-party="ppem" title="Partidul Popular European din Moldova">PPEM</a><a href="#?" data-filter-party="ap">Alte partide</a><a href="#?" data-filter-party="fp">Fără de partid</a>
-				</div>
+				<select id="filter_institutes" class="select2" data-placeholder="Instituţii">
+					<option value="" selected></option>
+					<option value="parlament" data-title="Parlament">Parlament</option>
+					<option value="guvern" data-title="Guvern">Guvern</option>
+					<option value="presedintie" data-title="Preşedinţie">Preşedinţie</option>
+					<option value="apl" data-title="APL">APL</option>
+					<option value="drept" data-title="Organe de drept">Organe de drept</option>
+					<option value="alte" data-title="Alte autorităţi">Alte autorităţi</option>
+					<option value="diverse" data-title="Diverse">Diverse</option>
+				</select>
+			</div>
+			<div>
+				<select id="filter_parties" class="select2" data-placeholder="Partide politice">
+					<option value="" selected></option>
+					<option value="psrm" data-title="PSRM">PSRM</option>
+					<option value="pdm" data-title="PDM">PDM</option>
+					<option value="pldm" data-title="PLDM">PLDM</option>
+					<option value="pl" data-title="PL">PL</option>
+					<option value="pcrm" data-title="PCRM">PCRM</option>
+					<option value="ppem" data-title="PPEM">PPEM</option>
+					<option value="ap" data-title="Alte partide">Alte partide</option>
+					<option value="fp" data-title="Fără de partid">Fără de partid</option>
+				</select>
 			</div>
 		</div>
 		<div id="filters_title">
 			Hello
 		</div>
 	</div>
-
+	<!--<div class="filter_block">-->
+		<!--<b>Instituţii:</b><a href="#?" data-filter-institute="parlament" data-title="Parlament">Parlament</a>
+		<a href="#?" data-filter-institute="guvern" data-title="Guvern">Guvern</a>
+		<a href="#?" data-filter-institute="presedintie" data-title="Preşedinţie">Preşedinţie</a>
+		<a href="#?" data-filter-institute="apl" data-title="APL">APL</a>
+		<a href="#?" data-filter-institute="drept" data-title="Organe de drept">Organe de drept</a>
+		<a href="#?" data-filter-institute="alte" data-title="Alte autorităţi">Alte autorităţi</a>
+		<a href="#?" data-filter-institute="diverse" data-title="Diverse">Diverse</a>-->
+	<!--</div>-->
+	<!--<div class="filter_block">-->
+		<!--<b>Partide politice:</b>
+		<a href="#?" data-filter-party="psrm" title="Partidul Socialiştilor din Republica Moldova" data-title="PSRM">PSRM</a>
+		<a href="#?" data-filter-party="pdm" title="Partidul Democrat din Moldova" data-title="PDM">PDM</a>
+		<a href="#?" data-filter-party="pldm" title="Partidul Liberal Democrat din Moldova" data-title="PLDM">PLDM</a>
+		<a href="#?" data-filter-party="pl" title="Partidul Liberal" data-title="PL">PL</a>
+		<a href="#?" data-filter-party="pcrm" title="Partidul Comuniştilor din Republica Moldova" data-title="PCRM">PCRM</a>
+		<a href="#?" data-filter-party="ppem" title="Partidul Popular European din Moldova" data-title="PPEM">PPEM</a>
+		<a href="#?" data-filter-party="ap" data-title="Alte partide">Alte partide</a>
+		<a href="#?" data-filter-party="fp" data-title="Fără de partid">Fără de partid</a>-->
+	<!--</div>-->
 	<div class="persons_list">
 		<table class="table tablesorter">
 			<colgroup>
