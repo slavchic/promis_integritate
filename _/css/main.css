@@ -1,6 +1,7 @@
 @charset "utf-8";
 @import url("promis_integritate.css");
 @import url("animation.css");
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700);
 @import url(http://fonts.googleapis.com/css?family=Arimo&subset=latin,latin-ext);
 section * {
   box-sizing: border-box;
@@ -83,6 +84,10 @@ body footer > *.social {
     text-align: center;
   }
 }
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
 .wrap {
   max-width: 1100px;
   margin: 0 auto;
@@ -139,8 +144,28 @@ body footer > *.social {
 .social * {
   box-sizing: content-box;
 }
+nav.top_menu {
+  display: table;
+  width: 100%;
+  margin-top: 10px;
+}
+nav.top_menu > div {
+  display: table-cell;
+  vertical-align: top;
+  padding: 0 10px;
+  font-size: 0;
+}
+nav.top_menu > div > a {
+  padding: 0 10px 2px;
+  font-size: 10pt;
+  line-height: 10pt;
+}
+nav.top_menu > div > a + a {
+  padding-left: 11px;
+  border-left: 1px solid #ccc;
+}
 section {
-  padding: 20px 0 40px;
+  padding: 10px 0 40px;
 }
 section h1 {
   font-size: 28pt;
@@ -178,10 +203,10 @@ section > h2 {
   margin-left: 15px;
 }
 section header {
-  background: radial-gradient(circle at center 70%, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0) 100%);
-  background-color: #229cc9;
+  background-color: #fff;
   border-radius: 5px 5px 0 0;
   overflow: hidden;
+  padding: 20px 20px 20px;
 }
 section header > .logo {
   display: inline-block;
@@ -201,11 +226,10 @@ section header > .logo img {
 section header > strong {
   display: inline-block;
   margin: 10px 0 0;
-  font-size: 22pt;
-  font-weight: normal;
-  line-height: 18pt;
+  font-size: 18pt;
+  line-height: 20pt;
   vertical-align: top;
-  color: rgba(255, 255, 255, 0.9);
+  color: #6c7d8e;
 }
 @media (max-width: 700px) {
   section header > strong {
@@ -221,18 +245,9 @@ section header > strong {
 section header > .about {
   display: table;
   width: 100%;
-  margin: 30px 0 0;
-  padding: 15px 20px 20px;
-  background-color: rgba(255, 255, 255, 0.1);
-  border-top: 1px solid rgba(255, 255, 255, 0.15);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
-  font-size: 10pt;
-  color: rgba(255, 255, 255, 0.9);
-}
-section header > .about p {
-  display: table-cell;
-  vertical-align: top;
-  margin: 0;
+  margin: 30px 0 20px;
+  font-size: 11pt;
+  color: #444;
 }
 section header .social {
   margin: 0 ;
@@ -253,6 +268,9 @@ section article:before {
     padding: 10px;
   }
 }
+section.index header {
+  padding: 0;
+}
 section.index header > .logo {
   display: block;
   width: 250px;
@@ -261,58 +279,120 @@ section.index header > .logo {
 }
 section.index header > strong {
   display: block;
+  max-width: 520px;
+  margin: 10px auto 15px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e7e7e7;
+  font-size: 22pt;
   text-align: center;
 }
-section.index article {
-  padding: 0;
+section.index header > .about {
+  max-width: 75%;
+  margin: 0 auto;
+  color: #888;
+  font-size: 11pt;
+  text-align: center;
 }
-section.index article #filters_title {
-  padding: 20px 20px 15px;
-  background-color: #f4f4f4;
-  font-size: 19pt;
-  color: #444;
+section.index #filters_title {
+  padding: 30px 20px 10px;
+  border-top: 1px solid #e7e7e7;
+  font-size: 22pt;
+  font-weight: bold;
 }
-section.index article #filters_title > span {
+section.index #filters_title > span {
   opacity: .4;
   font-size: 11pt;
   vertical-align: middle;
 }
-section.index article .filters {
+section.index .filters {
   display: table;
   width: 100%;
   color: #888;
-  background: radial-gradient(circle at center 70%, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0) 100%);
-  background-color: #229cc9;
+  background: #f4f4f4;
   font-size: 14pt;
 }
-section.index article .filters > div {
+section.index .filters > div {
   display: table-cell;
   vertical-align: top;
   width: 33.33%;
-  padding: 15px 10px;
+  padding: 15px 10px 15px;
   vertical-align: middle;
+  border-top: 1px solid #e7e7e7;
 }
 @media (min-width: 700px) {
-  section.index article .filters > div:first-child {
+  section.index .filters > div:first-child {
     padding-left: 20px;
   }
-  section.index article .filters > div:last-child {
+  section.index .filters > div:last-child {
     padding-right: 20px;
   }
 }
 @media (max-width: 700px) {
-  section.index article .filters > div {
+  section.index .filters > div {
     display: block;
     width: auto;
     padding: 10px 15px;
   }
-  section.index article .filters > div + div {
+  section.index .filters > div + div {
     padding-top: 0;
   }
 }
-section.index article .filters > div > input,
-section.index article .filters > div select {
+section.index .filters > div > input,
+section.index .filters > div select {
   width: 100%;
+}
+section.index .stats {
+  width: 100%;
+  margin: 25px 0 25px;
+}
+section.index .stats td {
+  width: 25%;
+  text-align: center;
+  vertical-align: middle;
+}
+section.index .stats td > a {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.4);
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.4);
+}
+section.index .stats td > a:hover,
+section.index .stats td > a.active {
+  color: #16a1d5;
+  border-bottom: 1px solid #16a1d5;
+}
+section.index .stats td > a:hover > span,
+section.index .stats td > a.active > span {
+  color: #16a1d5;
+}
+section.index .stats td > a:hover > span.red,
+section.index .stats td > a.active > span.red {
+  color: #16a1d5;
+}
+section.index .stats td > a.active > i {
+  display: block;
+}
+section.index .stats td > a span {
+  display: block;
+  line-height: 25pt;
+  margin: 0 auto;
+  font-size: 24pt;
+  font-weight: 700;
+  text-decoration: none;
+  color: #6c7d8e;
+}
+section.index .stats td > a span.red {
+  color: #b74343;
+}
+section.index .stats td > a > i {
+  display: none;
+  position: absolute;
+  left: calc(105%);
+  bottom: 1px;
+}
+section.index article {
+  padding: 0;
 }
 section.person {
   margin-bottom: 20px;
@@ -338,6 +418,7 @@ section.person article {
   padding-bottom: 0;
 }
 section.person article .social {
+  float: right;
   margin-top: 5px;
 }
 @media (max-width: 400px) {
@@ -1199,6 +1280,9 @@ a.local:hover {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+.dn {
+  display: none;
+}
 .db {
   display: block;
 }
@@ -1294,7 +1378,7 @@ a.local:hover {
 .red {
   color: #b74343;
 }
-.red {
+.orange {
   color: #e06f38;
 }
 .alpha50 {
@@ -1338,8 +1422,8 @@ a.local:hover {
 }
 #name_search_cont i {
   position: absolute;
-  top: 15px;
-  right: 13px;
+  top: 11px;
+  right: 12px;
   font-size: 16px;
   text-align: center;
   color: #ccc;
@@ -1351,13 +1435,16 @@ a.local:hover {
 }
 #name_search_cont input {
   width: 100%;
-  padding: 10px 15px 11px;
+  padding: 7px 15px 8px;
   border: 1px solid #dadada;
   outline: none;
   border-radius: 4px;
-  font-size: 14pt;
+  font-size: 13pt;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.14) inset;
   transition: all 0.4s ease-in-out;
+}
+#name_search_cont input:focus {
+  border-color: #16a1d5;
 }
 #name_search_cont input::-webkit-input-placeholder {
   opacity: 1;
@@ -1398,7 +1485,7 @@ a.local:hover {
 }
 .select2-container .select2-choice {
   height: auto;
-  padding: 10px 15px;
+  padding: 7px 15px;
   border: 1px solid #dadada;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.14) inset;
   background-image: none;
@@ -1408,9 +1495,10 @@ a.local:hover {
 }
 .select2-container .select2-choice .select2-chosen {
   font-weight: normal;
+  font-size: 13pt;
 }
 .select2-container .select2-choice .select2-search-choice-close {
-  top: 16px;
+  top: 13px;
   right: 40px;
 }
 .select2-container .select2-choice .select2-arrow {
@@ -1419,7 +1507,7 @@ a.local:hover {
   background: none;
 }
 .select2-container .select2-choice .select2-arrow b {
-  background-position: 7px 10px;
+  background-position: 7px 8px;
 }
 table.tablesorter thead tr .tablesorter-header {
   cursor: pointer;

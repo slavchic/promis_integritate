@@ -17,43 +17,93 @@
 	<link rel="shortcut icon" type="image/png" href="/_/images/favicon.png"/>
 
 	<script src="/_/js/main.js"></script>
+	<script src="/_/js/custom.js"></script>
+
+
+  <link href="http://www.promis.md/_css/photo.css" rel="stylesheet">
 
 	<!--#if expr="$root" -->
-	<link href="/_/js/select2/select2.css" rel="stylesheet">
-	<script src="/_/js/select2/select2.min.js"></script>
+
+		<link href="/_/js/select2/select2.css" rel="stylesheet">
+		<script src="/_/js/select2/select2.min.js"></script>
+		<script src="/_/js/page_index.js"></script>
+
+	<!--#elif expr="!$root" -->
+
+		<script src="/_/js/flot.js"></script>
+		<script src="/_/js/page_person.js"></script>
+
 	<!--#endif -->
 
 	<link href="/_/css/main.css" rel="stylesheet">
-  <link href="http://www.promis.md/_css/photo.css" rel="stylesheet">
 
-
-
-
-
-
-	<!--#if expr="!$root" -->
-	<script src="/_/js/flot.js"></script>
-	<!--#endif -->
-
-	<script src="/_/js/custom.js"></script>
 </head>
 
 <body>
-
-
+<nav class="top_menu container">
+	<div><a href="http://promis.md">promis.md</a> <a href="http://promis.md">promis-2.md</a></div>
+	<div class="aright"><a href="http://promis.md">Despre proiect</a></div>
+</nav>
 <section class="<!--#if expr="$root" -->index<!--#else -->person<!--#endif -->">
 	<div class="wrap">
 		<header>
-			<a href="/" class="logo"><img src="/_/images/promis_logo_big_white.png" alt="Promis"></a>
+			<a href="/" class="logo"><img src="/_/images/promis_logo_big.png" alt="Promis"></a>
 			<strong>Venituri, proprietăţi şi interese</strong>
 			<!--#if expr="$root" -->
-				<div class="about">
-					<p>Acest proiect urmăreşte scopul de a oferi cetăţenilor acces liber la informaţii despre veniturile, proprietăţile şi interesele persoanelor cu funcţii de demnitate publică.<br>Informaţiile sînt prezentate în baza declaraţiilor demnitarilor către organele abilitate, în conformitate cu legislaţia în vigoare.</p>
-					<p>Statistica:</p>
-				</div>
+
+			<p class="about">Informaţii despre veniturile, proprietăţile şi interesele persoanelor cu demnitate publică din Republica Moldova, colectate atât din declaraţiile de avere şi interese către organele abilitate, cât şi din surse independente.</p>
+
+
+				<table class="stats">
+					<tr>
+						<td><a href="#" data-filter="show_all"><span></span> demnitari monitorizaţi <i class="icon-cancel"></i></a></td>
+						<td><a href="#" data-filter="last_year" data-filter-value="2015"><span></span> declaraţii 2015 <i class="icon-cancel"></i></a></td>
+						<td><a href="#" data-filter="newest"><span></span> profiluri noi <i class="icon-cancel"></i></a></td>
+						<td><a href="#" data-filter="with_problems"><span class="red"></span> demnitari cu nereguli <i class="icon-cancel"></i></a></td>
+					</tr>
+				</table>
+
 			<!--#endif -->
 			<!--#if expr="$ddd" -->
 			Veniturile, proprietăţile şi interesele <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --><!--#if expr="$prof" -->, <!--#echo encoding="none" var="prof" --><!--#endif -->. Informaţii prezentate în baza declaraţiilor demnitarului pentru anii <!--#echo var="lastyear1d" -->–<!--#if expr="$lastyear2d" --><!--#echo var="lastyear2d" --><!--#else --><!--#echo var="lastyearall" --><!--#endif --> către organele abilitate, în conformitate cu legislaţia în vigoare.
+			<!--#endif -->
+
+			<!--#if expr="$root" -->
+
+			<div class="filters" id="person_list_filters">
+				<div class="search">
+					<div id="name_search_cont">
+						<input type="text" id="search_inp" placeholder="Căutare după nume"/><i class="icon icon-search" title="Căutare (Ctrl+Enter)"></i>
+					</div>
+				</div>
+				<div>
+					<select id="filter_institutes" class="select2" data-placeholder="Selectează instituţia">
+						<option value="" selected></option>
+						<option value="parlament" data-title="Parlament">Parlament</option>
+						<option value="guvern" data-title="Guvern">Guvern</option>
+						<option value="presedintie" data-title="Preşedinţie">Preşedinţie</option>
+						<option value="apl" data-title="APL">APL</option>
+						<option value="drept" data-title="Organe de drept">Organe de drept</option>
+						<option value="alte" data-title="Alte autorităţi">Alte autorităţi</option>
+						<option value="diverse" data-title="Diverse">Diverse</option>
+					</select>
+				</div>
+				<div>
+					<select id="filter_parties" class="select2" data-placeholder="Selectează partidul politic">
+						<option value="" selected></option>
+						<option value="psrm" data-title="PSRM">PSRM</option>
+						<option value="pdm" data-title="PDM">PDM</option>
+						<option value="pldm" data-title="PLDM">PLDM</option>
+						<option value="pl" data-title="PL">PL</option>
+						<option value="pcrm" data-title="PCRM">PCRM</option>
+						<option value="ppem" data-title="PPEM">PPEM</option>
+						<option value="ap" data-title="Alte partide">Alte partide</option>
+						<option value="fp" data-title="Fără de partid">Fără de partid</option>
+					</select>
+				</div>
+			</div>
+			<div id="filters_title"></div>
+
 			<!--#endif -->
 		</header>
 	<article>

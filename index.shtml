@@ -1,46 +1,7 @@
 <!--#set var="title" value="Venituri, proprietăţi şi interese declarate de persoane publice" -->
 <!--#set var="root" value="1" -->
 <!--#include virtual="/_/includes/1.shtml" -->
-<article>
 
-	<div class="pr">
-
-		<div class="filters" id="person_list_filters">
-			<div class="search">
-				<div id="name_search_cont">
-					<input type="text" id="search_inp" placeholder="Căutare"/><i class="icon icon-search" title="Căutare (Ctrl+Enter)"></i>
-				</div>
-			</div>
-			<div>
-				<select id="filter_institutes" class="select2" data-placeholder="Instituţii">
-					<option value="" selected></option>
-					<option value="parlament" data-title="Parlament">Parlament</option>
-					<option value="guvern" data-title="Guvern">Guvern</option>
-					<option value="presedintie" data-title="Preşedinţie">Preşedinţie</option>
-					<option value="apl" data-title="APL">APL</option>
-					<option value="drept" data-title="Organe de drept">Organe de drept</option>
-					<option value="alte" data-title="Alte autorităţi">Alte autorităţi</option>
-					<option value="diverse" data-title="Diverse">Diverse</option>
-				</select>
-			</div>
-			<div>
-				<select id="filter_parties" class="select2" data-placeholder="Partide politice">
-					<option value="" selected></option>
-					<option value="psrm" data-title="PSRM">PSRM</option>
-					<option value="pdm" data-title="PDM">PDM</option>
-					<option value="pldm" data-title="PLDM">PLDM</option>
-					<option value="pl" data-title="PL">PL</option>
-					<option value="pcrm" data-title="PCRM">PCRM</option>
-					<option value="ppem" data-title="PPEM">PPEM</option>
-					<option value="ap" data-title="Alte partide">Alte partide</option>
-					<option value="fp" data-title="Fără de partid">Fără de partid</option>
-				</select>
-			</div>
-		</div>
-		<div id="filters_title">
-			Hello
-		</div>
-	</div>
 	<!--<div class="filter_block">-->
 		<!--<b>Instituţii:</b><a href="#?" data-filter-institute="parlament" data-title="Parlament">Parlament</a>
 		<a href="#?" data-filter-institute="guvern" data-title="Guvern">Guvern</a>
@@ -61,6 +22,7 @@
 		<a href="#?" data-filter-party="ap" data-title="Alte partide">Alte partide</a>
 		<a href="#?" data-filter-party="fp" data-title="Fără de partid">Fără de partid</a>-->
 	<!--</div>-->
+
 	<div class="persons_list">
 		<table class="table tablesorter">
 			<colgroup>
@@ -93,7 +55,7 @@
 				</tr>
 			</thead>
 			<tbody>
-				<tr data-party="pldm" data-institute="parlament" data-top10="true">
+				<tr data-party="pldm" data-institute="parlament" data-top="true">
 					<td class="name">
 						<a class="icon_32_person" href="agache-angel/" title="Angel Agache"><b class="pldm angel-agache"></b></a>
 
@@ -105,9 +67,9 @@
 					<td class="goods">1,245,565.00</td>
 					<td class="finance">92,141.16</td>
 					<td class="debts">0.00</td>
-					<td class="problem"><b class="warning grey"></b></td>
+					<td class="problem"><b class="warning red"></b></td>
 				</tr>
-				<tr data-party="fp" data-institute="drept" data-top10="true">
+				<tr data-party="fp" data-institute="drept" data-top="true">
 					<td class="name">
 						<a class="icon_32_person" href="alergus-constantin/" title="Constantin Alerguş"><b class="fp constantin-alergus"></b></a>
 
@@ -121,7 +83,7 @@
 					<td class="debts">0.00</td>
 					<td class="problem"></td>
 				</tr>
-				<tr data-party="pdm" data-institute="parlament" data-top10="true">
+				<tr data-party="pdm" data-institute="parlament" data-last-year="2014" data-added="2016-03-13" data-top="true">
 					<td class="name">
 						<a class="icon_32_person" href="andronachi-vladimir/" title="Vladimir Andronachi"><b class="pdm vladimir-andronachi"></b></a>
 
@@ -133,9 +95,9 @@
 					<td class="goods">2,097,710.90</td>
 					<td class="finance">0.00</td>
 					<td class="debts">6,738,637.50</td>
-					<td class="problem"><b class="warning grey"></b></td>
+					<td class="problem"><b class="warning red"></b></td>
 				</tr>
-				<tr data-party="pdm" data-institute="parlament" data-top10="true">
+				<tr data-party="pdm" data-institute="parlament" data-last-year="2015" data-added="2016-03-10" data-top="true">
 					<td class="name">
 						<a class="icon_32_person" href="apolschii-raisa/" title="Raisa Apolschii"><b class="pdm raisa-apolschii"></b></a>
 
@@ -149,7 +111,7 @@
 					<td class="debts">0.00</td>
 					<td class="problem"></td>
 				</tr>
-				<tr data-party="pl" data-institute="parlament" data-top10="true">
+				<tr data-party="pl" data-institute="parlament" data-added="2014-01-13" data-top="true">
 					<td class="name">
 						<a class="icon_32_person" href="apostol-ion/" title="Ion Apostol"><b class="pl ion-apostol"></b></a>
 
@@ -163,7 +125,7 @@
 					<td class="debts">0.00</td>
 					<td class="problem"></td>
 				</tr>
-				<tr data-party="fp" data-institute="diverse">
+				<tr data-party="fp" data-institute="diverse" data-added="2016-01-13">
 					<td class="name"><a class="icon_32_person"><b class="fp iurie-apostolachi"></b></a>
 
 						<div><a style="color:#ccc; text-decoration:none">Apostolachi Iurie</a>
@@ -2395,7 +2357,7 @@
 					<td class="goods">3,022,000.00</td>
 					<td class="finance">9,426,397.38</td>
 					<td class="debts">0.00</td>
-					<td class="problem"><b class="warning grey"></b></td>
+					<td class="problem"><b class="warning red"></b></td>
 				</tr>
 				<tr data-party="pldm" data-institute="diverse">
 					<td class="name"><a class="icon_32_person"><b class="pldm nicolae-platon"></b></a>
@@ -3007,7 +2969,7 @@
 					<td class="goods">3,630,651.10</td>
 					<td class="finance">346,151.20</td>
 					<td class="debts">6,881,223.58</td>
-					<td class="problem"><b class="warning grey"></b></td>
+					<td class="problem"><b class="warning red"></b></td>
 				</tr>
 				<tr data-party="fp" data-institute="alte">
 					<td class="name"><a class="icon_32_person"><b class="fp grigore-varanita"></b></a>
@@ -3187,5 +3149,4 @@
 			</tbody>
 		</table>
 	</div>
-</article>
 <!--#include virtual="/_/includes/2.shtml" -->
