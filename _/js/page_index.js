@@ -27,48 +27,64 @@ $(function () {
 			last_year: 0
 		},
 		filter_title_bases: {
-			institutes: {
+			simple_search: 'Rezultatele cautarii',
+			institutes: { // no_i = no institute, no_p = no party, any_p = any party, fp = fara partid (without party)
 				no_i: {
-					no_p: 'Top politicienii',
-					any_p: 'Averea şi interesele demnitarilor, membri ai ', // + party name
-					fp: 'Averea şi interesele demnitarilor neafiliaţi politic'
+					no_p: 'Topul celor mai mediatizaţi demnitari',
+					any_p: 'Demnitari, membri ai ', // + party name
+					fp: 'Demnitari neafiliaţi politic'
 				},
 				parlament: {
-					no_p: 'Averea şi interesele deputaţilor',
-					any_p: 'Averea şi interesele deputaţilor, membri ai fracțiunii ', // + party name
-					fp: 'Averea şi interesele deputaţilor neafiliaţi politic'
+					no_p: 'Deputaţi în Parlamentul Republicii Moldova',
+					any_p: 'Deputaţii, membri ai fracţiunii ', // + party name
+					fp: 'Deputaţii neafiliaţi politic'
 				},
 				guvern: {
-					no_p: 'Averea şi interesele demnitarilor din cadrul Guvernului',
-					any_p: 'Averea şi interesele demnitarilor din cadrul Guvernului ', // + party name
-					fp: 'Averea şi interesele demnitarilor din cadrul Guvernului'
+					no_p: 'Demnitari din componenţa Guvernului',
+					any_p: 'Demnitari din componenţa Guvernului, membri ai ', // + party name
+					fp: 'Demnitari din componenţa Guvernului neafiliaţi politic'
 				},
 				presedintie: {
-					no_p: '',
-					any_p: '', // + party name
-					fp: ''
+					no_p: 'Preşedintele Republicii Moldova',
+					any_p: 'Preşedintele Republicii Moldova, membru al ',
+					fp: 'Preşedintele Republicii Moldova neafiliat politic'
 				},
 				apl: {
-					no_p: 'Averea şi interesele funcţionarilor publici din cadrul APL',
-					any_p: 'Averea şi interesele funcţionarilor publici din cadrul APL, membri ai ', // + party name
-					fp: 'Averea şi interesele funcţionarilor publici din cadrul APL neafiliaţi politic'
+					no_p: 'Funcţionarii publici din cadrul APL',
+					any_p: 'Funcţionarii publici din cadrul APL, membri ai ', // + party name
+					fp: 'Funcţionarii publici din cadrul APL neafiliaţi politic'
 				},
-				drept: {
-					no_p: '',
-					any_p: '',  // + party name
-					fp: ''
+				judecatori: {
+					no_p: 'Judecătorii instanţelor judecătoreşti',
+					any_p: 'Judecătorii instanţelor judecătoreşti, membri ai ',  // + party name
+					fp: 'Judecătorii instanţelor judecătoreşti neafiliaţi politic'
+				},
+				agentii: {
+					no_p: 'Demnitarii şi funcţionarii publici din cadrul agenţiilor',
+					any_p: 'Demnitarii şi funcţionarii publici din cadrul agenţiilor, membri ai ',  // + party name
+					fp: 'Demnitarii şi funcţionarii publici din cadrul agenţiilor neafiliaţi politic'
+				},
+				autonome: {
+					no_p: 'Demnitarii din cadrul instituţiilor publice autonome',
+					any_p: 'Demnitarii din cadrul instituţiilor publice autonome, membri ai ',  // + party name
+					fp: 'Demnitarii din cadrul instituţiilor publice autonome neafiliaţi politic'
+				},
+				alte: {
+					no_p: 'Demnitarii din cadrul autorităţilor subordonate Guvernului',
+					any_p: 'Demnitarii din cadrul autorităţilor subordonate Guvernului, membri ai ',  // + party name
+					fp: 'Demnitarii din cadrul autorităţilor subordonate Guvernului neafiliaţi politic'
 				},
 				diverse: {
-					no_p: 'Averea și interesele ex-demnitarilor',
-					any_p: 'Ex-demnitari, membri ai  ', // + party name
+					no_p: 'Ex-demnitari',
+					any_p: 'Ex-demnitari, membri ai ', // + party name
 					fp: 'Ex-demnitari neafiliaţi politic'
 				}
 			},
 			unique_filters: {
-				show_all: 'Title show all',
-				newest: 'Title newest',
-				with_problems: 'Title with problems',
-				last_year: 'Title last year'
+				show_all: 'Demnitarii monitorizaţi în cadrul proiectului',
+				newest: 'Persoane noi introduse în lista de monitorizare',
+				with_problems: 'Demnitarii care au admis nereguli la declararea averilor',
+				last_year: 'Demnitari a căror declaraţii pentru 2015 au fost publicate'
 			}
 		},
 		active_unique_filter: false,
@@ -103,7 +119,8 @@ $(function () {
 					$(this).prop("selectedIndex", 0);
 					$(this).select2({
 						width: '100%',
-						allowClear: true
+						allowClear: true,
+						minimumResultsForSearch: 15
 					})
 				})
 				pt.dom.$select2_filters.on('change', function (e) {
@@ -130,6 +147,13 @@ $(function () {
 					} else {
 						pt.dom.$search_ico.removeClass('icon-cancel').addClass('icon-search');
 					}
+				})
+				pt.dom.$search_inp.on('focus blur', function(e){
+					var $cont = pt.dom.$search_inp.parents('.search')
+					if (e.type == 'focus') {
+						$cont.addClass('focused')
+					} else $cont.removeClass('focused')
+
 				})
 				pt.dom.$search_ico.on('click touch', function (e) {
 					pt.dom.$search_inp.val('').focus().change()
@@ -240,7 +264,7 @@ $(function () {
 					var select_obj = $('#filter_parties')[0],
 							$select_obj_selected_el = $(select_obj.options[select_obj.selectedIndex]);
 
-					$filter_party_el_txt = $select_obj_selected_el.data('title')
+					$filter_party_el_txt = (!title_party_base.match(/fp|no_p/)) ? $select_obj_selected_el.data('title') : ''
 				}
 
 				if (pt.active_unique_filter) {

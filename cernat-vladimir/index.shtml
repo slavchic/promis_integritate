@@ -32,7 +32,7 @@ data: [
 ]},
 {label: "Datorii", bars: {order: 6},
 data: [
-[2012, 181800]
+[2013, 181800]
 ]}
 ];
 </script>

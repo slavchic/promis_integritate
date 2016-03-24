@@ -33,7 +33,7 @@ data: [
 {label: "Active financiare", bars: {order: 5},
 data: [
 [2013, 420000],
-[2014, 2567681.56]
+[2014, 557551.56]
 ]},
 {label: "Datorii", bars: {order: 6},
 data: [
@@ -153,9 +153,9 @@ data: [
 </td>
 <td class="value">
 <span>20.0&nbsp;$<b></b></span>
-<span>2,255.7<b></b></span>
+<span>245.6<b></b></span>
 </td></tr>
-<tr class="result"><td colspan="2">2,567,681.56 <!--#echo encoding="none" var="mdl" --></td></tr>
+<tr class="result"><td colspan="2">557,551.56 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
 </div>
 

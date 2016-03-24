@@ -2,7 +2,7 @@
 
 @import url("promis_integritate.css");
 @import url("animation.css");
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700);
+//@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700);
 //@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
 //@import url(http://fonts.googleapis.com/css?family=Lato:400,300,400italic,700);
 @import url(http://fonts.googleapis.com/css?family=Arimo&subset=latin,latin-ext);
@@ -44,12 +44,12 @@
 
 @basic_offset: 20px;
 
-@font_size_sx: 9pt;
-@font_size_sm: 10pt;
+@font_size_sx: 8pt;
+@font_size_sm: 9pt;
 @font_size_md: 11pt;
 @font_size_lg: 14pt;
 @font_size_xl: 19pt;
-@font_size_xxl: 25pt;
+@font_size_xxl: 24pt;
 
 @font_family_default: 'Arimo', sans-serif;
 
@@ -211,19 +211,38 @@ body {
 nav.top_menu {
   .dt;
   width: 100%;
-  margin-top: 10px;
+  padding-top: 10px;
 
   > div {
     .dtc;
+    width: 33.33%;
     padding: 0 10px;
     font-size: 0;
-    > a {
-      padding: 0 10px 2px;
+    > a:not(.logo) {
+      padding: 0 10px;
       font-size: @font_size_sm;
-      line-height: @font_size_sm;
+      line-height: 26px;
       & + a {
         padding-left: 11px;
         border-left: 1px solid @lgrey;
+      }
+    }
+    &.right {
+      .aright;
+    }
+    &.left, &.right {
+      @media (max-width: 700px) {
+        display: none;
+      }
+    }
+    .logo {
+      .db;
+      width: 200px;
+      margin: 0 auto;
+      .acenter;
+      > img {
+        width: 100%;
+        max-width: 100%;
       }
     }
   }
@@ -267,27 +286,29 @@ section {
   }
   header {
     //background: radial-gradient(circle at center 70%, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, 0) 100%);
-    background-color: #fff;
+    //background-color: #fff;
     //border-bottom: 1px solid @llgrey;
-    border-radius: 5px 5px 0 0;
+    //border-radius: 5px 5px 0 0;
     overflow: hidden;
     padding: 20px 20px 20px;
+    font-size: 0;
     > .logo {
       display: inline-block;
-      width: 170px;
+      width: 301px;
       height: auto;
-      padding: 0px 20px 0px 0px;
+      //padding: 0px 20px 0px 0px;
+      font-weight: bold;
+      text-decoration: none;
       img {
         width: 100%;
         height: auto;
       }
-      @media (max-width: 400px) {
-        width: 120px;
-      }
+
     }
     > strong {
       display: inline-block;
-      margin: 10px 0 0;
+      .dn;
+      margin: 7px 0 0;
       font-size: 18pt;
       //font-weight: normal;
       line-height: 20pt;
@@ -321,7 +342,7 @@ section {
   article {
     padding: @basic_offset;
     font-size: @font_size_sm;
-    background: #fff;
+    //background: #fff;
     .clearfix;
     @media (max-width: 700px) {
       padding: 10px;
@@ -332,23 +353,35 @@ section {
     header {
       padding: 0;
       > .logo {
+
         .db;
-        width: 250px;
-        margin: 30px auto 0;
-        padding: 0;
+        max-width: 100%;
+        margin: 30px auto 20px;
+        padding: 0 0 20px ;
+        border-bottom: 1px solid @lgrey2;
+        font-size: 0;
+        > img {
+          max-width: 100%;
+          height: auto;
+        }
+        @media (max-width: 400px) {
+          width: 270px;
+        }
       }
       > strong {
         .db;
-        max-width: 520px;
+        .dn;
+        //max-width: 520px;
         margin: 10px auto 15px;
         padding-bottom: 20px;
         border-bottom: 1px solid @lgrey2;
-        font-size: @font_size_xxl - 3;
+        font-size: @font_size_lg + 2;
+        font-weight: normal;
         .acenter;
       }
       > .about {
         max-width: 75%;
-        margin: 0 auto;
+        margin: 0 auto 25px;
         color: @grey;
         font-size: @font_size_md;
         .acenter;
@@ -377,9 +410,12 @@ section {
       > div {
         .dtc;
         width: 33.33%;
+        max-height: 60px;
+        overflow: hidden;
         padding: 15px 10px 15px;
         vertical-align: middle;
         border-top: 1px solid @lgrey2;
+        transition: all .2s ease;
         @media (min-width: 700px) {
           &:first-child {
             padding-left: 20px;
@@ -393,8 +429,14 @@ section {
           .db;
           width: auto;
           padding: 10px 15px;
+          border-top: none;
           & + div {
             padding-top: 0;
+          }
+          &.focused ~ div {
+            padding-top: 0;
+            padding-bottom: 0;
+            max-height: 0;
           }
         }
         > input, select {
@@ -404,17 +446,27 @@ section {
     }
     .stats {
       width: 100%;
-      margin: 25px 0 25px;
+      margin: 0 0 25px;
+      font-size: @font_size_md;
       td {
         width: 25%;
         text-align: center;
         vertical-align: middle;
+        @media (max-width: 500px) {
+          width: 100%;
+          display: block;
+          & + td {
+            .dn;
+            //padding-top: 10px;
+          }
+        }
         > a {
           .pr;
           .dib;
           border-bottom: 1px dashed @placeholder_color;
           text-decoration: none;
           color: @placeholder_color;
+          white-space: nowrap;
           &:hover, &.active {
             color: @link_color;
             border-bottom: 1px solid @link_color;
@@ -445,13 +497,19 @@ section {
             &.red {
               color: @red;
             }
+            @media (max-width: 500px) {
+              .dib;
+              margin-right: 5px;
+              line-height: inherit;
+              font-size: @font_size_md + 2;
+            }
 
           }
           > i {
             .dn;
             .pa;
             left: calc(100% + 5px);
-            bottom: 1px;
+            bottom: -1px;
           }
         }
       }
@@ -492,12 +550,17 @@ section {
         float: right;
         margin-top: 5px;
         @media (max-width: 400px) {
-          .pa;
-          right: 10px;
-          top:30px;
+          //.pa;
+          //right: 10px;
+          //top:30px;
           float: none;
           margin: 0 0 @basic_offset/2;
           text-align: center;
+        }
+      }
+      h1 {
+        @media (max-width: 400px) {
+          .acenter
         }
       }
     }
@@ -1015,7 +1078,7 @@ section {
       &.problem {
         width: 50px;
       }
-      @media (max-width: 500px) {
+      @media (max-width: 700px) {
         display: none;
       }
       @media (min-width: 1200px) {
@@ -1036,7 +1099,7 @@ section {
       }
     }
     th, td {
-      @media (max-width: 500px) {
+      @media (max-width: 700px) {
         &.income, &.lands, &.buildings, &.goods, &.finance, &.debts, &.problem, br {
           display: none;
         }
@@ -1457,13 +1520,17 @@ a.local {
   }
   input {
     width: 100%;
-    padding: 7px 15px 8px;
+    padding: 8px 15px 8px;
     border: 1px solid darken(@lgrey2, 5%);
     outline: none;
     border-radius: 4px;
     font-size: @font_size_md + 2;
     box-shadow: 1px 1px 1px fade(#000, 14%) inset;
     transition: all .4s ease-in-out;
+    &:disabled {
+      box-shadow: none;
+      opacity: .5;
+    }
     &:focus {
       border-color: @link_color;
     }
@@ -1498,6 +1565,7 @@ a.local {
 
 .select2-drop-active {
   border-color: @link_color;
+  border-top: 1px solid #ddd;
 }
 
 .select2-drop {
@@ -1525,7 +1593,9 @@ a.local {
   }
   .select2-choice {
     height: auto;
-    padding: 7px 15px;
+    font-size: 13pt;
+    line-height: 16pt;
+    padding: 8px 15px;
     border: 1px solid darken(@lgrey2, 5%);
     box-shadow: 1px 1px 1px fade(#000, 14%) inset;
     background-image: none;
@@ -1547,7 +1617,7 @@ a.local {
       border-left: 1px solid darken(@lgrey2, 5%);
       background: none;
       b {
-        background-position: 7px 8px;
+        background-position: 7px 7px;
       }
     }
   }
@@ -1581,5 +1651,10 @@ table.tablesorter {
         visibility: visible;
       }
     }
+  }
+}
+.hidden500 {
+  @media (max-width: 500px) {
+    display: none !important;
   }
 }

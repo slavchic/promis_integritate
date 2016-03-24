@@ -430,7 +430,7 @@ data: [
 <span>65.0<b></b></span>
 <span>14.0<b></b></span>
 <span>20.0<b></b></span>
-<span class="pos">3.0<b></b></span>
+<span class="pos">≈3.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">227,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -568,7 +568,7 @@ data: [
 <span>65.0<b></b></span>
 <span>14.0<b></b></span>
 <span>20.0<b></b></span>
-<span>3.0<b class="warning grey"><i>5</i></b></span>
+<span>≈3.0<b class="warning grey"><i>5</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">230,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -682,7 +682,7 @@ data: [
 <span class="neg">65.0<b></b></span>
 <span class="neg">14.0<b></b></span>
 <span class="neg">20.0<b></b></span>
-<span class="neg">3.0<b class="warning grey"><i>2</i></b></span>
+<span class="neg">≈3.0<b class="warning grey"><i>2</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">178,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>

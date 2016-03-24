@@ -767,7 +767,7 @@ data: [
 </td>
 <td class="value">
 <span class="neg">1,232.0<b></b></span>
-<span class="neg">15.0<b class="warning grey"><i>1</i></b></span>
+<span class="neg">≈15.0<b class="warning grey"><i>1</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">1,247,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -808,9 +808,9 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Garajul din or. Briceni nu se regăseşte în declaraţiile ulterioare anului <a href="/pdf/greceanii-zinaida-2007-2008-pcrm-cec.pdf" class="icon-data_doc_pdf">2008</a>, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea de piaţă a garajului.
+<li>Garajul din or. Briceni nu se regăseşte în declaraţiile ulterioare anului <a href="/pdf/greceanii-zinaida-2007-2008-pcrm-cec.pdf" class="icon-data_doc_pdf">2008</a>. În tabel este indicată valoarea de piaţă a acestuia.
 <li>Valoarea terenului agricol nu este specificată în nicio declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
-<li>Automobilul Audi 80 nu se regăseşte în declaraţiile ulterioare anului <a href="/pdf/greceanii-zinaida-2008-2009-pcrm-cec.pdf" class="icon-data_doc_pdf">2009</a>, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Automobilul Audi 80 nu se regăseşte în declaraţiile ulterioare anului <a href="/pdf/greceanii-zinaida-2008-2009-pcrm-cec.pdf" class="icon-data_doc_pdf">2009</a>. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
