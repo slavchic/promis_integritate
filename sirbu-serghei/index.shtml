@@ -177,7 +177,7 @@ data: [
 <div class="comments">
 <ol>
 <li>În declaraţie nu este indicată valoarea automobilului Toyota RAV4, deţinut în folosinţă în baza unui contract de comodat. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
-<li>În declaraţie nu este indicată valoarea automobilului BMW 320d. În tabel este indicată valoarea acestuia în baza <a class="local" href="#d2013">Declaraţiei 2013</a>.
+<li>Valoarea automobilului BMW 320d <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea din <a class="local" href="#d2013">Declaraţia 2013</a>.
 </ol>
 </div>
 
@@ -291,7 +291,7 @@ data: [
 <span><b></b><span><!--#echo encoding="none" var="t63" --> / 2006</span></span>
 </td>
 <td class="value">
-<span class="pos">20.0<b class="warning grey"><i>2</i></b></span>
+<span class="pos">20.0<b class="warning"><i>2</i></b></span>
 <span>30.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">50,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -300,10 +300,10 @@ data: [
 
 </div>
 
-<div class="comments grey_warning">
+<div class="comments">
 <ol>
 <li>În declaraţie nu este indicată valoarea automobilului Toyota RAV4, intrat în folosinţa titularului în 2013 în baza unui contract de comodat. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
-<li>Tabelul este completat în baza <a class="local" href="#d2014">Declaraţiei 2014</a>.
+<li>Valoarea creditului <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea din <a class="local" href="#d2014">Declaraţia 2014</a>.
 </ol>
 </div>
 
@@ -455,7 +455,7 @@ data: [
 <span>54.7</span>
 </td>
 <td class="value">
-<span>152.2<b class="warning grey"><i>1</i></b></span>
+<span>152.2<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">152,244.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -520,10 +520,8 @@ data: [
 
 </div>
 
-<div class="comments grey_warning">
-<ol>
-<li>În declaraţie lipseşte informaţia despre proprietăţile deţinute, precum şi angajamentele financiare asumate, până la momentul declarării. Legislaţia în vigoare la acel moment prevedea declararea doar a veniturilor, bunurilor şi angajamentelor financiare dobândite în anul declarării.
-</ol>
+<div class="comments">
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute, precum şi angajamentele financiare asumate până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 </div>
 
 </div>
@@ -563,7 +561,7 @@ data: [
 <span>54.7</span>
 </td>
 <td class="value">
-<span>152.2<b class="warning grey"><i>1</i></b></span>
+<span>152.2<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">152,244.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -628,10 +626,8 @@ data: [
 
 </div>
 
-<div class="comments grey_warning">
-<ol>
-<li>În declaraţie lipseşte informaţia despre proprietăţile deţinute, precum şi angajamentele financiare asumate, până la momentul declarării, fapt permis de către legislaţia în vigoare la acel moment.
-</ol>
+<div class="comments">
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute, precum şi angajamentele financiare asumate până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 </div>
 
 </div>

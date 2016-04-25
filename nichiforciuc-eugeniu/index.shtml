@@ -153,9 +153,9 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declarație apartamentul (42.2&nbsp;m2) nu are indicat anul dobândirii, probabil este nefinisat.<br>Valoarea acestuia (14,119 euro) este calculată în lei la cursul BNM din 31.12.2014.
-<li>În declaraţie <b>nu este indicată</b> valoarea automobilului Audi Q5. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţie <b>nu este indicată</b> valoarea automobilului Land Rover Discovery. În tabel este indicată valoarea de piaţă a acestuia.
+<li>- Anul dobândirii apartamentului (42.2&nbsp;m2) nu este specificat în declaraţie, probabil este nefinisat.<br>Valoarea acestuia (14,119 euro) este calculată în lei la cursul BNM din 31.12.2014.
+<li>Valoarea automobilului Audi Q5 <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea automobilului Land Rover Discovery <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -231,9 +231,9 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În declarații apartamentul (42.2&nbsp;m2) nu are indicat anul dobândirii, probabil este nefinisat.<br>Valoarea acestuia (14,119 euro) este calculată în lei la cursul BNM din 31.12.2014.
-<li>În declarații <b>nu este indicată</b> valoarea automobilului Land Rover Discovery. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţii nu este indicată valoarea automobilului Mitsubishi. În tabel se indică valoarea declarată în <a class="local" href="#d2014">2014</a> ca venit din vânzarea acestuia.
+<li>- Anul dobândirii apartamentului (42.2&nbsp;m2) nu este specificat în declaraţie, probabil este nefinisat.<br>Valoarea acestuia (14,119 euro) este calculată în lei la cursul BNM din 31.12.2014.
+<li>Valoarea automobilului Land Rover Discovery nu este specificată în nicio declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>În tabel este indicată valoarea automobilului Mitsubishi declarată în <a class="local" href="#d2014">2014</a> ca venit din vânzarea acestuia. 
 </ol>
 </div>
 

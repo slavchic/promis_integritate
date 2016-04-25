@@ -169,10 +169,10 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie <b>nu este indicată</b> valoarea terenului intravilan. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţie nu este indicată valoarea automobilului BMW&nbsp;730, deţinut în folosinţă în baza unui contract de comodat începând cu anul 2013. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
-<li>În declaraţie <b>nu este indicată</b> valoarea motocicletei BMW&nbsp;R&nbsp;1200&nbsp;GS. În tabel este indicată valoarea de piaţă a acesteia.
-<li>În declaraţie <b>nu este indicată</b> valoarea motocicletei BMW&nbsp;F&nbsp;650. În tabel este indicată valoarea de piaţă a acesteia.
+<li>Valoarea terenului intravilan <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>În declaraţie nu este indicată valoarea automobilului BMW&nbsp;730, deţinut în folosinţă în baza unui contract de comodat. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Valoarea motocicletei BMW&nbsp;R&nbsp;1200&nbsp;GS <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acesteia.
+<li>Valoarea motocicletei BMW&nbsp;F&nbsp;650 <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acesteia.
 </ol>
 </div>
 
@@ -291,9 +291,9 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie <b>nu este indicată</b> valoarea terenului intravilan. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţie nu este indicată valoarea automobilului BMW&nbsp;730, deţinut în folosinţă în baza unui contract de comodat începând cu anul 2013. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
-<li>În declaraţie <b>nu este indicată</b> valoarea motocicletei BMW&nbsp;F&nbsp;650. În tabel este indicată valoarea de piaţă a acesteia.
+<li>Valoarea terenului intravilan <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>În declaraţie nu este indicată valoarea automobilului BMW&nbsp;730, deţinut în folosinţă în baza unui contract de comodat. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Valoarea motocicletei BMW&nbsp;F&nbsp;650 <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acesteia.
 </ol>
 </div>
 
@@ -408,8 +408,8 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie <b>nu este indicată</b> valoarea terenului intravilan. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţie <b>nu este indicată</b> valoarea motocicletei BMW&nbsp;F&nbsp;650. În tabel este indicată valoarea de piaţă a acesteia.
+<li>Valoarea terenului intravilan <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea motocicletei BMW&nbsp;F&nbsp;650 <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acesteia.
 </ol>
 </div>
 
@@ -452,7 +452,7 @@ data: [
 <span>66.8</span>
 </td>
 <td class="value">
-<span>374.3<b class="warning grey"><i>1</i></b></span>
+<span>374.3<b></b></span>
 <span>140.1<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">514,449.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -516,10 +516,8 @@ data: [
 
 </div>
 
-<div class="comments grey_warning">
-<ol>
-<li>În declaraţie lipseşte informaţia despre proprietăţile deţinute, precum şi angajamentele financiare asumate, până la momentul declarării. Legislaţia în vigoare la acel moment prevedea declararea doar a veniturilor, bunurilor şi angajamentelor financiare dobândite în anul declarării.
-</ol>
+<div class="comments">
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 </div>
 
 </div>
@@ -561,7 +559,7 @@ data: [
 <span>66.8</span>
 </td>
 <td class="value">
-<span>374.3<b class="warning grey"><i>1</i></b></span>
+<span>374.3<b></b></span>
 <span>140.1<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">514,449.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -579,7 +577,7 @@ data: [
 <span class="pos">0.06</span>
 </td>
 <td class="value">
-<span class="neg">≈300.0<b class="warning"><i>2</i></b></span>
+<span class="neg">≈300.0<b class="warning"><i>1</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">300,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -626,9 +624,9 @@ data: [
 </div>
 
 <div class="comments">
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 <ol>
-<li>În declaraţie lipseşte informaţia despre proprietăţile deţinute, precum şi angajamentele financiare asumate, până la momentul declarării, fapt permis de către legislaţia în vigoare la acel moment.
-<li>În declaraţie lipseşte informaţia despre terenul intravilan, dobândit în 2010 (vezi <a class="local" href="#d2012">Declaraţia 2012</a>). Conform legislaţiei, <b>titulara era obligată</b> să declare valoarea acestuia în anul dobândirii. În tabel este indicată valoarea de piaţă a terenului.
+<li>Terenul intravilan <b>a fost omis</b> din declaraţie, contrar prevederilor legale de a declara acest bun ca proprietate dobândită în 2010. Tabelul e completat pe baza <a class="local" href="#d2012">Declaraţiei 2012</a>.
 </ol>
 </div>
 
@@ -735,9 +733,9 @@ data: [
 </div>
 
 <div class="comments">
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 <ol>
-<li>În declaraţie lipseşte informaţia despre proprietăţile deţinute, precum şi angajamentele financiare asumate, până la momentul declarării, fapt permis de către legislaţia în vigoare la acel moment.
-<li>Automobilul BMW 728 <b>nu este menţionat</b> în declaraţiile ulterioare <a href="/pdf/ivanov-violeta-2008-2009-cec.pdf" class="icon-data_doc_pdf">anului 2009</a>. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Automobilul BMW 728 <b>nu se regăseşte</b> în declaraţiile ulterioare anului <a href="/pdf/ivanov-violeta-2008-2009-cec.pdf" class="icon-data_doc_pdf">2009</a>, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea de piaţă a automobilului.
 </ol>
 </div>
 
@@ -808,8 +806,8 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În declaraţiile nu este indicată valoarea motocicletei BMW&nbsp;F&nbsp;650. În tabel este indicată valoarea de piaţă a acesteia.
-<li>Automobilul BMW 728 <b>nu este menţionat</b> în declaraţiile ulterioare <a href="/pdf/ivanov-violeta-2008-2009-cec.pdf" class="icon-data_doc_pdf">anului 2009</a>. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea motocicletei BMW&nbsp;F&nbsp;650 nu este specificată în nicio declaraţie. În tabel este indicată valoarea de piaţă a acesteia.
+<li>Automobilul BMW 728 nu se regăseşte în declaraţiile ulterioare anului <a href="/pdf/ivanov-violeta-2008-2009-cec.pdf" class="icon-data_doc_pdf">2009</a>. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 

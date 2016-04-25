@@ -65,7 +65,7 @@ data: [
 
 <div class="declarations_list">
 
-<div class="declaration" id="2014">
+<div class="declaration" id="d2014">
 
 <div class="top">
 <div class="year"><h2>2014</h2>&nbsp;<a href="/pdf/diacov-dumitru-2014-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
@@ -110,7 +110,7 @@ data: [
 </td>
 <td class="value">
 <span>≈2,340.0<b class="warning"><i>1</i></b></span>
-<span>1,288.9<b></b></span>
+<span>1,288.8<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">3,628,827.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -140,7 +140,7 @@ data: [
 <tr class="info"><td class="name">
 <span><b></b><span>Range Rover (2012) / 2012</span></span>
 <span><b></b><span>Mercedes (2010) / 2010</span></span>
-<span><b></b><span>BMW730d (2007) / 2007</span></span>
+<span><b></b><span>BMW 730d (2007) / 2007</span></span>
 </td>
 <td class="value">
 <span>≈960.0<b class="warning grey"><i>2</i></b></span>
@@ -185,10 +185,10 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie nu este indicată valoarea apartamentului în or. Moscova. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea apartamentului din or. Moscova <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 <li>În declaraţie nu este indicată valoarea automobilului Range Rover, deţinut în folosinţă în baza unui contract de comodat. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
 <li>În declaraţie nu este indicată valoarea automobilului Mercedes, deţinut în folosinţă în baza unui contract de comodat. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
-<li>În declaraţie nu este indicată valoarea automobilului BMW730d. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea automobilului BMW 730d <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -198,7 +198,7 @@ data: [
 
 <!--2013-->
 
-<div class="declaration" id="2013">
+<div class="declaration" id="d2013">
 
 <div class="top">
 <div class="year"><h2>2013</h2>&nbsp;<a href="/pdf/diacov-dumitru-2013-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
@@ -243,7 +243,7 @@ data: [
 </td>
 <td class="value">
 <span>≈2,340.0<b class="warning"><i>1</i></b></span>
-<span>1,288.9<b></b></span>
+<span>1,288.8<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">3,628,827.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -273,7 +273,7 @@ data: [
 <tr class="info"><td class="name">
 <span><b></b><span>Range Rover (2012) / 2012</span></span>
 <span><b></b><span>Mercedes (2010) / 2010</span></span>
-<span><b></b><span>BMW730d (2007) / 2007</span></span>
+<span><b></b><span>BMW 730d (2007) / 2007</span></span>
 </td>
 <td class="value">
 <span>≈960.0<b class="warning grey"><i>2</i></b></span>
@@ -320,10 +320,10 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie nu este indicată valoarea apartamentului în or. Moscova. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţie nu este indicată valoarea automobilului Range Rover, deţinut în folosinţă în baza unui contract de comodat începând cu anul 2012. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Valoarea apartamentului din or. Moscova <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>În declaraţie nu este indicată valoarea automobilului Range Rover, deţinut în folosinţă în baza unui contract de comodat. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
 <li>În declaraţie nu este indicată valoarea automobilului Mercedes, deţinut în folosinţă în baza unui contract de comodat. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
-<li>În declaraţie nu este indicată valoarea automobilului BMW730d. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea automobilului BMW 730d <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -331,7 +331,7 @@ data: [
 
 <!--2012-->
 
-<div class="declaration" id="2012">
+<div class="declaration" id="d2012">
 
 <div class="top">
 <div class="year"><h2>2012</h2>&nbsp;<a href="/pdf/diacov-dumitru-2012-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
@@ -376,7 +376,7 @@ data: [
 </td>
 <td class="value">
 <span>≈2,340.0<b class="warning"><i>1</i></b></span>
-<span>1,288.9<b></b></span>
+<span>1,288.8<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">3,628,827.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -406,11 +406,11 @@ data: [
 <tr class="info"><td class="name">
 <span class="pos"><b></b><span>Range Rover (2012) / 2012</span></span>
 <span><b></b><span>Mercedes (2010) / 2010</span></span>
-<span><b></b><span>BMW730d (2007) / 2007</span></span>
+<span><b></b><span>BMW 730d (2007) / 2007</span></span>
 </td>
 <td class="value">
-<span>≈960.0<b class="warning grey"><i>2</i></b></span>
-<span>≈640.0<b class="warning grey"><i>3</i></b></span>
+<span>≈960.0<b class="warning"><i>2</i></b></span>
+<span>≈640.0<b class="warning"><i>3</i></b></span>
 <span>≈306.0<b class="warning"><i>4</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">1,906,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -453,10 +453,10 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie nu este indicată valoarea apartamentului în or. Moscova. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţie lipseşte informaţia despre automobilul Range Rover, intrat în folosinţa titularului în 2012 în baza unui contract de comodat. Conform legislaţiei, <b>titularul era obligat</b> să declare valoarea acestuia în anul dobândirii/ intrării în folosinţă.  În tabel este indicată valoarea de piaţă a automobilului.
-<li>În declaraţie lipseşte informaţia despre automobilul Mercedes, deţinut în folosinţă în baza unui contract de comodat începând cu anul 2010. Conform noii legislaţiei, în vigoare din 2012, <b>titularul era obligat</b> să declare toate bunurile deţinute la momentul depunerii declaraţiei. În tabel este indicată valoarea de piaţă a automobilului.
-<li>În declaraţie nu este indicată valoarea automobilului BMW730d. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea apartamentului din or. Moscova <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Automobilul Range Rover, intrat în folosinţa titularului în 2012 în baza unui contract de comodat, <b>a fost omis</b> din declaraţie, contrar prevederilor legale de a declara toate bunurile deţinute în proprietate la momentul depunerii declaraţiei. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Automobilul Mercedes, deţinut în folosinţă în baza unui contract de comodat începând cu anul 2010, <b>a fost omis</b> din declaraţie, contrar prevederilor legale de a declara toate bunurile deţinute în proprietate la momentul depunerii declaraţiei. Legislaţia nu prevede în mod expres indicarea valorii bunurilor deţinute în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Valoarea automobilului BMW 730d <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -464,7 +464,7 @@ data: [
 
 <!--2011-->
 
-<div class="declaration" id="2011">
+<div class="declaration" id="d2011">
 
 <div class="top">
 <div class="year"><h2>2011</h2>&nbsp;<a href="/pdf/diacov-dumitru-2011-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
@@ -502,7 +502,7 @@ data: [
 </td>
 <td class="value">
 <span>≈2,340.0<b class="warning grey"><i>1</i></b></span>
-<span>1,288.9<b></b></span>
+<span>1,288.8<b></b></span>
 <span>≈4,512.0<b class="warning"><i>2</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">8,140,827.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -532,11 +532,11 @@ data: [
 <thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
 <tr class="info"><td class="name">
 <span><b></b><span>Mercedes (2010) / 2010</span></span>
-<span><b></b><span>BMW730d (2007) / 2007</span></span>
+<span><b></b><span>BMW 730d (2007) / 2007</span></span>
 </td>
 <td class="value">
-<span>≈640.0<b class="warning grey"><i>3</i></b></span>
-<span>≈306.0<b class="warning grey"><i>4</i></b></span>
+<span>≈640.0<b></b></span>
+<span>≈306.0<b class="warning grey"><i>3</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">946,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -571,11 +571,11 @@ data: [
 </div>
 
 <div class="comments">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 <ol>
-<li>În declaraţie nu este indicată valoarea apartamentului în or. Moscova. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţie nu este indicată valoarea oficiului. În tabel este indicată valoarea de piaţă a acestuia. În declaraţiile din următorii ani oficiul <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc. 
-<li>În declaraţie lipseşte informaţia despre automobilul Mercedes, deţinut în folosinţă în baza unui contract de comodat începând cu anul 2010. Legislaţia în vigoare la acel moment prevedea declararea doar a veniturilor, bunurilor şi angajamentelor financiare dobândite în anul declarării.
-<li>În declaraţie nu este indicată valoarea automobilului BMW730d. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea apartamentului din or. Moscova nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Oficiul <b>nu se regăseşte</b> în declaraţiile ulterioare. În 2012 demnitarul nu raportează venituri obţinute în urma unei eventuale înstrăinări a oficiului sau despre transmiterea acestuia cu titlu oneros sau gratuit către alte persoane. În tabel este indicată valoarea de piaţă a oficiului.
+<li>Valoarea automobilului BMW 730d nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -583,7 +583,7 @@ data: [
 
 <!--2010-->
 
-<div class="declaration" id="2010">
+<div class="declaration" id="d2010">
 
 <div class="top">
 <div class="year"><h2>2010</h2>&nbsp;<a href="/pdf/diacov-dumitru-2010-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
@@ -623,7 +623,7 @@ data: [
 </td>
 <td class="value">
 <span>≈2,340.0<b class="warning grey"><i>1</i></b></span>
-<span>1,288.9<b></b></span>
+<span>1,288.8<b></b></span>
 <span>178.0<b class="warning"><i>2</i></b></span>
 <span>≈4,512.0<b class="warning grey"><i>3</i></b></span>
 </td></tr>
@@ -657,7 +657,7 @@ data: [
 <thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
 <tr class="info"><td class="name">
 <span class="pos"><b></b><span>Mercedes (2010) / 2010</span></span>
-<span><b></b><span>BMW730d (2007) / 2007</span></span>
+<span><b></b><span>BMW 730d (2007) / 2007</span></span>
 </td>
 <td class="value">
 <span>≈640.0<b class="warning"><i>5</i></b></span>
@@ -701,12 +701,12 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie nu este indicată valoarea apartamentului în or. Moscova. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţiile din următorii ani oficiul (446.8&nbsp;m2) <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc.
-<li>În declaraţie nu este indicată valoarea oficiului (752.0&nbsp;m2). În tabel este indicată valoarea de piaţă a acestuia.
-<li>Valoarea terenului intravilan (0.11&nbsp;ha) probabil este inclusă în valoarea oficiului (446.8&nbsp;m2).
-<li>În declaraţie lipseşte informaţia despre automobilul Mercedes, intrat în folosinţa titularului în 2010 în baza unui contract de comodat. Conform legislaţiei, <b>titularul era obligat</b> să declare valoarea acestuia în anul dobândirii/ intrării în folosinţă. În tabel este indicată valoarea de piaţă a automobilului.
-<li>În declaraţie nu este indicată valoarea automobilului BMW730d. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea apartamentului din or. Moscova nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Oficiul (446.8&nbsp;m2) şi terenul aferent <b>nu se regăsesc</b> în declaraţiile ulterioare. În 2011 demnitarul nu raportează venituri obţinute în urma unei eventuale înstrăinări a oficiului sau despre transmiterea acestuia cu titlu oneros sau gratuit către alte persoane.
+<li>Valoarea oficiului (752.0&nbsp;m2) nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea terenului aferent oficiului (1998) nu este specificată în declaraţie, aceasta probabil fiind inclusă în valoarea oficiului (446.8&nbsp;m2).
+<li>Automobilul Mercedes, intrat în folosinţa titularului în 2010 în baza unui contract de comodat, <b>a fost omis</b> din declaraţie, contrar prevederilor legale de a declara toate bunurile deţinute în proprietate la momentul depunerii declaraţiei. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Valoarea automobilului BMW 730d nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -714,7 +714,7 @@ data: [
 
 <!--2009-->
 
-<div class="declaration" id="2009">
+<div class="declaration" id="d2009">
 
 <div class="top">
 <div class="year"><h2>2009</h2>&nbsp;<a href="/pdf/diacov-dumitru-2009-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
@@ -755,8 +755,8 @@ data: [
 <span>752.0</span>
 </td>
 <td class="value">
-<span>≈2,340.0<b class="warning grey"><i>1</i></b></span>
-<span>1,288.9<b></b></span>
+<span>≈2,340.0<b></b></span>
+<span>1,288.8<b></b></span>
 <span>178.0<b></b></span>
 <span>≈4,512.0<b></b></span>
 </td></tr>
@@ -789,7 +789,7 @@ data: [
 <col><col style="width:23%">
 <thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
 <tr class="info"><td class="name">
-<span><b></b><span>BMW730d (2007) / 2007</span></span>
+<span><b></b><span>BMW 730d (2007) / 2007</span></span>
 </td>
 <td class="value">
 <span>≈306.0<b></b></span>
@@ -824,10 +824,8 @@ data: [
 
 </div>
 
-<div class="comments grey_warning">
-<ol>
-<li>În declaraţie lipseşte informaţia despre proprietăţile deţinute, precum şi angajamentele financiare asumate, până la momentul declarării. Legislaţia în vigoare la acel moment prevedea declararea doar a veniturilor, bunurilor şi angajamentelor financiare dobândite în anul declarării.
-</ol>
+<div class="comments">
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 </div>
 
 </div>
@@ -848,22 +846,22 @@ data: [
 <col><col style="width:23%"><col style="width:23%">
 <thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
 <tr class="info"><td class="name">
-<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1986</span></span>
-<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2005</span></span>
-<span><b></b><span><!--#echo encoding="none" var="t24" --> / 1998</span></span>
-<span><b></b><span><!--#echo encoding="none" var="t24" --> / ?</span></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t21" --> / 1986</span></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t22" --> / 2005</span></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t24" --> / 1998</span></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t24" --> / ?</span></span>
 </td>
 <td class="quantity">
-<span>69.1</span>
-<span>139.5</span>
-<span>446.8</span>
-<span>752.0</span>
+<span class="pos">69.1</span>
+<span class="pos">139.5</span>
+<span class="pos">446.8</span>
+<span class="pos">752.0</span>
 </td>
 <td class="value">
-<span>≈2,340.0<b class="warning grey"><i>1</i></b></span>
-<span>1,288.9<b></b></span>
-<span>178.0<b class="warning grey"><i>2</i></b></span>
-<span>≈4,512.0<b class="warning grey"><i>3</i></b></span>
+<span class="neg">≈2,340.0<b class="warning grey"><i>1</i></b></span>
+<span class="neg">1,288.8<b></b></span>
+<span class="neg">178.0<b class="warning grey"><i>2</i></b></span>
+<span class="neg">≈4,512.0<b class="warning grey"><i>3</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">8,318,827.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -874,15 +872,15 @@ data: [
 <col><col style="width:23%"><col style="width: 23%">
 <thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
 <tr class="info"><td class="name">
-<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2005</span><i>x1</i></span>
-<span><b></b><span><!--#echo encoding="none" var="t33" --> / 1998</span><i>x1</i></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t33" --> / 2005</span><i>x1</i></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t33" --> / 1998</span><i>x1</i></span>
 </td>
 <td class="quantity">
-<span>0.04</span>
-<span>0.11</span>
+<span class="pos">0.04</span>
+<span class="pos">0.11</span>
 </td>
 <td class="value">
-<span>382.1<b></b></span>
+<span class="neg">382.1<b></b></span>
 <span>—<b class="warning grey"><i>4</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">382,082.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -894,10 +892,10 @@ data: [
 <col><col style="width:23%">
 <thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
 <tr class="info"><td class="name">
-<span><b></b><span>BMW730d (2007) / 2007</span></span>
+<span class="pos"><b></b><span>BMW 730d (2007) / 2007</span></span>
 </td>
 <td class="value">
-<span>≈306.0<b class="warning grey"><i>5</i></b></span>
+<span class="neg">≈306.0<b class="warning grey"><i>5</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">306,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -905,13 +903,13 @@ data: [
 
 </div>
 
-<div class="comments">
+<div class="comments grey_warning">
 <ol>
-<li>În declaraţie nu este indicată valoarea apartamentului în or. Moscova. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţiile după 2010 oficiul (446.8&nbsp;m2) <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc.
-<li>În declaraţiile nu este indicată valoarea oficiului (752.0&nbsp;m2). În tabel este indicată valoarea de piaţă a acestuia. În declaraţiile după 2011 oficiul <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc.
-<li>Valoarea terenului intravilan (0.11&nbsp;ha) probabil este inclusă în valoarea oficiului (446.8&nbsp;m2).
-<li>În declaraţiile nu este indicată valoarea automobilului BMW730d. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea apartamentului din or. Moscova nu este specificată în nicio declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Oficiul (446.8 m2) nu se regăseşte în declaraţiile ulterioare anului <a class="local" href="#d2010">2010</a>.
+<li>Oficiul (752.0 m2) nu se regăseşte în declaraţiile ulterioare anului <a class="local" href="#d2011">2011</a>. Valoarea acestuia nu este specificată în nicio declaraţie. În tabel este indicată valoarea de piaţă a oficiului.
+<li>Valoarea terenului aferent oficiului (1998) nu este specificată în nicio declaraţie, aceasta probabil fiind inclusă în valoarea oficiului (446.8&nbsp;m2).
+<li>Valoarea automobilului BMW 730d nu este specificată în nicio declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 

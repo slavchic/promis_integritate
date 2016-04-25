@@ -323,7 +323,7 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie lipseşte informaţia despre apartamentul (2006). Conform legislaţiei, <b>titularul era obligat</b> să declare toate bunurile deţinute la momentul depunerii declaraţiei. Tabelul este completat în baza <a class="local" href="#d2014">Declaraţiei 2014</a>.
+<li>Apartamentul (2006) <b>a fost omis</b> din declaraţie. Tabelul e completat pe baza <a class="local" href="#d2014">Declaraţiei 2014</a>.
 </ol>
 </div>
 
@@ -430,7 +430,7 @@ data: [
 <span>65.0<b></b></span>
 <span>14.0<b></b></span>
 <span>20.0<b></b></span>
-<span class="pos">≈3.0<b></b></span>
+<span class="pos">3.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">227,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -466,7 +466,7 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie lipseşte informaţia despre apartamentul (2006). Conform legislaţiei, <b>titularul era obligat</b> să declare toate bunurile deţinute la momentul depunerii declaraţiei. Tabelul este completat în baza <a class="local" href="#d2014">Declaraţiei 2014</a>.
+<li>Apartamentul (2006) <b>a fost omis</b> din declaraţie. Tabelul e completat pe baza <a class="local" href="#d2014">Declaraţiei 2014</a>.
 </ol>
 </div>
 
@@ -568,7 +568,7 @@ data: [
 <span>65.0<b></b></span>
 <span>14.0<b></b></span>
 <span>20.0<b></b></span>
-<span>≈3.0<b class="warning grey"><i>5</i></b></span>
+<span>3.0<b class="warning grey"><i>5</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">230,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -601,13 +601,13 @@ data: [
 </div>
 
 <div class="comments">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 <ol>
-<li>Declaraţia nu conţine informaţia despre proprietăţile deţinute, precum şi angajamentele financiare asumate, până în anul 2011. Legislaţia în vigoare la acel moment prevedea declararea doar a veniturilor, bunurilor şi angajamentelor financiare dobândite în anul depunerii declaraţiei.<br>
-În declaraţie lipseşte informaţia despre apartamentul, dobândit în 2011 (vezi <a class="local" href="#d2012">Declaraţia 2012</a>). Conform legislaţiei, <b>titularul era obligat</b> să declare valoarea acestuia în anul dobândirii.
-<li>În declaraţie lipseşte informaţia despre casă de locuit, dobândită în 2011 (vezi Declaraţia 2012). Conform legislaţiei, <b>titularul era obligat</b> să declare valoarea acesteia în anul dobândirii.
-<li>În declaraţie lipseşte informaţia despre automobilul Mercedes C 180, dobândit în 2011 (vezi Declaraţia 2012). Conform legislaţiei, <b>titularul era obligat</b> să declare valoarea acestuia în anul dobândirii.
-<li>În declaraţie lipseşte informaţia despre automobilul PAZ-672, dobândit în 2011 (vezi Declaraţia 2012). Conform legislaţiei, <b>titularul era obligat</b> să declare valoarea acestuia în anul dobândirii.
-<li>În tabel se indică valoarea automobilului Nissan Bluebird declarată în 2012 ca venit din vânzarea acestuia.
+<li>Apartamentul <b>a fost omis</b> din declaraţie, contrar prevederilor legale de a declara acest bun ca proprietate dobândită în 2011. Tabelul e completat pe baza <a class="local" href="#d2012">Declaraţiei 2012</a>.
+<li>Casa de locuit <b>a fost omisă</b> din declaraţie, contrar prevederilor legale de a declara acest bun ca proprietate dobândită în 2011. Tabelul e completat pe baza Declaraţiei 2012.
+<li>Automobilul Mercedes C&nbsp;180 <b>a fost omis</b> din declaraţie, contrar prevederilor legale de a declara acest bun ca proprietate dobândită în 2011. Tabelul e completat pe baza Declaraţiei 2012.
+<li>Autobuzul PAZ-672 <b>a fost omis</b> din declaraţie, contrar prevederilor legale de a declara acest bun ca proprietate dobândită în 2011. Tabelul e completat pe baza Declaraţiei 2012.
+<li>În tabel este indicată valoarea automobilului Nissan Bluebird declarată în 2012 ca venit din vânzarea acestuia.
 </ol>
 </div>
 
@@ -637,7 +637,7 @@ data: [
 <span class="pos">57.0</span>
 </td>
 <td class="value">
-<span class="neg">25.0<b class="warning grey"><i>1</i></b></span>
+<span class="neg">25.0<b></b></span>
 <span class="neg">50.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">75,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -682,7 +682,7 @@ data: [
 <span class="neg">65.0<b></b></span>
 <span class="neg">14.0<b></b></span>
 <span class="neg">20.0<b></b></span>
-<span class="neg">≈3.0<b class="warning grey"><i>2</i></b></span>
+<span class="neg">3.0<b class="warning grey"><i>1</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">178,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -692,8 +692,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Informațiile despre apartament <b>lipsesc</b> în declarațiile anterioare anului <a class="local" href="#d2014">2014</a>.
-<li>În tabel se indică valoarea automobilului Nissan Bluebird declarată în <a class="local" href="#d2012">2012</a> ca venit din vânzarea acestuia.
+<li>În tabel este indicată valoarea automobilului Nissan Bluebird declarată în <a class="local" href="#d2012">2012</a> ca venit din vânzarea acestuia.
 </ol>
 </div>
 

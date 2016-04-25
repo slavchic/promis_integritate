@@ -366,7 +366,7 @@ data: [
 <span>46.4</span>
 </td>
 <td class="value">
-<span>3,230.2<b class="warning"><i>1</i></b></span>
+<span>3,230.2<b class="warning grey"><i>1</i></b></span>
 <span>146.5<b></b></span>
 <span>180.6<b></b></span>
 </td></tr>
@@ -435,7 +435,7 @@ data: [
 
 </div>
 
-<div class="comments">
+<div class="comments grey_warning">
 <ol>
 <li>În declaraţiile anterioare, suprafaţa şi valoarea casei de locuit <b>sunt diferite</b> faţă de cele din 2012, probabil ca urmare a partajării averii după divorţ.
 </ol>
@@ -554,8 +554,8 @@ data: [
 <div class="comments">
 <p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 <ol>
-<li>Automobilul Toyota RAV4 <b>nu se regăseşte</b> în declaraţiile ulterioare anului 2011. În <a class="local" href="#d2012">2012</a>, demnitarul nu raportează venituri obţinute în urma unei eventuale înstrăinări a automobilului sau despre transmiterea acestuia cu titlu oneros sau gratuit către alte persoane (ex. fostei soţii, după partajarea averii comune). În tabel este indicată valoarea de piaţă a automobilului.
-<li>Automobilul VAZ-21213 Niva <b>nu se regăseşte</b> în declaraţiile ulterioare anului 2011. În 2012, demnitarul nu raportează venituri obţinute în urma unei eventuale înstrăinări a automobilului sau despre transmiterea acestuia cu titlu oneros sau gratuit către alte persoane (ex. fostei soţii, după partajarea averii comune). În tabel este indicată valoarea de piaţă a automobilului.
+<li>Automobilul Toyota RAV4 <b>nu se regăseşte</b> în declaraţiile ulterioare. În <a class="local" href="#d2012">2012</a>, demnitarul nu raportează venituri obţinute în urma unei eventuale înstrăinări a automobilului sau despre transmiterea acestuia cu titlu oneros sau gratuit către alte persoane (ex. fostei soţii, după partajarea averii comune). În tabel este indicată valoarea de piaţă a automobilului.
+<li>Automobilul VAZ-21213 Niva <b>nu se regăseşte</b> în declaraţiile ulterioare. În 2012, demnitarul nu raportează venituri obţinute în urma unei eventuale înstrăinări a automobilului sau despre transmiterea acestuia cu titlu oneros sau gratuit către alte persoane (ex. fostei soţii, după partajarea averii comune). În tabel este indicată valoarea de piaţă a automobilului.
 </ol>
 </div>
 
@@ -796,7 +796,7 @@ data: [
 <div class="comments">
 <p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 <ol>
-<li>Automobilul BMW 760Li <b>nu se regăseşte</b> în declaraţiile ulterioare anului 2009, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Automobilul BMW 760Li <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea de piaţă a automobilului.
 <li>Valoarea automobilului Toyota RAV4 nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 <li>Valoarea automobilului VAZ-21213 Niva nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>

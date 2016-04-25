@@ -177,13 +177,13 @@ data: [
 <col><col style="width:23%"><col style="width: 23%">
 <thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
 <tr class="info"><td class="name">
-<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2011</span><i>x1</i></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t33" --> / 2011</span><i>x1</i></span>
 </td>
 <td class="quantity">
-<span>0.08</span>
+<span class="pos">0.08</span>
 </td>
 <td class="value">
-<span>0.9<b></b></span>
+<span class="neg">0.9<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">909.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -207,7 +207,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Automobilul Skoda <b>nu este menţionat</b> în declaraţiile ulterioare <a href="/pdf/tutu-constantin-2012-2013-pdm-cec.pdf" class="icon-data_doc_pdf">anului 2013</a>. În tabel se indică valoarea estimată la preţul de piaţă.
+<li>Automobilul Skoda nu se regăseşte în declaraţiile ulterioare anului <a href="/pdf/tutu-constantin-2012-2013-pdm-cec.pdf" class="icon-data_doc_pdf">2013</a>. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 

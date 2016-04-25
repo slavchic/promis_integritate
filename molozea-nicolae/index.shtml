@@ -159,8 +159,8 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie nu este indicată valoarea apartamentului. În tabel este indicată valoarea de piaţă a acestuia.
-<li>Valoarea terenului intravilan probabil este inclusă în valoarea casei de locuit.
+<li>Valoarea apartamentului <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea cadastrală estimativă a acestuia.
+<li>Valoarea terenului intravilan nu este specificată în declaraţie, aceasta probabil fiind inclusă în valoarea casei de locuit.
 </ol>
 </div>
 
@@ -244,8 +244,8 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În declaraţiile nu este indicată valoarea apartamentului. În tabel este indicată valoarea de piaţă a acestuia.
-<li>Valoarea terenului intravilan probabil este inclusă în valoarea casei de locuit.
+<li>Valoarea apartamentului nu este specificată în nicio declaraţie. În tabel este indicată valoarea cadastrală estimativă a acestuia.
+<li>Valoarea terenului intravilan nu este specificată în nicio declaraţie, aceasta probabil fiind inclusă în valoarea casei de locuit.
 </ol>
 </div>
 

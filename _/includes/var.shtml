@@ -57,6 +57,7 @@
 <!--#set var="t52" value="Euro" -->
 <!--#set var="t53" value="MDL" -->
 <!--#set var="t54" value="Altele" -->
+<!--#set var="t55" value="Împrumuturi" -->
 
 <!--#set var="t6" value="Datorii" -->
 <!--#set var="t6t1ad" value="Împrumuturi, credite<br><small>valuta / anul contractării</small>" -->

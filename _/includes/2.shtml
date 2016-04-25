@@ -11,7 +11,7 @@
 </div>
 </section>
 
-<!--#if expr="$SERVER_NAME != /integritate/" -->
+<!--#if expr="$SERVER_NAME == /avere.promis.md/" -->
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

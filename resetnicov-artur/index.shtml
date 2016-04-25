@@ -421,9 +421,9 @@ data: [
 
 <div class="comments">
 <ol>
-<li>Valoarea apartamentului este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2013">2013</a>. Până 2012, inclusiv, titularul a declarat valoarea de 678,750.00&nbsp;lei.
-<li>În tabel este indicată valoarea cadastrală pentru încăperile nelocative 70.9&nbsp;m2 şi 36.4&nbsp;m2 din Declarația 2013. În declarațiile depuse până în anul 2012, inclusiv, sunt indicate 2 încăperi nelocative 107.3&nbsp;m2 la o valoare totală de 816,105.00&nbsp;lei.
-<li>În declaraţie lipseşte informaţia despre automobilul Land Rover Freelander 2, deţinut în folosinţă în baza unui contract de comodat începând cu anul 2010. Conform noii legislaţiei, în vigoare din 2012, <b>titularul era obligat</b> să declare toate bunurile deţinute la momentul depunerii declaraţiei. Tabelul este completat în baza Declaraţiei 2013.
+<li>Valoarea apartamentului este preluată din <a class="local" href="#d2013">Declaraţia 2013</a>.
+<li>Valoarea încăperilor nelocative este preluată din Declaraţia 2013.
+<li>- În declaraţie lipseşte informaţia despre automobilul Land Rover Freelander 2, deţinut în folosinţă în baza unui contract de comodat începând cu anul 2010. Conform noii legislaţiei, în vigoare din 2012, <b>titularul era obligat</b> să declare toate bunurile deţinute la momentul depunerii declaraţiei. Tabelul este completat în baza Declaraţiei 2013.
 </ol>
 </div>
 
@@ -540,9 +540,9 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Valoarea apartamentului este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2013">2013</a>. Până 2012, inclusiv, titularul a declarat valoarea de 678,750.00&nbsp;lei.
-<li>În tabel este indicată valoarea cadastrală pentru încăperile nelocative 70.9&nbsp;m2 şi 36.4&nbsp;m2 din Declarația 2013. În declarațiile depuse până în anul 2012, inclusiv, sunt indicate 2 încăperi nelocative 107.3&nbsp;m2 la o valoare totală de 816,105.00&nbsp;lei.
-<li>În declaraţie lipseşte informaţia despre automobilul Land Rover Freelander 2, deţinut în folosinţă în baza unui contract de comodat. Legislaţia în vigoare la acel moment prevedea declararea doar a veniturilor, bunurilor şi angajamentelor financiare dobândite în anul declarării.
+<li>Valoarea apartamentului este preluată din <a class="local" href="#d2013">Declaraţia 2013</a>.
+<li>Valoarea încăperilor nelocative este preluată din Declaraţia 2013.
+<li>- În declaraţie lipseşte informaţia despre automobilul Land Rover Freelander 2, deţinut în folosinţă în baza unui contract de comodat. Legislaţia în vigoare la acel moment prevedea declararea doar a veniturilor, bunurilor şi angajamentelor financiare dobândite în anul declarării.
 </ol>
 </div>
 
@@ -593,9 +593,9 @@ data: [
 <span>36.4</span>
 </td>
 <td class="value">
-<span>603.8<b class="warning grey"><i>1</i></b></span>
+<span>603.8<b></b></span>
 <span>660.4<b></b></span>
-<span>1,552.0<b class="warning grey"><i>2</i></b></span>
+<span>1,552.0<b class="warning grey"><i>1</i></b></span>
 <span>730.8<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">3,546,982.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -628,7 +628,7 @@ data: [
 <span class="neg"><b></b><span><s>Nissan (?) / ?</s></span></span>
 </td>
 <td class="value">
-<span>553.6<b class="warning"><i>3</i></b></span>
+<span>553.6<b class="warning"><i>2</i></b></span>
 <span class="pos">157.4<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">553,548.72 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -663,9 +663,8 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie lipseşte informaţia despre apartamentul, fapt permis de către legislaţia în vigoare la acel moment.
-<li>În tabel este indicată valoarea cadastrală pentru încăperile nelocative 70.9&nbsp;m2 şi 36.4&nbsp;m2 din <a class="local" href="#d2013">Declarația 2013</a>. În declarațiile depuse până în anul 2012, inclusiv, sunt indicate 2 încăperi nelocative 107.3&nbsp;m2 la o valoare totală de 816,105.00&nbsp;lei.
-<li>În declaraţie lipseşte informaţia despre automobilul Land Rover Freelander 2, intrat în folosinţa titularului în 2010 în baza unui contract de comodat. Conform legislaţiei, <b>titularul era obligat</b> să declare valoarea acestuia în anul dobândirii/ intrării în folosinţă.
+<li>Valoarea încăperilor nelocative este preluată din <a class="local" href="#d2013">Declaraţia 2013</a>.
+<li>- În declaraţie lipseşte informaţia despre automobilul Land Rover Freelander 2, intrat în folosinţa titularului în 2010 în baza unui contract de comodat. Conform legislaţiei, <b>titularul era obligat</b> să declare valoarea acestuia în anul dobândirii/ intrării în folosinţă.
 </ol>
 </div>
 
@@ -744,9 +743,9 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Valoarea apartamentului este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2013">2013</a>. Până 2012, inclusiv, titularul a declarat valoarea de 678,750.00&nbsp;lei.
-<li>În tabel este indicată valoarea cadastrală pentru încăperile nelocative 70.9&nbsp;m2 şi 36.4&nbsp;m2 din Declarația 2013. În declarațiile depuse până în anul 2012, inclusiv, sunt indicate 2 încăperi nelocative 107.3&nbsp;m2 la o valoare totală de 816,105.00&nbsp;lei.
-<li>În tabel se indică valoarea automobilului Nissan declarată în 2010 ca venit din vânzarea acestuia.
+<li>Valoarea apartamentului este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2013">2013</a>.
+<li>Valoarea încăperilor nelocative este indicată în baza declaraţiilor făcute începând cu anul 2013.
+<li>În tabel este indicată valoarea automobilului Nissan declarată în <a class="local" href="#d2010">2010</a> ca venit din vânzarea acestuia.
 </ol>
 </div>
 

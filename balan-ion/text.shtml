@@ -11,6 +11,7 @@
 <br><table class="table">
 <tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tactecni" --></th></tr>
 <tr><td><a href="/pdf/cni/balan-ion-act-cni-2014-06-27.pdf">Nr. 03/108 din 27.06.2014</a></td></tr>
+<tr><td><a href="/pdf/cni/balan-ion-act-cni-2014-06-12.pdf">Nr. 03/92 din 12.06.2014</a></td></tr>
 </table>
 
 </div></div>
@@ -18,7 +19,7 @@
 <div class="right">
 
 <p class="overall">
-Declaraţiile de venit şi interese ale lui Ion Balan pentru anii 2009–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+Declaraţiile de venit şi interese ale <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --> pentru <!--#if expr="$lastyear1d = $lastyear2d" -->anul <!--#echo var="lastyear2d" --><!--#else -->anii <!--#echo var="lastyear1d" -->–<!--#echo var="lastyear2d" --><!--#endif --> depuse la organele abilitate în conformitate cu legislaţia în vigoare.
 </p>
 <!--#if expr="$ddd" -->
 <p class="verdict negative">

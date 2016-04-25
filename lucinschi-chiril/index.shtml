@@ -202,7 +202,7 @@ data: [
 <div class="comments">
 <ol>
 <li>Valoarea vilei din or. Odesa <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acesteia.
-<li>Valoarea terenului extravilan din or. Odesa este inclusă în valoarea vilei.
+<li>Valoarea terenului extravilan din or. Odesa nu este specificată în declaraţie, aceasta fiind inclusă în valoarea vilei.
 <li>Valoarea automobilului Hyundai Santa Fe (38,435 euro) este calculată în lei la cursul BNM din 31.12.2014.
 <li>Valoarea automobilului Hyundai Tucson (24,000 euro) este calculată în lei la cursul BNM din 31.12.2013.
 <li>Valoarea în lei a automobilului Land Rover Freelander 2 este preluată din <a class="local" href="#d2012">Declaraţia 2012</a>.
@@ -356,10 +356,10 @@ data: [
 <div class="comments">
 <ol>
 <li>Valoarea vilei din or. Odesa <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acesteia.
-<li>Valoarea terenului extravilan din or. Odesa este inclusă în valoarea vilei.
+<li>Valoarea terenului extravilan din or. Odesa nu este specificată în declaraţie, aceasta fiind inclusă în valoarea vilei.
 <li>Valoarea automobilului Hyundai Tucson (24,000 euro) este calculată în lei la cursul BNM din 31.12.2013.
 <li>Valoarea în lei a automobilului Land Rover Freelander 2 este preluată din <a class="local" href="#d2012">Declaraţia 2012</a>.
-<li>Automobilul Toyota Land Cruiser <b>nu se regăseşte</b> în declaraţiile ulterioare anului 2013, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. Valoarea în lei a automobilului este preluată din Declaraţia 2012.
+<li>Automobilul Toyota Land Cruiser <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. Valoarea în lei a automobilului este preluată din Declaraţia 2012.
 </ol>
 </div>
 
@@ -506,9 +506,9 @@ data: [
 <div class="comments">
 <ol>
 <li>Valoarea vilei din or. Odesa <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acesteia.
-<li>Valoarea terenului extravilan din or. Odesa este inclusă în valoarea vilei.
-<li>Automobilul Subaru Forester <b>nu se regăseşte</b> în declaraţiile ulterioare anului 2012, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia.
-<li>Declaraţia nu conţine informaţii despre contractul de leasing în euro încheiat în 2012. Tabelul este completat în baza <a class="local" href="#d2013">Declaraţiei 2013</a>.
+<li>Valoarea terenului extravilan din or. Odesa nu este specificată în declaraţie, aceasta fiind inclusă în valoarea vilei.
+<li>Automobilul Subaru Forester <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia.
+<li>Valoarea creditelor <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea din <a class="local" href="#d2013">Declaraţia 2013</a>.
 </ol>
 </div>
 
@@ -853,7 +853,7 @@ data: [
 <ol>
 <li>Pentru prima dată vila din or. Odesa şi terenul aferent apar în declaraţia din anul <a class="local" href="#d2012">2012</a>. În tabel este indicată valoarea de piaţă a vilei.
 <li>Valoarea terenului intravilan este indicată în baza declaraţiilor făcute începând cu anul 2012.
-<li>Valoarea terenului extravilan din or. Odesa este inclusă în valoarea vilei.
+<li>Valoarea terenului extravilan din or. Odesa nu este specificată în nicio declaraţie, aceasta fiind inclusă în valoarea vilei.
 </ol>
 </div>
 

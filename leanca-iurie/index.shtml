@@ -174,7 +174,7 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie <b>nu este indicată</b> valoarea automobilului VAZ-21063. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea automobilului VAZ-21063 <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -296,7 +296,7 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie <b>nu este indicată</b> valoarea automobilului VAZ-21063. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea automobilului VAZ-21063 <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -427,7 +427,7 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie <b>nu este indicată</b> valoarea automobilului VAZ-21063. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea automobilului VAZ-21063 <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -487,7 +487,7 @@ data: [
 <span>0.06</span>
 </td>
 <td class="value">
-<span>86.7<b class="warning grey"><i>1</i></b></span>
+<span>86.7<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">86,702.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -504,7 +504,7 @@ data: [
 </td>
 <td class="value">
 <span class="neg">103.0<b></b></span>
-<span>≈120.0<b class="warning grey"><i>2</i></b></span>
+<span>≈120.0<b class="warning grey"><i>1</i></b></span>
 <span>≈5.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">228,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -538,9 +538,9 @@ data: [
 </div>
 
 <div class="comments grey_warning">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 <ol>
-<li>În declaraţie sunt indicate doar proprietăţile dobândite în anul 2011. Legislaţia în vigoare la acel moment prevedea declararea doar a veniturilor, bunurilor şi angajamentelor financiare dobândite în anul declarării.
-<li>În tabel se indică valoarea automobilului Mercedes E&nbsp;220&nbsp;CDI declarată <a class="local" href="#d2012">în 2012</a> ca venit din vânzarea acestuia.
+<li>În tabel este indicată valoarea automobilului Mercedes E&nbsp;220&nbsp;CDI declarată în <a class="local" href="#d2012">2012</a> ca venit din vânzarea acestuia.
 </ol>
 </div>
 
@@ -603,7 +603,7 @@ data: [
 <span>0.06</span>
 </td>
 <td class="value">
-<span>86.7<b class="warning grey"><i>1</i></b></span>
+<span>86.7<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">86,702.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -652,9 +652,7 @@ data: [
 </div>
 
 <div class="comments grey_warning">
-<ol>
-<li>În declaraţie lipseşte informaţia despre proprietăţile deţinute, precum şi angajamentele financiare asumate, până la momentul declarării, fapt permis de către legislaţia în vigoare la acel moment.
-</ol>
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 </div>
 
 </div>
@@ -714,7 +712,7 @@ data: [
 <span>0.06</span>
 </td>
 <td class="value">
-<span>86.7<b class="warning grey"><i>1</i></b></span>
+<span>86.7<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">86,702.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -729,7 +727,7 @@ data: [
 <span><b></b><span>VAZ-21063 (1989) / 1989</span></span>
 </td>
 <td class="value">
-<span class="neg">≈120.0<b class="warning"><i>2</i></b></span>
+<span class="neg">≈120.0<b class="warning"><i>1</i></b></span>
 <span>≈5.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">125,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -763,9 +761,9 @@ data: [
 </div>
 
 <div class="comments">
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 <ol>
-<li>În declaraţie lipseşte informaţia despre proprietăţile deţinute, precum şi angajamentele financiare asumate, până la momentul declarării, fapt permis de către legislaţia în vigoare la acel moment.
-<li>În declaraţie lipseşte informaţia despre automobilul Mercedes E&nbsp;220&nbsp;CDI, dobândit în 2009. Conform legislaţiei, <b>titularul era obligat</b> să declare valoarea acestuia în anul dobândirii.
+<li>Automobilul Mercedes E&nbsp;220&nbsp;CDI <b>a fost omis</b> din declaraţie, contrar prevederilor legale de a declara acest bun ca proprietate dobândită în 2009. Tabelul e completat pe baza <a class="local" href="#d2012">Declaraţiei 2012</a>.
 </ol>
 </div>
 
@@ -838,9 +836,9 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În declaraţii nu este indicată valoarea automobilului Mercedes E&nbsp;220&nbsp;CDI. În tabel se indică valoarea declarată <a class="local" href="#d2012">în 2012</a> ca venit din vânzarea acestuia.
-<li>Automobilul Audi A6 <b>nu este menţionat</b> în declaraţiile ulterioare <a href="/pdf/leanca-iurie-2007-2008-cec.pdf" class="icon-data_doc_pdf">anului 2008</a>. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţii nu este indicată valoarea automobilului VAZ-21063. În tabel este indicată valoarea de piaţă a acestuia. 
+<li>În tabel este indicată valoarea automobilului Mercedes E&nbsp;220&nbsp;CDI declarată în <a class="local" href="#d2012">2012</a> ca venit din vânzarea acestuia.
+<li>Automobilul Audi A6 nu se regăseşte în declaraţiile ulterioare anului <a href="/pdf/leanca-iurie-2007-2008-cec.pdf" class="icon-data_doc_pdf">2008</a>. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea automobilului VAZ-21063 nu este specificată în nicio declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 

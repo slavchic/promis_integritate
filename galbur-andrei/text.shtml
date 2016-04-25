@@ -3,7 +3,8 @@
 <div class="left"><div class="wrapper">
 <table class="table">
 <tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
-<tr><td><a href="/pdf/galbur-andrei-2014-cni.pdf">2014</a>, <a href="/pdf/galbur-andrei-2013-cni.pdf">2013</a>, <a href="/pdf/galbur-andrei-2012-cni.pdf">2012</a><br>Sursa: Comisia Naţională de Integritate</td></tr>
+<tr><td><a href="/pdf/galbur-andrei-2015-maeie.pdf">2015</a><br>Sursa: Ministerul Afacerilor Externe</td></tr>
+<tr><td><a href="/pdf/galbur-andrei-2014-cni.pdf">2014</a>, <a href="/pdf/galbur-andrei-2013-cni.pdf">2013</a>, <a href="/pdf/galbur-andrei-2012-cni.pdf">2012</a><br>Comisia Naţională de Integritate</td></tr>
 <tr><td>Interese: <a href="/pdf/galbur-andrei-interese-2014-cni.pdf">2014</a>, <a href="/pdf/galbur-andrei-interese-2013-cni.pdf">2013</a>, <a href="/pdf/galbur-andrei-interese-2012-cni.pdf">2012</a><br>Comisia Naţională de Integritate</td></tr>
 </table>
 </div></div>
@@ -11,7 +12,7 @@
 <div class="right">
 
 <p class="overall">
-Declaraţiile de venit şi interese ale lui Andrei Galbur pentru anii 2012–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+Declaraţiile de venit şi interese ale <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --> pentru <!--#if expr="$lastyear1d = $lastyear2d" -->anul <!--#echo var="lastyear2d" --><!--#else -->anii <!--#echo var="lastyear1d" -->–<!--#echo var="lastyear2d" --><!--#endif --> depuse la organele abilitate în conformitate cu legislaţia în vigoare.
 </p>
 <!--#if expr="$ddd" -->
 <p class="verdict negative">

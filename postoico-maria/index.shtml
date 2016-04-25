@@ -189,7 +189,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Este indicată valoarea garajului — 65,6440.00&nbsp;lei, presupunem că e o eroare comisă la scriere.
+<li>Valoarea garajului indicată în declaraţie nu corespunde valorii de piaţă. Presupunem comiterea unei erori la completarea declaraţiei.
 </ol>
 </div>
 
@@ -316,7 +316,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Este indicată valoarea garajului — 65,6440.00&nbsp;lei, presupunem că e o eroare comisă la scriere.
+<li>Valoarea garajului indicată în declaraţie nu corespunde valorii de piaţă. Presupunem comiterea unei erori la completarea declaraţiei.
 </ol>
 </div>
 
@@ -372,7 +372,7 @@ data: [
 <td class="value">
 <span>—<b class="warning grey"><i>1</i></b></span>
 <span>365.8<b class="warning"><i>2</i></b></span>
-<span>65.6<b class="warning"><i>3</i></b></span>
+<span>65.6<b class="warning grey"><i>3</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">431,410.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -439,9 +439,9 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În 2012 este indicată suprafaţa 89.48&nbsp;m2 (812,266.00&nbsp;lei). Apartamentul nu era dat în exploatare (construcţia a început în anul 2008).
-<li>Este declarat un apartament cu o suprafaţă de 66.3&nbsp;m2 (365,766.00&nbsp;lei, anul procurării 1995). În declaraţiile anterioare informaţii despre acest apartament lipsesc, fiind prezentat un apartament cu o suprafaţă de 33.9&nbsp;m2 (350,000.00&nbsp;lei, anul procurării 1986 (<em>vezi Declaraţia 2007</em>)).
-<li>Este indicată valoarea garajului — 65,6440.00&nbsp;lei, presupunem că e o eroare comisă la scriere.<br>Anul dobândirii garajului este 1990, probabil că acest garaj este declarat şi până în 2012 cu o suprafaţă de 12.0&nbsp;m2 (25,000.00&nbsp;lei), fiind posibile construcţii adiţionale.
+<li>- Apartamentul se află în proces de construcţie.
+<li>Pentru <b>prima dată</b> apartamentul (1995) apare în declaraţia din anul 2012.
+<li>Valoarea garajului indicată în declaraţie nu corespunde valorii de piaţă. Presupunem comiterea unei erori la completarea declaraţiei.
 </ol>
 </div>
 
@@ -490,7 +490,7 @@ data: [
 <td class="value">
 <span>350.0<b class="warning"><i>1</i></b></span>
 <span>137.0<b class="warning"><i>2</i></b></span>
-<span>25.0<b class="warning"><i>3</i></b></span>
+<span>25.0<b class="warning grey"><i>3</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">512,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -509,8 +509,8 @@ data: [
 <span>0.01</span>
 </td>
 <td class="value">
-<span>6.1<b class="warning"><i>4</i></b></span>
-<span>?<b class="warning"><i>5</i></b></span>
+<span>6.1<b class="warning grey"><i>4</i></b></span>
+<span>—<b class="warning"><i>5</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">6,124.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -524,7 +524,7 @@ data: [
 <span><b></b><span>VAZ-21061 (1989) / 1989</span></span>
 </td>
 <td class="value">
-<span>5.0<b class="warning"><i>6</i></b></span>
+<span>5.0<b class="warning grey"><i>6</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">5,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -558,12 +558,12 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţiile din următorii ani apartamentul nu este menţionat.
-<li>În declaraţiile din următorii ani “Căsuţă de livadă, Stăuceni” nu este menţionată.
-<li>În declaraţiile din următorii ani garajul este declarat cu suprafaţa de 37.0&nbsp;m2 (65,644.00&nbsp;lei, anul procurării 1990), fiind posibile construcţii adiţionale.
-<li>În declaraţie suprafaţa totală a terenurilor este de 1.17&nbsp;ha, fără indicarea costului şi a cantităţii. Datele din tabel corespund declaraţiilor făcute începând cu anul 2012.
-<li>În declaraţiile din următorii ani “Teren pomicol, Stăuceni” nu este menţionat. Valoarea nu este indicată în declaraţie. 
-<li>Valoarea automobilului VAZ-21061 este indicată în baza declaraţiilor făcute începând cu anul 2012. Până în anul 2012 este declarată valoarea 5,200.00&nbsp;lei.
+<li>Apartamentul (1986) <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia.
+<li>Căsuţă de livadă <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acesteia.
+<li>Suprafaţa şi valoarea garajului sunt preluate din <a class="local" href="#d2012">Declaraţia 2012</a>.
+<li>Suprafaţa terenurilor agricole este preluată din Declaraţia 2012.
+<li>Terenul pomicol <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. Valoarea terenului nu este specificată în declaraţie, aceasta probabil fiind inclusă în valoarea vilei.
+<li>Valoarea automobilului VAZ-21061 este preluată din Declaraţia 2012.
 </ol>
 </div>
 
@@ -631,8 +631,8 @@ data: [
 <span>0.01</span>
 </td>
 <td class="value">
-<span>6.1<b class="warning"><i>1</i></b></span>
-<span>?<b class="warning"><i>2</i></b></span>
+<span>6.1<b class="warning grey"><i>1</i></b></span>
+<span>—<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">6,124.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -646,7 +646,7 @@ data: [
 <span><b></b><span>VAZ-21061 (1989) / 1989</span></span>
 </td>
 <td class="value">
-<span>5.0<b class="warning"><i>3</i></b></span>
+<span>5.0<b class="warning grey"><i>2</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">5,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -680,11 +680,10 @@ data: [
 
 </div>
 
-<div class="comments">
+<div class="comments grey_warning">
 <ol>
-<li>În declaraţie suprafaţa totală a terenurilor este de 1.17&nbsp;ha, fără indicarea costului şi a cantităţii. Datele din tabel corespund declaraţiilor făcute începând cu anul 2012.
-<li>Valoarea terenului pomicol nu este indicată.
-<li>Valoarea automobilului VAZ-21061 este indicată în baza declaraţiilor făcute începând cu anul 2012. Până în anul 2012 este declarată valoarea 5,200.00&nbsp;lei.
+<li>Suprafaţa terenurilor agricole este preluată din <a class="local" href="#d2012">Declaraţia 2012</a>.
+<li>Valoarea automobilului VAZ-21061 este preluată din Declaraţia 2012.
 </ol>
 </div>
 
@@ -731,7 +730,7 @@ data: [
 <span>12.0</span>
 </td>
 <td class="value">
-<span>350.0<b class="warning"><i>1</i></b></span>
+<span>350.0<b></b></span>
 <span>137.0<b></b></span>
 <span>25.0<b></b></span>
 </td></tr>
@@ -752,8 +751,8 @@ data: [
 <span>0.01</span>
 </td>
 <td class="value">
-<span>6.1<b class="warning"><i>2</i></b></span>
-<span>?<b></b></span>
+<span>6.1<b></b></span>
+<span>—<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">6,124.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -802,10 +801,7 @@ data: [
 </div>
 
 <div class="comments">
-<ol>
-<li>În declaraţie nu este specificat nimic la categoria bunurile mobile şi imobile, cu referire la anul precedent. Legislaţia prevedea declararea bunurilor procurate în anul de referinţă.
-<li>Datele privind terenurile agricole corespund declaraţiilor făcute începând cu anul 2012.
-</ol>
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 </div>
 
 </div>
@@ -853,7 +849,7 @@ data: [
 <span>12.0</span>
 </td>
 <td class="value">
-<span>350.0<b class="warning"><i>1</i></b></span>
+<span>350.0<b></b></span>
 <span>137.0<b></b></span>
 <span>25.0<b></b></span>
 </td></tr>
@@ -874,8 +870,8 @@ data: [
 <span>0.01</span>
 </td>
 <td class="value">
-<span>6.1<b class="warning"><i>2</i></b></span>
-<span>?<b></b></span>
+<span>6.1<b></b></span>
+<span>—<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">6,124.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -919,13 +915,6 @@ data: [
 </table>
 </div>
 
-</div>
-
-<div class="comments">
-<ol>
-<li>În declaraţie nu este specificată valoarea bunurilor mobile şi imobile.
-<li>În declaraţie suprafaţa totală a terenurilor este de 1.17&nbsp;ha, fără indicarea costului şi a cantităţii. Datele din tabel corespund declaraţiilor făcute începând cu anul 2012.
-</ol>
 </div>
 
 </div>
@@ -994,8 +983,8 @@ data: [
 <span>0.01</span>
 </td>
 <td class="value">
-<span>6.1<b class="warning"><i>1</i></b></span>
-<span>?<b class="warning"><i>2</i></b></span>
+<span>6.1<b class="warning grey"><i>1</i></b></span>
+<span>—<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">6,124.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -1009,7 +998,7 @@ data: [
 <span><b></b><span>VAZ-21061 (1989) / 1989</span></span>
 </td>
 <td class="value">
-<span>5.0<b class="warning"><i>3</i></b></span>
+<span>5.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">5,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -1041,11 +1030,9 @@ data: [
 
 </div>
 
-<div class="comments">
+<div class="comments grey_warning">
 <ol>
-<li>În declaraţie suprafaţa totală a terenurilor este de 1.17&nbsp;ha, fără indicarea costului şi a cantităţii. Datele din tabel corespund declaraţiilor făcute începând cu anul 2012.
-<li>Valoarea terenului pomicol nu este indicată.
-<li>Valoarea automobilului VAZ-21061 nu este indicată.
+<li>Suprafaţa terenurilor agricole este preluată din <a class="local" href="#d2012">Declaraţia 2012</a>.
 </ol>
 </div>
 
@@ -1079,10 +1066,10 @@ data: [
 <span class="pos">12.0</span>
 </td>
 <td class="value">
-<span>365.8<b class="warning"><i>1</i></b></span>
-<span class="neg">350.0<b class="warning"><i>2</i></b></span>
-<span class="neg">137.0<b class="warning"><i>3</i></b></span>
-<span class="neg">25.0<b class="warning"><i>4</i></b></span>
+<span>365.8<b class="warning grey"><i>1</i></b></span>
+<span class="neg">350.0<b class="warning grey"><i>2</i></b></span>
+<span class="neg">137.0<b class="warning grey"><i>3</i></b></span>
+<span class="neg">25.0<b class="warning grey"><i>4</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">512,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -1101,8 +1088,8 @@ data: [
 <span class="pos">0.01</span>
 </td>
 <td class="value">
-<span class="neg">6.1<b class="warning"><i>5</i></b></span>
-<span class="neg">?<b class="warning"><i>6</i></b></span>
+<span class="neg">6.1<b class="warning grey"><i>5</i></b></span>
+<span>—<b class="warning grey"><i>6</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">6,124.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -1116,7 +1103,7 @@ data: [
 <span class="pos"><b></b><span>VAZ-21061 (1989) / 1989</span></span>
 </td>
 <td class="value">
-<span class="neg">5.0<b class="warning"><i>7</i></b></span>
+<span class="neg">5.0<b class="warning grey"><i>7</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">5,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -1124,15 +1111,15 @@ data: [
 
 </div>
 
-<div class="comments">
+<div class="comments grey_warning">
 <ol>
-<li>Pentru prima dată apartamentul (66.3&nbsp;m2) apare în declaraţia din anul 2012 cu menţiunea că a fost dobândit în 1995.
-<li>Apartamentul (33.9&nbsp;m2) nu este menţionat în declaraţiile ulterioare anului 2011, în declaraţia din 2007 este menţionat că a fost dobândit în 1986.
-<li>Casă de livadă nu este menţionată în declaraţiile ulterioare anului 2011.
-<li>În declaraţiile prezentate până în anul 2012 a fost indicată suprafaţa garajului de 12.0&nbsp;m2 (25,000.00&nbsp;lei), îcepând cu anul 2012 — 37.0&nbsp;m2 (65,644.00&nbsp;lei).
-<li>În declaraţiile prezentate până în anul 2012 a fost indicată suprafaţa terenurilor de 1.17&nbsp;ha, fără indicarea costului şi a cantităţii. Datele din tabel corespund declaraţiilor făcute începând cu anul 2012.
-<li>Terenul pomicol nu este menţionat în declaraţiile ulterioare anului 2011.
-<li>Valoarea automobilului VAZ-21061 este indicată în baza declaraţiilor făcute începând cu anul 2012. Până în anul 2012 este declarată valoarea 5,200.00&nbsp;lei.
+<li>Pentru prima dată apartamentul (1995) apare în declaraţia din anul <a class="local" href="#d2012">2012</a>.
+<li>Apartamentul (1986) nu se regăseşte în declaraţiile ulterioare anului <a class="local" href="#d2011">2011</a>.
+<li>Casă de livadă din s. Stăuceni nu se regăseşte în declaraţiile ulterioare anului 2011.
+<li>Suprafaţa şi valoarea garajului sunt indicate în baza declaraţiilor făcute începând cu anul 2012.
+<li>Suprafaţa terenurilor agricole este indicată în baza declaraţiilor făcute începând cu anul 2012.
+<li>Terenul pomicol din s. Stăuceni nu se regăseşte în declaraţiile ulterioare anului 2011. Valoarea acestuia nu este specificată în nicio declaraţie, aceasta probabil fiind inclusă în valoarea vilei.
+<li>Valoarea automobilului VAZ-21061 este indicată în baza declaraţiilor făcute începând cu anul 2012.
 </ol>
 </div>
 

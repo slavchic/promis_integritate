@@ -640,7 +640,7 @@ data: [
 <div class="comments">
 <p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 <ol>
-<li>Vila din s. Dubăsarii Vechi, r-nul Criuleni <b>nu se regăseşte</b> în declaraţiile ulterioare anului 2010, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acesteia. În tabel este indicată valoarea de piaţă a vilei.
+<li>Vila din s. Dubăsarii Vechi, r-nul Criuleni <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acesteia. În tabel este indicată valoarea de piaţă a vilei.
 <li>Valoarea automobilului Opel Astra (24,000 mărci germane) este calculată în lei la cursul BNM din 30.06.1998, pe baza <a class="local" href="#d2011">Declaraţiei 2011</a>.
 </ol>
 </div>
@@ -762,7 +762,7 @@ data: [
 <ol>
 <li>Suprafaţa şi valoarea apartamentului sunt preluate din <a class="local" href="#d2012">Declaraţia 2012</a>.
 <li>Suprafaţa şi valoarea garajului sunt preluate din Declaraţia 2012.
-<li>Automobilul Volkswagen Jetta <b>nu se regăseşte</b> în declaraţiile ulterioare anului 2009, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Automobilul Volkswagen Jetta <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea de piaţă a automobilului.
 </ol>
 </div>
 
@@ -840,7 +840,7 @@ data: [
 <div class="comments grey_warning">
 <ol>
 <li>Suprafaţa şi valoarea apartamentului sunt indicate în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2012">2012</a>.
-<li>Vila din s. Dubăsarii Vechi, r-nul Criuleni nu se regăseşte în declaraţiile ulterioare anului <a class="local" href="#d2010">2010</a>, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acesteia. În tabel este indicată valoarea de piaţă a vilei.
+<li>Vila din s. Dubăsarii Vechi, r-nul Criuleni nu se regăseşte în declaraţiile ulterioare anului <a class="local" href="#d2010">2010</a>. În tabel este indicată valoarea de piaţă a acesteia.
 <li>Suprafaţa şi valoarea garajului sunt indicate în baza declaraţiilor făcute începând cu anul 2012.
 <li>Valoarea terenului extravilan este indicată în baza declaraţiilor făcute începând cu anul 2012.
 <li>Valoarea automobilului Opel Astra (24,000 mărci germane) este calculată în lei la cursul BNM din 30.06.1998, pe baza <a class="local" href="#d2011">Declaraţiei 2011</a>.

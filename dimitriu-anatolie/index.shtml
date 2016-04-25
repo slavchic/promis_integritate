@@ -177,8 +177,8 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie nu este indicată valoarea terenului agricol (1.364 ha, s. Zîmbreni, r-nul Ialoveni). În tabel se indică valoarea estimată la preţul de piaţă.
-<li>În declaraţie nu este indicată valoarea terenului intravilan (0.137 ha, s. Zîmbreni, r-nul Ialoveni). În tabel se indică valoarea estimată la preţul de piaţă.
+<li>Valoarea terenului agricol <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea terenului intravilan (2004) <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -307,8 +307,8 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie nu este indicată valoarea terenului agricol (1.364 ha, s. Zîmbreni, r-nul Ialoveni). În tabel se indică valoarea estimată la preţul de piaţă.
-<li>În declaraţie nu este indicată valoarea terenului intravilan (0.137 ha, s. Zîmbreni, r-nul Ialoveni). În tabel se indică valoarea estimată la preţul de piaţă.
+<li>Valoarea terenului agricol <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea terenului intravilan (2004) <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -436,8 +436,8 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie nu este indicată valoarea terenului agricol (1.364 ha, s. Zîmbreni, r-nul Ialoveni). În tabel se indică valoarea estimată la preţul de piaţă.
-<li>În declaraţie nu este indicată valoarea terenului intravilan (0.137 ha, s. Zîmbreni, r-nul Ialoveni). În tabel se indică valoarea estimată la preţul de piaţă.
+<li>Valoarea terenului agricol <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea terenului intravilan (2004) <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -480,7 +480,7 @@ data: [
 <span>71.9</span>
 </td>
 <td class="value">
-<span>401.1<b class="warning grey"><i>1</i></b></span>
+<span>401.1<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">401,102.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -554,10 +554,8 @@ data: [
 
 </div>
 
-<div class="comments grey_warning">
-<ol>
-<li>În declaraţie lipseşte informaţia despre proprietăţile deţinute, precum şi angajamentele financiare asumate, până la momentul declarării. Legislaţia în vigoare la acel moment prevedea declararea doar a veniturilor, bunurilor şi angajamentelor financiare dobândite în anul declarării.
-</ol>
+<div class="comments">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 </div>
 
 </div>
@@ -675,9 +673,9 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie nu este indicată valoarea terenului agricol (1.364 ha, s. Zîmbreni, r-nul Ialoveni). În tabel se indică valoarea estimată la preţul de piaţă.
-<li>În declaraţie nu este indicată valoarea terenului intravilan (0.137 ha, s. Zîmbreni, r-nul Ialoveni). În tabel se indică valoarea estimată la preţul de piaţă.
-<li>În declaraţiile din următorii ani automobilul BMW 525d <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc.
+<li>Valoarea terenului agricol nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea terenului intravilan (2004) nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Automobilul BMW 525d <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia.
 </ol>
 </div>
 
@@ -757,9 +755,9 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În declaraţiile nu este indicată valoarea terenului agricol (1.364 ha, s. Zîmbreni, r-nul Ialoveni). În tabel se indică valoarea estimată la preţul de piaţă.
-<li>În declaraţiile nu este indicată valoarea terenului intravilan (0.137 ha, s. Zîmbreni, r-nul Ialoveni). În tabel se indică valoarea estimată la preţul de piaţă.
-<li>În declaraţiile după 2010 automobilul BMW 525d <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc.
+<li>Valoarea terenului agricol (s. Zîmbreni, r-nul Ialoveni) nu este specificată în nicio declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea terenului intravilan (2004, s. Zîmbreni, r-nul Ialoveni) nu este specificată în nicio declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Automobilul BMW 525d nu se regăseşte în declaraţiile ulterioare anului <a class="local" href="#d2010">2010</a>.
 </ol>
 </div>
 

@@ -2,13 +2,14 @@ $(function () {
 	pt = { // person table
 		current_time_ms: new Date().getTime(),
 		newest_interval_ms: 30 * 24 * 3600 * 1000, // 1 months in ms
+		ignoreHashChange: false,
 		dom: {
 			$filters_title: $('#filters_title'),
 			$search_inp: $('#name_search_cont input'),
 			$search_ico: $('#name_search_cont i'),
 			$select2_filters: $('select.select2'),
 			$unique_filters: $('[data-filter]'),
-			$table_els: $('.persons_list .tablesorter tbody tr')
+			$table_els: $('.main_list.persons_list .tablesorter tbody tr')
 		},
 		filters: {
 			search_term: '',
@@ -54,6 +55,11 @@ $(function () {
 					any_p: 'Funcţionarii publici din cadrul APL, membri ai ', // + party name
 					fp: 'Funcţionarii publici din cadrul APL neafiliaţi politic'
 				},
+				ccrm: {
+					no_p: 'Judecătorii Curţii Constituţionale',
+					any_p: 'Judecătorii Curţii Constituţionale, membri ai ',  // + party name
+					fp: 'Judecătorii Curţii Constituţionale neafiliaţi politic'
+				},
 				judecatori: {
 					no_p: 'Judecătorii instanţelor judecătoreşti',
 					any_p: 'Judecătorii instanţelor judecătoreşti, membri ai ',  // + party name
@@ -90,17 +96,18 @@ $(function () {
 		active_unique_filter: false,
 		visible_count: 0,
 		initInterface: function () {
-			pt.interface.addKeyEvents()
+			pt.interface.prepareEvents()
 			pt.interface.initSearch()
 			pt.interface.initSelect2Filters()
 			pt.interface.initUniqueFilters()
 			pt.interface.updateUniqueFilterCounts()
 			pt.table.init()
 
-			pt.table.filterTable()
+			pt.methods.urlParser()
+			//else pt.table.filterTable()
 		},
 		interface: {
-			addKeyEvents: function () {
+			prepareEvents: function () {
 				var $body = $('body');
 
 				$body.on('keydown keyup', function (e) {
@@ -113,6 +120,9 @@ $(function () {
 
 					if (e.keyCode == 27 && pt.dom.$search_inp.val())  pt.dom.$search_ico.click()
 				})
+				$(window).on('popstate', function (e) {
+					if (!pt.ignoreHashChange) pt.methods.urlParser()
+				})
 			},
 			initSelect2Filters: function () {
 				pt.dom.$select2_filters.each(function () {
@@ -120,7 +130,7 @@ $(function () {
 					$(this).select2({
 						width: '100%',
 						allowClear: true,
-						minimumResultsForSearch: 15
+						minimumResultsForSearch: -1
 					})
 				})
 				pt.dom.$select2_filters.on('change', function (e) {
@@ -186,6 +196,7 @@ $(function () {
 					}
 
 					pt.table.filterTable()
+					$btn.blur();
 					return false
 				})
 			},
@@ -202,6 +213,15 @@ $(function () {
 			}
 		},
 		methods: {
+			resetAllFiltersOnly: function(){
+				pt.filters.party = null
+				pt.filters.institute = null
+				pt.filters.search_term = null
+				pt.filters.show_all = null
+				pt.filters.newest = null
+				pt.filters.last_year = null
+				pt.filters.with_problems = null
+			},
 			resetMainFilters: function () {
 				pt.filters.party = null
 				pt.filters.institute = null
@@ -247,12 +267,76 @@ $(function () {
 					}
 				})
 			},
+			urlParser: function () {
+				var hash = window.location.hash,
+						filters = hash.replace('#', '').split('&');
+
+				pt.methods.resetAllFiltersOnly();
+
+				for (var i = 0; i < filters.length; i++) {
+					var filter = filters[i].split('='),
+							filterType = filter[0],
+							filterVal = filter[1];
+
+					pt.filters[filterType] = filterVal
+				}
+
+				pt.methods.switchFilters()
+			},
+			getFilterUrlHash: function () {
+				var hash = '',
+						count = 0;
+
+				for (var f in pt.filters) {
+					var val = pt.filters[f];
+					if (val && count) hash += '&';
+					if (val) hash += f + '=' + val;
+					if (val) count++
+				}
+				return hash;
+			},
+			updateUrlHash: function(){
+				var currentHash = window.location.hash,
+						newHash = pt.methods.getFilterUrlHash();
+				if (currentHash != newHash) {
+					window.location.hash = newHash
+				}
+			},
+			switchFilters: function(){
+				for (var filterType in pt.filters) {
+					var val = pt.filters[filterType];
+
+					if (val) {
+						if (filterType == 'institute') $('#filter_institutes').select2('val', val)
+						if (filterType == 'party') $('#filter_parties').select2('val', val)
+						if (filterType == 'search_term') pt.dom.$search_inp.val(val).change()
+
+						if (filterType.match(/show_all|newest|last_year|with_problems/)) {
+							pt.active_unique_filter = filterType
+							$('[data-filter=' + filterType + ']').addClass('active')
+						}
+					} else {
+						if (filterType == 'institute') $('#filter_institutes').select2('val', '')
+						if (filterType == 'party') $('#filter_parties').select2('val', '')
+						if (filterType == 'search_term') pt.dom.$search_inp.val('').change()
+					}
+				}
+				pt.table.filterTable()
+			},
 			getFilterTitle: function () {
 				var title_institute_base = (pt.filters.institute) ? pt.filters.institute : 'no_i',
 						title_party_base = (pt.filters.party == 'fp') ? 'fp' : (pt.filters.party) ? 'any_p' : 'no_p',
-						base_type = (pt.active_unique_filter) ? 'unique_filters' : 'institutes',
+						base_type = '',
 						$filter_institute_el_txt = '',
 						$filter_party_el_txt = '';
+
+				if (pt.active_unique_filter) {
+					base_type	= 'unique_filters'
+				} else if (!pt.filters.party && !pt.filters.institute && pt.filters.search_term){
+					base_type = 'simple_search'
+				} else {
+					base_type = 'institutes'
+				}
 
 				if (pt.filters.party) {
 					if (pt.filters.institute) {
@@ -269,6 +353,8 @@ $(function () {
 
 				if (pt.active_unique_filter) {
 					pt.dom.$filters_title.html(pt.filter_title_bases[base_type][pt.active_unique_filter] + ' <span>(' + pt.visible_count + ')</span>')
+				} else if (!pt.filters.party && !pt.filters.institute && pt.filters.search_term) {
+					pt.dom.$filters_title.html(pt.filter_title_bases[base_type] + ' <span>(' + pt.visible_count + ')</span>')
 				} else {
 					pt.dom.$filters_title.html(pt.filter_title_bases[base_type][title_institute_base][title_party_base] + $filter_party_el_txt + ' <span>(' + pt.visible_count + ')</span>')
 				}
@@ -286,7 +372,7 @@ $(function () {
 					type: 'text' // set type, either numeric or text
 				});
 
-				$(".persons_list .table").tablesorter({
+				$(".main_list.persons_list .table").tablesorter({
 					textExtraction: pt.table.parsers.currencyToNumber,
 					sortList: [[0, 0]],
 					headers: {
@@ -307,7 +393,7 @@ $(function () {
 					} else {
 						var $node = $(node),
 								node_val = $node.text(),
-								val = node_val.replace(/[,\.]/gi, '');
+								val = parseFloat(node_val.replace(/[,]/gi, ''));
 
 						return val;
 					}
@@ -320,6 +406,11 @@ $(function () {
 				}
 			},
 			filterTable: function () {
+
+				pt.ignoreHashChange = true
+				pt.methods.updateUrlHash()
+				setTimeout(function(){pt.ignoreHashChange = false},100);
+
 				pt.visible_count = 0
 				pt.dom.$table_els.each(function (i, el) {
 					var $el = $(el);
@@ -386,6 +477,18 @@ $(function () {
 		}
 	}
 	pt.initInterface()
+
+
+	$(".top_list.persons_list .table").tablesorter({
+		textExtraction: pt.table.parsers.currencyToNumber,
+		sortList: [[0, 0]],
+		headers: {
+			0: {
+				sorter: 'names_parse'
+			}
+		}
+	})
+	$('header .slider').slider()
 
 	//$(".persons_list .table").trigger("sorton", [[[1, 1]]]);
 	//$('.persons_list .tablesorter thead .income').click().click()

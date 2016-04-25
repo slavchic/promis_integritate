@@ -269,7 +269,7 @@ data: [
 <div class="comments">
 <ol>
 <li>Valoarea terenului intravilan nu este specificată în declaraţie, aceasta probabil fiind inclusă în valoarea casei de locuit.
-<li>Automobilul Toyota Avensis Verso <b>nu se regăseşte</b> în declaraţiile ulterioare anului 2013, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea automobilului (13,500 euro) calculată în lei la cursul BNM din 31.12.2007.
+<li>Automobilul Toyota Avensis Verso <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea automobilului (13,500 euro) calculată în lei la cursul BNM din 31.12.2007.
 </ol>
 </div>
 
@@ -381,7 +381,7 @@ data: [
 <div class="comments">
 <ol>
 <li>Valoarea apartamentului este preluată din <a class="local" href="#d2013">Declaraţia 2013</a>.
-<li>Declaraţia <b>nu conţine informaţii</b> despre terenul intravilan, dobândit în 2006 (vezi Declaraţia 2013).
+<li>Terenul intravilan <b>a fost omis</b> din declaraţie. Tabelul e completat pe baza Declaraţiei 2013.
 <li>Valoarea automobilului Toyota Avensis Verso (13,500 euro) este calculată în lei la cursul BNM din 31.12.2007.
 </ol>
 </div>
@@ -495,7 +495,7 @@ data: [
 <p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</b>
 <ol>
 <li>Valoarea apartamentului este preluată din <a class="local" href="#d2013">Declaraţia 2013</a>.
-<li>Automobilul Nissan Primera <b>nu se regăseşte</b> în declaraţiile ulterioare anului 2011. În 2012 demnitara nu raportează venituri obţinute în urma unei eventuale înstrăinări a automobilului sau despre transmiterea acestuia cu titlu oneros sau gratuit către alte persoane. În tabel este indicată valoarea automobilului (6,000 euro) calculată în lei la cursul BNM din 31.12.2011.
+<li>Automobilul Nissan Primera <b>nu se regăseşte</b> în declaraţiile ulterioare. În 2012 demnitara nu raportează venituri obţinute în urma unei eventuale înstrăinări a automobilului sau despre transmiterea acestuia cu titlu oneros sau gratuit către alte persoane. În tabel este indicată valoarea automobilului (6,000 euro) calculată în lei la cursul BNM din 31.12.2011.
 <li>Valoarea automobilului Toyota Avensis Verso (13,500 euro) este calculată în lei la cursul BNM din 31.12.2007.
 </ol>
 </div>

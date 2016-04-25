@@ -358,8 +358,8 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Suprafaţa şi anul dobândirii apartamentului este indicată în baza <a class="local" href="#d2013">Declaraţiei 2013</a>.
-<li>Valoarea automobilului Toyota RAV4 este indicată în baza Declaraţiei 2013.
+<li>Suprafaţa şi anul dobândirii apartamentului sunt preluate din <a class="local" href="#d2013">Declaraţia 2013</a>.
+<li>Valoarea automobilului Toyota RAV4 este preluată din Declaraţia 2013.
 </ol>
 </div>
 
@@ -425,8 +425,8 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Suprafaţa şi anul dobândirii apartamentului este indicată în baza <a class="local" href="#d2013">Declaraţiei 2013</a>.
-<li>Valoarea automobilului Toyota RAV4 este indicată în baza Declaraţiei 2013.
+<li>Suprafaţa şi anul dobândirii apartamentului sunt indicate în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2013">2013</a>.
+<li>Valoarea automobilului Toyota RAV4 este indicată în baza declaraţiilor făcute începând cu anul 2013.
 </ol>
 </div>
 

@@ -164,8 +164,8 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Valoarea şi anul dobândirii casei de locuit (2011) este indicată în baza <a class="local" href="#d2013">Declaraţiei 2013</a>, presupunem că e o eroare.
-<li>Valoarea terenului intravilan (2011) probabil este inclusă în valoarea casei de locuit (2011).
+<li>Valoarea şi anul dobândirii casei de locuit (2011) sunt preluate din <a class="local" href="#d2013">Declaraţia 2013</a>.
+<li>Valoarea terenului intravilan (2011) nu este specificată în declaraţie, aceasta probabil fiind inclusă în valoarea casei de locuit (2011).
 </ol>
 </div>
 
@@ -291,8 +291,8 @@ data: [
 
 <div class="comments">
 <ol>
-<li>Valoarea terenului intravilan (2011) probabil este inclusă în valoarea casei de locuit (2011).
-<li>În declaraţiile din următorii ani automobilul Mitsubishi Outlander (2007) <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc.
+<li>Valoarea terenului intravilan (2011) nu este specificată în declaraţie, aceasta probabil fiind inclusă în valoarea casei de locuit (2011).
+<li>Automobilul Mitsubishi Outlander <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia.
 </ol>
 </div>
 
@@ -413,8 +413,8 @@ data: [
 
 <div class="comments">
 <ol>
-<li>Valoarea terenului intravilan (2011) probabil este inclusă în valoarea casei de locuit (2011).
-<li>În declaraţiile din următorii ani automobilul Volkswagen Passat <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc.
+<li>Valoarea terenului intravilan (2011) nu este specificată în declaraţie, aceasta probabil fiind inclusă în valoarea casei de locuit (2011).
+<li>Automobilul Volkswagen Passat <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia.
 </ol>
 </div>
 
@@ -495,8 +495,8 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Valoarea terenului intravilan (2011) probabil este inclusă în valoarea casei de locuit (2011).
-<li>În declaraţiile după 2012 automobilul Volkswagen Passat <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc.
+<li>Valoarea terenului intravilan (2011) nu este specificată în declaraţie, aceasta probabil fiind inclusă în valoarea casei de locuit (2011).
+<li>Automobilul Volkswagen Passat nu se regăseşte în declaraţiile ulterioare anului <a class="local" href="#d2012">2012</a>.
 </ol>
 </div>
 

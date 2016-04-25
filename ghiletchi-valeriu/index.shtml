@@ -173,7 +173,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În tabel este indicată valoarea integrală a casei de locuit (2005) şi spaţiului comercial. Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
+<li>În tabel este indicată valoarea integrală a casei de locuit (2005) şi spaţiului comercial. Datele privind valoarea proprietăţilor deţinute de titular (din grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
 </ol>
 </div>
 
@@ -525,9 +525,9 @@ data: [
 
 <div class="comments">
 <ol>
-<li>Suprafaţa şi valoarea casei de locuit (2005) este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2012">2012</a>. În 2011, titularul a declarat suprafaţa de 56.65&nbsp;m2.
-<li>În declaraţiile din următorii ani automobilul Audi A6 <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc. În tabel este indicată valoarea de piaţă a automobilului.
-<li>În declaraţiile din următorii ani automobilul Nissan Micra <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Suprafaţa şi valoarea casei de locuit (2005) este preluată din <a class="local" href="#d2012">Declaraţia 2012</a>.
+<li>Automobilul Audi A6 <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Automobilul Nissan Micra <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia. În tabel este indicată valoarea de piaţă a automobilului.
 </ol>
 </div>
 
@@ -635,9 +635,9 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Suprafaţa şi valoarea casei de locuit (2005) este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2012">2012</a>. În 2010, titularul a declarat suprafaţa de 56.65&nbsp;m2.
-<li>În tabel este indicată valoarea de piaţă a automobilului Audi A6.
-<li>În tabel este indicată valoarea de piaţă a automobilului Nissan Micra.
+<li>Suprafaţa şi valoarea casei de locuit (2005) este preluată din <a class="local" href="#d2012">Declaraţia 2012</a>.
+<li>Valoarea automobilului Audi A6 nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea automobilului Nissan Micra nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -751,9 +751,9 @@ data: [
 
 <div class="comments">
 <ol>
-<li>Valoarea terenurilor intravilane probabil este inclusă în valoarea caselor de locuit. În declaraţiile din următorii ani terenurile <b>nu sunt menţionate</b>.
-<li>În tabel este indicată valoarea de piaţă a automobilului Audi A6.
-<li>În tabel este indicată valoarea de piaţă a automobilului Nissan Micra.
+<li>Terenurile intravilane <b>nu se regăsesc</b> în declaraţiile ulterioare. Valoarea acestora nu este specificată în declaraţie, aceasta probabil fiind inclusă în valoarea caselor de locuit.
+<li>Valoarea automobilului Audi A6 nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Valoarea automobilului Nissan Micra nu este specificată în declaraţie. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 
@@ -803,8 +803,8 @@ data: [
 <span class="pos">0.05</span>
 </td>
 <td class="value">
-<span class="neg">—<b class="warning grey"><i>2</i></b></span>
-<span class="neg">—<b></b></span>
+<span>—<b class="warning grey"><i>2</i></b></span>
+<span>—<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -830,10 +830,10 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În tabel este indicată valoarea integrală a casei de locuit (2005). Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
-<li>Valoarea terenurilor intravilane probabil este inclusă în valoarea caselor de locuit. În declaraţiile după 2009 terenurile <b>nu sunt menţionate</b>.
-<li>În declaraţiile după 2011 automobilul Audi A6 <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc. În tabel este indicată valoarea de piaţă a automobilului.
-<li>În declaraţiile după 2011 automobilul Nissan Micra <b>nu este menţionat</b>, iar informaţii ca venituri din vânzarea acestuia lipsesc. În tabel este indicată valoarea de piaţă a automobilului.
+<li>Valoarea casei de locuit (2005) este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2012">2012</a>.<br>În tabel este indicată valoarea integrală a acesteia. Datele privind valoarea proprietăţilor deţinute de titular (din grafic) conţin doar valoarea cotei-părţi aflate în posesia acestuia.
+<li>Terenurile intravilane nu se regăsesc în declaraţiile ulterioare anului <a class="local" href="#d2009">2009</a>. Valoarea acestora nu este specificată în nicio declaraţie, aceasta probabil fiind inclusă în valoarea caselor de locuit.
+<li>Automobilul Audi A6 nu se regăseşte în declaraţiile ulterioare anului <a class="local" href="#d2011">2011</a>. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Automobilul Nissan Micra nu se regăseşte în declaraţiile ulterioare anului 2011. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 

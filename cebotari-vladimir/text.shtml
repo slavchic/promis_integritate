@@ -3,8 +3,8 @@
 <div class="left"><div class="wrapper">
 <table class="table">
 <tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
-<tr><td><a href="/pdf/cebotari-vladimir-2014-mj.pdf">2014</a><br>Sursa: Ministerul Justiţiei</td></tr>
-<tr><td><a href="/pdf/cebotari-vladimir-2014-cni.pdf">2014</a>, <a href="/pdf/cebotari-vladimir-2013-cni.pdf">2013</a>, <a href="/pdf/cebotari-vladimir-2013-07-cni.pdf">2013 (iulie)</a><br>Comisia Naţională de Integritate</td></tr>
+<tr><td><a href="/pdf/cebotari-vladimir-2015-mj.pdf">2015</a>, <a href="/pdf/cebotari-vladimir-2014-mj.pdf">2014</a><br>Sursa: Ministerul Justiţiei</td></tr>
+<tr><td><a href="/pdf/cebotari-vladimir-2014-cni.pdf">2014</a>, <a href="/pdf/cebotari-vladimir-2013-cni.pdf">2013</a>, <a href="/pdf/cebotari-vladimir-2013-07-cni.pdf">2013 (iul)</a><br>Comisia Naţională de Integritate</td></tr>
 <tr><td>Interese: <a href="/pdf/cebotari-vladimir-interese-2014-mj.pdf">2014</a>, <a href="/pdf/cebotari-vladimir-interese-2013-cni.pdf">2013</a>, <a href="/pdf/cebotari-vladimir-interese-2012-cni.pdf">2012</a><br>Ministerul Justiţiei, CNI</td></tr>
 </table>
 
@@ -18,9 +18,9 @@
 <div class="right">
 
 <p class="overall">
-Declaraţiile de venit şi interese ale lui Vladimir Cebotari pentru anii 2013–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare. Începând cu iulie 2015, Vladimir Cebotari este ministru al justiţiei în două guverne succesive (Streleţ şi Filip), fiind propus în această funcţie de Partidul Democrat din Moldova.<br>
+Declaraţiile de venit şi interese ale <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --> pentru <!--#if expr="$lastyear1d = $lastyear2d" -->anul <!--#echo var="lastyear2d" --><!--#else -->anii <!--#echo var="lastyear1d" -->–<!--#echo var="lastyear2d" --><!--#endif --> depuse la organele abilitate în conformitate cu legislaţia în vigoare. Începând cu iulie 2015, Vladimir Cebotari este ministru al justiţiei în două guverne succesive (Streleţ şi Filip), fiind propus în această funcţie de Partidul Democrat din Moldova.<br>
 Înainte de a prelua funcţia de ministru al justiţiei, a fost director general al Î.S. “Calea Ferată din Moldova” (aprilie-iulie 2015). Vladimir Cebotari a deţinut şi anterior funcţii publice, printre care cea de viceministru al transporturilor şi infrastructurii drumurilor (2013–2015), director al Autorităţii Aeronautice Civile a Republicii Moldova (2011–2013). În perioada ianuarie-iulie 2014 a fost preşedinte ale Consiliului de Administrare al Î.S. “MoldATSA”. La alegerile parlamentare din 2001 a participat pe lista Blocului electoral “Alianţa Juriştilor şi Economiştilor”.<br><br>
-Conform declaraţiilor depuse de Vladimir Cebotari, familia acestuia este posesoarea următoarelor bunuri imobile şi mobile: un apartament, două case de locuit, în una dintre care deţine 33% cotă parte şi un teren intravilan în mun. Chişinău, un automobil BMW. Demnitarul mai are un credit în dolari, contractat în anul 2014 cu rata dobânzii de 12% şi scadent în 2015, şi un credit în lei, contractat în anul 2010 de către “Vlaconic” S.R.L. (firma pe care o deţine prin succesiune) cu rata dobânzii de 15% şi scadent în 2015. În proprietatea familiei Cebotari se mai află “Vlaconic” S.R.L. (95%), “S&amp;V Asistenta” S.R.L. (50%) şi “Neaos” S.R.L. (15%). 
+Conform declaraţiilor depuse de Vladimir Cebotari, familia acestuia este posesoarea următoarelor bunuri imobile şi mobile: un apartament, două case de locuit, în una dintre care deţine 33% cotă parte şi un teren intravilan în mun. Chişinău, un automobil BMW. Demnitarul mai are un credit în dolari, contractat în anul 2014 cu rata dobânzii de 12% şi scadent în 2015, şi un credit în lei, contractat în anul 2010 de către “Vlaconic” S.R.L. (firma pe care o deţine prin succesiune) cu rata dobânzii de 15% şi scadent în 2015. În proprietatea familiei Cebotari se mai află “Tchebo-Com” S.R.L. (100%), “Vlaconic” S.R.L. (95%), “S&amp;V Asistenta” S.R.L. (50%), “Fly One” S.R.L. (40%) şi “Neaos” S.R.L. (15%). 
 </p>
 
 <p class="verdict negative">

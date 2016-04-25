@@ -188,7 +188,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În declaraţie nu este indicată valoarea casei de locuit (2009), fiind menţionat că este nefinisată.
+<li>Valoarea cadastrală a casei de locuit (2009) nu este specificată în declaraţie, fiind indicat că aceasta se află în proces de construcţie.
 </ol>
 </div>
 
@@ -335,8 +335,8 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În tabel sunt indicate suprafaţa şi valoarea apartamentului (129.0&nbsp;m2) pe baza <a class="local" href="#d2014">declaraţiei din 2014</a>.
-<li>În declaraţie nu este indicată valoarea casei de locuit (2009), fiind menţionat că este nefinisată.
+<li>Suprafaţa şi valoarea apartamentului (129.0&nbsp;m2) sunt preluate din <a class="local" href="#d2014">Declaraţia 2014</a>.
+<li>Valoarea cadastrală a casei de locuit (2009) nu este specificată în declaraţie, fiind indicat că aceasta se află în proces de construcţie.
 </ol>
 </div>
 
@@ -489,11 +489,11 @@ data: [
 <div class="comments grey_warning">
 <ol>
 <li>
-<li>În declaraţiile din următorii ani apartamentul (45.9&nbsp;m2) nu este menţionat.
-<li>În declaraţiile din următorii ani apartamentul (80.0&nbsp;m2) nu este menţionat.
-<li>În declaraţie nu este indicată valoarea casei de locuit (2009), fiind menţionat că este nefinisată.
-<li>În declaraţiile din următorii ani imobilul (13.5&nbsp;m2) nu este menţionat.
-<li>În declaraţiile din următorii ani imobilul (10.5&nbsp;m2) nu este menţionat.
+<li>- În declaraţiile din următorii ani apartamentul (45.9&nbsp;m2) nu este menţionat.
+<li>- În declaraţiile din următorii ani apartamentul (80.0&nbsp;m2) nu este menţionat.
+<li>Valoarea cadastrală a casei de locuit (2009) nu este specificată în declaraţie, fiind indicat că aceasta se află în proces de construcţie.
+<li>- În declaraţiile din următorii ani imobilul (13.5&nbsp;m2) nu este menţionat.
+<li>- În declaraţiile din următorii ani imobilul (10.5&nbsp;m2) nu este menţionat.
 </ol>
 </div>
 
@@ -616,9 +616,9 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie nu este indicată valoarea casei de locuit (2009), fiind menţionat că este nefinisată.
-<li>În declaraţiile din următorii ani oficiul (22.0&nbsp;m2) <b>nu este menţionat</b>.
-<li>În tabel este indicată valoarea automobilului Peugeot 307 pe baza <a class="local" href="#d2012">declaraţiei din 2012</a>.
+<li>Valoarea cadastrală a casei de locuit (2009) nu este specificată în declaraţie, fiind indicat că aceasta se află în proces de construcţie.
+<li>Oficiul (22.0&nbsp;m2) <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia.
+<li>Valoarea automobilului Peugeot 307 este preluată din <a class="local" href="#d2012">Declaraţia 2012</a>.
 </ol>
 </div>
 
@@ -738,8 +738,8 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În declaraţie nu este indicată valoarea casei de locuit (2009), fiind menţionat că este nefinisată.
-<li>În tabel este indicată valoarea automobilului Peugeot 307 pe baza <a class="local" href="#d2012">declaraţiei din 2012</a>.
+<li>Valoarea cadastrală a casei de locuit (2009) nu este specificată în declaraţie, fiind indicat că aceasta se află în proces de construcţie.
+<li>Valoarea automobilului Peugeot 307 este preluată din <a class="local" href="#d2012">Declaraţia 2012</a>.
 </ol>
 </div>
 
@@ -818,9 +818,9 @@ data: [
 
 </div>
 
-<div class="comments">
+<div class="comments grey_warning">
 <ol>
-<li>În declaraţiile nu este indicată valoarea casei de locuit (2009), fiind menţionat că este nefinisată.
+<li>Valoarea cadastrală a casei de locuit (2009) nu este specificată în nicio declaraţie, fiind indicat că aceasta se află în proces de construcţie.
 <li>Valoarea automobilului Peugeot 307 este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2012">2012</a>.
 </ol>
 </div>

@@ -3,9 +3,9 @@
 <div class="left"><div class="wrapper">
 <table class="table">
 <tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
-<tr><td><a href="/pdf/chetraru-viorel-2014-cna.pdf">2014</a>, <a href="/pdf/chetraru-viorel-2012-cna.pdf">2012</a><br>Sursa: Centrul Naţional Anticorupţie</td></tr>
+<tr><td><a href="/pdf/chetraru-viorel-2015-cna.pdf">2015</a>, <a href="/pdf/chetraru-viorel-2014-cna.pdf">2014</a>, <a href="/pdf/chetraru-viorel-2012-cna.pdf">2012</a><br>Sursa: Centrul Naţional Anticorupţie</td></tr>
 <tr><td><a href="/pdf/chetraru-viorel-2013-cni.pdf">2013</a>, <a href="/pdf/chetraru-viorel-2011-cni.pdf">2011</a><br>Comisia Naţională de Integritate</td></tr>
-<tr><td>Interese: <a href="/pdf/chetraru-viorel-interese-2014-cna.pdf">2014</a>, <a href="/pdf/chetraru-viorel-interese-2013-cni.pdf">2013</a>, <a href="/pdf/chetraru-viorel-interese-2012-cni.pdf">2012</a>, <a href="/pdf/chetraru-viorel-interese-2011-interese-vedere.pdf">2011</a><br>CNA, CNI, Interese la vedere</td></tr>
+<tr><td>Interese: <a href="/pdf/chetraru-viorel-interese-2015-cna.pdf">2015</a>, <a href="/pdf/chetraru-viorel-interese-2014-cna.pdf">2014</a>, <a href="/pdf/chetraru-viorel-interese-2013-cni.pdf">2013</a>, <a href="/pdf/chetraru-viorel-interese-2012-cni.pdf">2012</a>, <a href="/pdf/chetraru-viorel-interese-2011-interese-vedere.pdf">2011</a><br>CNA, CNI, Interese la vedere</td></tr>
 </table>
 
 <br><table class="table">
@@ -18,7 +18,7 @@
 <div class="right">
 
 <p class="overall">
-Declaraţiile de venit şi interese ale lui Viorel Chetraru pentru anii 2011–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+Declaraţiile de venit şi interese ale lui Viorel Chetraru pentru anii 2011–2015 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
 </p>
 <!--#if expr="$ddd" -->
 <p class="verdict negative">

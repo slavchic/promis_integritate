@@ -18,8 +18,8 @@ data: [
 ]},
 {label: "Terenuri", bars: {order: 3},
 data: [
-[2013, 12200],
-[2014, 12200]
+[2013, 30000],
+[2014, 30000]
 ]},
 {label: "Bunuri mobile", bars: {order: 4},
 data: [
@@ -99,9 +99,9 @@ data: [
 <span>3.05</span>
 </td>
 <td class="value">
-<span>≈12.2<b class="warning"><i>2</i></b></span>
+<span>≈30.0<b class="warning"><i>2</i></b></span>
 </td></tr>
-<tr class="result"><td colspan="3">12,200.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+<tr class="result"><td colspan="3">30,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
 </div>
 
@@ -189,7 +189,7 @@ data: [
 </td>
 <td class="value">
 <span class="neg">491.8<b></b></span>
-<span class="neg">≈24.0<b class="warning"><i>1</i></b></span>
+<span class="neg">≈24.0<b class="warning grey"><i>1</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">515,803.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -206,9 +206,9 @@ data: [
 <span class="pos">3.05</span>
 </td>
 <td class="value">
-<span class="neg">≈12.2<b class="warning"><i>2</i></b></span>
+<span class="neg">≈30.0<b class="warning grey"><i>2</i></b></span>
 </td></tr>
-<tr class="result"><td colspan="3">12,200.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+<tr class="result"><td colspan="3">30,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
 </div>
 
@@ -223,8 +223,8 @@ data: [
 </td>
 <td class="value">
 <span class="neg">14.0<b></b></span>
-<span class="neg">≈199.2<b class="warning"><i>3</i></b></span>
-<span class="neg">≈118.8<b class="warning"><i>4</i></b></span>
+<span class="neg">≈199.2<b class="warning grey"><i>3</i></b></span>
+<span class="neg">≈118.8<b class="warning grey"><i>4</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">332,533.40 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -232,12 +232,12 @@ data: [
 
 </div>
 
-<div class="comments">
+<div class="comments grey_warning">
 <ol>
-<li>În declaraţii <b>nu este indicată</b> valoarea vilei. În tabel este indicată valoarea de piaţă a acesteia.
-<li>În declaraţii <b>nu este indicată</b> valoarea terenurilor agricole. În tabel este indicată valoarea de piaţă a acestora.
-<li>În declaraţii <b>nu este indicată</b> valoarea automobilului SsangYong Korando. În tabel este indicată valoarea de piaţă a acestuia.
-<li>În declaraţii <b>nu este indicată</b> valoarea automobilului Volvo 850. În tabel este indicată valoarea de piaţă a acestuia.
+<li>În nicio declaraţie nu este indicată valoarea vilei. În tabel este indicată valoarea de piaţă a acesteia.
+<li>În nicio declaraţie nu este indicată valoarea terenurilor agricole. În tabel este indicată valoarea de piaţă a acestora.
+<li>În nicio declaraţie nu este indicată valoarea automobilului SsangYong Korando. În tabel este indicată valoarea de piaţă a acestuia.
+<li>În nicio declaraţie nu este indicată valoarea automobilului Volvo 850. În tabel este indicată valoarea de piaţă a acestuia.
 </ol>
 </div>
 

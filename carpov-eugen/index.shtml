@@ -179,7 +179,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În tabel este indicată valoarea integrală a apartamentului (2005) şi garajului (2005). Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
+<li>În tabel este indicată valoarea integrală a apartamentului (2005) şi garajului (2005). Datele privind valoarea proprietăţilor deţinute de titular (din grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
 </ol>
 </div>
 
@@ -309,7 +309,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Tabelul este completat în baza <a class="local" href="#d2014">Declaraţiei 2014</a>.
+<li>Valoarea terenului intravilan este preluată din <a class="local" href="#d2014">Declaraţia 2014</a>.
 </ol>
 </div>
 
@@ -444,7 +444,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Tabelul este completat în baza <a class="local" href="#d2014">Declaraţiei 2014</a>.
+<li>Valoarea terenului intravilan este preluată din <a class="local" href="#d2014">Declaraţia 2014</a>.
 </ol>
 </div>
 
@@ -495,7 +495,7 @@ data: [
 <span>19.4</span>
 </td>
 <td class="value">
-<span class="neg">236.5<b class="warning grey"><i>1</i></b></span>
+<span class="neg">236.5<b></b></span>
 <span>255.7<b></b></span>
 <span>289.4<b></b></span>
 <span>553.7<b></b></span>
@@ -534,7 +534,7 @@ data: [
 <span><b></b><span>Audi A6 (?) / 2010</span></span>
 </td>
 <td class="value">
-<span>426.8<b class="warning grey"><i>2</i></b></span>
+<span>426.8<b class="warning grey"><i>1</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">426,769.25 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -567,8 +567,8 @@ data: [
 </div>
 
 <div class="comments grey_warning">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 <ol>
-<li>În declaraţie sunt indicate doar proprietăţile dobândite în anul 2011. Legislaţia în vigoare la acel moment prevedea declararea doar a veniturilor, bunurilor şi angajamentelor financiare dobândite în anul declarării.
 <li>Valoarea automobilului Audi A6 (26,500 euro) este calculată în lei la cursul BNM din 31.12.2010.
 </ol>
 </div>
@@ -619,7 +619,7 @@ data: [
 </td>
 <td class="value">
 <span>255.7<b></b></span>
-<span>289.4<b class="warning grey"><i>1</i></b></span>
+<span>289.4<b></b></span>
 <span>553.7<b></b></span>
 <span>68.8<b></b></span>
 <span>35.4<b></b></span>
@@ -641,7 +641,7 @@ data: [
 <span>0.06</span>
 </td>
 <td class="value">
-<span>93.4<b></b></span>
+<span>93.4<b class="warning grey"><i>1</i></b></span>
 <span>21.2<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">114,523.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -689,8 +689,9 @@ data: [
 </div>
 
 <div class="comments grey_warning">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 <ol>
-<li>Informaţii despre apartament (2005), garaj (2005) şi terenuri sunt completate în baza <a class="local" href="#d2014">Declaraţiei 2014</a>.
+<li>Suprafaţa şi valoarea terenurilor sunt preluate din <a class="local" href="#d2014">Declaraţia 2014</a>.
 <li>Valoarea automobilului Audi A6 (26,500 euro) este calculată în lei la cursul BNM din 31.12.2010.
 </ol>
 </div>
@@ -750,8 +751,8 @@ data: [
 <span class="pos">0.06</span>
 </td>
 <td class="value">
-<span class="neg">93.4<b></b></span>
-<span class="neg">21.2<b></b></span>
+<span class="neg">93.4<b class="warning grey"><i>2</i></b></span>
+<span class="neg">21.2<b class="warning grey"><i>3</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">114,523.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -773,7 +774,9 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În tabel este indicată valoarea integrală a apartamentului (2005) şi garajului (2005). Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
+<li>În tabel este indicată valoarea integrală a apartamentului (2005) şi garajului (2005). Datele privind valoarea proprietăţilor deţinute de titular (din grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
+<li>Valoarea terenului intravilan este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2014">2014</a>.
+<li>Valoarea terenului extravilan este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2012">2012</a>.
 </ol>
 </div>
 

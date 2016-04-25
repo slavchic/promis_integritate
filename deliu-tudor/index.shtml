@@ -157,7 +157,7 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie <b>nu este indicată</b> valoarea garajului. În tabel este indicată valoarea de piaţă a acestuia.
+<li>Pentru <b>prima dată</b> garajul apare în declaraţia din anul 2014. Valoarea acestuia <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea de piaţă a garajului.
 <li>Automobilul Toyota Avensis este deţinut în folosinţă în baza unui contract de comodat.
 </ol>
 </div>
@@ -210,7 +210,7 @@ data: [
 <span class="pos">21.0</span>
 </td>
 <td class="value">
-<span class="neg">≈100.0<b class="warning"><i>1</i></b></span>
+<span class="neg">≈100.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">100,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -238,7 +238,7 @@ data: [
 <span><b></b><span>Toyota Avensis (2004) / 2012</span></span>
 </td>
 <td class="value">
-<span>70.1<b class="warning grey"><i>2</i></b></span>
+<span>70.1<b class="warning grey"><i>1</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">70,100.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -272,9 +272,9 @@ data: [
 
 </div>
 
-<div class="comments">
+<div class="comments grey_warning">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 <ol>
-<li>În declaraţie lipseşte informaţia despre garaj. Conform legislaţiei, <b>titularul era obligat</b> să declare toate bunurile deţinute la momentul depunerii declaraţiei. Tabelul este completat în baza <a class="local" href="#d2014">Declaraţiei 2014</a>.
 <li>Automobilul Toyota Avensis este deţinut în folosinţă în baza unui contract de comodat.
 </ol>
 </div>
@@ -384,7 +384,7 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie lipseşte informaţia despre automobilul Toyota Avensis, deţinut în folosinţă în baza unui contract de comodat începând cu anul 2012. Conform noii legislaţiei, în vigoare din 2012, <b>titularul era obligat</b> să declare toate bunurile deţinute la momentul depunerii declaraţiei. Tabelul este completat în baza <a class="local" href="#d2013">Declaraţiei 2013</a>.
+<li>- În declaraţie lipseşte informaţia despre automobilul Toyota Avensis, deţinut în folosinţă în baza unui contract de comodat începând cu anul 2012. Conform noii legislaţiei, în vigoare din 2012, <b>titularul era obligat</b> să declare toate bunurile deţinute la momentul depunerii declaraţiei. Tabelul este completat în baza <a class="local" href="#d2013">Declaraţiei 2013</a>.
 </ol>
 </div>
 

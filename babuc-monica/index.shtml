@@ -156,7 +156,7 @@ data: [
 
 <div class="comments">
 <ol>
-<li>Pentru <b>prima dată</b> apartamentul (1995) apare în declaraţia din anul 2014.
+<li>Pentru <b>prima dată</b> apartamentul (1995) apare în declaraţia din anul 2014.<br>În tabel este indicată valoarea cadastrală integrală a acestuia. Datele privind valoarea proprietăţilor deţinute de titular (din grafic) conţin doar valoarea cotei-părţi aflate în posesia acestuia.
 <li>Pentru <b>prima dată</b> automobilul Chrysler 300M apare în declaraţia din anul 2014.
 </ol>
 </div>
@@ -446,7 +446,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>Pentru prima dată apartamentul (1995) apare în declaraţia din anul <a class="local" href="#d2014">2014</a>.
+<li>Pentru prima dată apartamentul (1995) apare în declaraţia din anul <a class="local" href="#d2014">2014</a>.<br>În tabel este indicată valoarea cadastrală integrală a acestuia. Datele privind valoarea proprietăţilor deţinute de titular (din grafic) conţin doar valoarea cotei-părţi aflate în posesia acestuia.
 <li>Pentru prima dată automobilul Chrysler 300M apare în declaraţia din anul 2014.
 </ol>
 </div>

@@ -3,15 +3,16 @@
 <div class="left"><div class="wrapper">
 <table class="table">
 <tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
-<tr><td><a href="/pdf/duca-gheorghe-2013-cni.pdf">2013</a>, <a href="/pdf/duca-gheorghe-2012-cni.pdf">2012</a><br>Sursa: Comisia Naţională de Integritate</td></tr>
+<tr><td><a href="/pdf/duca-gheorghe-2014-cni.pdf">2014</a>, <a href="/pdf/duca-gheorghe-2013-cni.pdf">2013</a>, <a href="/pdf/duca-gheorghe-2012-cni.pdf">2012</a><br>Sursa: Comisia Naţională de Integritate</td></tr>
 <tr><td><a href="/pdf/duca-gheorghe-2011-gov.pdf">2011</a>, <a href="/pdf/duca-gheorghe-2010-gov.pdf">2010</a>, <a href="/pdf/duca-gheorghe-2009-gov.pdf">2009</a><br>Guvernul Republicii Moldova</td></tr>
-<tr><td>Interese: <a href="/pdf/duca-gheorghe-interese-2013-cni.pdf">2013</a>, <a href="/pdf/duca-gheorghe-interese-2012-cni.pdf">2012</a><br>Comisia Naţională de Integritate</td></tr>
+<tr><td>Interese: <a href="/pdf/duca-gheorghe-interese-2014-cni.pdf">2014</a>, <a href="/pdf/duca-gheorghe-interese-2013-cni.pdf">2013</a>, <a href="/pdf/duca-gheorghe-interese-2012-cni.pdf">2012</a><br>Comisia Naţională de Integritate</td></tr>
 </table>
 
 <br><table class="table">
 <tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tactecni" --></th></tr>
 <tr><td><a href="/pdf/cni/duca-gheorghe-act-cni-2014-08-14.pdf">Nr. 02/151 din 14.08.2014</a></td></tr>
 <tr><td><a href="/pdf/cni/duca-gheorghe-act-cni-2014-08-07.pdf">Nr. 02/145 din 07.08.2014</a></td></tr>
+<tr><td><a href="/pdf/cni/duca-gheorghe-act-cni-2014-08-07-144.pdf">Nr. 02/144 din 07.08.2014</a></td></tr>
 <tr><td><a href="/pdf/cni/duca-gheorghe-decizia-cni-2013-05-23.pdf">Nr. 20/1 din 23.05.2013</a></td></tr>
 </table>
 
@@ -20,7 +21,7 @@
 <div class="right">
 
 <p class="overall">
-Declaraţiile de venit şi interese ale lui Gheorghe Duca pentru anii 2009–2013 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+Declaraţiile de venit şi interese ale lui Gheorghe Duca pentru anii 2009–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
 </p>
 <!--#if expr="$ddd" -->
 <p class="verdict negative">

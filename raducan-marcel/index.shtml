@@ -291,7 +291,7 @@ data: [
 
 <div class="comments">
 <ol>
-<li>Informații despre terenul agricol (0.1047&nbsp;ha) <b>lipsesc</b> în declarațiile anterioare.
+<li>Pentru <b>prima dată</b> terenul agricol (2000) apare în declaraţia din anul 2013.
 </ol>
 </div>
 
@@ -357,7 +357,7 @@ data: [
 <span>0.11</span>
 </td>
 <td class="value">
-<span>37.8<b class="warning"><i>2</i></b></span>
+<span>37.8<b class="warning grey"><i>2</i></b></span>
 <span>1.4<b class="warning"><i>3</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">39,151.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -406,9 +406,9 @@ data: [
 
 <div class="comments">
 <ol>
-<li>Informații despre casa de locuit <b>lipsesc</b> în declaraţiile din următorii ani.
-<li>Valoarea terenurilor declarate diferă de cea din Declaraţia 2013 (în 2012 valoarea totală este 36,725.00 lei). Tabelul este completat în baza Declaraţiei 2013.
-<li>Terenul (0.1047&nbsp;ha) <b>nu este declarat</b>. Tabelul este completat în baza Declaraţiei 2013.
+<li>Casa de locuit <b>nu se regăseşte</b> în declaraţiile ulterioare, fără a fi raportate venituri obţinute în urma unei eventuale înstrăinări a acestuia.
+<li>Valoarea terenurilor agricole (2009) este preluată din <a class="local" href="#d2013">Declaraţia 2013</a>.
+<li>Terenul agricol (2000) <b>a fost omis</b> din declaraţie. Tabelul e completat pe baza Declaraţiei 2013.
 </ol>
 </div>
 
@@ -453,7 +453,7 @@ data: [
 <span>109.9</span>
 </td>
 <td class="value">
-<span>82.6<b class="warning"><i>1</i></b></span>
+<span>82.6<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">82,620.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -522,9 +522,7 @@ data: [
 </div>
 
 <div class="comments">
-<ol>
-<li>În declaraţie nu este specificat nimic la categoria bunurile mobile şi imobile, cu referire la anul precedent. Legislaţia prevedea declararea bunurilor procurate în anul de referinţă. Tabelul este completat în baza declaraţiilor făcute de titular în următorii ani.
-</ol>
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 </div>
 
 </div>
@@ -568,7 +566,7 @@ data: [
 <span>109.9</span>
 </td>
 <td class="value">
-<span>82.6<b class="warning"><i>1</i></b></span>
+<span>82.6<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">82,620.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -637,9 +635,7 @@ data: [
 </div>
 
 <div class="comments">
-<ol>
-<li>În declaraţie nu este specificat nimic la categoria bunurile mobile şi imobile, cu referire la anul precedent. Legislaţia prevedea declararea bunurilor procurate în anul de referinţă. Tabelul este completat în baza declaraţiilor făcute de titular în următorii ani.
-</ol>
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 </div>
 
 </div>
@@ -702,7 +698,7 @@ data: [
 <span>0.11</span>
 </td>
 <td class="value">
-<span class="neg">37.8<b class="warning"><i>1</i></b></span>
+<span class="neg">37.8<b></b></span>
 <span>1.4<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">39,151.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -718,7 +714,7 @@ data: [
 <span><b></b><span>BMW 735i (2003) / 2007</span></span>
 </td>
 <td class="value">
-<span>200.0<b class="warning"><i>2</i></b></span>
+<span>200.0<b></b></span>
 <span>200.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">400,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -753,10 +749,7 @@ data: [
 </div>
 
 <div class="comments">
-<ol>
-<li>Sunt declarate două terenuri (0.78 ha şi 1.50 ha) fără a fi indicată valoarea. Conform legislaţiei <b>titularul avea obligaţia</b> să declare cele 4 terenuri ca proprietate dobândită în anul 2009 (<em>vezi Declaraţia 2013</em>).
-<li>În declaraţie nu este indicat anul procurării automobilelor Mercedes 320 şi BMW 735i. Este indicată o valoare totală de 400,000.00 lei pentru ambele automobile.
-</ol>
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 </div>
 
 </div>
@@ -783,7 +776,7 @@ data: [
 <span class="pos">109.9</span>
 </td>
 <td class="value">
-<span class="neg">82.6<b class="warning"><i>1</i></b></span>
+<span class="neg">82.6<b class="warning grey"><i>1</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">82,620.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -800,7 +793,7 @@ data: [
 <span class="pos">0.11</span>
 </td>
 <td class="value">
-<span class="neg">1.4<b class="warning"><i>2</i></b></span>
+<span class="neg">1.4<b class="warning grey"><i>2</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">1,365.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -815,7 +808,7 @@ data: [
 <span class="pos"><b></b><span>BMW 735i (2003) / 2007</span></span>
 </td>
 <td class="value">
-<span class="neg">200.0<b class="warning"><i>3</i></b></span>
+<span class="neg">200.0<b></b></span>
 <span class="neg">200.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">400,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -824,11 +817,10 @@ data: [
 
 </div>
 
-<div class="comments">
+<div class="comments grey_warning">
 <ol>
-<li>Casa de locuit <b>nu este menţionată</b> în declaraţiile ulterioare anului 2012.
-<li>Informații despre terenul agricol <b>lipsesc</b> în declarațiile anterioare anului 2013.
-<li>În declaraţiile nu este indicat anul procurării automobilelor Mercedes 320 şi BMW 735i. Este indicată o valoare totală de 400,000.00 lei pentru ambele automobile.
+<li>Casa de locuit nu se regăseşte în declaraţiile ulterioare anului <a class="local" href="#d2012">2012</a>.
+<li>Pentru prima dată terenul agricol apare în declaraţia din anul <a class="local" href="#d2013">2013</a>.
 </ol>
 </div>
 

@@ -12,12 +12,18 @@
 <div class="right">
 
 <p class="overall">
-Declaraţiile de venit şi interese ale lui Dumitru Diacov pentru anii 2009–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+Declaraţiile de venit şi interese ale <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --> pentru <!--#if expr="$lastyear1d = $lastyear2d" -->anul <!--#echo var="lastyear2d" --><!--#else -->anii <!--#echo var="lastyear1d" -->–<!--#echo var="lastyear2d" --><!--#endif --> depuse la organele abilitate în conformitate cu legislaţia în vigoare. Începând cu anul 2009, Dumitru Diacov ocupă funcţia de deputat în Parlamentul Republicii Moldova, fiind membru al fracţiunii Partidului Democrat din Moldova. Anterior, a mai deţinut funcţii publice printre care cea de deputat (1994–1998, 1998–2001, 2005–2009), vicepreşedinte al Parlamentului (1995–1998) şi preşedinte al Parlamentului (1998–2001).<br>
+În perioada anilor 1997–2000, Dumitru Diacov a exercitat funcţia de preşedinte al Mişcării social-politice “Pentru o Moldovă Democratică şi Prosperă”, iar în perioada 2000–2009 a deţinut funcţia de preşedinte al Partidului Democrat din Moldova. Din anul 2009 ocupă funcţia de preşedinte de onoare al PDM.<br><br>
+Conform declaraţiilor depuse de Dumitru Diacov, familia acestuia este posesoarea următoarelor bunuri imobile şi mobile: un apartament în or. Moscova, Federaţia Rusă, o casă de locuit şi un teren intravilan în mun. Chişinău şi 3 automobile (Mercedes Benz, BMW 730d şi Range Rover). Demnitarul mai are un credit în lei, contractat în 2013 cu rata dobânzii de 15% şi scadent în 2015. Familia Diacov are în proprietate şi ziarul “Novoe Vremea”, care se află în proces de lichidare.
 </p>
-<!--#if expr="$ddd" -->
+
 <p class="verdict negative">
 <b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+Dumitru Diacov a admis mai multe nereguli în declararea proprietăţilor în anii 2009, 2010 şi 2011, contrar prevederilor legislaţiei în vigoare. Demnitarul fie nu a raportat unele bunuri, cum ar fi oficiul (446.8 m2) în 2011, automobilul Mercedes în 2010 şi 2011 şi cotele-părţi în ziarul “Novoe vremea” în 2010–2011, fie a oferit informaţii incomplete privind valoarea proprietăţilor deţinute la momentul declarării. Legislaţia la acel moment era una confuză şi conţinea inadvertenţe care au generat practici neuniforme de declarare selectivă a proprietăţilor.<br><br>
+Dumitru Diacov a omis să declare în anul 2012 automobil Range Rover pe care l-a obţinut în folosinţă în acelaşi an în baza unui contract de comodat, dar şi automobilul Mercedes deţinut în folosinţă din 2010, contrar prevederilor legale de a declara toate bunurile deţinute la momentul declarării.<br><br>
+Începând cu anul 2011, în declaraţii nu se mai regăseşte oficiul cu suprafaţa de 446.8 m2, precum şi lotul aferent acestuia, iar din 2012 dispare şi oficiul cu suprafaţa de 752 m2. În niciunul dintre ani, Dumitru Diacov nu raportează careva venituri obţinute de pe urma unei eventuale înstrăinări a acestor imobile sau despre transmiterea acestora cu titlu oneros sau gratuit, aşa cum prevedea legislaţia în vigoare. În schimb, în declaraţiile din anii 2012–2014, demnitarul include venituri ale soţiei obţinute din arenda unor imobile către PDM.<br><br>
+În niciuna din declaraţiile sale nu este specificată valoarea cadastrală a apartamentului din or. Moscova, dobândit în anul 1986 şi valoarea automobilului BMW 730d deţinut în proprietate din 2007.
 </p>
-<!--#endif -->
+
 </div>
 </div>

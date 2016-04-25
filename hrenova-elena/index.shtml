@@ -85,7 +85,7 @@ data: [
 </td>
 <td class="value">
 <span>≈215.0<b class="warning"><i>1</i></b></span>
-<span>≈230.0<b class="warning"><i>2</i></b></span>
+<span>≈230.0<b class="warning grey"><i>2</i></b></span>
 <span>?<b class="warning grey"><i>3</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">445,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -146,9 +146,9 @@ data: [
 
 <div class="comments">
 <ol>
-<li>În declaraţie nu este indicată valoarea apartamentelor. În tabel este arătată valoarea aproximativă (5,000 lei pentru un m2) în baza declaraţiilor făcute de alţi demnitari la apartamente de acelaşi tip.
-<li>În declaraţie sunt prezentate informaţii diferite privind suprafaţa apartamentului decât cele raportate în 2013. În tabel este indicată suprafaţa imobilului în baza <a class="local" href="#d2013">Declaraţiei 2013</a>. În 2014, titulara a declarat suprafaţa de 24&nbsp;m2 (vezi <a href="/pdf/hrenova-elena-2014-parlament.pdf" class="icon-data_doc_pdf">Declaraţia 2014</a>) şi 32&nbsp;m2 (vezi <a href="/pdf/hrenova-elena-2012-2013-cec.pdf" class="icon-data_doc_pdf">declaraţia depusă la CEC</a> pentru alegerile din 2014).
-<li>Informaţia despre categoria imobilului procurat nu este vizibilă.
+<li>Valoarea apartamentelor <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea cadastrală estimativă a acestora.
+<li>Suprafaţa apartamentului (1999) este preluată din <a class="local" href="#d2013">Declaraţia 2013</a>.
+<li>- Informaţia despre categoria imobilului procurat nu este vizibilă.
 </ol>
 </div>
 
@@ -257,8 +257,8 @@ data: [
 
 <div class="comments">
 <ol>
-<li>Titulara nu a declarat vreun venit pentru anul 2013, deşi a activat în calitate de consilier municipal în Consiliul Municipal Chişinău.
-<li>În declaraţie nu este indicată valoarea apartamentelor. În tabel este arătată valoarea aproximativă (5,000 lei pentru un m2) în baza declaraţiilor făcute de alţi demnitari la apartamente de acelaşi tip.
+<li>- Titulara nu a declarat vreun venit pentru anul 2013, deşi a activat în calitate de consilier municipal în Consiliul Municipal Chişinău.
+<li>Valoarea apartamentelor <b>nu este specificată</b> în declaraţie. În tabel este indicată valoarea cadastrală estimativă a acestora.
 </ol>
 </div>
 
@@ -288,8 +288,8 @@ data: [
 <span class="pos">46.0</span>
 </td>
 <td class="value">
-<span class="neg">≈215.0<b class="warning"><i>1</i></b></span>
-<span class="neg">≈230.0<b class="warning"><i>2</i></b></span>
+<span class="neg">≈215.0<b class="warning grey"><i>1</i></b></span>
+<span class="neg">≈230.0<b class="warning grey"><i>2</i></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">445,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -323,10 +323,10 @@ data: [
 
 </div>
 
-<div class="comments">
+<div class="comments grey_warning">
 <ol>
-<li>În declaraţii nu este indicată valoarea apartamentelor. În tabel este arătată valoarea aproximativă (5,000 lei pentru un m2) în baza declaraţiilor făcute de alţi demnitari la apartamente de acelaşi tip.
-<li>În declaraţii sunt prezentate informaţii diferite privind suprafaţa apartamentului. În tabel este indicată suprafaţa imobilului în baza <a class="local" href="#d2013">Declaraţiei 2013</a>. În 2014, titulara a declarat suprafaţa de 24&nbsp;m2 (vezi <a href="/pdf/hrenova-elena-2014-parlament.pdf" class="icon-data_doc_pdf">Declaraţia 2014</a>) şi 32&nbsp;m2 (vezi <a href="/pdf/hrenova-elena-2012-2013-cec.pdf" class="icon-data_doc_pdf">declaraţia depusă la CEC</a> pentru alegerile din 2014).
+<li>Valoarea apartamentelor nu este specificată în nicio declaraţie. În tabel este indicată valoarea cadastrală estimativă a acestora.
+<li>Suprafaţa apartamentului (1999) este preluată din <a class="local" href="#d2013">Declaraţia 2013</a>.
 </ol>
 </div>
 

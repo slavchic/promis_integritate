@@ -21,6 +21,7 @@ data: [
 [2009, 186666.67],
 [2010, 186666.67],
 [2011, 186666.67],
+[2012, 186666.67],
 [2013, 786666.67],
 [2014, 786666.67]
 ]},
@@ -30,6 +31,7 @@ data: [
 [2009, 100000],
 [2010, 100000],
 [2011, 100000],
+[2012, 100000],
 [2013, 100000],
 [2014, 100000]
 ]},
@@ -39,6 +41,7 @@ data: [
 [2009, 28400],
 [2010, 28400],
 [2011, 28400],
+[2012, 124400],
 [2013, 124400],
 [2014, 124400]
 ]},
@@ -161,7 +164,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În tabel este indicată valoarea integrală a casei de locuit şi terenului intravilan. Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
+<li>În tabel este indicată valoarea cadastrală integrală a casei de locuit şi terenului intravilan. Datele privind valoarea proprietăţilor deţinute de titular (din grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
 <li>Automobilul BMW 318 este deţinut în folosinţă în baza unui contract de comodat.
 </ol>
 </div>
@@ -208,7 +211,7 @@ data: [
 </td>
 <td class="value">
 <span class="neg">600.0<b></b></span>
-<span>560.0<b class="warning grey"><i>1</i></b></span>
+<span>560.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">786,666.67 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -240,7 +243,7 @@ data: [
 <span><b></b><span>Opel Astra (1993) / 2003</span></span>
 </td>
 <td class="value">
-<span>96.0<b class="warning grey"><i>2</i></b></span>
+<span>96.0<b class="warning grey"><i>1</i></b></span>
 <span>28.4<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">124,400.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -277,7 +280,6 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În tabel este indicată valoarea integrală a casei de locuit şi terenului intravilan. Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.
 <li>Automobilul BMW 318 este deţinut în folosinţă în baza unui contract de comodat.
 </ol>
 </div>
@@ -383,9 +385,9 @@ data: [
 </div>
 
 <div class="comments grey_warning">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 <ol>
-<li>În tabel este indicată valoarea integrală a casei de locuit şi terenului intravilan. Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.<br>Valoarea casei de locuit este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2013">2013</a>.
-<li>În declaraţie lipseşte informaţia despre terenul intravilan. Legislaţia în vigoare la acel moment prevedea declararea doar a veniturilor, bunurilor şi angajamentelor financiare dobândite în anul declarării.
+<li>Valoarea casei de locuit este preluată din <a class="local" href="#d2013">Declaraţia 2013</a>.
 </ol>
 </div>
 
@@ -490,9 +492,9 @@ data: [
 </div>
 
 <div class="comments grey_warning">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 <ol>
-<li>În tabel este indicată valoarea integrală a casei de locuit şi terenului intravilan. Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.<br>Valoarea casei de locuit este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2013">2013</a>.
-<li>În declaraţie lipseşte informaţia despre terenul intravilan, fapt permis de către legislaţia în vigoare la acel moment.
+<li>Valoarea casei de locuit este preluată din <a class="local" href="#d2013">Declaraţia 2013</a>.
 </ol>
 </div>
 
@@ -597,9 +599,9 @@ data: [
 </div>
 
 <div class="comments grey_warning">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
 <ol>
-<li>În tabel este indicată valoarea integrală a casei de locuit şi terenului intravilan. Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.<br>Valoarea casei de locuit este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2013">2013</a>.
-<li>În declaraţie lipseşte informaţia despre terenul intravilan, fapt permis de către legislaţia în vigoare la acel moment.
+<li>Valoarea casei de locuit este preluată din <a class="local" href="#d2013">Declaraţia 2013</a>.
 </ol>
 </div>
 
@@ -668,7 +670,7 @@ data: [
 
 <div class="comments grey_warning">
 <ol>
-<li>În tabel este indicată valoarea integrală a casei de locuit şi terenului intravilan. Datele privind valoarea totală a proprietăţilor deţinute de titular (din tabel şi grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.<br>Valoarea casei de locuit este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2013">2013</a>.
+<li>În tabel este indicată valoarea cadastrală integrală a casei de locuit şi terenului intravilan. Datele privind valoarea proprietăţilor deţinute de titular (din grafic) conţin doar valoarea cotelor-părţi aflate în posesia acestuia.<br>Valoarea casei de locuit este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2013">2013</a>.
 </ol>
 </div>
 
