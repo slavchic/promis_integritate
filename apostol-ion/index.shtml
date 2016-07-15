@@ -31,8 +31,7 @@ data: [
 ]},
 {label: "Active financiare", bars: {order: 5},
 data: [
-[2013, 592],
-[2014, 592]
+[2014, 0]
 ]},
 {label: "Datorii", bars: {order: 6},
 data: [
@@ -122,12 +121,10 @@ data: [
 <col><col style="width:23%">
 <thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
 <tr class="info"><td class="name">
-<span><b></b><span><!--#echo encoding="none" var="t53" --></span><i>x2</i></span>
 </td>
 <td class="value">
-<span>0.6<b></b></span>
 </td></tr>
-<tr class="result"><td colspan="2">592.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
 </div>
 
@@ -233,12 +230,10 @@ data: [
 <col><col style="width:23%">
 <thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
 <tr class="info"><td class="name">
-<span><b></b><span><!--#echo encoding="none" var="t53" --></span><i>x2</i></span>
 </td>
 <td class="value">
-<span>0.6<b></b></span>
 </td></tr>
-<tr class="result"><td colspan="2">592.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
 </div>
 

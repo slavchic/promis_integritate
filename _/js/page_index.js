@@ -9,6 +9,7 @@ $(function () {
 			$search_ico: $('#name_search_cont i'),
 			$select2_filters: $('select.select2'),
 			$unique_filters: $('[data-filter]'),
+			$table: $('.main_list.persons_list .tablesorter'),
 			$table_els: $('.main_list.persons_list .tablesorter tbody tr')
 		},
 		filters: {
@@ -122,6 +123,7 @@ $(function () {
 				})
 				$(window).on('popstate', function (e) {
 					if (!pt.ignoreHashChange) pt.methods.urlParser()
+					e.preventDefault()
 				})
 			},
 			initSelect2Filters: function () {
@@ -299,7 +301,12 @@ $(function () {
 				var currentHash = window.location.hash,
 						newHash = pt.methods.getFilterUrlHash();
 				if (currentHash != newHash) {
-					window.location.hash = newHash
+					if (newHash) {
+						window.location.hash = newHash
+					} else {
+						history.pushState("", document.title, window.location.pathname) // hash cleanup
+					}
+
 				}
 			},
 			switchFilters: function(){
@@ -352,11 +359,11 @@ $(function () {
 				}
 
 				if (pt.active_unique_filter) {
-					pt.dom.$filters_title.html(pt.filter_title_bases[base_type][pt.active_unique_filter] + ' <span>(' + pt.visible_count + ')</span>')
+					pt.dom.$filters_title.html(pt.filter_title_bases[base_type][pt.active_unique_filter] + ' <span class="count">(' + pt.visible_count + ')</span>')
 				} else if (!pt.filters.party && !pt.filters.institute && pt.filters.search_term) {
-					pt.dom.$filters_title.html(pt.filter_title_bases[base_type] + ' <span>(' + pt.visible_count + ')</span>')
+					pt.dom.$filters_title.html(pt.filter_title_bases[base_type] + ' <span class="count">(' + pt.visible_count + ')</span>')
 				} else {
-					pt.dom.$filters_title.html(pt.filter_title_bases[base_type][title_institute_base][title_party_base] + $filter_party_el_txt + ' <span>(' + pt.visible_count + ')</span>')
+					pt.dom.$filters_title.html(pt.filter_title_bases[base_type][title_institute_base][title_party_base] + $filter_party_el_txt + ' <span class="count">(' + pt.visible_count + ')</span>')
 				}
 			}
 		},
@@ -410,6 +417,8 @@ $(function () {
 				pt.ignoreHashChange = true
 				pt.methods.updateUrlHash()
 				setTimeout(function(){pt.ignoreHashChange = false},100);
+
+				pt.dom.$table.toggleClass('filtered', !!pt.methods.getFilterUrlHash()) // toggle "filtered" class if table is filtered
 
 				pt.visible_count = 0
 				pt.dom.$table_els.each(function (i, el) {
@@ -479,16 +488,16 @@ $(function () {
 	pt.initInterface()
 
 
-	$(".top_list.persons_list .table").tablesorter({
-		textExtraction: pt.table.parsers.currencyToNumber,
-		sortList: [[0, 0]],
-		headers: {
-			0: {
-				sorter: 'names_parse'
-			}
-		}
-	})
-	$('header .slider').slider()
+	//$(".top_list.persons_list .table").tablesorter({
+	//	textExtraction: pt.table.parsers.currencyToNumber,
+	//	sortList: [[0, 0]],
+	//	headers: {
+	//		0: {
+	//			sorter: 'names_parse'
+	//		}
+	//	}
+	//})
+	sslider = $('.slider').slider({autoswitch: 10000})
 
 	//$(".persons_list .table").trigger("sorton", [[[1, 1]]]);
 	//$('.persons_list .tablesorter thead .income').click().click()

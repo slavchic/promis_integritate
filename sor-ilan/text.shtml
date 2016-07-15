@@ -12,12 +12,15 @@
 <div class="right">
 
 <p class="overall">
-Declaraţiile de venit şi interese ale lui Ilan Şor pentru anul 2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+Declaraţiile de venit şi interese ale <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --> pentru <!--#if expr="$lastyear1d = $lastyear2d" -->anul <!--#echo var="lastyear2d" --><!--#else -->anii <!--#echo var="lastyear1d" -->–<!--#echo var="lastyear2d" --><!--#endif --> depuse la organele abilitate în conformitate cu legislaţia în vigoare. Începând cu iulie 2015, Ilan Şor ocupă funcţia de primar al oraşului Orhei, fiind ales din partea Mişcării social-politice “Ravnopravie”.<br>
+Totodată, în perioada aprilie–noiembrie 2014 a deţinut funcţia de preşedinte al Consiliului de Administraţie a “Băncii de Economii” S.A. În august 2014, acesta a fost ales preşedinte al Consiliului de administrare “Avia Invest”, companie-administrator al Aeroportului Internaţional Chişinău. Ilan Şor este şi proprietarul clubului de fotbal “Milsami Orhei”. Până în anul 2015, Ilan Şor a mai deţinut funcţia de director general al companiei “Dufremol” S.R.L. şi cea de administrator al companiilor “Klassika Asigurări” S.A. şi “Air Klassika Executive” S.R.L., ultima fiind o companie aeriană cu denumirea juridică “Air Clasica” S.R.L.<br><br>
+Conform declaraţiilor depuse de Ilan Şor, familia acestuia este posesoarea următoarelor bunuri imobile şi mobile: 3 apartamente (cota parte la un apartament este de 1/2), o casă de locuit, un garaj şi un teren intravilan — toate în Republica Moldova, 3 automobile cu marca Bentley Continental, Toyota 4Runner (cota parte 1/2) şi GAZ-2410. Demnitarul mai are un credit în euro, contractat în 2009 cu rata dobânzii 0% şi scadent în 2017. Familia Şor mai deţine o cotă parte de 0.8931% din “Avantage” S.R.L. 
 </p>
-<!--#if expr="$ddd" -->
+
 <p class="verdict negative">
 <b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+La 22 octombrie 2015, CNI a dispus iniţierea controlului privind o eventuală încălcare a regimului juridic al declarării veniturilor şi proprietăţilor pentru anul 2014 de către Ilan Şor. CNI s-a autosesizat după ce Ilan Şor a declarat într-un autodenunţ că a oferit o sumă de 250 mln de dolari fostului prim-ministru Vlad Filat. CNI urma să verifice sursa acestor bani şi dacă aceştia au fost declaraţi de către primarul or. Orhei. Pe 3 martie 2016, CNI a examinat rezultatele controlului, fără a publica rezultatele acestuia.
 </p>
-<!--#endif -->
+
 </div>
 </div>

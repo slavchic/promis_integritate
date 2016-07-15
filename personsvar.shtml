@@ -1,0 +1,2542 @@
+<!--#set var="lastyearall" value="2013" -->
+
+<!--#if expr="$DOCUMENT_URI=/\/agache-angel\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PLDM)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="76" -->
+<!--#set var="ngoods" value="4" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/alergus-constantin\//" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="din 2005 — judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/andronachi-vladimir\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="5" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/apolschii-raisa\//" -->
+<!--#set var="title_ului" value="Raisei Apolschii" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/apostol-ion\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/arapu-anatol\//" -->
+<!--#set var="prof" value="ex-ministrul Finanţelor" -->
+<!--#set var="prof2" value="Ex-ministrul Finanţelor (2013–2016)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/babenco-oleg\//" -->
+<!--#set var="prof" value="director general al Biroului Relaţii Interetnice" -->
+<!--#set var="prof2" value="Director general al Biroului Relaţii Interetnice" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/babuc-monica\//" -->
+<!--#set var="title_ului" value="Monicăi Babuc" -->
+<!--#set var="prof" value="Ministrul Culturii" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/bacalu-elena\//" -->
+<!--#set var="title_ului" value="Elenei Bacalu" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="8" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/balan-ion\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="slands" value="1" --><!--#set var="nlands" value="127" -->
+<!--#set var="ngoods" value="6" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/balan-mihai\//" -->
+<!--#set var="prof" value="directorul Serviciului de Informaţii şi Securitate" -->
+<!--#set var="prof2" value="Directorul Serviciului de Informaţii şi Securitate" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/balan-oleg\//" -->
+<!--#set var="prof" value="ex-ministrul Afacerilor Interne" -->
+<!--#set var="prof2" value="Ex-ministrul Afacerilor Interne (2015–2016)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="16" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/balitchi-tudor\//" -->
+<!--#set var="prof" value="ex-director general al Serviciului Vamal" -->
+<!--#set var="prof2" value="Ex-director general al Serviciului Vamal (2009–2016)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="4" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/balmos-galina\//" -->
+<!--#set var="title_ului" value="Galinei Balmoş" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/bannicov-alexandr\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/batrincea-vlad\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2013" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/baiesu-aurel\//" -->
+<!--#set var="prof" value="judecătorul Curţii Constituţionale a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Constituţionale a Republicii Moldova" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/balan-gheorghe\//" -->
+<!--#set var="prof" value="viceprim-ministru pentru Reintegrare" -->
+<!--#set var="prof2" value="viceprim-ministru pentru Reintegrare" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2013" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/bejan-valerian\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="slands" value="1" --><!--#set var="nlands" value="193" -->
+<!--#set var="ngoods" value="8" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/bejenaru-iurie\//" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="din 2008 — judecătorul Curţii Supreme de Justiţie a Republicii Moldova<br>2004–2008 — preşedintele Judecătoriei Buiucani, mun. Chişinău" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="4" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/beleacova-elena\//" -->
+<!--#set var="title_ului" value="Elenei Beleacova" -->
+<!--#set var="prof" value="ex-director general al Biroului Relaţii Interetnice" -->
+<!--#set var="prof2" value="Ex-director general al Biroului Relaţii Interetnice (2009–2015)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/bitca-vasile\//" -->
+<!--#set var="prof" value="Ministrul Dezvoltării Regionale şi Construcţiilor" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2010" -->
+<!--#set var="lastyear1d" value="2011" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="11" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/bodnarenco-elena\//" -->
+<!--#set var="title_ului" value="Elenei Bodnarenco" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="din 2014 — deputat în Parlamentul Republicii Moldova (PCRM)<br>2011–2014 — primarul oraşului Soroca<br>2005–2011 — deputat în Parlamentul Republicii Moldova (PCRM)" -->
+<!--#set var="party" value="Partidul Comuniştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PCRM" -->
+<!--#set var="partyuri" value="pcrm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/bolea-vasile\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/botnari-constantin\//" -->
+<!--#set var="prof" value="ex-deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Ex-deputat în Parlamentul Republicii Moldova (2014–2016 / PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/botnari-vasile\//" -->
+<!--#set var="prof" value="Ministrul Tehnologiei Informaţiei şi Comunicaţiilor" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2013" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/botan-roman\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/brega-gheorghe\//" -->
+<!--#set var="prof" value="viceprim-ministru pentru probleme sociale" -->
+<!--#set var="prof2" value="viceprim-ministru pentru probleme sociale" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/bride-stephane\//" -->
+<!--#set var="prof" value="ex-ministrul Economiei" -->
+<!--#set var="prof2" value="Ex-ministrul Economiei (2015–2016)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="9" -->
+<!--#set var="nlands" value="8" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/buga-mircea\//" -->
+<!--#set var="prof" value="consilier principal de stat al Prim-ministrului" -->
+<!--#set var="prof2" value="consilier principal de stat al Prim-ministrului" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/buliga-valentina\//" -->
+<!--#set var="title_ului" value="Valentinei Buliga" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="din 2014 — deputat în Parlamentul Republicii Moldova (PDM)<br>2009–2014 — Ministrul Muncii, Protecţiei Sociale şi Familiei<br>2005–2009 — deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/calmic-octavian\//" -->
+<!--#set var="prof" value="Ministrul Economiei" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/candu-andrian\//" -->
+<!--#set var="prof" value="preşedintele Parlamentului Republicii Moldova" -->
+<!--#set var="prof2" value="Preşedintele Parlamentului Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/caraseni-demian\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/carp-iurie\//" -->
+<!--#set var="prof" value="ex-director general al Agenţiei Turismului a Republicii Moldova" -->
+<!--#set var="prof2" value="Ex-director general al Agenţiei Turismului a Republicii Moldova (2015–2016)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="7" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/carp-lilian\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/carpov-eugen\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="party" value="Partidul Popular European din Moldova" -->
+<!--#set var="partyabbr" value="PPEM" -->
+<!--#set var="partyuri" value="ppem" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="7" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/casian-ion\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="4" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/catan-liliana\//" -->
+<!--#set var="title_ului" value="Lilianei Catan" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="din 2013 — judecătorul Curţii Supreme de Justiţie a Republicii Moldova<br>2005–2013 — judecătorul Curţii de Apel Chişinău" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/cazacu-iurie\//" -->
+<!--#set var="prof" value="ex-deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Ex-deputat în Parlamentul Republicii Moldova (2015–2016 / PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/carare-viorica\//" -->
+<!--#set var="title_ului" value="Vioricăi Cărare" -->
+<!--#set var="prof" value="preşedintele Consiliului Concurenţei" -->
+<!--#set var="prof2" value="Preşedintele Consiliului Concurenţei" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/ceban-ion\//" -->
+<!--#set var="prof" value="preşedintele fracţiunii PSRM în Consiliul municipal Chişinău" -->
+<!--#set var="prof2" value="Preşedintele fracţiunii PSRM în Consiliul municipal Chişinău" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2010" -->
+<!--#set var="lastyear1d" value="2011" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/cebanu-ion\//" -->
+<!--#set var="prof" value="director general al Agenţiei Moldsilva" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/cebotari-vladimir\//" -->
+<!--#set var="prof" value="Ministrul Justiţiei" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/cernat-vladimir\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="4" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/chetraru-viorel\//" -->
+<!--#set var="prof" value="directorul Centrului Naţional Anticorupţie" -->
+<!--#set var="lastyear" value="2010" -->
+<!--#set var="lastyear1d" value="2011" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/chirinciuc-iurie\//" -->
+<!--#set var="prof" value="Ministrul Transporturilor şi Infrastructurii Drumurilor" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="5" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/chirtoaca-dorin\//" -->
+<!--#set var="prof" value="primarul municipiului Chişinău" -->
+<!--#set var="prof2" value="primarul municipiului Chişinău (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/chisca-doneva-tamara\//" -->
+<!--#set var="title_ului" value="Tamarei Chişca-Doneva" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="9" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/cincilei-aureliu\//" -->
+<!--#set var="prof" value="viceguvernatorul Băncii Naţionale a Moldovei" -->
+<!--#set var="prof2" value="Viceguvernatorul Băncii Naţionale a Moldovei" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="4" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/ciobanu-lucia\//" -->
+<!--#set var="title_ului" value="Luciei Ciobanu" -->
+<!--#set var="prof" value="directorul Serviciului Stare Civilă" -->
+<!--#set var="prof2" value="Directorul Serviciului Stare Civilă" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/ciobanu-maria\//" -->
+<!--#set var="title_ului" value="Mariei Ciobanu" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PLDM)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/ciobanu-sergiu\//" -->
+<!--#set var="prof" value="directorul Agenţiei Naţionale de Reglementare în Energetică" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/ciocan-dinu\//" -->
+<!--#set var="prof" value="preşedintele Consiliului Coordonator al Audiovizualului" -->
+<!--#set var="prof2" value="Preşedintele Consiliului Coordonator al Audiovizualului" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/ciocan-iurie\//" -->
+<!--#set var="prof" value="preşedintele Comisiei Electorale Centrale" -->
+<!--#set var="lastyear" value="2010" -->
+<!--#set var="lastyear1d" value="2011" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/cioclea-sergiu\//" -->
+<!--#set var="prof" value="guvernatorul Băncii Naţionale a Moldovei" -->
+<!--#set var="prof2" value="Guvernatorul Băncii Naţionale a Moldovei" -->
+<!--#set var="lastyear" value="2014" -->
+<!--#set var="lastyear1d" value="2015" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/clevadi-valentina\//" -->
+<!--#set var="title_ului" value="Valentinei Clevadî" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="din 2006 — judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nophoto" value="1" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/cobaneanu-ala\//" -->
+<!--#set var="title_ului" value="Alei Cobăneanu" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="din 2003 — judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/cobzac-grigore\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PLDM)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/corman-igor\//" -->
+<!--#set var="prof" value="ex-deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Ex-deputat în Parlamentul Republicii Moldova (2009–2015 / PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/cosoi-petru\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/covalenco-elena\//" -->
+<!--#set var="title_ului" value="Elenei Covalenco" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nophoto" value="1" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/craiu-nicolae\//" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/creanga-stefan\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="10" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/deliu-tudor\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="din 2010 — deputat în Parlamentul Republicii Moldova (PLDM)<br>din 1998 — Lector superior, Academia de Administrare Publică" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/diaconu-iurie\//" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nophoto" value="1" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/diacov-dumitru\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/dimitriu-anatolie\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="din 2015 — Preşedintele raionului Ialoveni<br>2010–2015 — deputat în Parlamentul Republicii Moldova (PLDM)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="4" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/doaga-valeriu\//" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/dodon-igor\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/dolea-igor\//" -->
+<!--#set var="prof" value="judecătorul Curţii Constituţionale a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Constituţionale a Republicii Moldova" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="9" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/dolinta-alla\//" -->
+<!--#set var="title_ului" value="Allei Dolinţă" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="8" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/domenti-oxana\//" -->
+<!--#set var="title_ului" value="Oxanei Domenti" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PCRM)" -->
+<!--#set var="party" value="Partidul Comuniştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PCRM" -->
+<!--#set var="partyuri" value="pcrm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/dragutanu-dorin\//" -->
+<!--#set var="prof" value="ex-guvernatorul Băncii Naţionale a Moldovei" -->
+<!--#set var="prof2" value="Ex-guvernatorul Băncii Naţionale a Moldovei (2009–2016)" -->
+<!--#set var="lastyear" value="2010" -->
+<!--#set var="lastyear1d" value="2011" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/druta-ion\//" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/duca-gheorghe\//" -->
+<!--#set var="prof" value="preşedintele Academiei de Ştiinţe a Moldovei" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="10" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/dudoglo-nicolai\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="din 2014 — deputat în Parlamentul Republicii Moldova (PDM)<br>2004–2014 — primarul mun. Comrat, U.T.A. Găgăuzia" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="6" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/filat-vlad\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PLDM)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/filincova-svetlana\//" -->
+<!--#set var="title_ului" value="Svetlanei Filincova" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/filip-pavel\//" -->
+<!--#set var="prof" value="Prim-ministrul Republicii Moldova" -->
+<!--#set var="prof2" value="din 2016 — Prim-ministrul Republicii Moldova<br>2011–2015 — Ministrul Tehnologiei Informaţiei şi Comunicaţiilor (PDM)<br>2008–2011 — Director general al “TUTUN-CTC” S.A." -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="9" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/furculita-corneliu\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/fusu-corina\//" -->
+<!--#set var="title_ului" value="Corinei Fusu" -->
+<!--#set var="prof" value="Ministrul Educaţiei" -->
+<!--#set var="prof2" value="din 2015 — Ministrul Educaţiei<br>2009–2015 — deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/galbur-andrei\//" -->
+<!--#set var="prof" value="Ministrul Afacerilor Externe şi Integrării Europene" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/gherman-natalia\//" -->
+<!--#set var="title_ului" value="Nataliei Gherman" -->
+<!--#set var="prof" value="ex-ministrul Afacerilor Externe şi Integrării Europene" -->
+<!--#set var="prof2" value="Ex-ministrul Afacerilor Externe şi Integrării Europene (2013–2016)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/ghervas-maria\//" -->
+<!--#set var="title_ului" value="Mariei Ghervas" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/ghilas-anatolie\//" -->
+<!--#set var="prof" value="director general al Agenţiei Relaţii Funciare şi Cadastru a Republicii Moldova" -->
+<!--#set var="prof2" value="Director general al Agenţiei Relaţii Funciare şi Cadastru" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="5" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/ghiletchi-valeriu\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/ghimpu-mihai\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="din 2009 — deputat în Parlamentul Republicii Moldova (PL)<br>2007–2009 — consilier în Consiliul Municipal Chişinău (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/glavan-ruxanda\//" -->
+<!--#set var="title_ului" value="Ruxandei Glavan" -->
+<!--#set var="prof" value="Ministrul Sănătăţii" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/golovatiuc-vladimir\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/golovin-boris\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/gordila-nicolae\//" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/gorila-anatolie\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/gospodarenco-marin\//" -->
+<!--#set var="prof" value="ex-director general al Biroului Naţional de Statistică al Republicii Moldova" -->
+<!--#set var="prof2" value="Ex-director general al Biroului Naţional de Statistică al Republicii Moldova (2016)" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/gota-aliona\//" -->
+<!--#set var="title_ului" value="Alionei Goţa" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/grama-eduard\//" -->
+<!--#set var="prof" value="Ministrul Agriculturii şi Industriei Alimentare" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/grama-octavian\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PLDM)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/greceanii-zinaida\//" -->
+<!--#set var="title_ului" value="Zinaidei Greceanîi" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="prof3" value="din 2009 — deputat în Parlamentul Republicii Moldova (PCRM, PSRM)<br>2008–2009 — Prim-ministrul Republicii Moldova " -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sbuild" value="0" --><!--#set var="nbuild" value="1" -->
+<!--#set var="slands" value="0" --><!--#set var="nlands" value="1" -->
+<!--#set var="sgoods" value="0" --><!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/gudumac-elena\//" -->
+<!--#set var="title_ului" value="Elenei Gudumac" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="6" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/gurin-corneliu\//" -->
+<!--#set var="prof" value="ex-procurorul General al Republicii Moldova" -->
+<!--#set var="prof2" value="Ex-procurorul General al Republicii Moldova (2013–2016)" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/gutium-artur\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/handrabura-loretta\//" -->
+<!--#set var="title_ului" value="Lorettei Handrabura" -->
+<!--#set var="prof" value="ex-ministrul Tineretului şi Sportului" -->
+<!--#set var="prof2" value="Ex-ministrul Tineretului şi Sportului (2015–2016)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2010" -->
+<!--#set var="lastyear1d" value="2011" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/hotineanu-vladimir\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="8" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/hrenova-elena\//" -->
+<!--#set var="title_ului" value="Elenei Hrenova" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="din 2014 — deputat în Parlamentul Republicii Moldova (PSRM)<br>2011–2014 — consilier municipal în CMC (PCRM, PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/iacob-mihaela\//" -->
+<!--#set var="title_ului" value="Mihaelei Iacob" -->
+<!--#set var="prof" value="ex-deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Ex-deputat în Parlamentul Republicii Moldova (2015 / PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/ivanov-violeta\//" -->
+<!--#set var="title_ului" value="Violetei Ivanov" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/jizdan-alexandru\//" -->
+<!--#set var="prof" value="Ministrul Afacerilor Interne" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/juravschi-nicolae\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="party" value="Partidul Popular European din Moldova" -->
+<!--#set var="partyabbr" value="PPEM" -->
+<!--#set var="partyuri" value="ppem" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="86" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/labunet-anatolie\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/leanca-iurie\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="party" value="Partidul Popular European din Moldova" -->
+<!--#set var="partyabbr" value="PPEM" -->
+<!--#set var="partyuri" value="ppem" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/lipskii-oleg\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/lucinschi-chiril\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PLDM)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/lungu-octavian\//" -->
+<!--#set var="prof" value="directorul Agenţiei Naţionale de Reglementare în Energetică" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/lupu-lidia\//" -->
+<!--#set var="title_ului" value="Lidiei Lupu" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="33" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/lupu-marian\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="din 2005 — deputat în Parlamentul Republicii Moldova (PCRM, PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/mihalache-corneliu\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/mitriuc-ghenadi\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="6" -->
+<!--#set var="nlands" value="8" -->
+<!--#set var="ngoods" value="8" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/mindru-victor\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/mocanu-gheorghe\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/molozea-nicolae\//" -->
+<!--#set var="prof" value="preşedintele raionului Ştefan Vodă" -->
+<!--#set var="prof2" value="din 2015 — Preşedintele raionului Ştefan Vodă<br>2015 — deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="4" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/mudreac-radu\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/munteanu-valeriu\//" -->
+<!--#set var="prof" value="Ministrul Mediului" -->
+<!--#set var="prof2" value="din 2015 — Ministrul Mediului<br>2009–2015 — deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/neguta-andrei\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/nesterovschi-alexandr\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/nichiforciuc-eugeniu\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/novac-grigore\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/odnostalco-vladimir\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/onica-iurie\//" -->
+<!--#set var="prof" value="directorul Agenţiei Naţionale de Reglementare în Energetică" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/padnevici-corneliu\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="6" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/palihovici-liliana\//" -->
+<!--#set var="title_ului" value="Lilianei Palihovici" -->
+<!--#set var="prof" value="vicepreşedintele Parlamentului Republicii Moldova" -->
+<!--#set var="prof2" value="vicepreşedintele Parlamentului Republicii Moldova (PLDM)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/panciuc-vasili\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PCRM)" -->
+<!--#set var="party" value="Partidul Comuniştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PCRM" -->
+<!--#set var="partyuri" value="pcrm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/pantiru-tudor\//" -->
+<!--#set var="prof" value="judecătorul Curţii Constituţionale a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Constituţionale a Republicii Moldova" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/partu-ghenadie\//" -->
+<!--#set var="prof" value="directorul Agenţiei Naţionale de Reglementare în Energetică" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/pistrinciuc-vadim\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PLDM)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/pitic-mariana\//" -->
+<!--#set var="title_ului" value="Marianei Pitic" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/plahotniuc-vladimir\//" -->
+<!--#set var="prof" value="ex-deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Ex-deputat în Parlamentul Republicii Moldova (2010–2013, 2014–2015 / PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/plesca-nae-simion\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="8" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/poalelungi-mihail\//" -->
+<!--#set var="prof" value="preşedintele Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="din 2012 — preşedintele Curţii Supreme de Justiţie a Republicii Moldova<br>2008–2012 — judecător la Curtea Europeană a Drepturilor Omului" -->
+<!--#set var="lastyear" value="2010" -->
+<!--#set var="lastyear1d" value="2011" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/popa-victor\//" -->
+<!--#set var="prof" value="judecătorul Curţii Constituţionale a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Constituţionale a Republicii Moldova" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/postoico-maria\//" -->
+<!--#set var="title_ului" value="Mariei Postoico" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PCRM)" -->
+<!--#set var="party" value="Partidul Comuniştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PCRM" -->
+<!--#set var="partyuri" value="pcrm" -->
+<!--#set var="lastyear" value="2006" -->
+<!--#set var="lastyear1d" value="2007" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="6" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/radvan-marina\//" -->
+<!--#set var="title_ului" value="Marinei Radvan" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/raducan-marcel\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="5" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/raducanu-tatiana\//" -->
+<!--#set var="title_ului" value="Tatianei Răducanu" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/reidman-oleg\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PCRM)" -->
+<!--#set var="party" value="Partidul Comuniştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PCRM" -->
+<!--#set var="partyuri" value="pcrm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/resetnicov-artur\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/rosca-victor\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PLDM)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="4" -->
+<!--#set var="ngoods" value="4" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/rotaru-valentina\//" -->
+<!--#set var="title_ului" value="Valentinei Rotaru" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/sandu-maia\//" -->
+<!--#set var="title_ului" value="Maiei Sandu" -->
+<!--#set var="prof" value="ex-ministrul Educaţiei" -->
+<!--#set var="prof2" value="Ex-ministrul Educaţiei (2012–2015)" -->
+<!--#set var="1prof2" value="2012–2015 — Ministrul Educaţiei<br>2010–2012 — consilierul Directorului executiv, Banca Mondială, Washington DC, SUA" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/savva-oleg\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/sirbu-oleg\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2010" -->
+<!--#set var="lastyear1d" value="2011" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="7" -->
+<!--#set var="ngoods" value="4" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/sirbu-serghei\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/smirnov-eduard\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/sorocean-victor\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="party" value="Partidul Socialiştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PSRM" -->
+<!--#set var="partyuri" value="psrm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="4" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/spatari-mihaela\//" -->
+<!--#set var="title_ului" value="Mihaelei Spatari" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/stati-sergiu\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2009" -->
+<!--#set var="lastyear1d" value="2010" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/sternioala-oleg\//" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/strelet-valeriu\//" -->
+<!--#set var="prof" value="ex-prim-ministrul Republicii Moldova" -->
+<!--#set var="prof2" value="Ex-prim-ministrul Republicii Moldova (2015)" -->
+<!--#set var="1prof2" value="2015 — Prim-ministrul Republicii Moldova<br>2009–2015 — deputat în Parlamentul Republicii Moldova (PLDM)<br>2003–2009 — director general al FPC “Bioprotect” S.R.L." -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/sturzu-ion\//" -->
+<!--#set var="prof" value="viceguvernatorul Băncii Naţionale a Moldovei" -->
+<!--#set var="prof2" value="Viceguvernatorul Băncii Naţionale a Moldovei" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/sula-ion\//" -->
+<!--#set var="prof" value="ex-ministrul Agriculturii şi Industriei Alimentare" -->
+<!--#set var="prof2" value="Ex-ministrul Agriculturii şi Industriei Alimentare (2015–2016)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="10" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/salaru-anatol\//" -->
+<!--#set var="prof" value="Ministrul Apărării" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/sor-ilan\//" -->
+<!--#set var="prof" value="primarul oraşului Orhei" -->
+<!--#set var="prof2" value="primarul oraşului Orhei (MR)" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="5" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/supac-inna\//" -->
+<!--#set var="title_ului" value="Innei Şupac" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PCRM)" -->
+<!--#set var="party" value="Partidul Comuniştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PCRM" -->
+<!--#set var="partyuri" value="pcrm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/tanase-alexandru\//" -->
+<!--#set var="prof" value="preşedintele Curţii Constituţionale a Republicii Moldova" -->
+<!--#set var="prof2" value="Preşedintele Curţii Constituţionale a Republicii Moldova" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/timofti-nicolae\//" -->
+<!--#set var="prof" value="Preşedintele Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/toma-nadejda\//" -->
+<!--#set var="title_ului" value="Nadejdei Toma" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/tap-iurie\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PLDM)" -->
+<!--#set var="party" value="Partidul Liberal Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PLDM" -->
+<!--#set var="partyuri" value="pldm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/tirdea-bogdan\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/turcan-anatolie\//" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/turcan-vladimir\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PSRM)" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="2" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/tutu-constantin\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PDM)" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/untila-veaceslav\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/urechean-serafim\//" -->
+<!--#set var="prof" value="preşedintele Curţii de Conturi a Republicii Moldova" -->
+<!--#set var="prof2" value="Preşedintele Curţii de Conturi a Republicii Moldova" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/usatii-renato\//" -->
+<!--#set var="prof" value="primarul municipiului Bălţi" -->
+<!--#set var="prof2" value="primarul municipiului Bălţi (PN)" -->
+<!--#set var="lastyear" value="2013" -->
+<!--#set var="lastyear1d" value="2014" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="4" -->
+<!--#set var="ngoods" value="2" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/valcov-vitalie\//" -->
+<!--#set var="prof" value="director general al Biroului Naţional de Statistică al Republicii Moldova" -->
+<!--#set var="prof2" value="Director general al Biroului Naţional de Statistică al Republicii Moldova" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/varanita-grigore\//" -->
+<!--#set var="prof" value="directorul Agenţiei Naţionale pentru Reglementare în Comunicaţii Electronice şi Tehnologia Informaţiei" -->
+<!--#set var="prof2" value="Directorul Agenţiei Naţionale pentru Reglementare în Comunicaţii Electronice şi Tehnologia Informaţiei" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="2" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/vieru-tatiana\//" -->
+<!--#set var="title_ului" value="Tatianei Vieru" -->
+<!--#set var="prof" value="judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="prof2" value="Judecătorul Curţii Supreme de Justiţie a Republicii Moldova" -->
+<!--#set var="lastyear" value="2007" -->
+<!--#set var="lastyear1d" value="2008" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/vitiuc-vladimir\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="3" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/vlah-irina\//" -->
+<!--#set var="title_ului" value="Irinei Vlah" -->
+<!--#set var="prof" value="Guvernatorul UTA Găgăuzia (Gagauz Yeri)" -->
+<!--#set var="prof2" value="din 2015 — Guvernatorul UTA Găgăuzia (Gagauz Yeri)<br>2005–2015 — deputat în Parlamentul Republicii Moldova (PCRM, neafiliat)" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2013" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/vlas-stefan\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="3" -->
+<!--#set var="nlands" value="3" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/voronin-vladimir\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PCRM)" -->
+<!--#set var="party" value="Partidul Comuniştilor din Republica Moldova" -->
+<!--#set var="partyabbr" value="PCRM" -->
+<!--#set var="partyuri" value="pcrm" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2015" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="7" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/vrabie-vitalie\//" -->
+<!--#set var="prof" value="director general al Serviciului Vamal" -->
+<!--#set var="prof2" value="Director general al Serviciului Vamal" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="4" -->
+<!--#set var="nlands" value="5" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/vremea-igor\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="1" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/zagorodnii-anatolie\//" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (neafiliat)" -->
+<!--#set var="lastyear" value="2008" -->
+<!--#set var="lastyear1d" value="2009" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="1" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/zotea-alina\//" -->
+<!--#set var="title_ului" value="Alinei Zotea" -->
+<!--#set var="prof" value="deputat în Parlamentul Republicii Moldova" -->
+<!--#set var="prof2" value="Deputat în Parlamentul Republicii Moldova (PL)" -->
+<!--#set var="party" value="Partidul Liberal" -->
+<!--#set var="partyabbr" value="PL" -->
+<!--#set var="partyuri" value="pl" -->
+<!--#set var="lastyear" value="2011" -->
+<!--#set var="lastyear1d" value="2012" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="1" -->
+<!--#endif -->
+
+<!--#if expr="$DOCUMENT_URI=/\/zubcu-victor\//" -->
+<!--#set var="prof" value="Ministrul Tineretului şi Sportului" -->
+<!--#set var="party" value="Partidul Democrat din Moldova" -->
+<!--#set var="partyabbr" value="PDM" -->
+<!--#set var="partyuri" value="pdm" -->
+<!--#set var="lastyear" value="2012" -->
+<!--#set var="lastyear1d" value="2013" -->
+<!--#set var="lastyear2d" value="2014" -->
+<!--#set var="sex" value="M" -->
+<!--#set var="nbuild" value="0" -->
+<!--#set var="nlands" value="0" -->
+<!--#set var="ngoods" value="0" -->
+<!--#endif -->

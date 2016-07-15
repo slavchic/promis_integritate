@@ -1,0 +1,31 @@
+<div class="interest">
+<div class="top"><h2><!--#echo encoding="none" var="tanchete" --></h2></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th style="width:14%">Data</th>
+<th>Titlul anchetei</th>
+<th style="width:12%">Sursa</th>
+</tr>
+<tr>
+<td>2 iunie 2016</td>
+<td><b>Judecătorul Sternioală şi-a ascuns casa de lux</b>
+<p style="margin-top:5px; margin-bottom:0; font-size:10pt">Oleg Sternioală, judecătorul promovat suspect, acum doi ani, de la Judecătoria Buiucani direct la Curtea Supremă de Justiţie, trăieşte într-un imobil de lux, care valorează peste 7 milioane de lei la preţul de piaţă. Casa nu se regăseşte însă în declaraţiile cu privire la venituri şi proprietate ale magistratului, fiind înregistrată pe numele părinţilor săi, pensionari, care au trăit însă toată viaţa la Floreşti. Mama judecătorului, care, după decesul soţului, a devenit singura proprietară a impozantului edificiu, este profesoară de limba română la liceul din localitatea natală.</p>
+</td>
+<td><a target=_blank href="http://www.zdg.md/editia-print/investigatii/judecatorul-sternioala-si-a-ascuns-casa-de-lux">Ziarul de Gardă</a></td>
+</tr>
+<tr>
+<td>18 iunie 2015</td>
+<td><b>Milioanele şi achiziţiile judecătorilor de la CSJ</b>
+<p style="margin-top:5px; margin-bottom:0; font-size:10pt">La Curtea Supremă de Justiţie se trăieşte pe picior mare. Practic toţi judecătorii instanţei supreme au avut, în 2014, un salariu de peste 200 mii de lei pe an, deci, de peste 16 mii de lei pe lună, iar majoritatea, pe lângă salariu, au beneficiat şi de o pensie lunară de peste 10 mii de lei. Unii magistraţi au conturi grase în bănci, iar alţii, tot în 2014, şi-au cumpărat locuinţe sau maşini luxoase.</p>
+</td>
+<td><a target=_blank href="http://www.zdg.md/editia-print/investigatii/milioanele-si-achizitiile-judecatorilor-de-la-csj">Ziarul de Gardă</a></td>
+</tr>
+<tr>
+<td>15 octombrie 2014</td>
+<td><b>Nunta de lux a judecătorului CSJ, Oleg Sternioală</b>
+<p style="margin-top:5px; margin-bottom:0; font-size:10pt">Magistratul Oleg Sternioală de la Curtea Supremă de Justiţie s-a însurat pentru a doua oară. Mireasa este o fostă angajată a Judecătoriei Buiucani, pe care a cunoscut-o încă pe când era şef al acestei instanţe.</p>
+</td>
+<td><a target=_blank href="http://jurnal.md/ro/import/2014/10/15/nunta-de-lux-a-judecatorului-csj-oleg-sternioala-1178663/">jurnal.md</a></td>
+</tr>
+</table></div>
+</div>

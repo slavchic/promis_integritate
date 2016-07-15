@@ -35,7 +35,7 @@ Array.prototype.remove = function (elements) {
 	return this
 }
 
-var is_touch_device = 'ontouchstart' in document.documentElement;
+var is_touch_device = !!document.documentElement.ontouchstart;
 
 $(function () {
 	if (is_touch_device) {

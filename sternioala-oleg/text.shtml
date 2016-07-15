@@ -1,0 +1,22 @@
+<div class="user_description">
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
+<tr><td><a href="/pdf/sternioala-oleg-2015-csm.pdf">2015</a>, <a href="/pdf/sternioala-oleg-2014-csm.pdf">2014</a>, <a href="/pdf/sternioala-oleg-2013-csm.pdf">2013</a>, <a href="/pdf/sternioala-oleg-2012-csm.pdf">2012</a>, <a href="/pdf/sternioala-oleg-2009-csm.pdf">2009</a>, <a href="/pdf/sternioala-oleg-2008-csm.pdf">2008</a><br>Sursa: Consiliul Superior al Magistraturii</td></tr>
+<tr><td>Interese: <a href="/pdf/sternioala-oleg-interese-2014-cni.pdf">2014</a>, <a href="/pdf/sternioala-oleg-interese-2013-cni.pdf">2013</a>, <a href="/pdf/sternioala-oleg-interese-2012-cni.pdf">2012</a><br>Comisia Naţională de Integritate</td></tr>
+</table>
+</div></div>
+
+<div class="right">
+
+<p class="overall">
+Declaraţiile de venit şi interese ale <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --> pentru <!--#if expr="$lastyear1d = $lastyear2d" -->anul <!--#echo var="lastyear2d" --><!--#else -->anii <!--#echo var="lastyear1d" -->–<!--#echo var="lastyear2d" --><!--#endif --> depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+</p>
+<!--#if expr="$ddd" -->
+<p class="verdict negative">
+<b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+</p>
+<!--#endif -->
+</div>
+</div>

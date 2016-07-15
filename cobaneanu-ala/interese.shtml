@@ -1,54 +1,33 @@
 <div class="interest">
-<div class="top"><h2>Interese</h2><a href="/pdf/agache-angel-interese-2013-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="top"><h2>Interese</h2><a href="/pdf/cobaneanu-ala-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
 <div class="scroll_wrapper"><table class="table">
 <tr>
 <th>Domeniul de activitate</th>
-<th>Denumirea unităţii</th>
-<th>Calitatea deţinută</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
 <th>Valoarea</th>
 <th>Cota parte</th>
 </tr>
 <tr>
-<td>Legislativ</td>
-<td>Parlamentul Republicii Moldova</td>
-<td>Deputat</td>
-<td class="acenter">144,180.93&nbsp;MDL</td>
+<td>Jurisprudenţă</td>
+<td>Curtea Supremă de Justiţie</td>
+<td>Judecător</td>
+<td class="acenter">218,696.09&nbsp;MDL</td>
 <td class="acenter">-</td>
 </tr>
 <tr>
-<td>Politic</td>
-<td>Partidul Liberal Democrat din Moldova</td>
-<td>Membru al Biroului Permanent Central, membru al Consiliului Politic Naţional</td>
-<td class="acenter">-</td>
-<td class="acenter">-</td>
-</tr>
-<tr>
-<td>Public</td>
-<td>Asociaţia obştească Forul Tinerilor “Noua Moldovă”</td>
-<td>Preşedinte</td>
-<td class="acenter">-</td>
+<td>Didactic</td>
+<td>Institutul Naţional al Justiţiei</td>
+<td>Formator</td>
+<td class="acenter">15,996.48&nbsp;MDL</td>
 <td class="acenter">-</td>
 </tr>
 <tr>
-<td>Public</td>
-<td>Fundaţia Europa Liberă — Moldova</td>
-<td>Membru</td>
+<td>Didactic</td>
+<td>Universitatea de Stat din Moldova</td>
+<td>Preşedintele comisiei de licenţă</td>
+<td class="acenter">3,672.25&nbsp;MDL</td>
 <td class="acenter">-</td>
-<td class="acenter">-</td>
-</tr>
-<tr>
-<td>Public</td>
-<td>Federaţia Organizaţiilor Studenţeşti şi de Tineret din Moldova</td>
-<td>Membru</td>
-<td class="acenter">-</td>
-<td class="acenter">-</td>
-</tr>
-<tr>
-<td>Construcţii</td>
-<td>Tehnodava S.R.L.</td>
-<td></td>
-<td class="acenter">-</td>
-<td class="acenter">100%</td>
 </tr>
 </table></div>
 </div>

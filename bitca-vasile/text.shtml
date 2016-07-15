@@ -3,19 +3,20 @@
 <div class="left"><div class="wrapper">
 <table class="table">
 <tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
-<tr><td><a href="/pdf/bitca-vasile-2014-cni.pdf">2014</a>, <a href="/pdf/bitca-vasile-2013-cni.pdf">2013</a>, <a href="/pdf/bitca-vasile-2012-cni.pdf">2012</a><br>Sursa: Comisia Naţională de Integritate</td></tr>
+<tr><td><a href="/pdf/bitca-vasile-2015-mdrc.pdf">2015</a><br>Sursa: Ministerul Dezvoltării Regionale</td></tr>
+<tr><td><a href="/pdf/bitca-vasile-2014-cni.pdf">2014</a>, <a href="/pdf/bitca-vasile-2013-cni.pdf">2013</a>, <a href="/pdf/bitca-vasile-2012-cni.pdf">2012</a><br>Comisia Naţională de Integritate</td></tr>
 <tr><td><a href="/pdf/bitca-vasile-2011-nisporeni.pdf">2011</a><br>Consiliul Raional Nisporeni</td></tr>
 <tr><td><a href="/pdf/bitca-vasile-2012-2013-pdm-cec.pdf">2012-2013</a>, <a href="/pdf/bitca-vasile-2007-2008-psd-cec.pdf">2007-2008</a><br>Comisia Electorală Centrală</td></tr>
-<tr><td>Interese: <a href="/pdf/bitca-vasile-interese-2014-cni.pdf">2014</a>, <a href="/pdf/bitca-vasile-interese-2013-cni.pdf">2013</a>, <a href="/pdf/bitca-vasile-interese-2012-cni.pdf">2012</a>, <a href="/pdf/bitca-vasile-interese-2011-interese-vedere.pdf">2011</a><br>CNI, Interese la vedere</td></tr>
+<tr><td>Interese: <a href="/pdf/bitca-vasile-interese-2015-mdrc.pdf">2015</a>, <a href="/pdf/bitca-vasile-interese-2014-cni.pdf">2014</a>, <a href="/pdf/bitca-vasile-interese-2013-cni.pdf">2013</a>, <a href="/pdf/bitca-vasile-interese-2012-cni.pdf">2012</a>, <a href="/pdf/bitca-vasile-interese-2011-interese-vedere.pdf">2011</a><br>MDRC, CNI, Interese la vedere</td></tr>
 </table>
 </div></div>
 
 <div class="right">
 
 <p class="overall">
-Declaraţiile de venit şi interese ale lui Vasile Bîtca pentru anii 2011–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare. În perioada 2014–2015 este deputat în Parlamentul Republicii Moldova, fiind membru al fracţiunii Partidului Democrat din Moldova. Începând cu februarie 2015 exercită funcţia de ministru al dezvoltării regionale şi construcţiilor în trei guverne succesive (Gaburici, Streleţ şi Filip).<br>
+Declaraţiile de venit şi interese ale <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --> pentru <!--#if expr="$lastyear1d = $lastyear2d" -->anul <!--#echo var="lastyear2d" --><!--#else -->anii <!--#echo var="lastyear1d" -->–<!--#echo var="lastyear2d" --><!--#endif --> depuse la organele abilitate în conformitate cu legislaţia în vigoare. În perioada 2014–2015 este deputat în Parlamentul Republicii Moldova, fiind membru al fracţiunii Partidului Democrat din Moldova. Începând cu februarie 2015 exercită funcţia de ministru al dezvoltării regionale şi construcţiilor în trei guverne succesive (Gaburici, Streleţ şi Filip).<br>
 Anterior, Vasile Bîtca a deţinut şi alte funcţii publice, cum ar fi cea de viceprimar al oraşului Nisporeni (2007–2011) şi preşedinte al raionului Nisporeni (2011–2015). În 2010 a părăsit Partidul Social Democrat şi a aderat la PDM.<br><br>
-Potrivit declaraţiilor depuse de Vasile Bîtca, familia acestuia este posesoarea următoarelor bunuri imobile: o casă de locuit în or. Nisporeni, un apartament în mun. Chişinău, 11 terenuri agricole cu suprafaţa totală de 7.24 ha şi un teren aflat în circuitul civil. Demnitarul mai are un credit în lei, contractat în anul 2013 şi scadent în 2028 şi un credit în euro, contractat în anul 2014.
+Potrivit declaraţiilor depuse de Vasile Bîtca, familia acestuia este posesoarea următoarelor bunuri imobile: o casă de locuit în or. Nisporeni, un apartament în mun. Chişinău şi 11 terenuri agricole cu suprafaţa totală de 6.48 ha. Demnitarul mai are un credit în lei, contractat în anul 2013 şi scadent în 2028 şi un credit în euro, contractat în anul 2014.
 </p>
 
 <p class="verdict negative">

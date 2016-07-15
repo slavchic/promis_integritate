@@ -1,0 +1,26 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/ciobanu-lucia-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unităţii</th>
+<th>Calitatea deţinută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Public</td>
+<td>Serviciul Stare Civilă</td>
+<td>Director</td>
+<td class="acenter">185,950.15&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Servicii</td>
+<td>Eurolife Broker de Asigurare S.R.L.</td>
+<td>Consultant</td>
+<td class="acenter">36,263.30&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

@@ -4,6 +4,7 @@
 <table class="table">
 <tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
 <tr><td><a href="/pdf/usatii-renato-2014-cni.pdf">2014</a><br>Sursa: Comisia Naţională de Integritate</td></tr>
+<tr><td><a href="/pdf/usatii-renato-2013-2014-pn-cecc.pdf">2013-2014</a><br>Consiliul Electoral de Circumscripţie</td></tr>
 <tr><td><a href="/pdf/usatii-renato-2012-2013-pp-cec.pdf">2012-2013</a><br>Comisia Electorală Centrală</td></tr>
 <tr><td>Interese: <a href="/pdf/usatii-renato-interese-2014-cni.pdf">2014</a><br>Comisia Naţională de Integritate</td></tr>
 </table>
@@ -12,12 +13,14 @@
 <div class="right">
 
 <p class="overall">
-Declaraţiile de venit şi interese ale lui Renato Usatîi pentru anul 2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+Declaraţiile de venit şi interese ale <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --> pentru <!--#if expr="$lastyear1d = $lastyear2d" -->anul <!--#echo var="lastyear2d" --><!--#else -->anii <!--#echo var="lastyear1d" -->–<!--#echo var="lastyear2d" --><!--#endif --> depuse la organele abilitate în conformitate cu legislaţia în vigoare. Renato Usatîi ocupă funcţia de primar general al mun. Bălţi din iulie 2015, fiind ales din partea Partidului Nostru. La Congresul din februarie 2015 al PN este ales repetat preşedinte al formaţiunii politice, după ce în iunie 2014 Ministerul Justiţiei a refuzat să adopte redenumirea Partidului Popular Republican în Partidul Nostru şi alegerea noului preşedinte.<br><br>
+Conform declaraţiilor depuse de Renato Usatîi, acesta este posesorul următoarelor bunuri imobile şi mobile: 2 case de locuit, 4 terenuri intravilane şi un garaj, toate amplasate în regiunea or. Moscova, Federaţia Rusă, un apartament în mun. Bălţi şi alte 3 bunuri imobiliare situate în Republica Moldova, două automobile marca Audi A8&nbsp;L şi Toyota Highlander. Demnitarul mai are un credit în dolari SUA, contractat în 2014 cu rata dobânzii de 16% şi scadent în 2017.
 </p>
-<!--#if expr="$ddd" -->
+
 <p class="verdict negative">
 <b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+Renato Usatîi nu a trecut în declaraţia sa de interese faptul că în paralel cu poziţia de primar general al mun. Bălţi mai deţine o funcţie retribuită, cea de preşedinte al companiei cu răspundere limitată VPT-NN (ВПТ-НН), din or. Nijnii Novgorod, Federaţia Rusă. Despre acest lucru, în schimb, putem afla de pe paginile oficiale ale primăriei mun. Bălţi şi ale companiei VPT-NN. Conform legislaţiei privind administraţia publică locală, primarii nu au dreptul să deţină pe parcursul mandatului său alte funcţii retribuite cu excepţia activităţilor ştiinţifice, didactice şi de creaţie.
 </p>
-<!--#endif -->
+
 </div>
 </div>

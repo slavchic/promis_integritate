@@ -1,0 +1,40 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/sturzu-ion-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unităţii</th>
+<th>Calitatea deţinută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Financiar-bancar</td>
+<td>Banca Naţională a Moldovei</td>
+<td>Viceguvernator</td>
+<td class="acenter">736,026.90&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Didactic</td>
+<td>Universitatea Liberă Internaţională din Moldova</td>
+<td>Preşedintele comisiei</td>
+<td class="acenter">2,450.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Didactic</td>
+<td>Academia de Studii Economice a Moldovei</td>
+<td>Preşedintele comisiei</td>
+<td class="acenter">1,729.75&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td><s>Public</s></td>
+<td><s>Curtea de Conturi a Republicii Moldova</s></td>
+<td><s>Membrul Plenului</s></td>
+<td class="acenter"><s>110,921.00&nbsp;MDL</s></td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

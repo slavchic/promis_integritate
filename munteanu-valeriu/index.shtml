@@ -14,37 +14,149 @@ data: [
 [2011, 193380.92],
 [2012, 269981.31],
 [2013, 299522.74],
-[2014, 377298.74]
+[2014, 377298.74],
+[2015, 306565.09]
 ]},
 {label: "Cladiri", bars: {order: 2},
 data: [
 [2008, 0],
 [2012, 146603],
 [2013, 146603],
-[2014, 146603]
+[2014, 146603],
+[2015, 146603]
 ]},
 {label: "Terenuri", bars: {order: 3},
 data: [
-[2013, 0]
+[2015, 0]
 ]},
 {label: "Bunuri mobile", bars: {order: 4},
 data: [
-[2013, 0]
+[2015, 150000]
 ]},
 {label: "Active financiare", bars: {order: 5},
 data: [
 [2013, 1221.97],
-[2014, 2932.66]
+[2014, 2932.66],
+[2015, 5224.24]
 ]},
 {label: "Datorii", bars: {order: 6},
 data: [
-[2013, 0]
+[2015, 0]
 ]}
 ];
 
 </script>
 
 <div class="declarations_list">
+
+<div class="declaration" id="d2015">
+
+<div class="top">
+<div class="year"><h2>2015</h2>&nbsp;<a href="/pdf/munteanu-valeriu-2015-mm.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+306,565.09</span><span class="spent">-150,000.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><!--#echo encoding="none" var="t11" --></span>
+<span><b></b><!--#echo encoding="none" var="t19" --></span>
+</td>
+<td class="value">
+<span class="pos">180.1<b></b></span>
+<span class="pos">65.6<b></b></span>
+</td>
+<td class="value">
+<span class="pos">15.6<b></b></span>
+<span class="pos">45.3<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">306,565.09 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2012</span></span>
+</td>
+<td class="quantity">
+<span>220.4</span>
+</td>
+<td class="value">
+<span>146.6<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">146,603.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="quantity">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span>Volvo XC90 (2009) / 2015</span></span>
+</td>
+<td class="value">
+<span class="neg">150.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">150,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t51" --></span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t53" --></span><i>x2</i></span>
+</td>
+<td class="value">
+<span>0.2&nbsp;$<b></b></span>
+<span>1.8<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">5,224.24 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+</div>
+
+<!--#include virtual="interese.shtml" -->
+
+<!--2014-->
 
 <div class="declaration" id="d2014">
 
@@ -63,7 +175,7 @@ data: [
 <span><b></b><!--#echo encoding="none" var="t19" --></span>
 </td>
 <td class="value">
-<span class="pos">155.9<b></b></span>
+<span class="pos">155.5<b></b></span>
 <span class="pos">115.7<b></b></span>
 </td>
 <td class="value">
@@ -148,8 +260,6 @@ data: [
 </div>
 
 </div>
-
-<!--#include virtual="interese.shtml" -->
 
 <!--2013-->
 

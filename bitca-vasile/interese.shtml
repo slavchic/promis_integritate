@@ -1,5 +1,5 @@
 <div class="interest">
-<div class="top"><h2>Interese</h2><a href="/pdf/bitca-vasile-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="top"><h2>Interese</h2><a href="/pdf/bitca-vasile-interese-2015-mdrc.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
 <div class="scroll_wrapper"><table class="table">
 <tr>
 <th>Domeniul de activitate</th>
@@ -9,10 +9,24 @@
 <th>Cota parte</th>
 </tr>
 <tr>
+<td>Executiv</td>
+<td>Ministerul Dezvoltării Regionale şi Construcţiilor</td>
+<td>Ministru</td>
+<td class="acenter">131,403.62&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
 <td>Legislativ</td>
 <td>Parlamentul Republicii Moldova</td>
 <td>Deputat</td>
-<td class="acenter">21,696.96&nbsp;MDL</td>
+<td class="acenter">30,346.96&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Public</td>
+<td>Consiliul Raional Nisporeni</td>
+<td>Preşedinte</td>
+<td class="acenter">43,208.49&nbsp;MDL</td>
 <td class="acenter">-</td>
 </tr>
 <tr>
@@ -20,13 +34,6 @@
 <td>Partidul Democrat din Moldova</td>
 <td>Preşedintele OT Nisporeni</td>
 <td class="acenter">-</td>
-<td class="acenter">-</td>
-</tr>
-<tr>
-<td><s>Public</s></td>
-<td><s>Consiliul Raional Nisporeni</s></td>
-<td><s>Preşedinte</s></td>
-<td class="acenter"><s>143,455.05&nbsp;MDL</s></td>
 <td class="acenter">-</td>
 </tr>
 </table></div>

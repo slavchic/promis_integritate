@@ -14,7 +14,8 @@ data: [
 [2011, 244490.78],
 [2012, 231945.70],
 [2013, 806082.02],
-[2014, 374950.48]
+[2014, 374950.48],
+[2015, 377813.42]
 ]},
 {label: "Cladiri", bars: {order: 2},
 data: [
@@ -24,7 +25,8 @@ data: [
 [2011, 2180288],
 [2012, 2180288],
 [2013, 2180288],
-[2014, 2180288]
+[2014, 2180288],
+[2015, 2180288]
 ]},
 {label: "Terenuri", bars: {order: 3},
 data: [
@@ -34,32 +36,161 @@ data: [
 [2011, 324819],
 [2012, 324819],
 [2013, 324819],
-[2014, 324819]
+[2014, 324819],
+[2015, 324819]
 ]},
 {label: "Bunuri mobile", bars: {order: 4},
 data: [
-[2008, 0],
-[2009, 0],
-[2010, 0],
-[2011, 0],
-[2012, 0],
-[2013, 0]
+[2015, 0]
 ]},
 {label: "Active financiare", bars: {order: 5},
 data: [
 [2012, 1189365.89],
 [2013, 1325507.75],
-[2014, 1491473.29]
+[2014, 1491473.29],
+[2015, 1749196.36]
 ]},
 {label: "Datorii", bars: {order: 6},
 data: [
-[2013, 0]
+[2015, 0]
 ]}
 ];
 
 </script>
 
 <div class="declarations_list">
+
+<div class="declaration" id="d2015">
+
+<div class="top">
+<div class="year"><h2>2015</h2>&nbsp;<a href="/pdf/voronin-vladimir-2015-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+377,813.42</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t14" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t19" --></span></span>
+</td>
+<td class="value">
+<span class="pos">107.7<b></b></span>
+<span class="pos">71.3<b></b></span>
+<span class="pos">182.3<b></b></span>
+</td>
+<td class="value">
+<span>&nbsp;<b></b></span>
+<span class="pos">0.2<b></b></span>
+<span class="pos">16.4<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">377,813.42 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 2005</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2008</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t23" --> / 2005</span></span>
+<span><b></b><span><!--#echo encoding="none" var="t25" --> / 2003</span></span>
+</td>
+<td class="quantity">
+<span>232.7</span>
+<span>122.6</span>
+<span>50.7</span>
+<span>41.1</span>
+</td>
+<td class="value">
+<span>1,884.1<b></b></span>
+<span>31.3<b></b></span>
+<span>208.6<b></b></span>
+<span>56.3<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">2,180,288.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t31" --> / 2009</span><i>x4</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2008</span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t34" --> / 1996</span><i>x2</i></span>
+</td>
+<td class="quantity">
+<span>3.32</span>
+<span>0.15</span>
+<span>0.13</span>
+</td>
+<td class="value">
+<span>40.3<b></b></span>
+<span>1.9<b></b></span>
+<span>282.6<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">324,819.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>&nbsp;</span></span>
+</td>
+<td class="value">
+<span>&nbsp;<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t51" --></span><i>x2</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t52" --></span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t53" --></span><i>x4</i></span>
+</td>
+<td class="value">
+<span>18.0&nbsp;$<b></b></span>
+<span>5.6&nbsp;€<b></b></span>
+<span>1,274.6<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">1,749,196.36 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+</div>
+
+<!--#include virtual="interese.shtml" -->
+
+<!--2014-->
 
 <div class="declaration" id="d2014">
 
@@ -188,8 +319,6 @@ data: [
 </div>
 
 </div>
-
-<!--#include virtual="interese.shtml" -->
 
 <!--2013-->
 
@@ -572,7 +701,7 @@ data: [
 </div>
 
 <div class="comments">
-<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
+<p>Declaraţia nu conţine informaţii despre proprietăţile şi cota-parte a valorilor mobiliare în capitalul agenţilor economici deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
 </div>
 
 </div>
@@ -702,7 +831,7 @@ data: [
 <div class="comments grey_warning">
 <ol>
 <li>Suprafaţa casei de locuit este preluată din <a class="local" href="#d2012">Declaraţia 2012</a>.
-<li>Suprafaţa şi valoarea casei de livadă este preluată din Declaraţia 2012.
+<li>Suprafaţa şi valoarea casei de livadă sunt preluate din Declaraţia 2012.
 <li>Valoarea garajului este preluată din Declaraţia 2012.
 <li>Valoarea terenurilor este preluată din Declaraţia 2012.
 </ol>
@@ -835,7 +964,7 @@ data: [
 <div class="comments grey_warning">
 <ol>
 <li>Suprafaţa casei de locuit este preluată din <a class="local" href="#d2012">Declaraţia 2012</a>.
-<li>Suprafaţa şi valoarea casei de livadă este preluată din Declaraţia 2012.
+<li>Suprafaţa şi valoarea casei de livadă sunt preluate din Declaraţia 2012.
 <li>Valoarea garajului este preluată din Declaraţia 2012.
 <li>Valoarea terenurilor este preluată din Declaraţia 2012.
 </ol>
@@ -920,7 +1049,7 @@ data: [
 <div class="comments grey_warning">
 <ol>
 <li>Suprafaţa casei de locuit (s. Corjova, r-nul Dubăsari) este indicată în baza declaraţiilor făcute începând cu anul <a class="local" href="#d2012">2012</a>.
-<li>Suprafaţa şi valoarea casei de livadă (s. Pîrîta, r-nul Dubăsari) este indicată în baza declaraţiilor făcute începând cu anul 2012.
+<li>Suprafaţa şi valoarea casei de livadă (s. Pîrîta, r-nul Dubăsari) sunt indicate în baza declaraţiilor făcute începând cu anul 2012.
 <li>Valoarea garajului este indicată în baza declaraţiilor făcute începând cu anul 2012.
 <li>Valoarea terenurilor este indicată în baza declaraţiilor făcute începând cu anul 2012.
 </ol>

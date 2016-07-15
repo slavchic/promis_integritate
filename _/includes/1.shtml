@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="ro">
 <head>
 <!--#if expr="!$root" --><!--#include virtual="/personsvar.shtml" --><!--#endif -->
 <!--#include virtual="/_/includes/var.shtml" -->
@@ -22,17 +22,20 @@
 <!--#if expr="$root" -->
 <link href="/_/js/select2/select2.css" rel="stylesheet">
 <script src="/_/js/select2/select2.min.js"></script>
-<script src="/_/js/page_index.js"></script>
 <script src="/_/js/slider.js"></script>
+<script src="/_/js/page_index.js"></script>
 <!--#elif expr="!$root" -->
 <script src="/_/js/flot.js"></script>
 <script src="/_/js/page_person.js"></script>
 <!--#endif -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Arimo&subset=latin,latin-ext"/>
+<link href="/_/css/promis_integritate.css" rel="stylesheet">
+<link href="/_/css/animation.css" rel="stylesheet">
 <link href="/_/css/main.css" rel="stylesheet">
 </head>
 
 <body>
-<!--#if expr="$ddd" -->
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -41,7 +44,7 @@
   js.src = "//connect.facebook.net/ro_RO/sdk.js#xfbml=1&version=v2.5";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<!--#endif -->
+
 
 <nav class="top_menu container">
 <div class="left"><a target=_blank href="http://www.promis.md">promis.md</a> <a target=_blank href="http://www.alegeri.md">alegeri.md</a> <a target=_blank href="http://www.partide.md">partide.md</a></div>
@@ -49,7 +52,7 @@
 <div class="center"><a href="/" class="logo"><img src="/_/images/text_logo_big_in.png" alt="Venituri, proprietăţi şi interese declarate de persoane publice" /></a></div>
 <!--#endif -->
 
-<!--#if expr="$ddd" -->
+<!--#if expr="$root" -->
 <div style="padding-top:4px" class="right fb-like" data-href="https://www.facebook.com/averepromismd-582580471918548/" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div>
 <!--#else -->
 <div class="right"><a href="#?">despre proiect</a><a href="#?"><i class="icon-search"></i></a></div>
@@ -61,47 +64,7 @@
 <!--#if expr="$root" -->
 <header>
 <a href="/" class="logo"><img src="/_/images/text_logo_big.png" alt="Venituri, proprietăţi şi interese declarate de persoane publice" /></a>
-	<div class="top_slider">
-		<div class="slider">
-			<a href="#" class="left">&#8249;&#8249;&#8249;</a><a href="#" class="right">&#8250;&#8250;&#8250;</a>
-			<div class="cont">
-				<div class="content">
-					<h4>Despre proiect</h4>
-					Informaţii despre veniturile, proprietăţile şi interesele persoanelor cu demnitate publică din Republica Moldova, colectate din declaraţiile de avere şi interese depuse la organele abilitate şi din alte surse deschise.
-				</div>
-				<div class="content">
-					<h4>Topul celor mai mediatizaţi demnitari</h4>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="filat-vladimir/" class="icon_50_person"><b class="irina-vlah fp"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="fp iurie-leanca"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pdm marian-lupu"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="filat-vladimir/" class="icon_50_person"><b class="irina-vlah fp"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="fp iurie-leanca"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pdm marian-lupu"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="filat-vladimir/" class="icon_50_person"><b class="irina-vlah fp"></b></a>
-				</div>
-				<div class="content">
-					<h4>Topul celor mai mediatizaţi demnitari</h4>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a>
-					<a title="Vladimir Voronin" href="voronin-vladimir/" class="icon_50_person"><b class="pcrm vladimir-voronin"></b></a></div>
-			</div>
-			<div class="switchers">
-				<a class="active" href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a>
-			</div>
-		</div>
-	</div>
-
-<!--<p class="about">Informaţii despre veniturile, proprietăţile şi interesele persoanelor cu demnitate publică din Republica Moldova, colectate din declaraţiile de avere şi interese depuse la organele abilitate şi din alte surse deschise.</p>-->
+<p class="about">Informaţii despre veniturile, proprietăţile şi interesele persoanelor cu demnitate publică din Republica Moldova, colectate din declaraţiile de avere şi interese depuse la organele abilitate şi din alte surse deschise.</p>
 
 <table class="stats">
 <tr>

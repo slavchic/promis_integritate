@@ -1,0 +1,96 @@
+<!--#include virtual="/_/includes/1.shtml" -->
+
+<div class="top_list persons_list">
+
+<h1>Demnitari care deţin mai mult de 3 imobile locative</h1>
+
+<p class="tableBottomInfo">Demnitarii sunt selectaţi în ordinea descrescătoare după numărul de imobile şi valoarea cumulată a acestora.<br>Au fost examinate doar casele, apartamentele şi vilele, inclusiv cele aflate în proces de construcţie, fără a lua în calcul spaţiile comerciale şi alte imobile cu destinaţie nelocativă.</p>
+
+<table class="table tablesorter">
+<colgroup><col class="name" style="width:280px"><col style="width:70px"><col style="width:114px"><col style="width:114px"><col></colgroup>
+<thead>
+<tr>
+<th class="name">Numele, Prenumele</th>
+<th class="buildings">Locuinţă</th>
+<th class="buildings">Suprafaţa, m2</th>
+<th class="buildings">Valoarea, lei</th>
+<th class="buildings"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="name"><a class="icon_32_person" href="/plesca-nae-simion/" title="Nae-Simion Pleşca"><b class="pldm nae-simion-plesca"></b></a><div><a href="/plesca-nae-simion/">Pleşca Nae-Simion</a> <span>Deputat în Parlamentul RM</span></div></td>
+<td class="buildings">5</td>
+<td class="buildings"><div class="brown">1,213.7</div></td>
+<td class="buildings"><div class="green">4,193,498.00</div></td>
+<td class="buildings"><div class="line_chart brown_bk" style="width:100.00%"></div><div class="line_chart green_bk" style="width:67.92%"></div></td>
+</tr>
+<tr>
+<td class="name"><a class="icon_32_person" href="/carp-iurie/" title="Iurie Carp"><b class="pdm iurie-carp"></b></a><div><a href="/carp-iurie/">Carp Iurie</a> <span>Directorul Agenţiei Turismului</span></div></td>
+<td class="buildings">5</td>
+<td class="buildings"><div class="brown">271.6</div></td>
+<td class="buildings"><div class="green">1,570,534.00</div></td>
+<td class="buildings"><div class="line_chart brown_bk" style="width:22.38%"></div><div class="line_chart green_bk" style="width:25.44%"></div></td>
+</tr>
+<tr>
+<td class="name"><a class="icon_32_person" href="/carpov-eugen/" title="Eugen Carpov"><b class="ppem eugen-carpov"></b></a><div><a href="/carpov-eugen/">Carpov Eugen</a> <span>Deputat în Parlamentul RM</span></div></td>
+<td class="buildings">4.5</td>
+<td class="buildings"><div class="brown">400.4</div></td>
+<td class="buildings"><div class="green">2,846,643.50</div></td>
+<td class="buildings"><div class="line_chart brown_bk" style="width:32.99%"></div><div class="line_chart green_bk" style="width:46.11%"></div></td>
+</tr>
+<tr>
+<td class="name"><a class="icon_32_person" href="/lucinschi-chiril/" title="Chiril Lucinschi"><b class="pldm chiril-lucinschi"></b></a><div><a href="/lucinschi-chiril/">Lucinschi Chiril</a> <span>Deputat în Parlamentul RM</span></div></td>
+<td class="buildings">4</td>
+<td class="buildings"><div class="brown">863.8</div></td>
+<td class="buildings"><div class="green">6,173,728.00</div></td>
+<td class="buildings"><div class="line_chart brown_bk" style="width:71.17%"></div><div class="line_chart green_bk" style="width:100.00%"></div></td>
+</tr>
+<tr>
+<td class="name"><a class="icon_32_person" href="/glavan-ruxanda/" title="Ruxanda Glavan"><b class="pdm ruxanda-glavan"></b></a><div><a href="/glavan-ruxanda/">Glavan Ruxanda</a> <span>Ministrul Sănătăţii</span></div></td>
+<td class="buildings">4</td>
+<td class="buildings"><div class="brown">557.7</div></td>
+<td class="buildings"><div class="green">3,065,398.00</div></td>
+<td class="buildings"><div class="line_chart brown_bk" style="width:45.95%"></div><div class="line_chart green_bk" style="width:49.65%"></div></td>
+</tr>
+<tr>
+<td class="name"><a class="icon_32_person" href="/ghilas-anatolie/" title="Anatolie Ghilaş"><b class="pdm anatolie-ghilas"></b></a><div><a href="/ghilas-anatolie/">Ghilaş Anatolie</a> <span>Directorul ARFC</span></div></td>
+<td class="buildings">4</td>
+<td class="buildings"><div class="brown">522.7</div></td>
+<td class="buildings"><div class="green">3,061,997.00</div></td>
+<td class="buildings"><div class="line_chart brown_bk" style="width:43.07%"></div><div class="line_chart green_bk" style="width:49.60%"></div></td>
+</tr>
+<tr>
+<td class="name"><a class="icon_32_person" href="/sirbu-oleg/" title="Oleg Sîrbu"><b class="pdm oleg-sirbu"></b></a><div><a href="/sirbu-oleg/">Sîrbu Oleg</a> <span>Deputat în Parlamentul RM</span></div></td>
+<td class="buildings">4</td>
+<td class="buildings"><div class="brown">271.0</div></td>
+<td class="buildings"><div class="green">282,260.00</div></td>
+<td class="buildings"><div class="line_chart brown_bk" style="width:22.33%"></div><div class="line_chart green_bk" style="width:4.57%"></div></td>
+</tr>
+<tr>
+<td class="name"><a class="icon_32_person" href="/sor-ilan/" title="Ilan Şor"><b class="mr ilan-sor"></b></a><div><a href="/sor-ilan/">Şor Ilan</a> <span>Primarul or. Orhei</span></div></td>
+<td class="buildings">3.5</td>
+<td class="buildings"><div class="brown">627.8</div></td>
+<td class="buildings"><div class="green">6,030,563.00</div></td>
+<td class="buildings"><div class="line_chart brown_bk" style="width:51.72%"></div><div class="line_chart green_bk" style="width:97.68%"></div></td>
+</tr>
+<tr>
+<td class="name"><a class="icon_32_person" href="/varanita-grigore/" title="Grigore Varaniţa"><b class="fp grigore-varanita"></b></a><div><a href="/varanita-grigore/">Varaniţa Grigore</a> <span>Directorul ANRCETI</span></div></td>
+<td class="buildings">3</td>
+<td class="buildings"><div class="brown">390.1</div></td>
+<td class="buildings"><div class="green">3,182,762.93</div></td>
+<td class="buildings"><div class="line_chart brown_bk" style="width:32.14%"></div><div class="line_chart green_bk" style="width:51.55%"></div></td>
+</tr>
+<tr>
+<td class="name"><a class="icon_32_person" href="/bannicov-alexandr/" title="Alexandr Bannicov"><b class="fp alexandr-bannicov"></b></a><div><a href="/bannicov-alexandr/">Bannicov Alexandr</a> <span>Deputat în Parlamentul RM</span></div></td>
+<td class="buildings">3</td>
+<td class="buildings"><div class="brown">252.7</div></td>
+<td class="buildings"><div class="green">2,130,952.00</div></td>
+<td class="buildings"><div class="line_chart brown_bk" style="width:20.82%"></div><div class="line_chart green_bk" style="width:34.52%"></div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<!--#include virtual="/_/includes/2.shtml" -->

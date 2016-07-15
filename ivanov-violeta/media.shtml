@@ -1,0 +1,23 @@
+<!--#if expr="$REMOTE_ADDR=127.0.0.1 || $REMOTE_ADDR=109.185.136.117 || $REMOTE_ADDR=178.168.26.166 || $REMOTE_ADDR=212.56.220.234" -->
+<!--http://www.webcitation.org/6h5KOlJro-->
+<!--#endif -->
+
+<div class="interest">
+<div class="top"><h2><!--#echo encoding="none" var="tanchete" --></h2></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th style="width:13%">Data</th>
+<th>Titlul anchetei</th>
+<th style="width:13%">Sursa</th>
+<th style="width:8%">PDF</th>
+</tr>
+<tr>
+<td>8 aprilie 2016</td>
+<td><b>Familia deputatei Ivanov: Casă de lux în construcţie şi teren închiriat de la stat cu 20 de lei pe zi</b>
+<p style="margin-top:5px; margin-bottom:0; font-size:10pt">Familia deputatei Violeta Ivanov şi-a ridicat o casă cu două niveluri în Chişinău. Deşi acum o săptămână declara presei că fiica sa, Margarita, ajunsă în atenţia opiniei publice pentru fotografiile de lux pe care le posta pe reţelele de socializare, nu are, “cu părere de rău, casă”, datele oficiale demonstrează contrariul. Minora este, în acte, proprietara terenului pe care părinţii şi-au ridicat casa de lux, dar şi stăpâna vechiului imobil de pe acel teren, demolat între timp. Totodată, familia alesei poporului gestionează, de peste un deceniu, două terenuri în Chişinău, folosite ca şi parcări, pe care le închiriază de la Primăria Chişinău contra 20 de lei pentru o singură zi.</p>
+</td>
+<td><a target=_blank href="http://www.zdg.md/editia-print/investigatii/familia-deputatei-ivanov-casa-de-lux-in-constructie-si-teren-inchiriat-de-la-stat-cu-20-de-lei-pe-zi">Ziarul de Gardă</a></td>
+<td><a class="icon-data_doc_pdf" href="/pdf/media/ivanov-violeta-media-2016-04-08-zdg.pdf">1.9&nbsp;Mb</a></td>
+</tr>
+</table></div>
+</div>

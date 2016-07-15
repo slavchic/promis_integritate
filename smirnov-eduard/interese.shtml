@@ -1,0 +1,33 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/smirnov-eduard-interese-2014-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Legislativ</td>
+<td>Parlamentul Republicii Moldova</td>
+<td>Deputat</td>
+<td class="acenter">9,585.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Politic</td>
+<td>Partidul Socialiştilor din Republica Moldova</td>
+<td>Membru al Comitetului Executiv Politic</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Investiţii</td>
+<td>DAAC Hermes S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">464.00&nbsp;MDL</td>
+<td class="acenter">464 acţiuni</td>
+</tr>
+</table></div>
+</div>

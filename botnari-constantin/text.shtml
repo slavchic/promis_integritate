@@ -1,0 +1,24 @@
+<div class="user_description">
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
+<tr><td><a href="/pdf/botnari-constantin-2014-parlament.pdf">2014</a>, <a href="/pdf/botnari-constantin-2013-parlament.pdf">2013</a><br>Sursa: Parlamentul Republicii Moldova</td></tr>
+<tr><td><a href="/pdf/botnari-constantin-2012-cni.pdf">2012</a><br>Comisia Naţională de Integritate</td></tr>
+<tr><td><a href="/pdf/botnari-constantin-2012-2013-pdm-cec.pdf">2012-2013</a><br>Comisia Electorală Centrală</td></tr>
+<tr><td>Interese: <a href="/pdf/botnari-constantin-interese-2014-parlament.pdf">2014</a>, <a href="/pdf/botnari-constantin-interese-2013-parlament.pdf">2013</a>, <a href="/pdf/botnari-constantin-interese-2012-cni.pdf">2012</a><br>Parlamentul, Comisia Naţională de Integritate</td></tr>
+</table>
+</div></div>
+
+<div class="right">
+
+<p class="overall">
+Declaraţiile de venit şi interese ale lui Constantin Botnari pentru anii 2012–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+</p>
+<!--#if expr="$ddd" -->
+<p class="verdict negative">
+<b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+</p>
+<!--#endif -->
+</div>
+</div>

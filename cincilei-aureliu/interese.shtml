@@ -1,0 +1,47 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/cincilei-aureliu-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unităţii</th>
+<th>Calitatea deţinută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Financiar-bancar</td>
+<td>Banca Naţională a Moldovei</td>
+<td>Viceguvernator</td>
+<td class="acenter">739,058.74&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Financiar-bancar</td>
+<td>BC Eurocreditbank S.A.</td>
+<td>Preşedinte</td>
+<td class="acenter">292,161.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Glavirux S.R.L.&nbsp;<span class="grey">(2005)</span></td>
+<td>Asociat unic (soţia)</td>
+<td class="acenter">473,221.00&nbsp;MDL</td>
+<td class="acenter">100%</td>
+</tr>
+<tr>
+<td>Financiar-bancar</td>
+<td>BC Moldova Agroindbank S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">2,000.00&nbsp;MDL</td>
+<td class="acenter">10 acţiuni</td>
+</tr>
+<tr>
+<td><s>Financiar-bancar</s></td>
+<td><s>BC Eurocreditbank S.A.</s></td>
+<td><s>Acţionar</s></td>
+<td class="acenter"><s>100.00&nbsp;MDL</s></td>
+<td class="acenter"><s>10 acţiuni</s></td>
+</tr>
+</table></div>
+</div>

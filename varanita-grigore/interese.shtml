@@ -1,0 +1,54 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/varanita-grigore-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Public</td>
+<td>ANRCETI</td>
+<td>Director</td>
+<td class="acenter">613,319.01&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Public</td>
+<td>Moldtelecom S.A.</td>
+<td>Membrul Consiliului de Administraţie</td>
+<td class="acenter">46,753.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Caritate</td>
+<td>Asociaţia de Sprijin a Copiilor cu Nevoi Speciale</td>
+<td>Membru fondator</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Comerţ, servicii</td>
+<td>Lacteia-Prim S.R.L.&nbsp;<span class="grey">(2002)</span></td>
+<td>Asociat unic (soţia)</td>
+<td class="acenter">5,600.00&nbsp;MDL</td>
+<td class="acenter">100%</td>
+</tr>
+<tr>
+<td><s>Public</s></td>
+<td><s>Moldtelecom S.A.</s></td>
+<td><s>Vicedirector general</s></td>
+<td class="acenter"><s>568,942.06&nbsp;MDL</s></td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td><s>Public</s></td>
+<td><s>Asociaţia Obştească “Pro-Mingir”</s></td>
+<td><s>Membru fondator</s></td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

@@ -1,0 +1,33 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/valcov-vitalie-interese-2015-bns.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Public</td>
+<td>Biroul Naţional de Statistică al Republicii Moldova</td>
+<td>Director general adjunct</td>
+<td class="acenter">159,159.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Matconis-IL S.R.L.&nbsp;<span class="grey">(1994)</span></td>
+<td>Asociat</td>
+<td class="acenter">882.00&nbsp;MDL</td>
+<td class="acenter">49%</td>
+</tr>
+<tr>
+<td>Servicii</td>
+<td>Floral-Document Centre S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">4,740.00&nbsp;MDL</td>
+<td class="acenter">237 acţiuni (5%)</td>
+</tr>
+</table></div>
+</div>

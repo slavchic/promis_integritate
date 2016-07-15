@@ -1,0 +1,26 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/vremea-igor-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Legislativ</td>
+<td>Parlamentul Republicii Moldova</td>
+<td>Deputat</td>
+<td class="acenter">220,879.65&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Didactic</td>
+<td>Universitatea de Stat din Moldova</td>
+<td>Conferenţiar universitar</td>
+<td class="acenter">23,066.46&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

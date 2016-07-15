@@ -1,0 +1,26 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/filincova-svetlana-interese-2013-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Jurisprudenţă</td>
+<td>Curtea Supremă de Justiţie</td>
+<td>Vicepreşedinte</td>
+<td class="acenter">144,212.83&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Producere, comerţ</td>
+<td>Nord-Mobilă S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">1,680.00&nbsp;MDL</td>
+<td class="acenter">120+90 acţiuni</td>
+</tr>
+</table></div>
+</div>

@@ -13,6 +13,7 @@
 
 <br><table class="table">
 <tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tactecni" --></th></tr>
+<tr><td><a href="/pdf/cni/chirtoaca-dorin-act-cni-2015-08-06.pdf">Nr. 03/263 din 06.08.2015</a></td></tr>
 <tr><td><a href="/pdf/cni/chirtoaca-dorin-act-cni-2015-07-30.pdf">Nr. 04/258 din 30.07.2015</a></td></tr>
 </table>
 
@@ -21,12 +22,15 @@
 <div class="right">
 
 <p class="overall">
-Declaraţiile de venit şi interese ale lui Dorin Chirtoacă pentru anii 2009–2014 depuse la organele abilitate în conformitate cu legislaţia în vigoare.
+Declaraţiile de venit şi interese ale <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --> pentru <!--#if expr="$lastyear1d = $lastyear2d" -->anul <!--#echo var="lastyear2d" --><!--#else -->anii <!--#echo var="lastyear1d" -->–<!--#echo var="lastyear2d" --><!--#endif --> depuse la organele abilitate în conformitate cu legislaţia în vigoare. Din 2007, Dorin Chirtoacă ocupă funcţia de primar general al mun. Chişinău, fiind ales în calitate de candidat al Partidului Liberal. La Congresul II al PL din aprilie 2005 a fost ales vicepreşedinte al formaţiunii, iar din septembrie 2010 este prim-vicepreşedinte al Partidului Liberal. Anterior, în perioada 2003–2005, a fost coordonator de proiecte în cadrul Comitetului Helsinki pentru Drepturile Omului din Republica Moldova.<br><br>
+Conform declaraţiilor depuse de Dorin Chirtoacă, acesta este posesorul următoarelor bunuri imobile şi mobile: o casă de locuit şi terenul aferent (1/3 cotă parte) în s. Coloniţa, mun. Chişinău, un apartament în mun. Chişinău şi două automobile marca Opel Astra şi BMW 318. Demnitarul mai are un credit în lei, contractat în 2013 cu rata dobânzii de 10% şi scadent în 2033.
+
 </p>
-<!--#if expr="$ddd" -->
+
 <p class="verdict negative">
 <b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+Dorin Chirtoacă nu a declarat în niciuna dintre declaraţiile de interese despre faptul că ocupă poziţia de prim-vicepreşedinte PL. Pe 30 iulie 2015, CNI a confirmat într-un act de constatare încălcarea regimului juridic al declarării intereselor personale pentru anul 2013 de către Dorin Chirtoacă şi a sesizat Procuratura Generală a Republicii Moldova în vederea examinării acestei încălcări din prisma art. 352<sup>1</sup> al Codului Penal.
 </p>
-<!--#endif -->
+
 </div>
 </div>

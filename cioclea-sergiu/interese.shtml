@@ -1,0 +1,26 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/cioclea-sergiu-interese-2015-bnm.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unităţii</th>
+<th>Calitatea deţinută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Financiar-bancar</td>
+<td>Banca Naţională a Moldovei</td>
+<td>Guvernator</td>
+<td class="acenter">18,321.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Financiar-bancar</td>
+<td>Fondul Monetar Internaţional</td>
+<td>Guvernator din partea Republicii Moldova</td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

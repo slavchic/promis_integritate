@@ -35,7 +35,7 @@ data: [
 data: [
 [2012, 800000.00],
 [2013, 850000],
-[2014, 1130699.75]
+[2014, 1130699.92]
 ]},
 {label: "Datorii", bars: {order: 6},
 data: [
@@ -143,7 +143,7 @@ data: [
 <span>3.9&nbsp;€<b></b></span>
 <span>1,042.8<b></b></span>
 </td></tr>
-<tr class="result"><td colspan="2">1,130,699.75 <!--#echo encoding="none" var="mdl" --></td></tr>
+<tr class="result"><td colspan="2">1,130,699.92 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
 </div>
 

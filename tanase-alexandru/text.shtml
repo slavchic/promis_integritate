@@ -1,0 +1,36 @@
+<div class="user_description">
+
+<div class="left"><div class="wrapper">
+<table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th></tr>
+<tr><td><a href="/pdf/tanase-alexandru-2014-cni.pdf">2014</a>, <a href="/pdf/tanase-alexandru-2013-cni.pdf">2013</a><br>Sursa: Comisia Naţională de Integritate</td></tr>
+<tr><td><a href="/pdf/tanase-alexandru-2012-cc.pdf">2012</a>, <a href="/pdf/tanase-alexandru-2011-cc.pdf">2011</a><br>Curtea Constituţională</td></tr>
+<tr><td><a href="/pdf/tanase-alexandru-2010-gov.pdf">2010</a>, <a href="/pdf/tanase-alexandru-2009-gov.pdf">2009</a><br>Guvernul Republicii Moldova</td></tr>
+<tr><td><a href="/pdf/tanase-alexandru-2008-2009-pldm-cec.pdf">2008-2009</a>, <a href="/pdf/tanase-alexandru-2007-2008-pldm-cec.pdf">2007-2008</a><br>Comisia Electorală Centrală</td></tr>
+<tr><td>Interese: <a href="/pdf/tanase-alexandru-interese-2014-cni.pdf">2014</a>, <a href="/pdf/tanase-alexandru-interese-2013-cc.pdf">2013</a>, <a href="/pdf/tanase-alexandru-interese-2012-cc.pdf">2012</a>, <a href="/pdf/tanase-alexandru-interese-2011-interese-vedere.pdf">2011</a><br>CNI, CC, Interese la vedere</td></tr>
+</table>
+
+<br><table class="table">
+<tr><th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tactecni" --></th></tr>
+<tr><td><a href="/pdf/cni/tanase-alexandru-act-cni-2016-03-17.pdf">Nr. 04/73 din 17.03.2016</a></td></tr>
+</table>
+
+</div></div>
+
+<div class="right">
+
+<p class="overall">
+Declaraţiile de venit şi interese ale <!--#if expr="$sex" -->lui <!--#echo encoding="none" var="title" --><!--#else --><!--#echo encoding="none" var="title_ului" --><!--#endif --> pentru <!--#if expr="$lastyear1d = $lastyear2d" -->anul <!--#echo var="lastyear2d" --><!--#else -->anii <!--#echo var="lastyear1d" -->–<!--#echo var="lastyear2d" --><!--#endif --> depuse la organele abilitate în conformitate cu legislaţia în vigoare. Începând cu aprilie 2011, Alexandru Tănase este judecător la Curtea Constituţională a Republicii Moldova, iar din octombrie 2011 exercită şi funcţia de preşedinte al Curţii Constituţionale. Anterior, a deţinut funcţia de ministru al justiţiei în guvernele Filat I şi II (2009–2011), fiind propus în această funcţie de Partidul Liberal Democrat din Moldova.<br>
+La alegerile parlamentare din aprilie 2009 şi cele anticipate din iulie 2009 şi noiembrie 2010, este ales deputat în Parlamentul Republicii Moldova pe listele PLDM. În ianuarie 2010 a renunţat la această funcţie în favoarea celei de ministru al justiţiei. Alexandru Tănase este unul dinte fondatorii PLDM în anul 2007, deţinând funcţia de prim-vicepreşedinte al partidului de la fondarea acestuia şi până în aprilie 2011. În calitate de membru PLDM a fost ales consilier în Consiliul Municipal Chişinău la alegerile locale din 2007. Este preşedinte al fracţiunii PLDM din CMC între anii 2007–2009, exercitând în aceeaşi perioadă şi funcţia de preşedinte al Comisiei juridice, pentru ordinea publică şi activitatea administraţiei publice locale a CMC.<br><br>
+Conform declaraţiilor depuse de Alexandru Tănase, familia acestuia este posesoarea următoarelor bunuri imobile şi mobile: casă de locuit cu terenul aferent şi apartament în mun. Chişinău, un automobil marca Lexus. Familia Tănase mai deţine în proprietate 50% din “Apps-Imobil” S.R.L. şi 33% din “Trecer-Grup” S.R.L. Demnitarul mai are un credit în lei, contractat în anul 2012 cu rata dobânzii de 15% şi scadent în 2016.
+</p>
+
+<p class="verdict negative">
+<b><!--#echo encoding="none" var="tnereguli" --></b><br><br>
+Declaraţiile din 2009, 2010 şi 2011 conţin informaţii incomplete despre proprietăţile acumulate până la data depunerii declaraţiei, fapt ce contravenea legislaţiei în vigoare. Legislaţia la acel moment era una confuză şi conţinea inadvertenţe care au generat o practică generală de declarare doar a proprietăţilor obţinute în anul calendaristic vizat.<br><br>
+Alexandru Tănase nu a declarat în anii 2009–2013 cota parte deţinută de soţia sa în “Trecer-Grup” S.R.L., care a fost fondată în 1999, contrar noilor prevederi legale intrate în vigoare în martie 2012. De asemenea, demnitarul a omis să declare în 2012 creditului în lei, contractat în acelaşi an, iar în anii 2013 şi 2014 a raportat valori diferite ale creditului.<br><br>
+La 17 martie 2016, CNI a examinat eventuala încălcare a regimului juridic al declarării veniturilor şi proprietăţii pentru anul 2014, admis de Alexandru Tănase. CNI a constatat că omisiunile admise de către demnitar în conţinutul declaraţiei nu s-au produs cu rea-credinţă, iar diferenţa dintre veniturile acumulate în anul 2014 şi proprietatea dobândită în acelaşi an este justificată de economiile acumulate în anii precedenţi. În consecinţă, cauza a fost clasată ca urmare a lipsei unei încălcări intenţionate a regimului juridic al declarării veniturilor şi proprietăţilor pentru anul 2014 de către Alexandru Tănase.
+</p>
+
+</div>
+</div>

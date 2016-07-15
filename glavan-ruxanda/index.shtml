@@ -41,7 +41,7 @@ data: [
 {label: "Active financiare", bars: {order: 5},
 data: [
 [2012, 828754.28],
-[2013, 1018433.56],
+[2013, 1140556.18],
 [2014, 2042640.47],
 [2015, 3457270.57]
 ]},
@@ -442,7 +442,7 @@ data: [
 <span>61.4&nbsp;€<b></b></span>
 <span>24.3<b></b></span>
 </td></tr>
-<tr class="result"><td colspan="2">1,018,433.56 <!--#echo encoding="none" var="mdl" --></td></tr>
+<tr class="result"><td colspan="2">1,140,556.18 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
 </div>
 
@@ -493,7 +493,7 @@ data: [
 <span class="pos">4.6<b></b></span>
 </td>
 <td class="value">
-<span class="pos">1,548.7<b class="warning"><i>1</i></b></span>
+<span class="pos">1,548.7<b></b></span>
 <span class="pos">39.0<b></b></span>
 <span>&nbsp;</span>
 </td></tr>
@@ -518,10 +518,10 @@ data: [
 <span class="pos">50.5</span>
 </td>
 <td class="value">
-<span class="neg">401.0<b></b></span>
+<span>401.0<b></b></span>
 <span>829.9<b></b></span>
-<span class="neg">1,736.8<b></b></span>
-<span class="neg">97.8<b></b></span>
+<span>1,736.8<b></b></span>
+<span>97.8<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">3,065,398.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -542,9 +542,9 @@ data: [
 <span class="pos">0.11</span>
 </td>
 <td class="value">
-<span class="neg">400.6<b></b></span>
-<span class="neg">109.8<b></b></span>
-<span class="neg">100.0<b></b></span>
+<span>400.6<b></b></span>
+<span>109.8<b></b></span>
+<span>100.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="3">610,391.00 <!--#echo encoding="none" var="mdl" --></td></tr>
 </table>
@@ -559,7 +559,7 @@ data: [
 <span><b></b><span>Toyota Corolla (2007) / 2009</span></span>
 </td>
 <td class="value">
-<span class="neg">100.0<b></b></span>
+<span>100.0<b></b></span>
 <span>90.0<b></b></span>
 </td></tr>
 <tr class="result"><td colspan="2">190,000.00 <!--#echo encoding="none" var="mdl" --></td></tr>
@@ -597,9 +597,7 @@ data: [
 </div>
 
 <div class="comments">
-<ol>
-<li>- Tabel completat în baza declaraţiei 2012 al soţului <a href="/pdf/cincilei-aureliu-2012-cni.pdf" class="icon-data_doc_pdf">Aureliu Cincilei</a>.
-</ol>
+<p>- Tabelul este completat în baza declaraţiei 2012 al soţului <a href="/cincilei-aureliu/">Aureliu Cincilei</a>.</p>
 </div>
 
 </div>

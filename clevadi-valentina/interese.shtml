@@ -1,54 +1,40 @@
 <div class="interest">
-<div class="top"><h2>Interese</h2><a href="/pdf/agache-angel-interese-2013-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="top"><h2>Interese</h2><a href="/pdf/clevadi-valentina-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
 <div class="scroll_wrapper"><table class="table">
 <tr>
 <th>Domeniul de activitate</th>
-<th>Denumirea unităţii</th>
-<th>Calitatea deţinută</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
 <th>Valoarea</th>
 <th>Cota parte</th>
 </tr>
 <tr>
-<td>Legislativ</td>
-<td>Parlamentul Republicii Moldova</td>
-<td>Deputat</td>
-<td class="acenter">144,180.93&nbsp;MDL</td>
+<td>Jurisprudenţă</td>
+<td>Curtea Supremă de Justiţie</td>
+<td>Judecător</td>
+<td class="acenter">214,745.37&nbsp;MDL</td>
 <td class="acenter">-</td>
 </tr>
 <tr>
-<td>Politic</td>
-<td>Partidul Liberal Democrat din Moldova</td>
-<td>Membru al Biroului Permanent Central, membru al Consiliului Politic Naţional</td>
+<td>Producere, comerţ</td>
+<td>Aur Alb S.A.</td>
+<td>Acţionar</td>
 <td class="acenter">-</td>
-<td class="acenter">-</td>
+<td class="acenter">40 acţiuni</td>
 </tr>
 <tr>
-<td>Public</td>
-<td>Asociaţia obştească Forul Tinerilor “Noua Moldovă”</td>
-<td>Preşedinte</td>
+<td>Producere, comerţ</td>
+<td>Yol Yapagisa S.A.</td>
+<td>Acţionar</td>
 <td class="acenter">-</td>
-<td class="acenter">-</td>
+<td class="acenter">100 acţiuni</td>
 </tr>
 <tr>
-<td>Public</td>
-<td>Fundaţia Europa Liberă — Moldova</td>
-<td>Membru</td>
-<td class="acenter">-</td>
-<td class="acenter">-</td>
-</tr>
-<tr>
-<td>Public</td>
-<td>Federaţia Organizaţiilor Studenţeşti şi de Tineret din Moldova</td>
-<td>Membru</td>
-<td class="acenter">-</td>
-<td class="acenter">-</td>
-</tr>
-<tr>
-<td>Construcţii</td>
-<td>Tehnodava S.R.L.</td>
-<td></td>
-<td class="acenter">-</td>
-<td class="acenter">100%</td>
+<td>Servicii</td>
+<td>Daac Hermes Grup S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">366.00&nbsp;MDL</td>
+<td class="acenter">366 acţiuni</td>
 </tr>
 </table></div>
 </div>

@@ -84,3 +84,5 @@
 <!--#set var="tdocsoriginal" value="Declaraţii în original" -->
 <!--#set var="tnereguli" value="Nereguli depistate la declararea veniturilor şi proprietăţilor în baza informaţiilor prezentate" -->
 <!--#set var="tactecni" value="Acte de constatare CNI" -->
+
+<!--#set var="tanchete" value="Apariţii în anchete jurnalistice" -->

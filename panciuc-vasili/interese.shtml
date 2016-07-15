@@ -1,0 +1,40 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/panciuc-vasili-interese-2014-parlament.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Legislativ</td>
+<td>Parlamentul Republicii Moldova</td>
+<td>Deputat</td>
+<td class="acenter">9,585.00&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Public</td>
+<td>Primăria municipiului Bălţi</td>
+<td>Primar</td>
+<td class="acenter">130,767.38&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Comerţ, servicii</td>
+<td>Constructorul S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">6,450.00&nbsp;MDL</td>
+<td class="acenter">215 acţiuni</td>
+</tr>
+<tr>
+<td>Financiar-bancar</td>
+<td>Banca de Economii S.A.</td>
+<td>Acţionar</td>
+<td class="acenter">1,600.00&nbsp;MDL</td>
+<td class="acenter">320 acţiuni</td>
+</tr>
+</table></div>
+</div>

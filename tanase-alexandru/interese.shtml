@@ -1,0 +1,54 @@
+<div class="interest">
+<div class="top"><h2>Interese</h2><a href="/pdf/tanase-alexandru-interese-2014-cni.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tinteresoriginal" --></span></a></div>
+<div class="scroll_wrapper"><table class="table">
+<tr>
+<th>Domeniul de activitate</th>
+<th>Denumirea unității</th>
+<th>Calitatea deținută</th>
+<th>Valoarea</th>
+<th>Cota parte</th>
+</tr>
+<tr>
+<td>Jurisprudenţă</td>
+<td>Curtea Constituţională a Republicii Moldova</td>
+<td>Preşedinte</td>
+<td class="acenter">277,758.64&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Didactic</td>
+<td>Universitatea de Stat din Moldova</td>
+<td>Lector</td>
+<td class="acenter">11,497.25&nbsp;MDL</td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td>Servicii</td>
+<td>Apps-Imobil S.R.L.&nbsp;<span class="grey">(2009)</span></td>
+<td>Asociat (soţia)</td>
+<td class="acenter">418,200.00&nbsp;MDL</td>
+<td class="acenter">50%</td>
+</tr>
+<tr>
+<td>Comerţ</td>
+<td>Trecer-Grup S.R.L.&nbsp;<span class="grey">(1999)</span></td>
+<td>Asociat (soţia)</td>
+<td class="acenter">1,782.00&nbsp;MDL</td>
+<td class="acenter">33%</td>
+</tr>
+<tr>
+<td><s>Didactic</s></td>
+<td><s>Universitatea de Studii Europene din Moldova</s></td>
+<td><s>Preşedintele comisiei</s></td>
+<td class="acenter"><s>5,000.00&nbsp;MDL</s></td>
+<td class="acenter">-</td>
+</tr>
+<tr>
+<td><s>Public</s></td>
+<td><s>Asociaţia Obştească “Institutul Naţional de Avocatură”</s></td>
+<td><s>Membru fondator</s></td>
+<td class="acenter">-</td>
+<td class="acenter">-</td>
+</tr>
+</table></div>
+</div>

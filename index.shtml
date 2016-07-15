@@ -1,4 +1,4 @@
-<!--#set var="tshow_all" value="235" --><!--#set var="title" value="Venituri, proprietăţi şi interese declarate de persoane publice" --><!--#set var="root" value="1" --><!--#include virtual="/_/includes/1.shtml" -->
+<!--#set var="tshow_all" value="244" --><!--#set var="top3imobile" value="22" --><!--#set var="top0imobile" value="26" --><!--#set var="title" value="Venituri, proprietăţi şi interese declarate de persoane publice" --><!--#set var="root" value="1" --><!--#include virtual="/_/includes/1.shtml" -->
 
 <div class="main_list persons_list">
 <table class="table tablesorter">
@@ -31,13 +31,13 @@
 <td class="problem"><b class="warning red"></b></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-01-01" data-top="false" style="display:none">
 <td class="name"><a class="icon_32_person" href="alergus-constantin/" title="Constantin Alerguş"><b class="fp constantin-alergus"></b></a><div><a href="alergus-constantin/">Alerguş Constantin</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2014</td>
-<td class="income">732,861.64</td>
+<td class="year">2015</td>
+<td class="income">606,271.62</td>
 <td class="buildings">1,466,117.00</td>
 <td class="lands">95,452.00</td>
-<td class="goods">474,255.50</td>
+<td class="goods">249,655.50</td>
 <td class="finance">0.00</td>
 <td class="debts">0.00</td>
 <td class="problem"><b class="warning red"></b></td>
@@ -74,7 +74,7 @@
 <td class="buildings">13,384.50</td>
 <td class="lands">602.00</td>
 <td class="goods">51,000.00</td>
-<td class="finance">592.00</td>
+<td class="finance">0.00</td>
 <td class="debts">0.00</td>
 <td class="problem"><b class="warning red"></b></td>
 </tr>
@@ -108,8 +108,8 @@
 <td class="buildings" colspan=8></td>
 </tr>
 
-<tr data-party="pdm" data-institute="alte" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="pdm oleg-babenco"></b></a><div><a style="color:#ccc; text-decoration:none">Babenco Oleg</a> <span>Directorul BRI</span></div></td>
+<tr data-party="pdm" data-institute="alte" data-last-year="2014" data-added="2016-04-30" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="babenco-oleg/" title="Oleg Babenco"><b class="pdm oleg-babenco"></b></a><div><a href="babenco-oleg/">Babenco Oleg</a> <span>Directorul BRI</span></div></td>
 <td class="year">2014</td>
 <td class="income">451,637.34</td>
 <td class="buildings">247,522.00</td>
@@ -276,15 +276,15 @@
 <td class="problem"><b class="warning red"></b></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-01-01" data-top="false" style="display:none">
 <td class="name"><a class="icon_32_person" href="bejenaru-iurie/" title="Iurie Bejenaru"><b class="fp iurie-bejenaru"></b></a><div><a href="bejenaru-iurie/">Bejenaru Iurie</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2014</td>
-<td class="income">709,534.72</td>
+<td class="year">2015</td>
+<td class="income">839,102.58</td>
 <td class="buildings">400,923.00</td>
-<td class="lands">164,129.56</td>
+<td class="lands">162,404.28</td>
 <td class="goods">372,000.00</td>
-<td class="finance">130,409.64</td>
-<td class="debts">0.00</td>
+<td class="finance">278,325.22</td>
+<td class="debts">493,991.70</td>
 <td class="problem"></td>
 </tr>
 
@@ -300,12 +300,12 @@
 <td class="problem"><b class="warning red"></b></td>
 </tr>
 
-<tr data-party="pdm" data-institute="guvern" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
+<tr data-party="pdm" data-institute="guvern" data-last-year="2015" data-added="2016-01-01" data-top="false" style="display:none">
 <td class="name"><a class="icon_32_person" href="bitca-vasile/" title="Vasile Bîtca"><b class="pdm vasile-bitca"></b></a><div><a href="bitca-vasile/">Bîtca Vasile</a> <span>Ministrul MDRC</span></div></td>
-<td class="year">2014</td>
-<td class="income">179,455.05</td>
+<td class="year">2015</td>
+<td class="income">289,735.07</td>
 <td class="buildings">616,540.00</td>
-<td class="lands">91,352.38</td>
+<td class="lands">78,022.33</td>
 <td class="goods">0.00</td>
 <td class="finance">0.00</td>
 <td class="debts">1,061,938.80</td>
@@ -461,7 +461,7 @@
 <td class="buildings">680,000.00</td>
 <td class="lands">0.00</td>
 <td class="goods">323,454.60</td>
-<td class="finance">1,130,699.75</td>
+<td class="finance">1,130,699.92</td>
 <td class="debts">780,000.00</td>
 <td class="problem"></td>
 </tr>
@@ -490,8 +490,8 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="pdm" data-institute="agentii" data-last-year="2015" data-added="2016-04-14" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person" href="carp-iurie/" title="Iurie Carp"><b class="pdm iurie-carp"></b></a><div><a href="carp-iurie/">Carp Iurie</a> <span>Directorul Agenţiei Turismului</span></div></td>
+<tr data-party="pdm" data-institute="diverse" data-last-year="2015" data-added="2016-04-14" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="carp-iurie/" title="Iurie Carp"><b class="pdm iurie-carp"></b></a><div><a href="carp-iurie/">Carp Iurie</a> <span>Ex-directorul Agenţiei Turismului</span></div></td>
 <td class="year">2015</td>
 <td class="income">96,443.00</td>
 <td class="buildings">2,715,008.00</td>
@@ -538,16 +538,16 @@
 <td class="problem"><b class="warning red"></b></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp liliana-catan"></b></a><div><a style="color:#ccc; text-decoration:none">Catan Liliana</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2014</td>
-<td class="income">394,599.88</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-05-04" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="catan-liliana/" title="Liliana Catan"><b class="fp liliana-catan"></b></a><div><a href="catan-liliana/">Catan Liliana</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">380,783.32</td>
 <td class="buildings">576,200.00</td>
-<td class="lands">49,106.00</td>
-<td class="goods">310,000.00</td>
+<td class="lands">50,606.00</td>
+<td class="goods">154,000.00</td>
 <td class="finance">0.00</td>
 <td class="debts">0.00</td>
-<td class="problem"></td>
+<td class="problem"><b class="warning red"></b></td>
 </tr>
 
 <tr data-party="pdm" data-institute="diverse" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
@@ -675,14 +675,14 @@
 <td class="buildings" colspan=8></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp tamara-chisca-doneva"></b></a><div><a style="color:#ccc; text-decoration:none">Chişca-Doneva Tamara</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2014</td>
-<td class="income">428,990.77</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-05-27" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="chisca-doneva-tamara/" title="Tamara Chişca-Doneva"><b class="fp tamara-chisca-doneva"></b></a><div><a href="chisca-doneva-tamara/">Chişca-Doneva Tamara</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">505,523.00</td>
 <td class="buildings">1,219,326.00</td>
-<td class="lands">442,336.40</td>
+<td class="lands">442,452.00</td>
 <td class="goods">250,000.00</td>
-<td class="finance">54,322.63</td>
+<td class="finance">61,725.80</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
 </tr>
@@ -699,6 +699,18 @@
 <td class="problem"></td>
 </tr>
 
+<tr data-party="fp" data-institute="autonome" data-last-year="2014" data-added="2016-05-17" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="cincilei-aureliu/" title="Aureliu Cincilei"><b class="fp aureliu-cincilei"></b></a><div><a href="cincilei-aureliu/">Cincilei Aureliu</a> <span>Viceguvernatorul BNM</span></div></td>
+<td class="year">2014</td>
+<td class="income">1,214,932.44</td>
+<td class="buildings">3,065,398.00</td>
+<td class="lands">610,391.00</td>
+<td class="goods">462,530.00</td>
+<td class="finance">1,871,841.21</td>
+<td class="debts">0.00</td>
+<td class="problem"></td>
+</tr>
+
 <tr data-party="pldm" data-institute="diverse" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
 <td class="name"><a class="icon_32_person"><b class="pldm ghenadie-ciobanu"></b></a><div><a style="color:#ccc; text-decoration:none">Ciobanu Ghenadie</a> <span>Ex-deputat</span></div></td>
 <td class="year">2014</td>
@@ -709,6 +721,18 @@
 <td class="finance">365,513.40</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
+</tr>
+
+<tr data-party="fp" data-institute="alte" data-last-year="2014" data-added="2016-07-01" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="ciobanu-lucia/" title="Lucia Ciobanu"><b class="fp woman"></b></a><div><a href="ciobanu-lucia/">Ciobanu Lucia</a> <span>Directorul Serviciului Stare Civilă</span></div></td>
+<td class="year">2014</td>
+<td class="income">279,149.42</td>
+<td class="buildings">0,000.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+<td class="problem"><b class="warning red"></b></td>
 </tr>
 
 <tr data-party="pldm" data-institute="parlament" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
@@ -735,10 +759,10 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="autonome" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp dinu-ciocan"></b></a><div><a style="color:#ccc; text-decoration:none">Ciocan Dinu</a> <span>Preşedintele CCA</span></div></td>
+<tr data-party="fp" data-institute="autonome" data-last-year="2014" data-added="2016-04-28" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="ciocan-dinu/" title="Dinu Ciocan"><b class="fp dinu-ciocan"></b></a><div><a href="ciocan-dinu/">Ciocan Dinu</a> <span>Preşedintele CCA</span></div></td>
 <td class="year">2014</td>
-<td class="income">233,145.08</td>
+<td class="income">313,145.08</td>
 <td class="buildings">31,000.00</td>
 <td class="lands">0.00</td>
 <td class="goods">145,000.00</td>
@@ -759,14 +783,26 @@
 <td class="problem"><b class="warning red"></b></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
+<tr data-party="fp" data-institute="autonome" data-last-year="2015" data-added="2016-04-30" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="cioclea-sergiu/" title="Sergiu Cioclea"><b class="fp sergiu-cioclea"></b></a><div><a href="cioclea-sergiu/">Cioclea Sergiu</a> <span>Guvernatorul BNM</span></div></td>
+<td class="year">2015</td>
+<td class="income">10,979,120.17</td>
+<td class="buildings">630,376.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">7,352,014.04</td>
+<td class="debts">0.00</td>
+<td class="problem"></td>
+</tr>
+
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-01-01" data-top="false" style="display:none">
 <td class="name"><a class="icon_32_person" href="clevadi-valentina/" title="Valentina Clevadî"><b class="fp woman"></b></a><div><a href="clevadi-valentina/">Clevadî Valentina</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2014</td>
-<td class="income">398,160.88</td>
+<td class="year">2015</td>
+<td class="income">434,365.18</td>
 <td class="buildings">769,634.00</td>
 <td class="lands">248,318.00</td>
 <td class="goods">0.00</td>
-<td class="finance">231,752.08</td>
+<td class="finance">272,000.00</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
 </tr>
@@ -783,14 +819,14 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-01-01" data-top="false" style="display:none">
 <td class="name"><a class="icon_32_person" href="cobaneanu-ala/" title="Ala Cobăneanu"><b class="fp ala-cobaneanu"></b></a><div><a href="cobaneanu-ala/">Cobăneanu Ala</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2014</td>
-<td class="income">400,604.82</td>
+<td class="year">2015</td>
+<td class="income">396,428.37</td>
 <td class="buildings">869,009.00</td>
 <td class="lands">171,569.00</td>
 <td class="goods">395,000.00</td>
-<td class="finance">25,086.00</td>
+<td class="finance">60,544.82</td>
 <td class="debts">1,650,000.00</td>
 <td class="problem"></td>
 </tr>
@@ -819,8 +855,8 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp ion-corolevschi"></b></a><div><a style="color:#ccc; text-decoration:none">Corolevschi Ion</a> <span>Judecătorul CSJ</span></div></td>
+<tr data-party="fp" data-institute="diverse" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person dead"><b class="ion-corolevschi"></b></a><div><a style="color:#ccc; text-decoration:none">Corolevschi Ion</a> <span>Ex-judecătorul CSJ</span></div></td>
 <td class="year">2014</td>
 <td class="income">388,981.30</td>
 <td class="buildings">1,240,936.00</td>
@@ -848,14 +884,26 @@
 <td class="buildings" colspan=8></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp woman"></b></a><div><a style="color:#ccc; text-decoration:none">Covalenco Elena</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2014</td>
-<td class="income">417,562.79</td>
-<td class="buildings">402,015.00</td>
-<td class="lands">4,100.67</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-05-13" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="covalenco-elena/" title="Elena Covalenco"><b class="fp woman"></b></a><div><a href="covalenco-elena/">Covalenco Elena</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">394,242.26</td>
+<td class="buildings">402,013.00</td>
+<td class="lands">7,572.33</td>
 <td class="goods">0.00</td>
 <td class="finance">0.00</td>
+<td class="debts">0.00</td>
+<td class="problem"></td>
+</tr>
+
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-05-17" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="craiu-nicolae/" title="Nicolae Craiu"><b class="fp nicolae-craiu"></b></a><div><a href="craiu-nicolae/">Craiu Nicolae</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">347,677.83</td>
+<td class="buildings">1,214,081.00</td>
+<td class="lands">0.00</td>
+<td class="goods">274,625.00</td>
+<td class="finance">2,800.00</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
 </tr>
@@ -884,14 +932,14 @@
 <td class="problem"><b class="warning red"></b></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp man"></b></a><div><a style="color:#ccc; text-decoration:none">Diaconu Iurie</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2013</td>
-<td class="income">208,916.00</td>
-<td class="buildings">656,012.00</td>
-<td class="lands">466,643.00</td>
-<td class="goods">66,553.00</td>
-<td class="finance">1,046.00</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-05-19" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="diaconu-iurie/" title="Iurie Diaconu"><b class="fp man"></b></a><div><a href="diaconu-iurie/">Diaconu Iurie</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">429,294.00</td>
+<td class="buildings">694,334.00</td>
+<td class="lands">426,912.00</td>
+<td class="goods">201,553.00</td>
+<td class="finance">1,086.00</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
 </tr>
@@ -932,11 +980,11 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp valeriu-doaga"></b></a><div><a style="color:#ccc; text-decoration:none">Doagă Valeriu</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2013</td>
-<td class="income">296,862.14</td>
-<td class="buildings">320,000.00</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-05-23" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="doaga-valeriu/" title="Valeriu Doagă"><b class="fp valeriu-doaga"></b></a><div><a href="doaga-valeriu/">Doagă Valeriu</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">519,530.40</td>
+<td class="buildings">65,739.00</td>
 <td class="lands">0.00</td>
 <td class="goods">75,000.00</td>
 <td class="finance">0.00</td>
@@ -951,7 +999,7 @@
 <td class="buildings">2,160,675.00</td>
 <td class="lands">451,987.00</td>
 <td class="goods">0.00</td>
-<td class="finance">165,528.57</td>
+<td class="finance">167,335.36</td>
 <td class="debts">1,477,000.00</td>
 <td class="problem"></td>
 </tr>
@@ -963,7 +1011,7 @@
 <td class="buildings">1,183,926.00</td>
 <td class="lands">499,081.00</td>
 <td class="goods">0.00</td>
-<td class="finance">171,913.70</td>
+<td class="finance">171,913.71</td>
 <td class="debts">0.00</td>
 <td class="problem"><b class="warning red"></b></td>
 </tr>
@@ -1004,16 +1052,16 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp ion-druta"></b></a><div><a style="color:#ccc; text-decoration:none">Druţă Ion</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2013</td>
-<td class="income">368,250.60</td>
-<td class="buildings">2,247,835.00</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-05-24" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="druta-ion/" title="Ion Druţă"><b class="fp ion-druta"></b></a><div><a href="druta-ion/">Druţă Ion</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">535,146.15</td>
+<td class="buildings">2,118,821.33</td>
 <td class="lands">71,627.00</td>
-<td class="goods">305,484.90</td>
-<td class="finance">112,910.43</td>
+<td class="goods">281,416.00</td>
+<td class="finance">748,077.34</td>
 <td class="debts">0.00</td>
-<td class="problem"></td>
+<td class="problem"><b class="warning red"></b></td>
 </tr>
 
 <tr data-party="fp" data-institute="guvern" data-last-year="2014" data-added="2016-03-24" data-top="false" style="display:none">
@@ -1064,16 +1112,16 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp svetlana-filincova"></b></a><div><a style="color:#ccc; text-decoration:none">Filincova Svetlana</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2013</td>
-<td class="income">296,012.83</td>
-<td class="buildings">1,259,171.00</td>
-<td class="lands">528,279.68</td>
-<td class="goods">286,712.00</td>
-<td class="finance">0.00</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-06-17" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="filincova-svetlana/" title="Svetlana Filincova"><b class="fp svetlana-filincova"></b></a><div><a href="filincova-svetlana/">Filincova Svetlana</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">459,771.48</td>
+<td class="buildings">2,593,875.00</td>
+<td class="lands">500,281.84</td>
+<td class="goods">51,000.00</td>
+<td class="finance">42,955.80</td>
 <td class="debts">0.00</td>
-<td class="problem"></td>
+<td class="problem"><b class="warning red"></b></td>
 </tr>
 
 <tr data-party="pdm" data-institute="guvern" data-last-year="2014" data-added="2016-01-01" data-top="true">
@@ -1184,14 +1232,14 @@
 <td class="problem"><b class="warning red"></b></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp maria-ghervas"></b></a><div><a style="color:#ccc; text-decoration:none">Ghervas Maria</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2013</td>
-<td class="income">311,019.00</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-05-24" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="ghervas-maria/" title="Maria Ghervas"><b class="fp maria-ghervas"></b></a><div><a href="ghervas-maria/">Ghervas Maria</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">742,171.93</td>
 <td class="buildings">817,728.00</td>
 <td class="lands">104,134.00</td>
 <td class="goods">220,000.00</td>
-<td class="finance">39,171.00</td>
+<td class="finance">10,026.68</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
 </tr>
@@ -1268,14 +1316,14 @@
 <td class="problem"><b class="warning red"></b></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp nicolae-gordila"></b></a><div><a style="color:#ccc; text-decoration:none">Gordilă Nicolae</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2013</td>
-<td class="income">265,329.23</td>
-<td class="buildings">4,053,515.00</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-06-22" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="gordila-nicolae/" title="Nicolae Gordilă"><b class="fp nicolae-gordila"></b></a><div><a href="gordila-nicolae/">Gordilă Nicolae</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">447,729.61</td>
+<td class="buildings">2,071,912.00</td>
 <td class="lands">460,980.00</td>
-<td class="goods">96,000.00</td>
-<td class="finance">342,634.86</td>
+<td class="goods">363,907.00</td>
+<td class="finance">49,250.97</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
 </tr>
@@ -1292,8 +1340,8 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="alte" data-last-year="2015" data-added="2016-04-06" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person" href="gospodarenco-marin/" title="Marin Gospodarenco"><b class="fp marin-gospodarenco"></b></a><div><a href="gospodarenco-marin/">Gospodarenco Marin</a> <span>Directorul BNS</span></div></td>
+<tr data-party="fp" data-institute="diverse" data-last-year="2015" data-added="2016-04-06" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="gospodarenco-marin/" title="Marin Gospodarenco"><b class="fp marin-gospodarenco"></b></a><div><a href="gospodarenco-marin/">Gospodarenco Marin</a> <span>Ex-directorul BNS</span></div></td>
 <td class="year">2015</td>
 <td class="income">109,910.35</td>
 <td class="buildings">0.00</td>
@@ -1811,8 +1859,8 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="diverse" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp anatolie-munteanu"></b></a><div><a style="color:#ccc; text-decoration:none">Munteanu Anatolie</a> <span>Ex-avocat parlamentar</span></div></td>
+<tr data-party="fp" data-institute="guvern" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person"><b class="fp anatolie-munteanu"></b></a><div><a style="color:#ccc; text-decoration:none">Munteanu Anatolie</a> <span>Viceministrul Justiţiei</span></div></td>
 <td class="year">2013</td>
 <td class="income">600,222.95</td>
 <td class="buildings">1,161,766.28</td>
@@ -1823,14 +1871,14 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="pl" data-institute="guvern" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
+<tr data-party="pl" data-institute="guvern" data-last-year="2015" data-added="2016-01-01" data-top="false" style="display:none">
 <td class="name"><a class="icon_32_person" href="munteanu-valeriu/" title="Valeriu Munteanu"><b class="pl valeriu-munteanu"></b></a><div><a href="munteanu-valeriu/">Munteanu Valeriu</a> <span>Ministrul Mediului</span></div></td>
-<td class="year">2014</td>
-<td class="income">377,298.74</td>
+<td class="year">2015</td>
+<td class="income">306,565.09</td>
 <td class="buildings">146,603.00</td>
 <td class="lands">0.00</td>
-<td class="goods">0.00</td>
-<td class="finance">2,932.66</td>
+<td class="goods">150,000.00</td>
+<td class="finance">5,224.24</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
 </tr>
@@ -1907,8 +1955,8 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp svetlana-novac"></b></a><div><a style="color:#ccc; text-decoration:none">Novac Svetlana</a> <span>Judecătorul CSJ</span></div></td>
+<tr data-party="fp" data-institute="diverse" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person"><b class="fp svetlana-novac"></b></a><div><a style="color:#ccc; text-decoration:none">Novac Svetlana</a> <span>Ex-judecătorul CSJ</span></div></td>
 <td class="year">2013</td>
 <td class="income">217,193.00</td>
 <td class="buildings">495,078.00</td>
@@ -1996,8 +2044,8 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="autonome" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp vitalie-panis"></b></a><div><a style="color:#ccc; text-decoration:none">Paniş Vitalie</a> <span>Directorul CNPDCP</span></div></td>
+<tr data-party="fp" data-institute="diverse" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person"><b class="fp vitalie-panis"></b></a><div><a style="color:#ccc; text-decoration:none">Paniş Vitalie</a> <span>Ex-directorul CNPDCP</span></div></td>
 <td class="year">2013</td>
 <td class="income">384,933.40</td>
 <td class="buildings">0.00</td>
@@ -2068,6 +2116,18 @@
 <td class="problem"></td>
 </tr>
 
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-06-23" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="pitic-mariana/" title="Mariana Pitic"><b class="fp mariana-pitic"></b></a><div><a href="pitic-mariana/">Pitic Mariana</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">152,987.75</td>
+<td class="buildings">0.00</td>
+<td class="lands">163,000.00</td>
+<td class="goods">11,000.00</td>
+<td class="finance">1,457.57</td>
+<td class="debts">0.00</td>
+<td class="problem"><b class="warning red"></b></td>
+</tr>
+
 <tr data-party="pdm" data-institute="diverse" data-last-year="2014" data-added="2016-01-01" data-top="true">
 <td class="name"><a class="icon_32_person" href="plahotniuc-vladimir/" title="Vlad (Vladimir) Plahotniuc"><b class="pdm vlad-plahotniuc"></b></a><div><a href="plahotniuc-vladimir/">Plahotniuc Vlad</a> <span>Ex-deputat</span></div></td>
 <td class="year">2014</td>
@@ -2104,14 +2164,14 @@
 <td class="problem"><b class="warning red"></b></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-01-01" data-top="false" style="display:none">
 <td class="name"><a class="icon_32_person" href="poalelungi-mihail/" title="Mihail Poalelungi"><b class="fp mihai-poalelungi"></b></a><div><a href="poalelungi-mihail/">Poalelungi Mihail</a> <span>Preşedintele CSJ</span></div></td>
-<td class="year">2014</td>
-<td class="income">561,937.99</td>
+<td class="year">2015</td>
+<td class="income">630,165.70</td>
 <td class="buildings">2,297,436.10</td>
 <td class="lands">0.00</td>
 <td class="goods">1,680,000.00</td>
-<td class="finance">6,670,549.52</td>
+<td class="finance">7,470,451.98</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
 </tr>
@@ -2176,16 +2236,16 @@
 <td class="problem"><b class="warning red"></b></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp tatiana-raducanu"></b></a><div><a style="color:#ccc; text-decoration:none">Răducanu Tatiana</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2013</td>
-<td class="income">551,584.80</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-06-29" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="raducanu-tatiana/" title="Tatiana Răducanu"><b class="fp tatiana-raducanu"></b></a><div><a href="raducanu-tatiana/">Răducanu Tatiana</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">579,164.12</td>
 <td class="buildings">1,582,008.00</td>
-<td class="lands">0.00</td>
+<td class="lands">325,699.00</td>
 <td class="goods">150,000.00</td>
-<td class="finance">552,148.00</td>
-<td class="debts">420,000.00</td>
-<td class="problem"></td>
+<td class="finance">584,386.05</td>
+<td class="debts">100,000.00</td>
+<td class="problem"><b class="warning red"></b></td>
 </tr>
 
 <tr data-party="pcrm" data-institute="parlament" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
@@ -2368,15 +2428,15 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp oleg-sternioala"></b></a><div><a style="color:#ccc; text-decoration:none">Sternioală Oleg</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2013</td>
-<td class="income">92,322.90</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-06-02" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="sternioala-oleg/" title="Oleg Sternioală"><b class="fp oleg-sternioala"></b></a><div><a href="sternioala-oleg/">Sternioală Oleg</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">457,959.10</td>
 <td class="buildings">0.00</td>
 <td class="lands">0.00</td>
-<td class="goods">100,000.00</td>
-<td class="finance">4,991.52</td>
-<td class="debts">0.00</td>
+<td class="goods">497,474.00</td>
+<td class="finance">30,128.65</td>
+<td class="debts">1,428,810.27</td>
 <td class="problem"></td>
 </tr>
 
@@ -2402,6 +2462,18 @@
 <td class="finance">946,943.04</td>
 <td class="debts">0.00</td>
 <td class="problem"><b class="warning red"></b></td>
+</tr>
+
+<tr data-party="fp" data-institute="autonome" data-last-year="2014" data-added="2016-05-18" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="sturzu-ion/" title="Ion Sturzu"><b class="fp ion-sturzu"></b></a><div><a href="sturzu-ion/">Sturzu Ion</a> <span>Viceguvernatorul BNM</span></div></td>
+<td class="year">2014</td>
+<td class="income">827,526.09</td>
+<td class="buildings">665,031.00</td>
+<td class="lands">0.00</td>
+<td class="goods">0.00</td>
+<td class="finance">543,262.76</td>
+<td class="debts">0.00</td>
+<td class="problem"></td>
 </tr>
 
 <tr data-party="pldm" data-institute="diverse" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
@@ -2536,13 +2608,25 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2014" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp nadejda-toma"></b></a><div><a style="color:#ccc; text-decoration:none">Toma Nadejda</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2014</td>
-<td class="income">165,685.21</td>
+<tr data-party="fp" data-institute="diverse" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person"><b class="fp marc-tkaciuk"></b></a><div><a style="color:#ccc; text-decoration:none">Tkaciuk Marc</a> <span>Ex-deputat</span></div></td>
+<td class="year">2013</td>
+<td class="income">174,908.20</td>
+<td class="buildings">487,097.00</td>
+<td class="lands">23,107.00</td>
+<td class="goods">120,000.00</td>
+<td class="finance">0.00</td>
+<td class="debts">0.00</td>
+<td class="problem"></td>
+</tr>
+
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-06-29" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="toma-nadejda/" title="Nadejda Toma"><b class="fp nadejda-toma"></b></a><div><a href="toma-nadejda/">Toma Nadejda</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">269,722.21</td>
 <td class="buildings">438,559.00</td>
 <td class="lands">47,484.00</td>
-<td class="goods">120,000.00</td>
+<td class="goods">85,000.00</td>
 <td class="finance">0.00</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
@@ -2572,14 +2656,14 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="diverse" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp marc-tkaciuk"></b></a><div><a style="color:#ccc; text-decoration:none">Tkaciuk Marc</a> <span>Ex-deputat</span></div></td>
-<td class="year">2013</td>
-<td class="income">174,908.20</td>
-<td class="buildings">487,097.00</td>
-<td class="lands">23,107.00</td>
-<td class="goods">120,000.00</td>
-<td class="finance">0.00</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-06-30" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="turcan-anatolie/" title="Anatolie Ţurcan"><b class="fp anatolie-turcan"></b></a><div><a href="turcan-anatolie/">Ţurcan Anatolie</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">410,794.18</td>
+<td class="buildings">1,500,000.00</td>
+<td class="lands">198,595.00</td>
+<td class="goods">200,000.00</td>
+<td class="finance">6,493.37</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
 </tr>
@@ -2656,16 +2740,28 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="agentii" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp grigore-varanita"></b></a><div><a style="color:#ccc; text-decoration:none">Varaniţa Grigore</a> <span>Directorul ANRCETI</span></div></td>
-<td class="year">2013</td>
-<td class="income">1,114,013.58</td>
-<td class="buildings">2,765,543.81</td>
+<tr data-party="fp" data-institute="alte" data-last-year="2015" data-added="2016-06-02" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="valcov-vitalie/" title="Vitalie Valcov"><b class="fp man"></b></a><div><a href="valcov-vitalie/">Valcov Vitalie</a> <span>Directorul BNS</span></div></td>
+<td class="year">2015</td>
+<td class="income">311,184.37</td>
+<td class="buildings">254,772.50</td>
+<td class="lands">0.00</td>
+<td class="goods">50,800.00</td>
+<td class="finance">4,949.00</td>
+<td class="debts">0.00</td>
+<td class="problem"></td>
+</tr>
+
+<tr data-party="fp" data-institute="agentii" data-last-year="2014" data-added="2016-04-29" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="varanita-grigore/" title="Grigore Varaniţa"><b class="fp grigore-varanita"></b></a><div><a href="varanita-grigore/">Varaniţa Grigore</a> <span>Directorul ANRCETI</span></div></td>
+<td class="year">2014</td>
+<td class="income">702,072.01</td>
+<td class="buildings">3,182,762.93</td>
 <td class="lands">97,253.00</td>
 <td class="goods">128,619.60</td>
-<td class="finance">7,446.16</td>
-<td class="debts">800,000.00</td>
-<td class="problem"></td>
+<td class="finance">118,441.74</td>
+<td class="debts">849,000.00</td>
+<td class="problem"><b class="warning red"></b></td>
 </tr>
 
 <tr data-party="plr" data-institute="diverse" data-last-year="2012" data-added="2016-01-01" data-top="false" style="display:none">
@@ -2680,16 +2776,16 @@
 <td class="problem"></td>
 </tr>
 
-<tr data-party="fp" data-institute="judecatori" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
-<td class="name"><a class="icon_32_person"><b class="fp tatiana-vieru"></b></a><div><a style="color:#ccc; text-decoration:none">Vieru Tatiana</a> <span>Judecătorul CSJ</span></div></td>
-<td class="year">2013</td>
-<td class="income">229,157.08</td>
-<td class="buildings">999,498.00</td>
-<td class="lands">75,124.00</td>
-<td class="goods">0.00</td>
-<td class="finance">732,045.20</td>
+<tr data-party="fp" data-institute="judecatori" data-last-year="2015" data-added="2016-06-30" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="vieru-tatiana/" title="Tatiana Vieru"><b class="fp tatiana-vieru"></b></a><div><a  href="vieru-tatiana/">Vieru Tatiana</a> <span>Judecătorul CSJ</span></div></td>
+<td class="year">2015</td>
+<td class="income">436,555.07</td>
+<td class="buildings">807,990.50</td>
+<td class="lands">37,562.00</td>
+<td class="goods">104,500.00</td>
+<td class="finance">896,251.51</td>
 <td class="debts">0.00</td>
-<td class="problem"></td>
+<td class="problem"><b class="warning red"></b></td>
 </tr>
 
 <tr data-party="fp" data-institute="judecatori" data-last-year="2013" data-added="2016-01-01" data-top="false" style="display:none">
@@ -2752,14 +2848,26 @@
 <td class="problem"><b class="warning red"></b></td>
 </tr>
 
-<tr data-party="pcrm" data-institute="parlament" data-last-year="2014" data-added="2016-01-01" data-top="true">
+<tr data-party="pcrm" data-institute="parlament" data-last-year="2015" data-added="2016-01-01" data-top="true">
 <td class="name"><a class="icon_32_person" href="voronin-vladimir/" title="Vladimir Voronin"><b class="pcrm vladimir-voronin"></b></a><div><a href="voronin-vladimir/">Voronin Vladimir</a> <span>Deputat în Parlamentul RM</span></div></td>
-<td class="year">2014</td>
-<td class="income">374,950.48</td>
+<td class="year">2015</td>
+<td class="income">377,813.42</td>
 <td class="buildings">2,180,288.00</td>
 <td class="lands">324,819.00</td>
 <td class="goods">0.00</td>
-<td class="finance">1,491,473.29</td>
+<td class="finance">1,749,196.36</td>
+<td class="debts">0.00</td>
+<td class="problem"></td>
+</tr>
+
+<tr data-party="pdm" data-institute="alte" data-last-year="2014" data-added="2016-05-15" data-top="false" style="display:none">
+<td class="name"><a class="icon_32_person" href="vrabie-vitalie/" title="Vitalie Vrabie"><b class="pdm vitalie-vrabie"></b></a><div><a href="vrabie-vitalie/">Vrabie Vitalie</a> <span>Directorul Serviciului Vamal</span></div></td>
+<td class="year">2014</td>
+<td class="income">536,665.95</td>
+<td class="buildings">1,816,052.00</td>
+<td class="lands">35,517.00</td>
+<td class="goods">121,560.00</td>
+<td class="finance">0.00</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
 </tr>
@@ -2771,7 +2879,7 @@
 <td class="buildings">0.00</td>
 <td class="lands">29,904.00</td>
 <td class="goods">208,046.25</td>
-<td class="finance">2,173.42</td>
+<td class="finance">2,182.90</td>
 <td class="debts">0.00</td>
 <td class="problem"></td>
 </tr>
@@ -2814,117 +2922,11 @@
 
 </tbody>
 </table>
+
+<p class="tableBottomInfo"><span class="hidden_when_filtered">Topul include 10 dintre cei mai mediatizaţi demnitari din cei <!--#echo var="tshow_all" --> monitorizaţi în cadrul prezentului site.<br></span>Demnitarii pot fi sortaţi pe verticală după mai multe criterii poziţionate în bara de sus.</p>
+
 </div>
 
-<div class="top_list persons_list columns c2">
-	<div>
-		<h2 class="tableTitle">Topul celor mai mediatizaţi demnitari</h2>
-		<table class="table tablesorter">
-			<colgroup>
-				<col class="name" style="width:280px">
-				<col>
-				<col>
-				<col>
-			</colgroup>
-			<thead>
-				<tr>
-					<th class="name" style="" title="Sortează după nume">Numele, Prenumele<span class="icon-angle-down"></span><span class="icon-angle-up"></span>
-					</th>
-					<th class="buildings" title="Sortează după valoarea imobilelor"><span class="icon-business_office"></span>Clădiri<span class="icon-angle-down"></span><span class="icon-angle-up"></span>
-					</th>
-					<th class="buildings" title="Sortează după valoarea imobilelor"><span class="icon-business_office"></span>Clădiri<span class="icon-angle-down"></span><span class="icon-angle-up"></span>
-					</th>
-					<th class="buildings" title="Sortează după valoarea imobilelor"><span class="icon-business_office"></span>Clădiri<span class="icon-angle-down"></span><span class="icon-angle-up"></span>
-					</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td class="name"><a class="icon_32_person" href="zotea-alina/" title="Alina Zotea"><b class="pl alina-zotea"></b></a>
-						<div><a href="zotea-alina/">Zotea Alina</a> <span>Deputat în Parlamentul RM</span></div>
-					</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-				</tr>
-				<tr>
-					<td class="name">
-						<a class="icon_32_person" href="zotea-alina/" title="Alina Zotea"><b class="pl alina-zotea"></b></a>
-						<div><a href="zotea-alina/">Zotea Alina</a> <span>Deputat în Parlamentul RM</span></div>
-					</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-				</tr>
-				<tr>
-					<td class="name">
-						<a class="icon_32_person" href="zotea-alina/" title="Alina Zotea"><b class="pl alina-zotea"></b></a>
-						<div><a href="zotea-alina/">Zotea Alina</a> <span>Deputat în Parlamentul RM</span></div>
-					</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-				</tr>
-			</tbody>
-		</table>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum esse laborum non perspiciatis quis repellat velit. Ad aperiam architecto cupiditate debitis earum expedita fugiat impedit praesentium reiciendis repudiandae. Blanditiis, facere?</p>
-	</div>
-	<div>
-		<h2 class="tableTitle">Topul celor mai mediatizaţi demnitari</h2>
-		<table class="table tablesorter">
-			<colgroup>
-				<col class="name" style="width:280px">
-				<col>
-				<col>
-				<col>
-			</colgroup>
-			<thead>
-				<tr>
-					<th class="name" style="" title="Sortează după nume">Numele, Prenumele<span class="icon-angle-down"></span><span class="icon-angle-up"></span>
-					</th>
-					<th class="buildings" title="Sortează după valoarea imobilelor"><span class="icon-business_office"></span>Clădiri<span class="icon-angle-down"></span><span class="icon-angle-up"></span>
-					</th>
-					<th class="buildings" title="Sortează după valoarea imobilelor"><span class="icon-business_office"></span>Clădiri<span class="icon-angle-down"></span><span class="icon-angle-up"></span>
-					</th>
-					<th class="buildings" title="Sortează după valoarea imobilelor"><span class="icon-business_office"></span>Clădiri<span class="icon-angle-down"></span><span class="icon-angle-up"></span>
-					</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td class="name">
-						<a class="icon_32_person" href="zotea-alina/" title="Alina Zotea"><b class="pl alina-zotea"></b></a>
-
-						<div><a href="zotea-alina/">Zotea Alina</a> <span>Deputat în Parlamentul RM</span></div>
-					</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-				</tr>
-				<tr>
-					<td class="name">
-						<a class="icon_32_person" href="zotea-alina/" title="Alina Zotea"><b class="pl alina-zotea"></b></a>
-
-						<div><a href="zotea-alina/">Zotea Alina</a> <span>Deputat în Parlamentul RM</span></div>
-					</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-				</tr>
-				<tr>
-					<td class="name">
-						<a class="icon_32_person" href="zotea-alina/" title="Alina Zotea"><b class="pl alina-zotea"></b></a>
-
-						<div><a href="zotea-alina/">Zotea Alina</a> <span>Deputat în Parlamentul RM</span></div>
-					</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-					<td class="buildings">124,344.59</td>
-				</tr>
-			</tbody>
-		</table>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum esse laborum non perspiciatis quis repellat velit. Ad aperiam architecto cupiditate debitis earum expedita fugiat impedit praesentium reiciendis repudiandae. Blanditiis, facere?</p>
-	</div>
-</div>
+<!--#include virtual="top.shtml" -->
 
 <!--#include virtual="/_/includes/2.shtml" -->

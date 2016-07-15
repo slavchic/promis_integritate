@@ -1,0 +1,1088 @@
+<!--#set var="title" value="Ion Druţă" -->
+<!--#set var="personuri" value="ion-druta" -->
+<!--#include virtual="/_/includes/1.shtml" -->
+<!--#include virtual="/_/includes/person1.shtml" -->
+<!--#include virtual="text.shtml" -->
+
+<script type="text/javascript">
+var user_data = [
+{
+label: "Venituri", bars: {order: 1},
+data: [
+[2008, 81418.50],
+[2009, 88995.23],
+[2010, 79399.08],
+[2011, 81797.04],
+[2012, 282610.28],
+[2013, 368250.60],
+[2014, 728686.69],
+[2015, 535146.15]
+]},
+{label: "Cladiri", bars: {order: 2},
+data: [
+[2007, 258027.33],
+[2008, 258027.33],
+[2009, 258027.33],
+[2010, 258027.33],
+[2011, 258027.33],
+[2012, 2118821.33],
+[2013, 2118821.33],
+[2014, 2118821.33],
+[2015, 2118821.33]
+]},
+{label: "Terenuri", bars: {order: 3},
+data: [
+[2015, 0]
+]},
+{label: "Bunuri mobile", bars: {order: 4},
+data: [
+[2007, 0],
+[2008, 0],
+[2009, 88126],
+[2010, 281416],
+[2011, 281416],
+[2012, 281416],
+[2013, 281416],
+[2014, 281416],
+[2015, 281416]
+]},
+{label: "Active financiare", bars: {order: 5},
+data: [
+[2013, 112910.43],
+[2014, 391731.32],
+[2015, 748077.34]
+]},
+{label: "Datorii", bars: {order: 6},
+data: [
+[2015, 0]
+]}
+];
+</script>
+
+<div class="declarations_list">
+
+<div class="declaration" id="d2015">
+
+<div class="top">
+<div class="year"><h2>2015</h2>&nbsp;<a href="/pdf/druta-ion-2015-csm.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+535,146.15</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t12" --></span></span>
+</td>
+<td class="value">
+<span class="pos">251.7<b></b></span>
+<span class="pos">34.4<b></b></span>
+</td>
+<td class="value">
+<span class="pos">249.0<b></b></span>
+<span>&nbsp;</span>
+</td></tr>
+<tr class="result"><td colspan="3">535,146.15 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1996</span><i>⅔</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2012</span></span>
+</td>
+<td class="quantity">
+<span>69.5</span>
+<span>181.6</span>
+</td>
+<td class="value">
+<span>387.0<b class="warning grey"><i>1</i></b></span>
+<span>1,860.8<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">2,118,821.33 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2012</span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2003</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.03</span>
+<span>0.06</span>
+</td>
+<td class="value">
+<span>71.6<b></b></span>
+<span>—<b class="warning grey"><i>2</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">71,627.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Honda CR-V (2009) / 2010</span></span>
+<span><b></b><span>Toyota Yaris (2007) / 2009</span></span>
+</td>
+<td class="value">
+<span>193.3<b class="warning grey"><i>3</i></b></span>
+<span>88.1<b class="warning grey"><i>4</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">281,416.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t51" --></span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t52" --></span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t53" --></span><i>x3</i></span>
+</td>
+<td class="value">
+<span>2.0&nbsp;$<b></b></span>
+<span>19.7&nbsp;€<b></b></span>
+<span>286.1<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">748,077.34 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<ol>
+<li>În tabel este indicată valoarea cadastrală integrală a apartamentului. Datele privind valoarea proprietăţilor deţinute de titular (din grafic) conţin doar valoarea cotei-părţi aflate în posesia acestuia.
+<li>Valoarea terenului intravilan (2003) nu este specificată în declaraţie, aceasta fiind inclusă în valoarea casei de locuit.
+<li>Valoarea automobilului Honda CR-V (12,000 euro) este calculată în lei la cursul BNM din 31.12.2010.
+<li>Valoarea automobilului Toyota Yaris (5,000 euro) este calculată în lei la cursul BNM din 31.12.2009.
+</ol>
+</div>
+
+</div>
+
+<!--#include virtual="interese.shtml" -->
+
+<!--2014-->
+
+<div class="declaration" id="d2014">
+
+<div class="top">
+<div class="year"><h2>2014</h2>&nbsp;<a href="/pdf/druta-ion-2014-csm.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+728,686.69</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t12" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t19" --></span></span>
+</td>
+<td class="value">
+<span class="pos">216.4<b></b></span>
+<span class="pos">28.4<b></b></span>
+<span>&nbsp;</span>
+</td>
+<td class="value">
+<span class="pos">228.0<b class="warning grey"><i>1</i></b></span>
+<span>&nbsp;</span>
+<span class="pos">256.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">728,686.69 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1996</span><i>⅔</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2012</span></span>
+</td>
+<td class="quantity">
+<span>69.5</span>
+<span>181.6</span>
+</td>
+<td class="value">
+<span>387.0<b></b></span>
+<span>1,860.8<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">2,118,821.33 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2012</span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2003</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.03</span>
+<span>0.06</span>
+</td>
+<td class="value">
+<span>71.6<b></b></span>
+<span>—<b class="warning grey"><i>2</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">71,627.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Honda CR-V (2009) / 2010</span></span>
+<span><b></b><span>Toyota Yaris (2007) / 2009</span></span>
+</td>
+<td class="value">
+<span>193.3<b class="warning grey"><i>3</i></b></span>
+<span>88.1<b class="warning grey"><i>4</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">281,416.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t52" --></span><i>x3</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t53" --></span><i>x3</i></span>
+</td>
+<td class="value">
+<span>20.2&nbsp;€<b></b></span>
+<span>8.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">391,731.32 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<ol>
+<li>Valoarea veniturilor obţinute în valută străină este calculată în lei la cursul BNM din 31.12.2014.
+<li>Valoarea terenului intravilan (2003) nu este specificată în declaraţie, aceasta fiind inclusă în valoarea casei de locuit.
+<li>Valoarea automobilului Honda CR-V (12,000 euro) este calculată în lei la cursul BNM din 31.12.2010.
+<li>Valoarea automobilului Toyota Yaris (5,000 euro) este calculată în lei la cursul BNM din 31.12.2009.
+</ol>
+</div>
+
+</div>
+
+<!--2013-->
+
+<div class="declaration" id="d2013">
+
+<div class="top">
+<div class="year"><h2>2013</h2>&nbsp;<a href="/pdf/druta-ion-2013-csm.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+368,250.60</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+</td>
+<td class="value">
+<span class="pos">98.0<b></b></span>
+</td>
+<td class="value">
+<span class="pos">270.2<b class="warning grey"><i>1</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">368,250.60 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1996</span><i>⅔</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / 2012</span></span>
+</td>
+<td class="quantity">
+<span>69.5</span>
+<span>181.6</span>
+</td>
+<td class="value">
+<span>387.0<b></b></span>
+<span>1,860.8<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">2,118,821.33 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2012</span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2003</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.03</span>
+<span>0.06</span>
+</td>
+<td class="value">
+<span>71.6<b></b></span>
+<span>—<b class="warning grey"><i>2</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">71,627.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Honda CR-V (2009) / 2010</span></span>
+<span><b></b><span>Toyota Yaris (2007) / 2009</span></span>
+</td>
+<td class="value">
+<span>193.3<b class="warning grey"><i>3</i></b></span>
+<span>88.1<b class="warning grey"><i>4</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">281,416.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t51" --></span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t52" --></span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t53" --></span><i>x3</i></span>
+</td>
+<td class="value">
+<span>0.4&nbsp;$<b></b></span>
+<span>6.0&nbsp;€<b></b></span>
+<span>0.0<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">112,910.43 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<ol>
+<li>Valoarea veniturilor obţinute în valută străină este calculată în lei la cursul BNM din 31.12.2013.
+<li>Valoarea terenului intravilan (2003) nu este specificată în declaraţie, aceasta fiind inclusă în valoarea casei de locuit.
+<li>Valoarea automobilului Honda CR-V (12,000 euro) este calculată în lei la cursul BNM din 31.12.2010.
+<li>Valoarea automobilului Toyota Yaris (5,000 euro) este calculată în lei la cursul BNM din 31.12.2009.
+</ol>
+</div>
+
+</div>
+
+<!--2012-->
+
+<div class="declaration" id="d2012">
+
+<div class="top">
+<div class="year"><h2>2012</h2>&nbsp;<a href="/pdf/druta-ion-2012-csm.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned"><b class="warning"></b> +282,610.28</span><span class="spent">-1,932,421.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t2" --></td><td><!--#if expr="$sex" --><!--#echo encoding="none" var="t1t3" --><!--#else --><!--#echo encoding="none" var="t1t3a" --><!--#endif --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t11" --></span></span>
+<span><b></b><span><!--#echo encoding="none" var="t19" --></span></span>
+</td>
+<td class="value">
+<span class="pos">74.0<b></b></span>
+<span class="pos">25.0<b></b></span>
+</td>
+<td class="value">
+<span class="pos">183.6<b></b></span>
+<span>&nbsp;</span>
+</td></tr>
+<tr class="result"><td colspan="3">282,610.28 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1996</span><i>⅔</i></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t22" --> / 2012</span></span>
+</td>
+<td class="quantity">
+<span>69.5</span>
+<span class="pos">181.6</span>
+</td>
+<td class="value">
+<span>387.0<b></b></span>
+<span class="neg">1,860.8<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">2,118,821.33 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t33" --> / 2012</span><i>x1</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2003</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span class="pos">0.03</span>
+<span>0.06</span>
+</td>
+<td class="value">
+<span class="neg">71.6<b class="warning"><i>1</i></b></span>
+<span>—<b class="warning grey"><i>2</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">71,627.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Honda CR-V (2009) / 2010</span></span>
+<span><b></b><span>Toyota Yaris (2007) / 2009</span></span>
+</td>
+<td class="value">
+<span>193.3<b class="warning grey"><i>3</i></b></span>
+<span>88.1<b class="warning"><i>4</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">281,416.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments">
+<ol>
+<li>Terenul intravilan (2012) <b>a fost omis</b> din declaraţie. Tabelul e completat pe baza <a class="local" href="#d2013">Declaraţiei 2013</a>.
+<li>Valoarea terenului intravilan (2003) nu este specificată în declaraţie, aceasta fiind inclusă în valoarea casei de locuit.
+<li>Valoarea automobilului Honda CR-V (12,000 euro) este calculată în lei la cursul BNM din 31.12.2010.
+<li>Automobilul Toyota Yaris <b>a fost omis</b> din declaraţie. Tabelul e completat pe baza Declaraţiei 2013.
+</ol>
+</div>
+
+</div>
+
+<!--2011-->
+
+<div class="declaration" id="d2011">
+
+<div class="top">
+<div class="year"><h2>2011</h2>&nbsp;<a href="/pdf/druta-ion-2011-csm.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+81,797.04</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t4" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><!--#echo encoding="none" var="t11" --></span>
+</td>
+<td class="value">
+<span class="pos">81.8<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">81,797.04 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1996</span><i>⅔</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / ?</span></span>
+</td>
+<td class="quantity">
+<span>69.5</span>
+<span>—</span>
+</td>
+<td class="value">
+<span>387.0<b></b></span>
+<span>—<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">258,027.33 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2003</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.06</span>
+</td>
+<td class="value">
+<span>—<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span>Honda CR-V (2009) / 2010</span></span>
+<span><b></b><span>Toyota Yaris (2007) / 2009</span></span>
+</td>
+<td class="value">
+<span>193.3<b></b></span>
+<span>88.1<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">281,416.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments">
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment. Tabelul este completat în baza declaraţiilor depuse în anii următori.</p>
+</div>
+
+</div>
+
+<!--2010-->
+
+<div class="declaration" id="d2010">
+
+<div class="top">
+<div class="year"><h2>2010</h2>&nbsp;<a href="/pdf/druta-ion-2010-csm.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned"><b class="warning"></b>+79,399.08</span><span class="spent">-193,290.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t4" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><!--#echo encoding="none" var="t11" --></span>
+<span><b></b><!--#echo encoding="none" var="t12" --></span>
+</td>
+<td class="value">
+<span class="pos">76.6<b></b></span>
+<span class="pos">2.8<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">79,399.08 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1996</span><i>⅔</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / ?</span></span>
+</td>
+<td class="quantity">
+<span>69.5</span>
+<span>—</span>
+</td>
+<td class="value">
+<span>387.0<b></b></span>
+<span>—<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">258,027.33 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2003</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.06</span>
+</td>
+<td class="value">
+<span>—<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span>Honda CR-V (2009) / 2010</span></span>
+<span><b></b><span>Toyota Yaris (2007) / 2009</span></span>
+</td>
+<td class="value">
+<span class="neg">193.3<b class="warning"><i>1</i></b></span>
+<span>88.1<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">281,416.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments">
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
+<ol>
+<li>Automobilul Honda CR-V <b>a fost omis</b> din declaraţie, contrar prevederilor legale de a declara acest bun ca proprietate dobândită în 2010. Tabelul e completat pe baza <a class="local" href="#d2012">Declaraţiei 2012</a>.
+</ol>
+</div>
+
+</div>
+
+<!--2009-->
+
+<div class="declaration" id="d2009">
+
+<div class="top">
+<div class="year"><h2>2009</h2>&nbsp;<a href="/pdf/druta-ion-2009-csm.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+88,995.23</span><span class="spent">-88,126.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t4" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><!--#echo encoding="none" var="t11" --></span>
+<span><b></b><!--#echo encoding="none" var="t12" --></span>
+</td>
+<td class="value">
+<span class="pos">83.4<b></b></span>
+<span class="pos">5.6<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">88,995.23 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1996</span><i>⅔</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / ?</span></span>
+</td>
+<td class="quantity">
+<span>69.5</span>
+<span>—</span>
+</td>
+<td class="value">
+<span>387.0<b></b></span>
+<span>—<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">258,027.33 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2003</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.06</span>
+</td>
+<td class="value">
+<span>—<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span>Toyota Yaris (2007) / 2009</span></span>
+</td>
+<td class="value">
+<span class="neg">88.1<b class="warning"><i>1</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">88,126.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments">
+<p>Declaraţia nu conţine informaţii despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
+<ol>
+<li>Automobilul Toyota Yaris <b>a fost omis</b> din declaraţie, contrar prevederilor legale de a declara acest bun ca proprietate dobândită în 2009. Tabelul e completat pe baza <a class="local" href="#d2013">Declaraţiei 2013</a>.
+</ol>
+</div>
+
+</div>
+
+<!--2008-->
+
+<div class="declaration" id="d2008">
+
+<div class="top">
+<div class="year"><h2>2008</h2>&nbsp;<a href="/pdf/druta-ion-2008-csm.pdf" class="icon-data_doc_pdf"><span><!--#echo encoding="none" var="tdocoriginal" --></span></a></div>
+<div class="result"><span class="earned">+81,418.50</span><span class="spent">-0.00</span></div>
+</div>
+
+<div class="cont">
+<div class="income">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_money"></span> <!--#echo encoding="none" var="t1" --></th></tr><tr><td><!--#echo encoding="none" var="t1t1" --></td><td><!--#echo encoding="none" var="t1t4" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><!--#echo encoding="none" var="t11" --></span>
+</td>
+<td class="value">
+<span class="pos">81.4<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="2">81,418.50 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t21" --> / 1996</span><i>⅔</i></span>
+<span><b></b><span><!--#echo encoding="none" var="t22" --> / ?</span></span>
+</td>
+<td class="quantity">
+<span>69.5</span>
+<span>—</span>
+</td>
+<td class="value">
+<span>387.0<b></b></span>
+<span>—<b class="warning grey"><i>1</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">258,027.33 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span><b></b><span><!--#echo encoding="none" var="t33" --> / 2003</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span>0.06</span>
+</td>
+<td class="value">
+<span>—<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="finance">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_piggy"></span> <!--#echo encoding="none" var="t5" --></th></tr><tr><td><!--#echo encoding="none" var="t5t1" --></td><td><!--#echo encoding="none" var="t5t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="debts">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-business_vallet"></span> <!--#echo encoding="none" var="t6" --></th></tr><tr><td><!--#echo encoding="none" var="t6t1ad" --></td><td><!--#echo encoding="none" var="t6t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<p>Declaraţia conţine informaţii incomplete despre proprietăţile deţinute până în anul depunerii declaraţiei, fapt ce <b>contravenea legislaţiei</b> în vigoare la acel moment.</p>
+<ol>
+<li>Valoarea cadastrală a casei de locuit nu este specificată în declaraţie, fiind indicat că aceasta se află în proces de construcţie.
+</ol>
+</div>
+
+</div>
+
+<!--2007-->
+
+<div class="declaration">
+
+<div class="top">
+<div class="year"><h2>2007</h2></div>
+<div class="result" style="color:#b74343"><!--#echo encoding="none" var="lastyear1" --><!--#echo var="lastyear" -->.<span class="hide_mobile"><!--#echo encoding="none" var="lastyear2" --></span></div>
+</div>
+
+<div class="cont">
+
+<div class="buildings">
+<table>
+<col><col style="width:23%"><col style="width:23%">
+<thead><tr><th colspan="3"><span class="icon-business_office"></span> <!--#echo encoding="none" var="t2" --></th></tr><tr><td><!--#echo encoding="none" var="t2t1" --></td><td><!--#echo encoding="none" var="t2t2" --></td><td><!--#echo encoding="none" var="t2t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t21" --> / 1996</span><i>⅔</i></span>
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t22" --> / ?</span></span>
+</td>
+<td class="quantity">
+<span class="pos">69.5</span>
+<span>—</span>
+</td>
+<td class="value">
+<span class="neg">387.0<b class="warning grey"><i>1</i></b></span>
+<span>—<b></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">258,027.33 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="lands">
+<table>
+<col><col style="width:23%"><col style="width: 23%">
+<thead><tr><th colspan="3"><span class="icon-th-large"></span> <!--#echo encoding="none" var="t3" --></th></tr><tr><td><!--#echo encoding="none" var="t3t1ad" --></td><td><!--#echo encoding="none" var="t3t2" --></td><td><!--#echo encoding="none" var="t3t3" --></td></tr></thead>
+<tr class="info"><td class="name">
+<span class="pos"><b></b><span><!--#echo encoding="none" var="t33" --> / 2003</span><i>x1</i></span>
+</td>
+<td class="quantity">
+<span class="pos">0.06</span>
+</td>
+<td class="value">
+<span>—<b class="warning grey"><i>2</i></b></span>
+</td></tr>
+<tr class="result"><td colspan="3">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+<div class="goods">
+<table>
+<col><col style="width:23%">
+<thead><tr><th colspan="2"><span class="icon-livestyle_car"></span> <!--#echo encoding="none" var="t4" --></th></tr><tr><td><!--#echo encoding="none" var="t4t1ad" --></td><td><!--#echo encoding="none" var="t4t2" --></td></tr></thead>
+<tr class="info"><td class="name">
+</td>
+<td class="value">
+</td></tr>
+<tr class="result"><td colspan="2">0.00 <!--#echo encoding="none" var="mdl" --></td></tr>
+</table>
+</div>
+
+</div>
+
+<div class="comments grey_warning">
+<ol>
+<li>În tabel este indicată valoarea cadastrală integrală a apartamentului. Datele privind valoarea proprietăţilor deţinute de titular (din grafic) conţin doar valoarea cotei-părţi aflate în posesia acestuia.
+<li>Valoarea terenului intravilan nu este specificată în nicio declaraţie, aceasta fiind inclusă în valoarea casei de locuit.
+</ol>
+</div>
+
+</div>
+
+</div>
+
+<!--#include virtual="/_/includes/2.shtml" -->
