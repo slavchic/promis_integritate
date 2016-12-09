@@ -1,0 +1,55 @@
+<!--#set var="title" value="Despre pagina web avere.md și modul de monitorizare a integrității demnitarilor" -->
+<!--#include virtual="/_/includes/1.shtml" -->
+<!--#include virtual="/_/includes/social.shtml" -->
+<h1><!--#echo encoding="none" var="title" --></h1>
+<div class="user_description">
+	<div class="left">
+		<div class="wrapper">
+			<table class="table">
+				<tr>
+					<th><i class="icon-data_doc_pdf"></i> <!--#echo encoding="none" var="tdocsoriginal" --></th>
+				</tr>
+				<tr>
+					<td><a href="/pdf/agache-angel-2014-parlament.pdf">2014</a>,
+						<a href="/pdf/agache-angel-2012-parlament.pdf">2012</a>,
+						<a href="/pdf/agache-angel-2011-parlament.pdf">2011</a>,
+						<a href="/pdf/agache-angel-2010-parlament.pdf">2010</a>,
+						<a href="/pdf/agache-angel-2009-parlament.pdf">2009</a><br>Sursa: Parlamentul Republicii Moldova
+					</td>
+				</tr>
+				<tr>
+					<td><a href="/pdf/agache-angel-2013-cni.pdf">2013</a><br>Comisia Naţională de Integritate</td>
+				</tr>
+				<tr>
+					<td><a href="/pdf/agache-angel-2012-2013-pldm-cec.pdf">2012-2013</a>,
+						<a href="/pdf/agache-angel-2008-2009-pldm-cec.pdf">2008-2009</a>,
+						<a href="/pdf/agache-angel-2007-2008-pldm-cec.pdf">2007-2008</a><br>Comisia Electorală Centrală
+					</td>
+				</tr>
+				<tr>
+					<td>Interese: <a href="/pdf/agache-angel-interese-2014-parlament.pdf">2014</a>,
+						<a href="/pdf/agache-angel-interese-2013-cni.pdf">2013</a>,
+						<a href="/pdf/agache-angel-interese-2012-cni.pdf">2012</a>,
+						<a href="/pdf/agache-angel-interese-2011-interese-vedere.pdf">2011</a><br>Parlamentul, CNI, Interese la vedere
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<div class="right overall">
+		<p>Avere.md reprezintă o pagină web care își propune să informeze obiectiv cetățenii despre veniturile, proprietățile și interesele persoanelor cu funcții de demnitate publică și despre neregulile admise de către aceștia la completarea declarațiilor de avere și interese personale. </p>
+		<p>Monitorizarea integrității se face în baza declarațiilor cu privire la venituri, proprietăți și interese ale demnitarilor publici, începând cu anul 2009, colectate din surse publice oficiale și deschise. Sunt supuse monitorizării următoarele
+			<b>categorii de demnitari</b>: deputați, membrii Guvernului și viceminiștri, conducerea Cancelariei de Stat, președintele Republicii Moldova și funcționari publici din Aparatul Președintelui RM, conducerea mai multor agenții și instituții publice autonome, judecători ai Curții Supreme de Justiție, ai Curții Constituționale și președinții Curților de Apel, membrii Consiliului Superior al Magistraturii, procurori, primari. Fiecare demnitar monitorizat are propriul profil care afișează mai multe tipuri de informații: declarațiile cu privire la venituri, proprietăți și interese, actele de constatare ale Comisiei Naționale de Integritate, date despre averea și interesele acestuia, informații despre activitatea profesională și afilierea politică, neregulile depistate în completarea declarațiilor, aparițiile în anchetele jurnalistice. Numărul demnitarilor monitorizați este în continuă creștere, pagina web fiind în permanență completată cu nume noi și informații despre aceștia.
+			<br>
+			Constatarea neregulilor s-a realizat prin confruntarea declarațiilor depuse de demnitarii pe parcursul anilor și analiza corespunderii acestora cu prevederile legii nr. 1264-XV din 19.07.2002 privind declararea şi controlul veniturilor şi al proprietăţii persoanelor cu funcţii de demnitate publică, judecătorilor, procurorilor, funcţionarilor publici şi a unor persoane cu funcţie de conducere. Legea a fost suspusă mai multor modificări de la intrarea sa în vigoare în 2002. Cele mai numeroase și semnificative amendamente au fost făcute în 2011, atunci când a fost adoptat un mecanism de aplicare a legii prin constituirea Comisiei Naționale de Integritate și stabilite clar categoriile de bunuri supuse declarării și sancțiunile pentru nerespectarea legii.
+		</p>
+		<p><b>Neregulile depistate sunt grupate în două categorii:</b></p>
+		<ol>
+			<li> Nereguli majore – încălcarea evidentă a prevederilor legale, prin nedeclararea anumitor venituri sau proprietăți</li>
+			<li> Nereguli minore – legate de prezentarea incompletă a informațiilor despre veniturile și/sau bunurile deținute. În această categorie au fost incluse și toate neregulile privind declararea veniturilor și proprietăților depistate în declarațiile dintre anii 2009-2011. Legislaţia în acea perioadă era una confuză şi conţinea inadvertenţe care au generat practici neuniforme de declarare selectivă a proprietăţilor.</li>
+		</ol>
+		<p class="txt_highlight_block">Bunurile mobile la care nu au fost declarate valorile sunt estimate de experți la valoare de piața la data procurării acestora, bunurile imobile si terenurile se estimează la valoarea echivalentă cu cea cadastrala de ex. apartamentele 6000 lei m.p. etc. Procedam in acest mod pentru a face comparabile averile demnitarilor, sortări topuri etc. Economiile și datoriile in valută se echivalează in lei la cursul valutar al BNM la 31 decembrie a anului de declarare. </p>
+
+	</div>
+</div>
+<!--#include virtual="/_/includes/2.shtml" -->

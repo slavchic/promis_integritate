@@ -28,6 +28,7 @@
 @lviolet: #e8e8f0;
 @lcyan: #eaf3f1;
 @lrose: #f5e9f1;
+@lyellow: #fff4b3;
 
 @llgreen: #f6faf6;
 @llbrown: #f9f7f6;
@@ -50,6 +51,8 @@
 @font_size_lg: 14pt;
 @font_size_xl: 18pt;
 @font_size_xxl: 24pt;
+
+@screen_size_mobile: 500px;
 
 @font_family_default: 'Arimo', sans-serif;
 
@@ -565,7 +568,7 @@ section {
         width: 25%;
         text-align: center;
         vertical-align: middle;
-        @media (max-width: 500px) {
+        @media (max-width: @screen_size_mobile) {
           width: 100%;
           display: block;
           & + td:not(:last-child) {
@@ -609,7 +612,7 @@ section {
                 vertical-align: middle;
                 color: @red;
                 opacity: .8;
-                @media (max-width: 500px) {
+                @media (max-width: @screen_size_mobile) {
                   .dn;
                 }
               }
@@ -631,7 +634,7 @@ section {
             &.red {
               color: @red;
             }
-            @media (max-width: 500px) {
+            @media (max-width: @screen_size_mobile) {
               .dib;
               margin-right: 5px;
               line-height: inherit;
@@ -1187,13 +1190,11 @@ section {
     }
     .table {
       td, th {
-
         &:nth-child(1), &:nth-child(4), &:nth-child(5) {
-          @media (max-width: 550px) {
+          @media (max-width: @screen_size_mobile) {
             display: none;
             word-break: break-all;
           }
-
         }
       }
     }
@@ -1203,40 +1204,121 @@ section {
     .top {
       margin-bottom: @basic_offset/2;
     }
-    h3 {
-      font-size: @font_size_lg;
-      font-weight: normal;
-
+    time {
+      margin: 0 0 5px;
     }
-    .cont {
-      & + .cont {
-        margin-top: 20px;
+    .pdf_list {
+      .mt5;
+      .pt5;
+      margin-left: -3px;
+      border-top: 1px dotted @lgrey;
+    }
+    strong {
+      .db;
+      margin-top: -2px;
+      margin-bottom: 7px;
+      font-size: @font_size_lg - 1;
+      line-height: @font_size_lg - 1;
+      color: #222;
+      font-weight: normal;
+      @media (max-width: @screen_size_mobile) {
+        font-size: @font_size_md - 1
       }
-      div.info {
-        .dt;
-        > div {
-          .dtc;
-          @media (max-width: 400px) {
-            display: block;
-          }
-          &:first-child {
-            padding-right: 20px;
-            width: 66.6%;
-            font-size: @font_size_sm + 1;
-            @media (max-width: 400px) {
-              width: auto;
-              margin-bottom: 10px;
-            }
-          }
-        }
-        table {
-          margin-top: 2px;
-        }
+    }
+    p {
+      margin: 0;
+      font-size: @font_size_md - 1;
+      + p {
+        margin-top: 5px;
       }
     }
   }
 }
+.txt_more {
+  @media (max-width: @screen_size_mobile) {
+    display: none;
+  }
+  &.active {
+    > .txt_more_wrapper {
+      max-height: 600px;
+      // padding-bottom: 0;
+      &:before {
+        //background-image: linear-gradient(to bottom, transparent 0%, transparent 100%);
+        background: -webkit-linear-gradient(to bottom, transparent 0%, transparent 100%);
+        background: -o-linear-gradient(to bottom, transparent 0%, transparent 100%);
+        background: -moz-linear-gradient(to bottom, transparent 0%, transparent 100%);
+        background: linear-gradient(to bottom, transparent 0%, transparent 100%);
+      }
+      &:after {
+        left: 100%;
+        opacity: 0;
+        border-color: transparent;
+        //content: "Less";
+        background-color: transparent;
+      }
+    }
+  }
+  > .txt_more_wrapper {
+    position: relative;
+    max-height: 3.5em;
+    line-height: 1.2em;
+    //padding-bottom: 20px;
+    //text-overflow: ellipsis;
+    overflow: hidden;
+    transition: all .3s ease;
+    @media (max-width: @screen_size_mobile) {
+      max-height: 8.6em;
+    }
 
+    &:before {
+      box-sizing: border-box;
+      //border: 1px solid fade(@red, 20%);
+      position: absolute;
+      width: 100%;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 20px;
+      content: "";
+      text-align: center;
+      background: -webkit-linear-gradient(to bottom, transparent 0%, #ffffff 100%);
+      background: -o-linear-gradient(to bottom, transparent 0%, #ffffff 100%);
+      background: -moz-linear-gradient(to bottom, transparent 0%, #ffffff 100%);
+      background: linear-gradient(to bottom, transparent 0%, #ffffff 100%);
+      z-index: 10;
+      transition: all .3s ease-in;
+    }
+    &:after {
+      z-index: 11;
+      box-sizing: border-box;
+      //border: 1px solid fade(@red, 20%);
+      position: absolute;
+      display: inline-block;
+      right: 0;
+      bottom: 0;
+      padding: 0 0 0 7px;
+      border-radius: 10px;
+      //border: 1px solid darken(@llgrey, 5%);
+      color: @link_color;
+      background-color: #fff;
+      font-size: 9pt;
+      font-family: @font_family_default;
+      content: "[ ... ]";//";
+      //font-family: "promis_integritate";
+      line-height: 1.2em;
+      text-align: center;
+      cursor: pointer;
+      box-shadow: 0 0 5px #fff, 0 0 5px #fff, 0 0 5px #fff;
+      opacity: 1;
+      transition: all .3s ease-in .1s;
+    }
+
+  }
+}
+.txt_highlight_block {
+  padding: 15px 20px;
+  background-color: @lyellow;
+}
 .persons_list {
   //margin: 0 0 30px;
   .table {
@@ -1461,7 +1543,11 @@ section {
   border-collapse: collapse;
   border: 1px solid @llgrey;
   border-bottom-width: 5px;
-
+  &.td2_mobile_hidden {
+    td:nth-child(2) {
+      display: none;
+    }
+  }
   tr {
     border-bottom: 1px solid @llgrey;
   }
@@ -1982,8 +2068,74 @@ table.tablesorter {
     }
   }
 }
-.hidden500 {
-  @media (max-width: 500px) {
+
+.visible_mobile {
+  display: none;
+  @media (max-width: @screen_size_mobile) {
+    display: block !important;
+  }
+}
+.hidden_mobile {
+  display: block;
+  @media (max-width: @screen_size_mobile) {
     display: none !important;
   }
 }
+
+.generate-table-responsive-helpers(6, 1);
+
+.generate-table-responsive-helpers(@z, @inc, @l: 1) when (@l =< @z) {
+
+  // generates classes: .mt10 {margin-top:10px},.pt10 {padding-top:10px}, etc
+  // .generate-offset-helpers(3,10); 3 - increment count; 10 - increment value; This will generate .mt10, .mt20, .mt30,.pt10, .pt20, .pt30... and same for mr, ml, mb, pr, pb, pl
+
+  @n: @inc * @l;
+  .td@{n}_hidden_mobile {
+    @media (max-width: @screen_size_mobile) {
+      td:nth-child(@{n}), th:nth-child(@{n}), {
+        display: none;
+        display: none;
+      }
+    }
+  }
+  .generate-table-responsive-helpers(@z, @inc, (@l + 1));
+}
+
+.generate-offset-helpers(6, 5);
+
+.generate-offset-helpers(@z, @inc, @l: 1) when (@l =< @z) {
+
+  // generates classes: .mt10 {margin-top:10px},.pt10 {padding-top:10px}, etc
+  // .generate-offset-helpers(3,10); 3 - increment count; 10 - increment value; This will generate .mt10, .mt20, .mt30,.pt10, .pt20, .pt30... and same for mr, ml, mb, pr, pb, pl
+
+  .mp-mx(@n, @i: 1) when (@i =< 4) {
+
+    @directions: t, r, b, l;
+    @directions-labels: top, right, bottom, left;
+    @d: extract(@directions, @i);
+    @dl: extract(@directions-labels, @i);
+    @v: @n;
+
+    .m@{d}@{v} {
+      margin-@{dl}: unit(@v, px)
+    }
+    .p@{d}@{v} {
+      padding-@{dl}: unit(@v, px)
+    }
+
+    .mp-mx(@n, (@i + 1));
+  }
+  .mp-mx(@inc * @l);
+
+  .generate-offset-helpers(@z, @inc, (@l + 1));
+}
+
+
+
+
+
+
+
+
+
+

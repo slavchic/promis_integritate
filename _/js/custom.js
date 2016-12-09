@@ -41,6 +41,19 @@ $(function () {
 	if (is_touch_device) {
 		$('body').addClass('touch')
 	}
+
+	$('.txt_more').each(function(i, el){
+		var $el = $(el),
+				max_height = is_touch_device ? 150 : 60;
+
+		if ($el.outerHeight() > max_height) {
+			$el.wrapInner('<div class="txt_more_wrapper">')
+		}
+	})
+	$('.txt_more').click(function(){
+		$(this).not('.active').addClass('active')
+	})
+
 })
 
 
